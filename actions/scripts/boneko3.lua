@@ -5,14 +5,14 @@
  
 nplayer1pos = {x=677, y=389, z=8} 
  
-if getPlayerMana(cid) >= 0 then 
+if getCreatureMana(cid) >= 0 then 
 doSendMagicEffect(nplayer1pos,0) 
-doPlayerAddMana(cid,0) 
+doCreatureAddMana(cid,0) 
 doTeleportThing(cid,nplayer1pos) 
 doSendMagicEffect(topos,10) 
 doPlayerSendTextMessage(cid,22,"") 
                 else 
-                doPlayerSendTextMessage(cid,22,"Você não tem mana.") 
+                doPlayerSendTextMessage(cid,22,"Vocï¿½ nï¿½o tem mana.") 
                 end 
 end
 

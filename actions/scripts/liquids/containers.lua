@@ -47,7 +47,7 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 				return TRUE
 			end
 
-			if doPlayerAddMana(cid, math.random(80, 160)) == LUA_ERROR then
+			if doCreatureAddMana(cid, math.random(80, 160)) == LUA_ERROR then
 				return FALSE
 			end
 

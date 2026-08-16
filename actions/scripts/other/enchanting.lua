@@ -42,7 +42,7 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 		end
 
 		doTransformItem(item.uid, enchantedGems[a])
-		doPlayerAddMana(cid, -mana)
+		doCreatureAddMana(cid, -mana)
 		doPlayerAddSoul(cid, -soul)
 		doSendMagicEffect(fromPosition, CONST_ME_HOLYDAMAGE)
 		return TRUE
