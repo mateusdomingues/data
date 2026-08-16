@@ -21,7 +21,7 @@ function onUse(cid, item, fromPosition, item2, topos)
                 doPlayerAddSoul(cid,-CONFIG[item.itemid].soul)
                 doCreatureAddMana(cid,-CONFIG[item.itemid].mana)
                 doRemoveItem(item.uid,1)
-                doPlayerAddItem(cid,CONFIG[item.itemid].enchant,1)
+                doAddItem(cid,CONFIG[item.itemid].enchant,1)
                 doSendAnimatedText(topos,CONFIG[item.itemid].text,CONFIG[item.itemid].color)
                 doSendMagicEffect(topos,CONFIG[item.itemid].effect)
             else

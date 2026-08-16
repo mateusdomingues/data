@@ -146,7 +146,7 @@ if item.uid == 7101 then
 queststatus = getPlayerStorageValue(cid,100)
 if queststatus == -1 then
   doPlayerSendTextMessage(cid,22,"You have found a demon Legs.")
-  doPlayerAddItem(cid,2495,1)
+  doAddItem(cid,2495,1)
   setPlayerStorageValue(cid,100,1)
 else
   doPlayerSendTextMessage(cid,22,"It is empty.")
@@ -156,7 +156,7 @@ if item.uid == 7102 then
 queststatus = getPlayerStorageValue(cid,100)
 if queststatus ~= 1 then
   doPlayerSendTextMessage(cid,22,"You have found a magic long sword.")
-  doPlayerAddItem(cid,2390,1)
+  doAddItem(cid,2390,1)
   setPlayerStorageValue(cid,100,1)
 else
   doPlayerSendTextMessage(cid,22,"It is empty.")
@@ -166,7 +166,7 @@ if item.uid == 7103 then
 queststatus = getPlayerStorageValue(cid,100)
 if queststatus ~= 1 then
   doPlayerSendTextMessage(cid,22,"You have found a golden boots.")
-  doPlayerAddItem(cid,2646,1)
+  doAddItem(cid,2646,1)
   setPlayerStorageValue(cid,100,1)
 else
   doPlayerSendTextMessage(cid,22,"It is empty.")
@@ -176,7 +176,7 @@ if item.uid == 7103 then
 queststatus = getPlayerStorageValue(cid,100)
 if queststatus ~= 1 then
   doPlayerSendTextMessage(cid,22,"You have found a golden boots.")
-  doPlayerAddItem(cid,2646,1)
+  doAddItem(cid,2646,1)
   setPlayerStorageValue(cid,100,1)
 else
   doPlayerSendTextMessage(cid,22,"It is empty.")

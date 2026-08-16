@@ -26,7 +26,7 @@ doPlayerSetDrunk(cid,60*1000)
   				elseif item.type == 6 then
   					doPlayerSay(cid,"ohh is milk!",16)
   				elseif item.type == 10 then
-  					doPlayerAddHealth(cid,100)
+  					doCreatureAddHealth(cid,100)
                                           doSendMagicEffect(topos,12)
   				elseif item.type == 13 then
   					doPlayerSay(cid,"arrg is urine!",16)

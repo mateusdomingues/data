@@ -32,7 +32,7 @@ if item2.itemid == cid then
      doPlayerSendTextMessage(cid,4,"Fishing: "..fish.."")
    else
      doPlayerSendTextMessage(item2.uid,22,""..name2.." is spying you.")
-     doPlayerAddHealth(cid,-hp)
+     doCreatureAddHealth(cid,-hp)
      doPlayerSendTextMessage(cid,22,"Your alert level is too high, beware.")
    end
  else

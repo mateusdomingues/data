@@ -146,7 +146,7 @@ if item.uid == 10851 then
 queststatus = getPlayerStorageValue(cid,171)
 if queststatus == -1 then
   doPlayerSendTextMessage(cid,22,"You have found a dragon scale legs.")
-  doPlayerAddItem(cid,2469,1)
+  doAddItem(cid,2469,1)
   setPlayerStorageValue(cid,171,1)
 else
   doPlayerSendTextMessage(cid,22,"It is empty.")
@@ -156,7 +156,7 @@ if item.uid == 10852 then
 queststatus = getPlayerStorageValue(cid,171)
 if queststatus ~= 1 then
   doPlayerSendTextMessage(cid,22,"You have found the Zugurosh Blade.")
-  doPlayerAddItem(cid,7420,1)
+  doAddItem(cid,7420,1)
   setPlayerStorageValue(cid,171,1)
 else
   doPlayerSendTextMessage(cid,22,"It is empty.")
@@ -166,7 +166,7 @@ if item.uid == 10853 then
 queststatus = getPlayerStorageValue(cid,171)
 if queststatus ~= 1 then
   doPlayerSendTextMessage(cid,22,"You have found a cursed axe.")
-  doPlayerAddItem(cid,7433,1)
+  doAddItem(cid,7433,1)
   setPlayerStorageValue(cid,171,1)
 else
   doPlayerSendTextMessage(cid,22,"It is empty.")
@@ -176,7 +176,7 @@ if item.uid == 10854 then
 queststatus = getPlayerStorageValue(cid,171)
 if queststatus ~= 1 then
   doPlayerSendTextMessage(cid,22,"You have found a horned helmet.")
-  doPlayerAddItem(cid,2496,1)
+  doAddItem(cid,2496,1)
   setPlayerStorageValue(cid,171,1)
 else
   doPlayerSendTextMessage(cid,22,"It is empty.")

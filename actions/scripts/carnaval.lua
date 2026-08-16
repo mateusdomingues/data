@@ -15,7 +15,7 @@ outfit = {lookType = 244} -- Juggernaut
 elseif rand == 4 then
 outfit = {lookType = 55} -- Behemoth
 elseif rand == 5 then
-outfit = {lookType = 91} -- Rahemos (Abrigado Claudioo pelo número do LookType)
+outfit = {lookType = 91} -- Rahemos (Abrigado Claudioo pelo nï¿½mero do LookType)
 end
 
 elseif item.actionid == 3002 then
@@ -28,7 +28,7 @@ outfit = {lookType = 237} -- Diabolic Imp
 elseif rand == 3 then
 outfit = {lookType = 78} -- Banshee
 elseif rand == 4 then
-outfit = {lookType = 257} -- Frost Giant (Abrigado Claudioo pelo número do LookType)
+outfit = {lookType = 257} -- Frost Giant (Abrigado Claudioo pelo nï¿½mero do LookType)
 elseif rand == 5 then
 outfit = {lookType = 99} -- Lich
 end
@@ -48,7 +48,7 @@ elseif rand == 5 then
 outfit = {lookType = 23} -- Minotaur Mage
 end
 end
-if doPlayerRemoveItem(cid,item.itemid,1) == TRUE then
+if doRemoveItem(cid,item.itemid,1) == TRUE then
 doPlayerSay(cid,"I\'m bad!",16)
 end
 

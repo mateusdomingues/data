@@ -36,13 +36,13 @@ if getwall2.itemid == 1037 or getwall2.itemid == 1039 or getwall2.itemid == 1040
     
 elseif item.itemid == 1856 or item.itemid == 1859 or item.itemid == 1862 or item.itemid == 1865 or item.itemid == 1868 or item.itemid == 1871 or item.itemid == 1879 or item.itemid == 5615 then    --west facing
     if (player.x == pos.x+1) then
-        doPlayerAddItem(cid, item.itemid+1, 1)
+        doAddItem(cid, item.itemid+1, 1)
         doRemoveItem(item.uid,1)    
     end        
 elseif item.itemid == 1855 or item.itemid == 1858 or item.itemid == 1861 or item.itemid == 1864 or item.itemid == 1867 or item.itemid == 1870 or item.itemid == 1878 or item.itemid == 5614 then  --south facing
     if (player.y == pos.y+1) then    
         doRemoveItem(item.uid,1)
-        doPlayerAddItem(cid, item.itemid+2, 1)    
+        doAddItem(cid, item.itemid+2, 1)    
     end    
 end
 end

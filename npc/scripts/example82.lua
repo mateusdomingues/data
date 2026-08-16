@@ -53,7 +53,7 @@ local onBuy = function(cid, item, subType, amount, ignoreCap, inBackpacks)
 	end
 
 	if(getPlayerMoney(cid) >= amount * items[item].buyPrice) then
-		local itemz, i = doPlayerAddItem(cid, item, amount, subType, ignoreCap, inBackpacks)
+		local itemz, i = doAddItem(cid, item, amount, subType, ignoreCap, inBackpacks)
 		if(i < amount) then
 			if(i == 0) then
 				selfSay("Sorry, but you don't have space to take it.", cid)
@@ -78,7 +78,7 @@ local onSell = function(cid, item, subType, amount, ignoreCap, inBackpacks)
 	if(subType < 1) then
 		subType = -1
 	end
-	if(doPlayerRemoveItem(cid, item, amount, subType) == TRUE) then
+	if(doRemoveItem(cid, item, amount, subType) == TRUE) then
 		doPlayerAddMoney(cid, items[item].sellPrice * amount)
 		selfSay("Here you are.", cid)
 	else

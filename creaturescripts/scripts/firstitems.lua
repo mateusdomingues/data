@@ -12,14 +12,14 @@ local firstItems =
 function onLogin(cid)
 	if getPlayerStorageValue(cid, 30001) == -1 then
 		for i = 1, table.maxn(firstItems) do
-			doPlayerAddItem(cid, firstItems[i], 1)
+			doAddItem(cid, firstItems[i], 1)
 		end
 		if getPlayerSex(cid) == 0 then
-			doPlayerAddItem(cid, 2494, 1)
+			doAddItem(cid, 2494, 1)
 		else
-			doPlayerAddItem(cid, 2494, 1)
+			doAddItem(cid, 2494, 1)
 		end
-		local bag = doPlayerAddItem(cid, 10522, 1)
+		local bag = doAddItem(cid, 10522, 1)
 		doAddContainerItem(bag, 2160, 5)
 		doAddContainerItem(bag, 7434, 1)
 		doAddContainerItem(bag, 2183, 1)

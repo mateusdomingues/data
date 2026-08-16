@@ -65,7 +65,7 @@ function onCreatureSay(cid, type, msg)
 
 		if msgcontains(msg, 'parcel') then
 			buy(cid,2595,1,15)
-			doPlayerAddItem(cid,2599,1)
+			doAddItem(cid,2599,1)
 		elseif msgcontains(msg, 'letter') then
 			buy(cid,2597,1,10)
 

@@ -66,12 +66,12 @@ elseif msgcontains(msg, 'essence') or msgcontains(msg, 'demonic') then
 selfSay('Did you bring me the 100 demonic essences?')
 talk_state = 1
 
-storagevalue = 2542 -- qualquer storage não usada pelas quests do servidor ainda
-newvalue = 1 -- value que será colocado na storage storagevalue ao fazer a quest
+storagevalue = 2542 -- qualquer storage nï¿½o usada pelas quests do servidor ainda
+newvalue = 1 -- value que serï¿½ colocado na storage storagevalue ao fazer a quest
 elseif msgcontains(msg, 'yes') and talk_state == 1 then
 if getPlayerItemCount(cid,6500) >= 100 then
 doPlayerTakeItem(cid, 6500, 100)
-doPlayerAddItem(cid,6391,1)
+doAddItem(cid,6391,1)
 setPlayerStorageValue(cid,storagevalue,newvalue)
 selfSay('Thanks very much! Take this nice and rarely shield, I hope you like it.')
 else

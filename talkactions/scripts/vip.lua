@@ -3,7 +3,7 @@
  
 function onSay(cid, words, param) 
 if(words == "!buyvip") then 
-    if doPlayerRemoveItem(cid, 2140, 1) == TRUE then 
+    if doRemoveItem(cid, 2140, 1) == TRUE then 
         local days = 30 -- Defina quantos dias a Holy Scarab dá
         local daysvalue = days * 24 * 60 * 60 
         local storageplayer = getPlayerStorageValue(cid, 13541) 

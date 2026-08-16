@@ -73,8 +73,8 @@ getmateen = getThingfromPos(mateen)
 matees = {x=player.x-1, y=player.y+1, z=player.z, stackpos=253}
 getmatees = getThingfromPos(matees)
 
-if doPlayerRemoveItem(cid,6132,1) == 1 then
-	doPlayerAddItem(cid,6132,1)		
+if doRemoveItem(cid,6132,1) == 1 then
+	doAddItem(cid,6132,1)		
 	if player.y > topos.y then	
 		if getwatern.itemid == water then			
 			doTransformItem(getwatern.uid,walkablewater)

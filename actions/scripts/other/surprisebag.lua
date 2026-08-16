@@ -10,13 +10,13 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 		elseif randomChance == 2 then
 			count = 3
 		end
-		doPlayerAddItem(cid, bluePresent[randomChance], count)
+		doAddItem(cid, bluePresent[randomChance], count)
 	elseif item.itemid == 6571 then
 		local randomChance = math.random(1, 22)
 		if randomChance > 0 and randomChance < 4 then
 			count = 10
 		end
-		doPlayerAddItem(cid, redPresent[randomChance], count)
+		doAddItem(cid, redPresent[randomChance], count)
 	end
 	doSendMagicEffect(fromPosition, CONST_ME_GIFT_WRAPS)
 	doRemoveItem(item.uid, 1)

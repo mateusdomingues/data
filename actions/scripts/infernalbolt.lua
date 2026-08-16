@@ -4,7 +4,7 @@ function onUse(cid, item, frompos, item2, topos)
  	queststatus = getPlayerStorageValue(cid,2467)
  	if queststatus == -1 then
  	doPlayerSendTextMessage(cid,22,"You have found an infernal bolt.")
- 	doPlayerAddItem(cid,6529,1)
+ 	doAddItem(cid,6529,1)
  	setPlayerStorageValue(cid,2467,1)
  	else
  	doPlayerSendTextMessage(cid,22,"It is empty.")

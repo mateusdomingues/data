@@ -4,7 +4,7 @@ function onUse(cid, item, frompos, item2, topos)
 		n = math.random(28, 30)
 		doSendMagicEffect(frompos, n)
 	else
-		doPlayerAddHealth(cid,-10)
+		doCreatureAddHealth(cid,-10)
 		doSendMagicEffect(frompos, 0)
 	end
 

@@ -15,28 +15,28 @@ doPlayerSendTextMessage(cid,22,"A stone golem came out of the pile of rocks!")
 doSummonCreature("Stone Golem", topos)             
 elseif rand == 1300 then
 doPlayerSendTextMessage(cid,22,"You have found a golden nugget.")              
-doPlayerAddItem(cid,2157,1)                
+doAddItem(cid,2157,1)                
 elseif rand > 1995 then
 doPlayerSendTextMessage(cid,22,"You have found a diamond.")
-doPlayerAddItem(cid,2145,1)
+doAddItem(cid,2145,1)
 elseif rand >500 and rand <800 then
-doPlayerAddItem(cid,2148,7)
+doAddItem(cid,2148,7)
 elseif rand >700 and rand <1000 then
-doPlayerAddItem(cid,2148,6)
+doAddItem(cid,2148,6)
 elseif rand >1000 and rand <1300 then
-doPlayerAddItem(cid,2148,4)
+doAddItem(cid,2148,4)
 elseif rand >300 and rand <600 then
-doPlayerAddItem(cid,2148,5)
+doAddItem(cid,2148,5)
 elseif rand >1500 and rand <1800 then
-doPlayerAddItem(cid,2148,3)
+doAddItem(cid,2148,3)
 elseif rand >1100 and rand <1400 then
-doPlayerAddItem(cid,2148,8)
+doAddItem(cid,2148,8)
 elseif rand >800 and rand <1100 then
-doPlayerAddHealth(cid,-20)
+doCreatureAddHealth(cid,-20)
 doPlayerSendTextMessage(cid,22,"You lost hitpoints due to exhaustion of mining.")
 elseif rand >500 and rand <800 then
 doPlayerSendTextMessage(cid,22,"You have found a ruby.")
-doPlayerAddItem(cid,2147,1)
+doAddItem(cid,2147,1)
 elseif rand >550 and rand <800 then
 doPlayerSendTextMessage(cid,22,"A fierce dwarf came out of the pile of rocks!")
 doSummonCreature("Dwarf", topos)
@@ -48,7 +48,7 @@ doPlayerSendTextMessage(cid,22,"A weak troll has appeared from the pile of rocks
 doSummonCreature("Troll", topos)
 elseif rand >2000 then
 doPlayerSendTextMessage(cid,22,"Earthquake!")
-doPlayerAddHealth(cid,-100)
+doCreatureAddHealth(cid,-100)
 elseif rand == 100 and rand <140 then
 doPlayerSendTextMessage(cid,22,"A weak troll has appeared from the pile of rocks!")
 doSummonCreature("Troll", topos)

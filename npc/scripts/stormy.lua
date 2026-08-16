@@ -69,8 +69,8 @@ talk_state = 1
 elseif msgcontains(msg, 'yes') and talk_state == 1 then
 if getPlayerItemCount(cid,1983) >= 1 then
 doPlayerTakeItem(cid, 1983, 1)
-doPlayerAddItem(cid,7422,1)
-doPlayerAddItem(cid,2507,1)
+doAddItem(cid,7422,1)
+doAddItem(cid,2507,1)
 selfSay('Thanks so much! Take these rarely items. I\'m sure you deserve them!')
 else
 selfSay('Sorry, you don\'nt bring my book to me.')

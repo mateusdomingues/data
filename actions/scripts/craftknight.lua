@@ -12,28 +12,28 @@ then
 rand = math.random(1,2000)
 if rand < 20 then
 doPlayerSendTextMessage(cid,22,"You crafted an warrior helmet.")              
-doPlayerAddItem(cid,2475,1)
+doAddItem(cid,2475,1)
 elseif rand == 700 then
 doPlayerSendTextMessage(cid,22,"You crafted an knight armor.")              
-doPlayerAddItem(cid,2476,1)                
+doAddItem(cid,2476,1)                
 elseif rand == 800 then
 doPlayerSendTextMessage(cid,22,"You crafted an knight legs.")
-doPlayerAddItem(cid,2477,1)
+doAddItem(cid,2477,1)
 elseif rand == 900 then
 doPlayerSendTextMessage(cid,22,"You crafted an guardian shield.")              
-doPlayerAddItem(cid,2515,1)
+doAddItem(cid,2515,1)
 elseif rand == 1000 then
 doPlayerSendTextMessage(cid,22,"You crafted an knight axe.")              
-doPlayerAddItem(cid,2430,1)
+doAddItem(cid,2430,1)
 elseif rand >800 and rand <1000 then
-doPlayerAddHealth(cid,-25)
+doCreatureAddHealth(cid,-25)
 doPlayerSendTextMessage(cid,22,"You lost hitpoints due to exhaustion of crafting.")
 elseif rand >700 and rand <800 then
-doPlayerAddHealth(cid,-100)
+doCreatureAddHealth(cid,-100)
 doPlayerSendTextMessage(cid,22,"You lost hitpoints due to exhaustion of crafting.")
 elseif rand >2000 then
 doPlayerSendTextMessage(cid,22,"Earthquake!")
-doPlayerAddHealth(cid,-200)
+doCreatureAddHealth(cid,-200)
 elseif rand >= 105 and rand <150 then
 end
 doSendMagicEffect(topos,3)

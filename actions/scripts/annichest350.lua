@@ -6,7 +6,7 @@ function onUse(cid, item, frompos, item2, topos)
    		queststatus = getPlayerStorageValue(cid,5491)
    		if queststatus == -1 then
    			doPlayerSendTextMessage(cid,22,"You have found a magic longsword.")
-   			doPlayerAddItem(cid,2390,1)
+   			doAddItem(cid,2390,1)
    			setPlayerStorageValue(cid,5491,1)
    		else
    			doPlayerSendTextMessage(cid,22,"It is empty.")
@@ -15,7 +15,7 @@ function onUse(cid, item, frompos, item2, topos)
    		queststatus = getPlayerStorageValue(cid,5491)
    		if queststatus == -1 then
    			doPlayerSendTextMessage(cid,22,"You have found a demon legs.")
-   			doPlayerAddItem(cid,2495,1)
+   			doAddItem(cid,2495,1)
    			setPlayerStorageValue(cid,5491,1)
    		else
    			doPlayerSendTextMessage(cid,22,"It is empty.")
@@ -24,7 +24,7 @@ function onUse(cid, item, frompos, item2, topos)
    		queststatus = getPlayerStorageValue(cid,5491)
    		if queststatus == -1 then
    			doPlayerSendTextMessage(cid,22,"You have found a golden boots.")
-   			doPlayerAddItem(cid,2646,1)
+   			doAddItem(cid,2646,1)
    			setPlayerStorageValue(cid,5491,1)
    		else
    			doPlayerSendTextMessage(cid,22,"It is empty.")
@@ -33,7 +33,7 @@ function onUse(cid, item, frompos, item2, topos)
    		queststatus = getPlayerStorageValue(cid,5491)
    		if queststatus == -1 then
    			doPlayerSendTextMessage(cid,22,"You have found a golden boots.")
-   			doPlayerAddItem(cid,2646,1)
+   			doAddItem(cid,2646,1)
    			setPlayerStorageValue(cid,5491,1)
    		else
    			doPlayerSendTextMessage(cid,22,"It is empty.")

@@ -3,11 +3,11 @@ local LIQUID_CONTAINERS = {1775, 2005, 2006, 2007, 2008, 2009, 2011, 2012, 2013,
 function onUse(cid, item, fromPosition, itemEx, toPosition)
 	if(item.itemid == 2692 and isInArray(LIQUID_CONTAINERS, itemEx.itemid) and itemEx.type == 6) then
 		doChangeTypeItem(item.uid, item.type - 1)
-		doPlayerAddItem(cid, 6277, 1)
+		doAddItem(cid, 6277, 1)
 		doChangeTypeItem(itemEx.uid, item.type - item.type)
 	elseif(item.itemid == 2692 and isInArray(LIQUID_CONTAINERS, itemEx.itemid) and itemEx.type == 1) then
 		doChangeTypeItem(item.uid, item.type - 1)
-		doPlayerAddItem(cid, 2693, 1)
+		doAddItem(cid, 2693, 1)
 		doChangeTypeItem(itemEx.uid, item.type - item.type)
 	elseif(item.itemid == 6277) and (itemEx.itemid == 6574) then
 		doTransformItem(item.uid,8846)

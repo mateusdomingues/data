@@ -4,7 +4,7 @@ function onUse(cid, item, frompos, item2, topos)
  	queststatus = getPlayerStorageValue(cid,5809)
  	if queststatus == -1 then
  	doPlayerSendTextMessage(cid,22,"You have found a soul stone.")
- 	doPlayerAddItem(cid,5809,1)
+ 	doAddItem(cid,5809,1)
  	setPlayerStorageValue(cid,5809,1)
  	else
  	doPlayerSendTextMessage(cid,22,"It is empty.")

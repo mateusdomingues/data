@@ -5,7 +5,7 @@ function onUse(cid, item, frompos, item2, topos)
 	prize = item.uid
 	count = item.actionid
 
-	container = doPlayerAddItem(cid, 1988, 1)
+	container = doAddItem(cid, 1988, 1)
 	if prize > 0 and prize < 7000 then
 		queststatus = getPlayerStorageValue(cid,prize)
 

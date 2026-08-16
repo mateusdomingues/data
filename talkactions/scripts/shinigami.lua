@@ -3,7 +3,7 @@
  
 function onSay(cid, words, param) 
 if(words == "!buyshinigami") then 
-    if doPlayerRemoveItem(cid, 10020, 1) == TRUE then 
+    if doRemoveItem(cid, 10020, 1) == TRUE then 
         local days = 30 -- Defina quantos dias a Foot of the Shinigami dá
         local daysvalue = days * 24 * 60 * 60 
         local storageplayer = getPlayerStorageValue(cid, 13543) 

@@ -20,11 +20,11 @@ selfSay('Deseja virar {sorcerer} por 10 especial coins?', cid)
 talkState[talkUser] = 1
 elseif(msgcontains(msg, 'yes') and talkState[talkUser] == 1) then
 if(getPlayerItemCount(cid, 2159) >= 10) then
-doPlayerRemoveItem(cid, 2159, 10)
+doRemoveItem(cid, 2159, 10)
 doPlayerSetVocation(cid,1)
-selfSay('Vocação trocada com sucesso , Agora você é um Sorcerer.', cid)
+selfSay('Vocaï¿½ï¿½o trocada com sucesso , Agora vocï¿½ ï¿½ um Sorcerer.', cid)
 else
-selfSay('Você não tem {Especial Coins} Suficientes.', cid)
+selfSay('Vocï¿½ nï¿½o tem {Especial Coins} Suficientes.', cid)
 end
 talkState[talkUser] = 0
 
@@ -33,11 +33,11 @@ selfSay('Deseja virar {druid} por 10 especial coins?', cid)
 talkState[talkUser] = 2
 elseif(msgcontains(msg, 'yes') and talkState[talkUser] == 2) then
 if(getPlayerItemCount(cid, 2159) >= 10) then
-doPlayerRemoveItem(cid, 2159, 10)
+doRemoveItem(cid, 2159, 10)
 doPlayerSetVocation(cid,2)
-selfSay('Vocação trocada com sucesso , Agora você é um Druid.', cid)
+selfSay('Vocaï¿½ï¿½o trocada com sucesso , Agora vocï¿½ ï¿½ um Druid.', cid)
 else
-selfSay('Você não tem {Especial Coins} Suficientes.', cid)
+selfSay('Vocï¿½ nï¿½o tem {Especial Coins} Suficientes.', cid)
 end
 talkState[talkUser] = 0
 
@@ -46,11 +46,11 @@ selfSay('Deseja virar {knight} por 10 especial coins?', cid)
 talkState[talkUser] = 3
 elseif(msgcontains(msg, 'yes') and talkState[talkUser] == 3) then
 if(getPlayerItemCount(cid, 2159) >= 10) then
-doPlayerRemoveItem(cid, 2159, 10)
+doRemoveItem(cid, 2159, 10)
 doPlayerSetVocation(cid,4)
-selfSay('Vocação trocada com sucesso , Agora você é um Knight.', cid)
+selfSay('Vocaï¿½ï¿½o trocada com sucesso , Agora vocï¿½ ï¿½ um Knight.', cid)
 else
-selfSay('Você não tem {Especial Coins} Suficientes.', cid)
+selfSay('Vocï¿½ nï¿½o tem {Especial Coins} Suficientes.', cid)
 end
 talkState[talkUser] = 0
 
@@ -59,7 +59,7 @@ selfSay('I can promote you for 10 gold nuggets. Do you want me to promote you?',
 talkState[talkUser] = 4
 elseif(msgcontains(msg, 'yes') and talkState[talkUser] == 4) then
 if(getPlayerItemCount(cid, 2157) >= 10) then
-doPlayerRemoveItem(cid, 2157, 10)
+doRemoveItem(cid, 2157, 10)
 doPlayerSetVocation(cid,15)
 selfSay('Congratulations! You are now promoted.', cid)
 else

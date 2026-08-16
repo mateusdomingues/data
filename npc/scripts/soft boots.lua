@@ -23,7 +23,7 @@ elseif msgcontains(msg, 'yes') and talk_state == 1 then
 if getPlayerItemCount(cid,6530) >= 1 then
 if pay(cid,100000) then
 doPlayerTakeItem(cid, 6530, 1)
-doPlayerAddItem(cid,6132,1)
+doAddItem(cid,6132,1)
 selfSay('Here it is.')
 end
 else

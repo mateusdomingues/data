@@ -3,7 +3,7 @@ if item.uid == 7262 then
 queststatus = getPlayerStorageValue(cid,7262)
 if queststatus == -1 or queststatus == 0 then
 doPlayerSendTextMessage(cid,22,"You have found a chest.")
-item_uid = doPlayerAddItem(cid,7959,Q)
+item_uid = doAddItem(cid,7959,Q)
 setPlayerStorageValue(cid,7262,1)
 
 

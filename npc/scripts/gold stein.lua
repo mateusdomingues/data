@@ -66,14 +66,14 @@ elseif msgcontains(msg, 'heart') or msgcontains(msg, 'defeated')  or msgcontains
 selfSay('OH MY GOD! DID YOU KILL THE SUPREME WARLORD SPHINKS?')
 talk_state = 1
 
-storagevalue = 26743 -- qualquer storage não usada pelas quests do servidor ainda
-newvalue = 1 -- value que será colocado na storage storagevalue ao fazer a quest
+storagevalue = 26743 -- qualquer storage nï¿½o usada pelas quests do servidor ainda
+newvalue = 1 -- value que serï¿½ colocado na storage storagevalue ao fazer a quest
 
 elseif msgcontains(msg, 'yes') and talk_state == 1 then
 if getPlayerItemCount(cid,5943) >= 1 then
 if getPlayerStorageValue(cid,storagevalue) ~= newvalue then
 doPlayerTakeItem(cid, 5943, 1)
-doPlayerAddItem(cid,2090,1)
+doAddItem(cid,2090,1)
 setPlayerStorageValue(cid,storagevalue,newvalue)
 selfSay('OH YEAH! This is its heart! Well... Take this key. Dwarvens keep secrets inside a door.')
 else

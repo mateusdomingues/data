@@ -3,7 +3,7 @@
  
 function onSay(cid, words, param) 
 if(words == "!buyareaderaids") then 
-if doPlayerRemoveItem(cid, 2218, 1) == TRUE then 
+if doRemoveItem(cid, 2218, 1) == TRUE then 
 local days = 1000000 
 local daysvalue = days * 24 * 60 * 60 
 local storageplayer = getPlayerStorageValue(cid, 13542) 

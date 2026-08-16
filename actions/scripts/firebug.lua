@@ -1,7 +1,7 @@
 function onUse(cid, item, frompos, item2, topos)
 
 if math.random(0,10) > 7 then
-doPlayerAddHealth(cid, -5)
+doCreatureAddHealth(cid, -5)
 doSendMagicEffect(frompos, 4)
 doRemoveItem(item.uid, 1)
 return 1

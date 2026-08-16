@@ -9,7 +9,7 @@ if getPlayerLevel(cid) >= 1 then
 if item2.itemid == 2916 and random == 1 then
 doTransformItem(item2.uid,2917)
 doSendMagicEffect(topos, 12)
-doPlayerAddItem(cid,5906,1)
+doAddItem(cid,5906,1)
 doSendAnimatedText(frompos,"~success~",18);
 elseif item2.itemid == 2916 and random >= 2 then
 doSendMagicEffect(topos, 3)
@@ -21,7 +21,7 @@ if getPlayerLevel(cid) >= 1 then
 if item2.itemid == 2956 and random == 1 then
 doSendMagicEffect(topos, 12)
 doTransformItem(item2.uid,2957)
-doPlayerAddItem(cid,5905,1)
+doAddItem(cid,5905,1)
 doSendAnimatedText(frompos,"~success~",18);
 elseif item2.itemid == 2956 and random >= 2 then
 doSendMagicEffect(topos, 3)

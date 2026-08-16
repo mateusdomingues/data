@@ -73,7 +73,7 @@ talk_state = 0
 
 elseif msgcontains(msg, 'yes') and talk_state == 1 then
 if doPlayerRemoveMoney(cid,1500) == TRUE then
-bag = doPlayerAddItem(cid, 1997, 1)
+bag = doAddItem(cid, 1997, 1)
 doSetItemActionId(bag,3001)
 talk_state = 0
 talk_start = os.clock()
@@ -84,7 +84,7 @@ talk_state = 0
 
 elseif msgcontains(msg, 'yes') and talk_state == 2 then
 if doPlayerRemoveMoney(cid,1000) == TRUE then
-bag = doPlayerAddItem(cid, 1996, 1)
+bag = doAddItem(cid, 1996, 1)
 doSetItemActionId(bag,3002)
 talk_start = os.clock()
 else
@@ -94,7 +94,7 @@ talk_state = 0
 
 elseif msgcontains(msg, 'yes') and talk_state == 3 then
 if doPlayerRemoveMoney(cid,500) == TRUE then
-bag = doPlayerAddItem(cid, 1994, 1)
+bag = doAddItem(cid, 1994, 1)
 doSetItemActionId(bag,3003)
 talk_start = os.clock()
 else

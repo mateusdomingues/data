@@ -3,7 +3,7 @@
 function skinMonster(cid,item,skin)
 local random = math.random(1,15)
 if(random < 4) then
-doPlayerAddItem(cid,skin,1)
+doAddItem(cid,skin,1)
 doSendMagicEffect(getThingPos(item.uid), CONST_ME_MAGIC_GREEN)
 else
 doSendMagicEffect(getThingPos(item.uid), CONST_ME_BLOCKHIT)

@@ -146,7 +146,7 @@ if item.uid == 3954 then
 queststatus = getPlayerStorageValue(cid,7419)
 if queststatus == -1 then
   doPlayerSendTextMessage(cid,22,"You have found a mysterious bear.")
-  doPlayerAddItem(cid,3954,1)
+  doAddItem(cid,3954,1)
   setPlayerStorageValue(cid,7419,1)
 else
   doPlayerSendTextMessage(cid,22,"It is empty.")
@@ -156,7 +156,7 @@ if item.uid == 7418 then
 queststatus = getPlayerStorageValue(cid,7419)
 if queststatus ~= 1 then
   doPlayerSendTextMessage(cid,22,"You have found a nightmare blade.")
-  doPlayerAddItem(cid,7418,1)
+  doAddItem(cid,7418,1)
   setPlayerStorageValue(cid,7419,1)
 else
   doPlayerSendTextMessage(cid,22,"It is empty.")
@@ -166,7 +166,7 @@ if item.uid == 7454 then
 queststatus = getPlayerStorageValue(cid,7419)
 if queststatus ~= 1 then
   doPlayerSendTextMessage(cid,22,"You have found a destroyer's axe.")
-  doPlayerAddItem(cid,7454,1)
+  doAddItem(cid,7454,1)
   setPlayerStorageValue(cid,7419,1)
 else
   doPlayerSendTextMessage(cid,22,"It is empty.")
@@ -176,7 +176,7 @@ if item.uid == 2424 then
 queststatus = getPlayerStorageValue(cid,7419)
 if queststatus ~= 1 then
   doPlayerSendTextMessage(cid,22,"You have found a silver mace.")
-  doPlayerAddItem(cid,2424,1)
+  doAddItem(cid,2424,1)
   setPlayerStorageValue(cid,7419,1)
 else
   doPlayerSendTextMessage(cid,22,"It is empty.")

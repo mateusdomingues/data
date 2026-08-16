@@ -33,7 +33,7 @@ function doPlayerGiveItemContainer(cid, containerid, itemid, amount, subType)
 end
 
 function doPlayerTakeItem(cid, itemid, amount)
-	return getPlayerItemCount(cid, itemid) >= amount and doPlayerRemoveItem(cid, itemid, amount)
+	return getPlayerItemCount(cid, itemid) >= amount and doRemoveItem(cid, itemid, amount)
 end
 
 function doPlayerBuyItem(cid, itemid, count, cost, charges)

@@ -19,7 +19,7 @@
   if rand < 6 then
    doSummonCreature("Scarab", topos)
   elseif rand == 15 then
-   doPlayerAddItem(cid,2159,1)
+   doAddItem(cid,2159,1)
   else
    doSendMagicEffect(topos,2)
   end

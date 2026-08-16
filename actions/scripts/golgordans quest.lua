@@ -4,7 +4,7 @@ function onUse(cid, item, frompos, item2, topos)
  	queststatus = getPlayerStorageValue(cid,8896)
  	if queststatus == -1 then
  	doPlayerSendTextMessage(cid,22,"You have found an ancienterror chaku.")
- 	doPlayerAddItem(cid,7421,1)
+ 	doAddItem(cid,7421,1)
  	setPlayerStorageValue(cid,8896,1)
  	else
  	doPlayerSendTextMessage(cid,22,"It is empty.")

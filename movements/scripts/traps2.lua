@@ -7,7 +7,7 @@ chance = math.random(1, 3)
 if isPlayer(cid) == 1 then
 if chance == 1 or chance == 2 then
 
-doPlayerAddHealth(cid,-hp)
+doCreatureAddHealth(cid,-hp)
 doSendMagicEffect(pos, 2)
 doPlayerSay(cid, hp, 16)
 doTransformItem(item.uid,1513)

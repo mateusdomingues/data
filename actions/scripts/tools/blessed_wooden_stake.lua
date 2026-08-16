@@ -21,10 +21,10 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 	local random = math.random(1, 100000)
 	if(random <= dust[1]) then
 		doSendMagicEffect(toPosition, CONST_ME_GROUNDSHAKER)
-		doPlayerAddItem(cid, dust[2], 1)
+		doAddItem(cid, dust[2], 1)
 	elseif(dust[3] and random >= dust[3]) then
 		doSendMagicEffect(toPosition, CONST_ME_GROUNDSHAKER)
-		doPlayerAddItem(cid, dust[4], 1)
+		doAddItem(cid, dust[4], 1)
 	else
 		doSendMagicEffect(toPosition, CONST_ME_POFF)
 	end

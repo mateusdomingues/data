@@ -56,7 +56,7 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 		if(fromPosition.x ~= CONTAINER_POSITION) then
 			doCreateItem(potion.empty, fromPosition)
 		else
-			doPlayerAddItem(cid, potion.empty, 1)
+			doAddItem(cid, potion.empty, 1)
 		end
 
 		return true
@@ -108,7 +108,7 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 	if(fromPosition.x ~= CONTAINER_POSITION) then
 		doCreateItem(potion.empty, fromPosition)
 	else
-		doPlayerAddItem(cid, potion.empty, 1)
+		doAddItem(cid, potion.empty, 1)
 	end
 
 	return true

@@ -18,7 +18,7 @@ function doPlayerGiveItem(cid, itemid, amount, subType)
 end
 
 function doPlayerTakeItem(cid, itemid, amount)
-	if(getPlayerItemCount(cid, itemid) < amount or doPlayerRemoveItem(cid, itemid, amount) ~= TRUE) then
+	if(getPlayerItemCount(cid, itemid) < amount or doRemoveItem(cid, itemid, amount) ~= TRUE) then
 		return LUA_ERROR
 	end
 

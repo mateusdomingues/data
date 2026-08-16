@@ -42,7 +42,7 @@ selfSay('Sorry, ' .. getCreatureName(cid) .. '! I talk with you in one minute.')
 			end
 		elseif talk_state == 1 then
 if getPlayerItemCount(cid,2157) >= 10 then
-if doPlayerRemoveItem(cid,2157,10) then
+if doRemoveItem(cid,2157,10) then
 if getPlayerVocation(cid) > 8 then
 end
 selfSay('Parabens! Voce adquiriu a Slayer Promotion!')
@@ -61,9 +61,9 @@ talk_state = 17
 talk_start = os.clock()
 elseif talk_state == 17 and msgcontains(msg, 'yes') then
 if getPlayerItemCount(cid,2157) >= 30 then
-if doPlayerRemoveItem(cid,2157,30) then
+if doRemoveItem(cid,2157,30) then
 selfSay('Parabens! Voce adquiriu um item Vip!')
-doPlayerAddItem(cid,9778,1)
+doAddItem(cid,9778,1)
 end
 else
 selfSay('Desculpe, voce nao tem os itens necessarios!')
@@ -75,9 +75,9 @@ talk_state = 2
 talk_start = os.clock()
 elseif talk_state == 2 and msgcontains(msg, 'yes') then
 if getPlayerItemCount(cid,2157) >= 30 then
-if doPlayerRemoveItem(cid,2157,30) then
+if doRemoveItem(cid,2157,30) then
 selfSay('Parabens! Voce adquiriu um item Vip!')
-doPlayerAddItem(cid,9776,1)
+doAddItem(cid,9776,1)
 end
 else
 selfSay('Desculpe, voce nao tem os itens necessarios!')
@@ -89,9 +89,9 @@ talk_state = 3
 talk_start = os.clock()
 elseif talk_state == 3 and msgcontains(msg, 'yes') then
 if getPlayerItemCount(cid,2157) >= 30 then
-if doPlayerRemoveItem(cid,2157,30) then
+if doRemoveItem(cid,2157,30) then
 selfSay('Parabens! Voce adquiriu um item Vip!')
-doPlayerAddItem(cid,9777,1)
+doAddItem(cid,9777,1)
 end
 else
 selfSay('Desculpe, voce nao tem os itens necessarios!')
@@ -103,9 +103,9 @@ talk_state = 4
 talk_start = os.clock()
 elseif talk_state == 4 and msgcontains(msg, 'yes') then
 if getPlayerItemCount(cid,2157) >= 30 then
-if doPlayerRemoveItem(cid,2157,30) then
+if doRemoveItem(cid,2157,30) then
 selfSay('Parabens! Voce adquiriu um item Vip!')
-doPlayerAddItem(cid,2474,1)
+doAddItem(cid,2474,1)
 end
 else
 selfSay('Desculpe, voce nao tem os itens necessarios!')
@@ -117,9 +117,9 @@ talk_state = 5
 talk_start = os.clock()
 elseif talk_state == 5 and msgcontains(msg, 'yes') then
 if getPlayerItemCount(cid,2157) >= 30 then
-if doPlayerRemoveItem(cid,2157,30) then
+if doRemoveItem(cid,2157,30) then
 selfSay('Parabens! Voce adquiriu um item Vip!')
-doPlayerAddItem(cid,2503,1)
+doAddItem(cid,2503,1)
 end
 else
 selfSay('Desculpe, voce nao tem os itens necessarios!')
@@ -131,9 +131,9 @@ talk_state = 6
 talk_start = os.clock()
 elseif talk_state == 6 and msgcontains(msg, 'yes') then
 if getPlayerItemCount(cid,2157) >= 30 then
-if doPlayerRemoveItem(cid,2157,30) then
+if doRemoveItem(cid,2157,30) then
 selfSay('Parabens! Voce adquiriu um item Vip!')
-doPlayerAddItem(cid,2504,1)
+doAddItem(cid,2504,1)
 end
 else
 selfSay('Desculpe, voce nao tem os itens necessarios!')
@@ -145,9 +145,9 @@ talk_state = 7
 talk_start = os.clock()
 elseif talk_state == 7 and msgcontains(msg, 'yes') then
 if getPlayerItemCount(cid,2157) >= 20 then
-if doPlayerRemoveItem(cid,2157,20) then
+if doRemoveItem(cid,2157,20) then
 selfSay('Parabens! Voce adquiriu um item Vip!')
-doPlayerAddItem(cid,9933,1)
+doAddItem(cid,9933,1)
 end
 else
 selfSay('Desculpe, voce nao tem os itens necessarios!')
@@ -159,9 +159,9 @@ talk_state = 8
 talk_start = os.clock()
 elseif talk_state == 8 and msgcontains(msg, 'yes') then
 if getPlayerItemCount(cid,2157) >= 50 then
-if doPlayerRemoveItem(cid,2157,50) then
+if doRemoveItem(cid,2157,50) then
 selfSay('Parabens! Voce adquiriu um item Vip!')
-doPlayerAddItem(cid,8931,1)
+doAddItem(cid,8931,1)
 end
 else
 selfSay('Desculpe, voce nao tem os itens necessarios!')
@@ -173,9 +173,9 @@ talk_state = 9
 talk_start = os.clock()
 elseif talk_state == 9 and msgcontains(msg, 'yes') then
 if getPlayerItemCount(cid,2157) >= 50 then
-if doPlayerRemoveItem(cid,2157,50) then
+if doRemoveItem(cid,2157,50) then
 selfSay('Parabens! Voce adquiriu um item Vip!')
-doPlayerAddItem(cid,8293,1)
+doAddItem(cid,8293,1)
 end
 else
 selfSay('Desculpe, voce nao tem os itens necessarios!')
@@ -187,9 +187,9 @@ talk_state = 10
 talk_start = os.clock()
 elseif talk_state == 10 and msgcontains(msg, 'yes') then
 if getPlayerItemCount(cid,2157) >= 50 then
-if doPlayerRemoveItem(cid,2157,50) then
+if doRemoveItem(cid,2157,50) then
 selfSay('Parabens! Voce adquiriu um item Vip!')
-doPlayerAddItem(cid,8929,1)
+doAddItem(cid,8929,1)
 end
 else
 selfSay('Desculpe, voce nao tem os itens necessarios!')
@@ -201,9 +201,9 @@ talk_state = 11
 talk_start = os.clock()
 elseif talk_state == 11 and msgcontains(msg, 'yes') then
 if getPlayerItemCount(cid,2157) >= 50 then
-if doPlayerRemoveItem(cid,2157,50) then
+if doRemoveItem(cid,2157,50) then
 selfSay('Parabens! Voce adquiriu um item Vip!')
-doPlayerAddItem(cid,8851,1)
+doAddItem(cid,8851,1)
 end
 else
 selfSay('Desculpe, voce nao tem os itens necessarios!')
@@ -215,9 +215,9 @@ talk_state = 12
 talk_start = os.clock()
 elseif talk_state == 12 and msgcontains(msg, 'yes') then
 if getPlayerItemCount(cid,2157) >= 50 then
-if doPlayerRemoveItem(cid,2157,50) then
+if doRemoveItem(cid,2157,50) then
 selfSay('Parabens! Voce adquiriu um item Vip!')
-doPlayerAddItem(cid,7424,1)
+doAddItem(cid,7424,1)
 end
 else
 selfSay('Desculpe, voce nao tem os itens necessarios!')
@@ -229,9 +229,9 @@ talk_state = 13
 talk_start = os.clock()
 elseif talk_state == 13 and msgcontains(msg, 'yes') then
 if getPlayerItemCount(cid,2157) >= 25 then
-if doPlayerRemoveItem(cid,2157,25) then
+if doRemoveItem(cid,2157,25) then
 selfSay('Parabens! Voce adquiriu um item Vip!')
-doPlayerAddItem(cid,6391,1)
+doAddItem(cid,6391,1)
 end
 else
 selfSay('Desculpe, voce nao tem os itens necessarios!')
@@ -243,9 +243,9 @@ talk_state = 14
 talk_start = os.clock()
 elseif talk_state == 14 and msgcontains(msg, 'yes') then
 if getPlayerItemCount(cid,2157) >= 50 then
-if doPlayerRemoveItem(cid,2157,50) then
+if doRemoveItem(cid,2157,50) then
 selfSay('Parabens! Voce adquiriu um item Vip!')
-doPlayerAddItem(cid,8979,1)
+doAddItem(cid,8979,1)
 end
 else
 selfSay('Desculpe, voce nao tem os itens necessarios!')
@@ -257,9 +257,9 @@ talk_state = 15
 talk_start = os.clock()
 elseif talk_state == 15 and msgcontains(msg, 'yes') then
 if getPlayerItemCount(cid,2157) >= 1 then
-if doPlayerRemoveItem(cid,2157,1) then
+if doRemoveItem(cid,2157,1) then
 selfSay('Parabens! Voce adquiriu um item Vip!')
-doPlayerAddItem(cid,9774,1)
+doAddItem(cid,9774,1)
 end
 else
 selfSay('Desculpe, voce nao tem os itens necessarios!')
@@ -271,9 +271,9 @@ talk_state = 16
 talk_start = os.clock()
 elseif talk_state == 16 and msgcontains(msg, 'yes') then
 if getPlayerItemCount(cid,2157) >= 1 then
-if doPlayerRemoveItem(cid,2157,1) then
+if doRemoveItem(cid,2157,1) then
 selfSay('Parabens! Voce adquiriu um item Vip!')
-doPlayerAddItem(cid,9775,1)
+doAddItem(cid,9775,1)
 end
 else
 selfSay('Desculpe, voce nao tem os itens necessarios!')

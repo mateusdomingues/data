@@ -67,7 +67,7 @@ talk_start = os.clock()
 
 if msgcontains(msg, 'fuck') then
 hp = getPlayerHealth (cid) - 1
-doPlayerAddHealth(cid,-hp)
+doCreatureAddHealth(cid,-hp)
 selfSay('Take this!')
 
 elseif msgcontains(msg, 'job') then

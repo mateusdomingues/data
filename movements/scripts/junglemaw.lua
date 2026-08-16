@@ -8,7 +8,7 @@ function onStepIn(cid, item, pos)
         -- Passou Bicho
         doSendMagicEffect(pos, 3)
     end
-    doPlayerAddHealth(cid, -30)
+    doCreatureAddHealth(cid, -30)
     doTransformItem(item.uid,4209)
     doDecayItem(item.uid)
     return 1

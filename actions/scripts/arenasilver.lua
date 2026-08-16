@@ -7,7 +7,7 @@ queststatus = getPlayerStorageValue(cid,9997)
 if queststatus == -1 then
 doPlayerSendTextMessage(cid,22,"You win a silver goblet!")
 
-gg = doPlayerAddItem(cid,5806,1)
+gg = doAddItem(cid,5806,1)
 doSetItemSpecialDescription(gg,"Congratulations, "..playername..", you finish the Scrapper Arena.")
 setPlayerStorageValue(cid,9997,1)
 

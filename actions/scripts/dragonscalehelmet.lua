@@ -2,13 +2,13 @@ function onUse(cid, item, frompos, item2, topos)
 if item.uid == 6767 then
 queststatus = getPlayerStorageValue(cid,6767)
 if queststatus == -1 or queststatus == 0 then
-doPlayerSendTextMessage(cid,22,"Você achou uma Dragon Scale Helmet")
-item_uid = doPlayerAddItem(cid,2506,1)
+doPlayerSendTextMessage(cid,22,"Vocï¿½ achou uma Dragon Scale Helmet")
+item_uid = doAddItem(cid,2506,1)
 setPlayerStorageValue(cid,6767,1)
 
 
 else
-doPlayerSendTextMessage(cid,22,"O baú está vazio.")
+doPlayerSendTextMessage(cid,22,"O baï¿½ estï¿½ vazio.")
 end
 else
 return 0

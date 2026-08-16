@@ -721,7 +721,7 @@ if(Modules == nil) then
 									if(k == 20000) then
 										doPlayerRemoveMoney(cid, v[1])
 									else
-										doPlayerRemoveItem(cid, k, v[1], v[2])
+										doRemoveItem(cid, k, v[1], v[2])
 									end
 								elseif(v[1] == "storageset") then
 									doCreatureSetStorage(cid, k, v[2])
@@ -1245,7 +1245,7 @@ if(Modules == nil) then
 			subType = -1
 		end
 
-		if(doPlayerRemoveItem(cid, itemid, amount, subType)) then
+		if(doRemoveItem(cid, itemid, amount, subType)) then
 			local msg = self.npcHandler:getMessage(MESSAGE_SOLD)
 			doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, self.npcHandler:parseMessage(msg, parseInfo))
 

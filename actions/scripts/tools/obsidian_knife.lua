@@ -40,10 +40,10 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 	local random = math.random(1, 100000)
 	if(random <= skin[1]) then
 		doSendMagicEffect(toPosition, CONST_ME_GROUNDSHAKER)
-		doPlayerAddItem(cid, skin[2], 1)
+		doAddItem(cid, skin[2], 1)
 	elseif(skin[3] and random >= skin[3]) then
 		doSendMagicEffect(toPosition, CONST_ME_GROUNDSHAKER)
-		doPlayerAddItem(cid, skin[4], 1)
+		doAddItem(cid, skin[4], 1)
 	else
 		doSendMagicEffect(toPosition, CONST_ME_POFF)
 	end

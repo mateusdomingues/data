@@ -6,11 +6,11 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 			if math.random(1, (100 + (getPlayerSkillLevel(cid, SKILL_FISHING) / 10))) <= getPlayerSkillLevel(cid, SKILL_FISHING) then
 				if useWorms == TRUE then
 					if getPlayerItemCount(cid, ITEM_WORM) > 0 then
-						doPlayerRemoveItem(cid, ITEM_WORM, 1)
-						doPlayerAddItem(cid, ITEM_FISH, 1)
+						doRemoveItem(cid, ITEM_WORM, 1)
+						doAddItem(cid, ITEM_FISH, 1)
 					end
 				else
-					doPlayerAddItem(cid, ITEM_FISH, 1)
+					doAddItem(cid, ITEM_FISH, 1)
 				end
 			end
 			doPlayerAddSkillTry(cid, SKILL_FISHING, 1)

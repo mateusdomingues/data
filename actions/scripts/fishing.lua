@@ -8,7 +8,7 @@
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
-                 doPlayerAddItem(cid,2667,1)
+                 doAddItem(cid,2667,1)
           end
              doPlayerAddSkillTry(cid,6,1)
    
@@ -17,7 +17,7 @@
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
-                 doPlayerAddItem(cid,2667,1)
+                 doAddItem(cid,2667,1)
           end
              doPlayerAddSkillTry(cid,6,1)
    
@@ -26,7 +26,7 @@
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
-                 doPlayerAddItem(cid,2667,1)
+                 doAddItem(cid,2667,1)
           end
              doPlayerAddSkillTry(cid,6,1)
    
@@ -35,7 +35,7 @@
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
-                 doPlayerAddItem(cid,2667,1)
+                 doAddItem(cid,2667,1)
           end
              doPlayerAddSkillTry(cid,6,1)
    
@@ -44,7 +44,7 @@
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
-                 doPlayerAddItem(cid,2667,1)
+                 doAddItem(cid,2667,1)
           end
              doPlayerAddSkillTry(cid,6,1)
    
@@ -53,7 +53,7 @@
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
-                 doPlayerAddItem(cid,2667,1)
+                 doAddItem(cid,2667,1)
           end
              doPlayerAddSkillTry(cid,6,1)
    
@@ -62,7 +62,7 @@
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
-                 doPlayerAddItem(cid,2667,1)
+                 doAddItem(cid,2667,1)
           end
              doPlayerAddSkillTry(cid,6,1)
    
@@ -71,7 +71,7 @@
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
-                 doPlayerAddItem(cid,2667,1)
+                 doAddItem(cid,2667,1)
           end
              doPlayerAddSkillTry(cid,6,1)
    
@@ -80,7 +80,7 @@
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
-                 doPlayerAddItem(cid,2667,1)
+                 doAddItem(cid,2667,1)
           end
              doPlayerAddSkillTry(cid,6,1)
    
@@ -89,7 +89,7 @@
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
-                 doPlayerAddItem(cid,2667,1)
+                 doAddItem(cid,2667,1)
           end
              doPlayerAddSkillTry(cid,6,1)
    
@@ -98,7 +98,7 @@
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
-                 doPlayerAddItem(cid,2667,1)
+                 doAddItem(cid,2667,1)
           end
              doPlayerAddSkillTry(cid,6,1)
    
@@ -107,7 +107,7 @@
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
-                 doPlayerAddItem(cid,2667,1)
+                 doAddItem(cid,2667,1)
           end
              doPlayerAddSkillTry(cid,6,1)
    
@@ -116,7 +116,7 @@
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
-                 doPlayerAddItem(cid,2667,1)
+                 doAddItem(cid,2667,1)
           end
              doPlayerAddSkillTry(cid,6,1)
    
@@ -125,7 +125,7 @@
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
-                 doPlayerAddItem(cid,2667,1)
+                 doAddItem(cid,2667,1)
           end
              doPlayerAddSkillTry(cid,6,1)
         elseif item2.itemid == 4613 then
@@ -133,7 +133,7 @@
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
-                 doPlayerAddItem(cid,2667,1)
+                 doAddItem(cid,2667,1)
           end
              doPlayerAddSkillTry(cid,6,1)
         elseif item2.itemid == 4617 then
@@ -141,7 +141,7 @@
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
-                 doPlayerAddItem(cid,2667,1)
+                 doAddItem(cid,2667,1)
           end
              doPlayerAddSkillTry(cid,6,1)
 
@@ -150,7 +150,7 @@
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
-                 doPlayerAddItem(cid,2667,1)
+                 doAddItem(cid,2667,1)
           end
              doPlayerAddSkillTry(cid,6,1)
         elseif item2.itemid == 4614 then
@@ -158,7 +158,7 @@
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
-                 doPlayerAddItem(cid,2667,1)
+                 doAddItem(cid,2667,1)
           end
              doPlayerAddSkillTry(cid,6,1)
       else 

@@ -27,11 +27,11 @@ end
 
 if(coin.to ~= nil and item.type == ITEMCOUNT_MAX) then
 doChangeTypeItem(item.uid, item.type - item.type)
-doPlayerAddItem(cid, coin.to, 1)
+doAddItem(cid, coin.to, 1)
 doSendAnimatedText(fromPosition, "$$$", coins[coin.to].effect)
 elseif(coin.from ~= nil) then
 doChangeTypeItem(item.uid, item.type - 1)
-doPlayerAddItem(cid, coin.from, ITEMCOUNT_MAX)
+doAddItem(cid, coin.from, ITEMCOUNT_MAX)
 doSendAnimatedText(fromPosition, "$$$", coins[coin.from].effect)
 end
 return true

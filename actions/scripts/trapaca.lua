@@ -4,7 +4,7 @@ if item.itemid == 1526 then
 
  nplayer1pos = {x=35, y=35, z=7}
 
- doPlayerAddItem(cid,2641,1)
+ doAddItem(cid,2641,1)
 
 end
 end

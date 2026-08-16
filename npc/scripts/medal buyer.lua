@@ -34,7 +34,7 @@ function creatureSayCallback(cid, type, msg)
 		end
 	elseif(msgcontains(msg, 'yes')) then
 		if(talkState[talkUser] == 1) then
-			doPlayerAddItem(cid, items[getPlayerVocation(cid)], 1)
+			doAddItem(cid, items[getPlayerVocation(cid)], 1)
 			selfSay('Here you are young adept, take care yourself.', cid)
 			setPlayerStorageValue(cid, 30002, 1)
 		end

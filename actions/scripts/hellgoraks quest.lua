@@ -4,7 +4,7 @@ function onUse(cid, item, frompos, item2, topos)
  	queststatus = getPlayerStorageValue(cid,7402)
  	if queststatus == -1 then
  	doPlayerSendTextMessage(cid,22,"You have found a runed sword.")
- 	doPlayerAddItem(cid,7417,1)
+ 	doAddItem(cid,7417,1)
  	setPlayerStorageValue(cid,7402,1)
  	else
  	doPlayerSendTextMessage(cid,22,"It is empty.")

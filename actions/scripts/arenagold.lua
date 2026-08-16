@@ -7,7 +7,7 @@ queststatus = getPlayerStorageValue(cid,9998)
 if queststatus == -1 then
 doPlayerSendTextMessage(cid,22,"You win a golden goblet!")
 
-gg = doPlayerAddItem(cid,5805,1)
+gg = doAddItem(cid,5805,1)
 doSetItemSpecialDescription(gg,"Congratulations, "..playername..", you finish the Warlord Arena.")
 setPlayerStorageValue(cid,9998,1)
 

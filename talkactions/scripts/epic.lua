@@ -3,7 +3,7 @@
  
 function onSay(cid, words, param) 
 if(words == "!buyepic") then 
-    if doPlayerRemoveItem(cid, 2137, 1) == TRUE then 
+    if doRemoveItem(cid, 2137, 1) == TRUE then 
         local days = 30 -- Defina quantos dias a fruta dá (ou mantenha o valor alto desejado)
         local daysvalue = days * 24 * 60 * 60 
         local storageplayer = getPlayerStorageValue(cid, 13540) 

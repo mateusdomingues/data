@@ -6,7 +6,7 @@ function onUse(cid, item, frompos, item2, topos)
    		queststatus = getPlayerStorageValue(cid,8924)
    		if queststatus == -1 then
    			doPlayerSendTextMessage(cid,22,"You have found a serpent hammer.")
-   			doPlayerAddItem(cid,7422,1)
+   			doAddItem(cid,7422,1)
    			setPlayerStorageValue(cid,8924,1)
    		else
    			doPlayerSendTextMessage(cid,22,"It is empty.")
@@ -15,7 +15,7 @@ function onUse(cid, item, frompos, item2, topos)
    		queststatus = getPlayerStorageValue(cid,8924)
    		if queststatus == -1 then
    			doPlayerSendTextMessage(cid,22,"You have found a chaos axe.")
-   			doPlayerAddItem(cid,7435,1)
+   			doAddItem(cid,7435,1)
    			setPlayerStorageValue(cid,8924,1)
    		else
    			doPlayerSendTextMessage(cid,22,"It is empty.")
@@ -24,7 +24,7 @@ function onUse(cid, item, frompos, item2, topos)
    		queststatus = getPlayerStorageValue(cid,8924)
    		if queststatus == -1 then
    			doPlayerSendTextMessage(cid,22,"You have found a green tome.")
-   			doPlayerAddItem(cid,7454,1)
+   			doAddItem(cid,7454,1)
    			setPlayerStorageValue(cid,8924,1)
    		else
    			doPlayerSendTextMessage(cid,22,"It is empty.")
