@@ -32,7 +32,7 @@ doPlayerSetDrunk(cid,60*1000)
   					doPlayerSay(cid,"arrg is urine!",16)
   	elseif item.type == 7 then
 	                                random_number = math.random(30,100)
-					doPlayerAddMana(cid,random_number)
+					doCreatureAddMana(cid,random_number)
                                         doSendMagicEffect(topos,12)
 					doPlayerSay(cid,"Aaaaah...",1)
   				elseif item.type == 19 then
