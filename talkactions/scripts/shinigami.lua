@@ -45,9 +45,6 @@ function onSay(cid, words, param)
                 
                 -- Efeito visual enviado antes do kick
                 doSendMagicEffect(getCreaturePosition(cid), 19)
-                
-                -- Desconecta o player para atualizar o nome na lista de personagens (delay de 150ms)
-                addEvent(doRemoveCreature, 150, cid)
             end 
         else 
             doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Voce nao tem uma Foot of the Shinigami para virar Shinigami.") 
