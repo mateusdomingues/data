@@ -24,7 +24,7 @@ if(words == "!buyvip") then
             local name = getCreatureName(cid) 
             doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Parabens, agora voce e um player VIP!")
             -- Corrigido para db.executeQuery (compatível com TFS 0.4)
-            db.executeQuery("UPDATE `players` SET `name` = '[EPIC] "..name.."' WHERE `id` = "..getPlayerGUID(cid)..";") 
+            db.executeQuery("UPDATE `players` SET `name` = '[EPIC] " .. db.escapeString(name) .. "' WHERE `id` = "..getPlayerGUID(cid)..";") 
             doSendMagicEffect(getPlayerPosition(cid), 19)
         end 
     else 

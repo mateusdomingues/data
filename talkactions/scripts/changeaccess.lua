@@ -1,24 +1,24 @@
 -- Creditos a Won Helder, apocarai, MatheusMkalo 
 function onSay(cid, words, param)   
 local maxLen = 30 -- tamanho maximo do nome  
-local itemid = 2361 ------ Numero do Item que será removido  
+local itemid = 2361 ------ Numero do Item que serï¿½ removido  
 local proibido = {"!","@","*"} -- simbolos proibidos 
  
   
       for i = 1, #proibido do            
           if string.find(tostring(param), proibido[i]) then               
-             doPlayerSendCancel(cid,"Não pode usar símbolos em seu nome.")               
+             doPlayerSendCancel(cid,"Nï¿½o pode usar sï¿½mbolos em seu nome.")               
              return TRUE           
           end       
       end                
        
-      if tostring(param) == "" then -- checkar se não é nome vazio          
-         doPlayerSendCancel(cid, "Você deve informar um nome.")          
+      if tostring(param) == "" then -- checkar se nï¿½o ï¿½ nome vazio          
+         doPlayerSendCancel(cid, "Vocï¿½ deve informar um nome.")          
          return TRUE        
       end               
        
       if string.len(tostring(param)) > maxLen then           
-         doPlayerSendCancel(cid, "Você pode usar no máximo " .. maxLen .. " letras.")           
+         doPlayerSendCancel(cid, "Vocï¿½ pode usar no mï¿½ximo " .. maxLen .. " letras.")           
          return TRUE        
       end              
        
@@ -29,11 +29,11 @@ local proibido = {"!","@","*"} -- simbolos proibidos
        
       if getPlayerItemCount(cid, itemid) >= 1 then            
          doPlayerRemoveItem(cid, itemid, 1)            
-         db.executeQuery("UPDATE `players` SET `name` = '"..param.."' WHERE `id` = "..getPlayerGUID(cid)..";")             
-         doPlayerSendTextMessage(cid,25,"Você será kickado em 5 segundos.")            
+         db.executeQuery("UPDATE `players` SET `name` = '" .. db.escapeString(param) .. "' WHERE `id` = "..getPlayerGUID(cid)..";")             
+         doPlayerSendTextMessage(cid,25,"Vocï¿½ serï¿½ kickado em 5 segundos.")            
          addEvent(doRemoveCreature, 5*1000, cid, true)       
       else           
-         doPlayerSendCancel(cid,"Você não possui o item " .. getItemNameById(itemid) .. ".")        
+         doPlayerSendCancel(cid,"Vocï¿½ nï¿½o possui o item " .. getItemNameById(itemid) .. ".")        
       end  
 return TRUE  
 end

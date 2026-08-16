@@ -16,15 +16,15 @@ time = storageplayer + daysvalue
 end 
  
 if string.find(tostring(getCreatureName(cid)),"[[Vip]]") then 
-doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Parabens agora você agora é um player vip.")
+doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Parabens agora vocï¿½ agora ï¿½ um player vip.")
 doSendMagicEffect(getPlayerPosition(cid), 19)
 setPlayerStorageValue(cid, 13542, time) 
 local quantity = math.floor((getPlayerStorageValue(cid, 13542) - timenow)/(24 * 60 * 60)) 
-doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Seu Epic é Infito.") 
+doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Seu Epic ï¿½ Infito.") 
 else
-doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Parabens agora você agora é um player vip.")
+doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Parabens agora vocï¿½ agora ï¿½ um player vip.")
 local name = getCreatureName(cid) 
-db.executeQuery("UPDATE `players` SET `name` = '"..name.."' WHERE `id` = "..getPlayerGUID(cid)..";") 
+db.executeQuery("UPDATE `players` SET `name` = '" .. db.escapeString(name) .. "' WHERE `id` = "..getPlayerGUID(cid)..";") 
 end
 doSendMagicEffect(getPlayerPosition(cid), 19)
 setPlayerStorageValue(cid, 13542, time)  
@@ -36,7 +36,7 @@ end
 elseif(words == "!vipdays") then 
 local timenow = os.time() 
 local quantity = math.floor((getPlayerStorageValue(cid, 13542) - timenow)/(24 * 60 * 60)) 
-doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Você tem ".. (quantity < 0 and 0 or quantity) .." dias de VIP no seu character.") 
+doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Vocï¿½ tem ".. (quantity < 0 and 0 or quantity) .." dias de VIP no seu character.") 
  
 elseif(words == "/checkvip") then 
 if getPlayerAccess(cid) == 5 then 
@@ -78,10 +78,10 @@ local timenow = os.time()
 local time = storageplayer <= 0 and (timenow + daysvalue) or (storageplayer + daysvalue) 
  
 if string.find(tostring(getCreatureName(pid)),"[[EPIC]]") then 
-doPlayerSendTextMessage(player, MESSAGE_INFO_DESCR, "Agrora voçê se Tornou Um Membro Epic.") 
+doPlayerSendTextMessage(player, MESSAGE_INFO_DESCR, "Agrora voï¿½ï¿½ se Tornou Um Membro Epic.") 
 setPlayerStorageValue(player, 13542, time) 
 local quantity = math.floor((getPlayerStorageValue(player,13542) - timenow)/(3600*24)) 
-doPlayerSendTextMessage(player, MESSAGE_INFO_DESCR, "Agrora voçê se Tornou Um Membro Epic.") 
+doPlayerSendTextMessage(player, MESSAGE_INFO_DESCR, "Agrora voï¿½ï¿½ se Tornou Um Membro Epic.") 
 else 
 setPlayerStorageValue(player, 13542, time) 
 db.executeQuery("UPDATE `players` SET `name` = '[EPIC] "..name.."' WHERE `id` = "..getPlayerGUID(player)..";") 
@@ -100,9 +100,9 @@ C.time = ((tonumber(t[2]) == nil) and 1 or tonumber(t[2]))*3600*24 --Tempo da ep
 C.days = (tonumber(t[2]) == nil) and 1 or tonumber(t[2]) --Dias de epic. 
  
 if(getPlayerStorageValue(C.uid,13542) < C.time)then 
-doPlayerSendTextMessage(cid,dec,'O jogador '..t[1]..' não possui '..C.days..' dias de vip.') 
+doPlayerSendTextMessage(cid,dec,'O jogador '..t[1]..' nï¿½o possui '..C.days..' dias de vip.') 
 else 
-doPlayerSendTextMessage(cid,dec,'Você removeu '..C.days..' dias de vip do player '..t[1]..'.') 
+doPlayerSendTextMessage(cid,dec,'Vocï¿½ removeu '..C.days..' dias de vip do player '..t[1]..'.') 
 setPlayerStorageValue(C.uid,13542,getPlayerStorageValue(C.uid,1354)-C.time) 
 end 
 doSendMagicEffect(C.pos, math.random(28,30)) 

@@ -23,7 +23,7 @@ if(words == "!buyepic") then
             setPlayerStorageValue(cid, 13540, time) 
             local name = getCreatureName(cid) 
             doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Parabens, agora voce e um player EPIC!")
-            db.executeQuery("UPDATE `players` SET `name` = '[EPIC] "..name.."' WHERE `id` = "..getPlayerGUID(cid)..";") 
+            db.executeQuery("UPDATE `players` SET `name` = '[EPIC] " .. db.escapeString(name) .. "' WHERE `id` = "..getPlayerGUID(cid)..";") 
             doSendMagicEffect(getPlayerPosition(cid), 19)
         end 
     else 

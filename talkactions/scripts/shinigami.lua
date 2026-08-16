@@ -23,7 +23,7 @@ if(words == "!buyshinigami") then
             setPlayerStorageValue(cid, 13543, time) 
             local name = getCreatureName(cid) 
             doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Parabens, agora voce e um player Shinigami!")
-            db.executeQuery("UPDATE `players` SET `name` = '[Shinigami] "..name.."' WHERE `id` = "..getPlayerGUID(cid)..";") 
+            db.executeQuery("UPDATE `players` SET `name` = '[Shinigami] " .. db.escapeString(name) .. "' WHERE `id` = "..getPlayerGUID(cid)..";") 
             doSendMagicEffect(getPlayerPosition(cid), 19)
         end 
     else 
