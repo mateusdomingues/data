@@ -16,19 +16,19 @@ function onUse(cid, item, fromPosition, item2, topos)
         return FALSE
     end
     if isInArray(CONFIG[item.itemid].idshrine, item2.itemid) == TRUE then
-        if getPlayerMana(cid) >= CONFIG[item.itemid].mana then
+        if getCreatureMana(cid) >= CONFIG[item.itemid].mana then
             if getPlayerSoul(cid) >= CONFIG[item.itemid].soul then
                 doPlayerAddSoul(cid,-CONFIG[item.itemid].soul)
-                doPlayerAddMana(cid,-CONFIG[item.itemid].mana)
+                doCreatureAddMana(cid,-CONFIG[item.itemid].mana)
                 doRemoveItem(item.uid,1)
                 doPlayerAddItem(cid,CONFIG[item.itemid].enchant,1)
                 doSendAnimatedText(topos,CONFIG[item.itemid].text,CONFIG[item.itemid].color)
                 doSendMagicEffect(topos,CONFIG[item.itemid].effect)
             else
-                doPlayerSendCancel(cid,"Você não tem soul suficiente")
+                doPlayerSendCancel(cid,"Vocï¿½ nï¿½o tem soul suficiente")
             end
         else
-            doPlayerSendCancel(cid,"Você não tem mana suficiente")
+            doPlayerSendCancel(cid,"Vocï¿½ nï¿½o tem mana suficiente")
         end
     else
         return FALSE

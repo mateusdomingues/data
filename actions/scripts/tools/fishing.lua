@@ -3,7 +3,7 @@ local waterIds = {493, 4608, 4609, 4610, 4611, 4612, 4613, 4614, 4615, 4616, 461
 function onUse(cid, item, fromPosition, itemEx, toPosition)
 	if isInArray(waterIds, itemEx.itemid) == TRUE then
 		if itemEx.itemid ~= 493 then
-			if math.random(1, (100 + (getPlayerSkill(cid, SKILL_FISHING) / 10))) <= getPlayerSkill(cid, SKILL_FISHING) then
+			if math.random(1, (100 + (getPlayerSkillLevel(cid, SKILL_FISHING) / 10))) <= getPlayerSkillLevel(cid, SKILL_FISHING) then
 				if useWorms == TRUE then
 					if getPlayerItemCount(cid, ITEM_WORM) > 0 then
 						doPlayerRemoveItem(cid, ITEM_WORM, 1)

@@ -6,7 +6,7 @@
  lvl = getPlayerLevel(cid)
  formula = math.random(((lvl+ml)*30)-(lvl-ml))
  if item2.itemid == 1 and ml >= 2 then
- doPlayerAddMana(player.uid,formula)
+ doCreatureAddMana(player.uid,formula)
  if item.type > 1 then
  doChangeTypeItem(item.uid,item.type-1)
  else
