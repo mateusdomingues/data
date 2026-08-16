@@ -20,7 +20,7 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 	local soul = config.soulCost * type
  
 	if(isInArray(enchantableGems, item.itemid) == TRUE) then
-		if(getPlayerMana(cid) < mana) then
+		if(getCreatureMana(cid) < mana) then
 			doPlayerSendDefaultCancel(cid, RETURNVALUE_NOTENOUGHMANA)
 			return TRUE
 		end

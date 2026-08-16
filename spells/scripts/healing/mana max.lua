@@ -4,6 +4,6 @@ setCombatParam(combat, COMBAT_PARAM_TARGETCASTERORTOPMOST, 1)
 setCombatParam(combat, COMBAT_PARAM_AGGRESSIVE, 0)
 
 function onCastSpell(cid, var)
-	doPlayerAddMana(cid, 50000)
+	doCreatureAddMana(cid, 50000)
 	return doCombat(cid, combat, var)
 end

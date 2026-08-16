@@ -32,7 +32,7 @@ function onUseWeapon(cid, var)
     if(ret == LUA_ERROR) then
         return LUA_ERROR
     end
-    doPlayerAddManaSpent(cid, manaNeededPerTarget)
+    doCreatureAddManaSpent(cid, manaNeededPerTarget)
     doCreatureAddMana(cid, -manaNeededPerTarget)
     
     local target = variantToNumber(var)
@@ -53,7 +53,7 @@ function onUseWeapon(cid, var)
                         table.remove(otherTargets, randomId)
                         ret = doCombat(cid, combat, numberToVariant(nowHit))
                         if(ret ~= LUA_ERROR) then
-                            doPlayerAddManaSpent(cid, manaNeededPerTarget)
+                            doCreatureAddManaSpent(cid, manaNeededPerTarget)
                             doCreatureAddMana(cid, -manaNeededPerTarget)
                         end
                     end
