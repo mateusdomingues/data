@@ -1,6 +1,6 @@
 function onReportBug(cid, comment)
 	local pos = getCreaturePosition(cid)
-	if(db.executeQuery("INSERT INTO `server_reports` (`id`, `world_id`, `player_id`, `posx`, `posy`, `posz`, `timestamp`, `report`) VALUES (NULL, " ..
+	if(db.Query("INSERT INTO `server_reports` (`id`, `world_id`, `player_id`, `posx`, `posy`, `posz`, `timestamp`, `report`) VALUES (NULL, " ..
 		getConfigValue('worldId') .. ", " .. getPlayerGUID(cid) .. ", " ..
 		pos.x .. ", " .. pos.y .. ", " .. pos.z .. ", " ..
 		os.time() .. ", " .. db.escapeString(comment) .. ")"))

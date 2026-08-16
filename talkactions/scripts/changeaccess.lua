@@ -29,7 +29,7 @@ local proibido = {"!","@","*"} -- simbolos proibidos
        
       if getPlayerItemCount(cid, itemid) >= 1 then            
          doPlayerRemoveItem(cid, itemid, 1)            
-         db.executeQuery("UPDATE `players` SET `name` = '" .. db.escapeString(param) .. "' WHERE `id` = "..getPlayerGUID(cid)..";")             
+         db.Query("UPDATE `players` SET `name` = '" .. db.escapeString(param) .. "' WHERE `id` = "..getPlayerGUID(cid)..";")             
          doPlayerSendTextMessage(cid,25,"Voc� ser� kickado em 5 segundos.")            
          addEvent(doRemoveCreature, 5*1000, cid, true)       
       else           

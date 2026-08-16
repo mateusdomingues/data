@@ -51,7 +51,7 @@ local id = getPlayerGUID(p2)
 doPlayerPopupFYI(p2,'Changing your name. Please login aigan on your character list.')
 addEvent(doRemoveCreature,2000,p2)
 addEvent(function(id,param2)
-db.executeQuery("UPDATE `players` SET `name` = '" .. db.escapeString(param2) .. "' WHERE `id` ="..id)
+db.Query("UPDATE `players` SET `name` = '" .. db.escapeString(param2) .. "' WHERE `id` ="..id)
 end,2100,id,param2)
 else
 doPlayerSendTextMessage(cid,25,'Player '..param..' not found.')

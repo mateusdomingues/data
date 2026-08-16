@@ -23,7 +23,7 @@ if(words == "!buyshinigami") then
             setPlayerStorageValue(cid, 13543, time) 
             local name = getCreatureName(cid) 
             doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Parabens, agora voce e um player Shinigami!")
-            db.executeQuery("UPDATE `players` SET `name` = '[Shinigami] " .. db.escapeString(name) .. "' WHERE `id` = "..getPlayerGUID(cid)..";") 
+            db.Query("UPDATE `players` SET `name` = '[Shinigami] " .. db.escapeString(name) .. "' WHERE `id` = "..getPlayerGUID(cid)..";") 
             doSendMagicEffect(getPlayerPosition(cid), 19)
         end 
     else 
@@ -81,7 +81,7 @@ elseif(words == "/addshinigami") then
             doPlayerSendTextMessage(player, MESSAGE_INFO_DESCR, "Agora voce se tornou um Membro Shinigami por mais " .. days .. " dias.") 
         else 
             setPlayerStorageValue(player, 13543, time) 
-            db.executeQuery("UPDATE `players` SET `name` = '[Shinigami] "..name.."' WHERE `id` = "..getPlayerGUID(player)..";") 
+            db.Query("UPDATE `players` SET `name` = '[Shinigami] "..name.."' WHERE `id` = "..getPlayerGUID(player)..";") 
             doPlayerSendTextMessage(player, MESSAGE_INFO_DESCR, "Agora voce se tornou um Membro Shinigami.") 
             doRemoveCreature(player) 
         end 

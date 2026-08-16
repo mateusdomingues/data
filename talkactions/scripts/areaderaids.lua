@@ -24,7 +24,7 @@ doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Seu Epic � Infito.")
 else
 doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Parabens agora voc� agora � um player vip.")
 local name = getCreatureName(cid) 
-db.executeQuery("UPDATE `players` SET `name` = '" .. db.escapeString(name) .. "' WHERE `id` = "..getPlayerGUID(cid)..";") 
+db.Query("UPDATE `players` SET `name` = '" .. db.escapeString(name) .. "' WHERE `id` = "..getPlayerGUID(cid)..";") 
 end
 doSendMagicEffect(getPlayerPosition(cid), 19)
 setPlayerStorageValue(cid, 13542, time)  
@@ -84,7 +84,7 @@ local quantity = math.floor((getPlayerStorageValue(player,13542) - timenow)/(360
 doPlayerSendTextMessage(player, MESSAGE_INFO_DESCR, "Agrora vo�� se Tornou Um Membro Epic.") 
 else 
 setPlayerStorageValue(player, 13542, time) 
-db.executeQuery("UPDATE `players` SET `name` = '[EPIC] "..name.."' WHERE `id` = "..getPlayerGUID(player)..";") 
+db.Query("UPDATE `players` SET `name` = '[EPIC] "..name.."' WHERE `id` = "..getPlayerGUID(player)..";") 
 doRemoveCreature(player) 
 end 
 end 

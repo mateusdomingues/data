@@ -7,7 +7,7 @@ function onSay(cid, words, param, channel)
 		local reportId = tonumber(param)
 		local report = db.getResult("SELECT * FROM `server_reports` WHERE `id` = " .. reportId)
 		if(report:getID() ~= -1) then
-			db.executeQuery("UPDATE `server_reports` SET `reads` = `reads` + 1 WHERE `id` = " .. reportId)
+			db.Query("UPDATE `server_reports` SET `reads` = `reads` + 1 WHERE `id` = " .. reportId)
 			doPlayerPopupFYI(cid, "Report no. " .. reportId .. "\n\nName: " .. getPlayerNameByGUID(report:getDataInt("player_id")) .. "\nPosition: [X: " .. report:getDataInt("posx") .. " | Y: " .. report:getDataInt("posy") .. " | Z: " .. report:getDataInt("posz") .. "]\nDate: " .. os.date("%c", report:getDataInt("timestamp")) .. "\nReport:\n" .. report:getDataString("report"))
 			report:free()
 		else
