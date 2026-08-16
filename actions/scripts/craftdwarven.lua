@@ -3,7 +3,7 @@
 -- Coded by Roman, some credits to twiz for giving an example of his V1.0
 function onUse(cid, item, frompos, item2, topos)
 Level = getPlayerLevel(cid)
-ClubSkill = getPlayerSkill(cid,1)
+ClubSkill = getPlayerSkillLevel(cid, SKILL_CLUB)
 if item2.actionid == 400 and         -- set the action id of rocks
 Level >= 15   -- set the level requirement to be able to mine
 and
@@ -40,7 +40,7 @@ doSendMagicEffect(topos,3)
 doPlayerAddSkillTry(cid,1,1)
 doPlayerSay(cid,"Argg!",1)
 else
- doPlayerSendCancel(cid,"Para craftar dwarven você precisa de level 15 e de 30 de club.")
+ doPlayerSendCancel(cid,"Para craftar dwarven vocï¿½ precisa de level 15 e de 30 de club.")
 end
 return 1
 end

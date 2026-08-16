@@ -4,7 +4,7 @@
          -- itemid means that is a creature
  
         if item2.itemid == 490 then
-                 skill_level = getPlayerSkill(cid,6)
+                 skill_level = getPlayerSkillLevel(cid, SKILL_FISHING)
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
@@ -13,7 +13,7 @@
              doPlayerAddSkillTry(cid,6,1)
    
         elseif item2.itemid == 491 then
-                 skill_level = getPlayerSkill(cid,6)
+                 skill_level = getPlayerSkillLevel(cid, SKILL_FISHING)
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
@@ -22,7 +22,7 @@
              doPlayerAddSkillTry(cid,6,1)
    
         elseif item2.itemid == 492 then
-                 skill_level = getPlayerSkill(cid,6)
+                 skill_level = getPlayerSkillLevel(cid, SKILL_FISHING)
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
@@ -31,7 +31,7 @@
              doPlayerAddSkillTry(cid,6,1)
    
         elseif item2.itemid == 618 then
-                 skill_level = getPlayerSkill(cid,6)
+                 skill_level = getPlayerSkillLevel(cid, SKILL_FISHING)
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
@@ -40,7 +40,7 @@
              doPlayerAddSkillTry(cid,6,1)
    
         elseif item2.itemid == 619 then
-                 skill_level = getPlayerSkill(cid,6)
+                 skill_level = getPlayerSkillLevel(cid, SKILL_FISHING)
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
@@ -49,7 +49,7 @@
              doPlayerAddSkillTry(cid,6,1)
    
         elseif item2.itemid == 620 then
-                 skill_level = getPlayerSkill(cid,6)
+                 skill_level = getPlayerSkillLevel(cid, SKILL_FISHING)
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
@@ -58,7 +58,7 @@
              doPlayerAddSkillTry(cid,6,1)
    
         elseif item2.itemid == 622 then
-                 skill_level = getPlayerSkill(cid,6)
+                 skill_level = getPlayerSkillLevel(cid, SKILL_FISHING)
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
@@ -67,7 +67,7 @@
              doPlayerAddSkillTry(cid,6,1)
    
         elseif item2.itemid == 623 then
-                 skill_level = getPlayerSkill(cid,6)
+                 skill_level = getPlayerSkillLevel(cid, SKILL_FISHING)
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
@@ -76,7 +76,7 @@
              doPlayerAddSkillTry(cid,6,1)
    
         elseif item2.itemid == 624 then
-                 skill_level = getPlayerSkill(cid,6)
+                 skill_level = getPlayerSkillLevel(cid, SKILL_FISHING)
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
@@ -85,7 +85,7 @@
              doPlayerAddSkillTry(cid,6,1)
    
         elseif item2.itemid == 625 then
-                 skill_level = getPlayerSkill(cid,6)
+                 skill_level = getPlayerSkillLevel(cid, SKILL_FISHING)
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
@@ -94,7 +94,7 @@
              doPlayerAddSkillTry(cid,6,1)
    
         elseif item2.itemid == 626 then
-                 skill_level = getPlayerSkill(cid,6)
+                 skill_level = getPlayerSkillLevel(cid, SKILL_FISHING)
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
@@ -103,7 +103,7 @@
              doPlayerAddSkillTry(cid,6,1)
    
         elseif item2.itemid == 627 then
-                 skill_level = getPlayerSkill(cid,6)
+                 skill_level = getPlayerSkillLevel(cid, SKILL_FISHING)
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
@@ -112,7 +112,7 @@
              doPlayerAddSkillTry(cid,6,1)
    
         elseif item2.itemid == 628 then
-                 skill_level = getPlayerSkill(cid,6)
+                 skill_level = getPlayerSkillLevel(cid, SKILL_FISHING)
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
@@ -121,7 +121,7 @@
              doPlayerAddSkillTry(cid,6,1)
    
         elseif item2.itemid == 629 then
-                 skill_level = getPlayerSkill(cid,6)
+                 skill_level = getPlayerSkillLevel(cid, SKILL_FISHING)
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
@@ -129,7 +129,7 @@
           end
              doPlayerAddSkillTry(cid,6,1)
         elseif item2.itemid == 4613 then
-                 skill_level = getPlayerSkill(cid,6)
+                 skill_level = getPlayerSkillLevel(cid, SKILL_FISHING)
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
@@ -137,7 +137,7 @@
           end
              doPlayerAddSkillTry(cid,6,1)
         elseif item2.itemid == 4617 then
-                 skill_level = getPlayerSkill(cid,6)
+                 skill_level = getPlayerSkillLevel(cid, SKILL_FISHING)
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
@@ -146,7 +146,7 @@
              doPlayerAddSkillTry(cid,6,1)
 
          elseif item2.itemid == 4611 then
-                 skill_level = getPlayerSkill(cid,6)
+                 skill_level = getPlayerSkillLevel(cid, SKILL_FISHING)
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then
@@ -154,7 +154,7 @@
           end
              doPlayerAddSkillTry(cid,6,1)
         elseif item2.itemid == 4614 then
-                 skill_level = getPlayerSkill(cid,6)
+                 skill_level = getPlayerSkillLevel(cid, SKILL_FISHING)
                  random_number = math.random(1,(100+skill_level/10))
                  doSendMagicEffect(topos,1)
                  if random_number<=skill_level then

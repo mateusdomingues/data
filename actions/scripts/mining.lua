@@ -3,7 +3,7 @@
 -- Coded by Roman, some credits to twiz for giving an example of his V1.0
 function onUse(cid, item, frompos, item2, topos)
 Level = getPlayerLevel(cid)
-AxeSkill = getPlayerSkill(cid,1)
+AxeSkill = getPlayerSkillLevel(cid, SKILL_CLUB)
 if item2.actionid == 387 and         -- set the action id of rocks
 Level >= 10   -- set the level requirement to be able to mine
 and
