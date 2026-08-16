@@ -1,0 +1,278 @@
+[28/03/2015 00:02:25] Loco Sem Amigos has logged out.
+[28/03/2015 00:03:08] Druid Of Lindo has logged out.
+[28/03/2015 00:04:47] Paladin Come Quieto has logged out.
+[28/03/2015 00:05:38] Druidzera has logged out.
+[28/03/2015 00:06:49] > Saving server...
+[28/03/2015 00:06:51] > SAVE: Complete in 1.548 seconds using relational house storage.
+[28/03/2015 00:06:55] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/03/2015 00:07:26] > CLEAN: Removed 38 items from 56 tiles in 0.376 seconds.
+[28/03/2015 00:07:26] > Broadcasted message: "Map Cleaned.".
+[28/03/2015 00:07:33] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[28/03/2015 00:14:06] Cheguei No Pistao has logged out.
+[28/03/2015 00:15:54] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[28/03/2015 00:16:05] Nadador Knight has logged out.
+[28/03/2015 00:23:36] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/03/2015 00:24:07] > CLEAN: Removed 0 items from 0 tiles in 0.167 seconds.
+[28/03/2015 00:24:07] > Broadcasted message: "Map Cleaned.".
+[28/03/2015 00:24:15] > Broadcasted message: "Para comprar bless digite !bless".
+[28/03/2015 00:25:43] Cheguei No Pistao has logged in.
+[28/03/2015 00:30:10] > Saving server...
+[28/03/2015 00:30:12] > SAVE: Complete in 1.567 seconds using relational house storage.
+[28/03/2015 00:30:13] Cheguei No Pistao has logged out.
+[28/03/2015 00:32:36] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[28/03/2015 00:40:17] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/03/2015 00:40:48] > CLEAN: Removed 30 items from 32 tiles in 0.266 seconds.
+[28/03/2015 00:40:49] > Broadcasted message: "Map Cleaned.".
+[28/03/2015 00:40:57] > Broadcasted message: "Para comprar bless digite !bless".
+[28/03/2015 11:49:44] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/03/2015 11:49:45] Sever Criado Por Alissow e Comedinha.
+[28/03/2015 11:49:45] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/03/2015 11:49:45] Bom Jogo!!!
+[28/03/2015 11:49:45] 
+[28/03/2015 11:49:45] >> Debugging: nothing.
+[28/03/2015 11:49:45] >> Checking software version... failed checking - malformed file.
+[28/03/2015 11:49:46] 
+[28/03/2015 11:49:46] >> Loading config (config.lua)
+[28/03/2015 11:49:47] > Using plaintext passwords
+[28/03/2015 11:49:47] >> Loading RSA key
+[28/03/2015 11:49:47] >> Starting SQL connection
+[28/03/2015 11:49:47] >> Running Database Manager
+[28/03/2015 11:49:48] > Optimized database.
+[28/03/2015 11:49:48] >> Loading items
+[28/03/2015 11:49:48] >> Loading groups
+[28/03/2015 11:49:49] >> Loading vocations
+[28/03/2015 11:49:49] >> Loading script systems
+[28/03/2015 11:49:53] >> Loading chat channels
+[28/03/2015 11:49:54] >> Loading outfits
+[28/03/2015 11:49:54] >> Loading experience stages
+[28/03/2015 11:49:54] >> Loading monsters
+[28/03/2015 11:49:58] >> Loading map and spawns...
+[28/03/2015 11:49:59] > Map size: 65000x65000.
+[28/03/2015 11:49:59] > Map descriptions: 
+[28/03/2015 11:49:59] Saved with Remere's Map Editor 2.2
+[28/03/2015 11:49:59] No map description available.
+[28/03/2015 11:50:00] Duplicate uniqueId 2407
+[28/03/2015 11:50:03] > Map loading time: 5.008 seconds.
+[28/03/2015 11:50:04] > Data loading time: 1.076 seconds.
+[28/03/2015 11:50:05] > Unserialization time for houses: 0.032 seconds.
+[28/03/2015 11:50:30] > Unserialization time for map: 25.007 seconds.
+[28/03/2015 11:50:30] >> Checking world type... PvP
+[28/03/2015 11:50:30] >> Initializing game state modules and registering services...
+[28/03/2015 11:50:31] > Global address: deathpvp.no-ip.biz
+[28/03/2015 11:50:31] > Local ports:
+[28/03/2015 11:50:32] 7171	7172	
+[28/03/2015 11:50:32] >> All modules were loaded, server starting up...
+[28/03/2015 11:50:32] >> OT Death server Online!
+[28/03/2015 11:50:32] 
+[28/03/2015 11:50:34] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[28/03/2015 11:50:36] Account Manager has logged in.
+[28/03/2015 11:50:41] Account Manager has logged out.
+[28/03/2015 11:50:56] Xerath has logged in.
+[28/03/2015 11:51:24] Xerath has logged out.
+[28/03/2015 11:51:33] Honda has logged in.
+[28/03/2015 11:53:29] Honda has logged out.
+[28/03/2015 11:55:12] Xerath has logged in.
+[28/03/2015 11:55:44] Xerath has logged out.
+[28/03/2015 11:55:49] Account Manager has logged in.
+[28/03/2015 11:56:26] Account Manager has logged out.
+[28/03/2015 11:58:14] > Broadcasted message: "Para comprar bless digite !bless".
+[28/03/2015 11:59:17] Xerath has logged in.
+[28/03/2015 11:59:37] Xerath has logged out.
+[28/03/2015 11:59:44] Druidzera has logged in.
+[28/03/2015 12:00:52] Nadador Knight has logged in.
+[28/03/2015 12:01:53] Nadador Knight has logged out.
+[28/03/2015 12:02:05] Xerath has logged in.
+[28/03/2015 12:06:34] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/03/2015 12:06:35] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/03/2015 12:07:04] > CLEAN: Removed 0 items from 63 tiles in 0.141 seconds.
+[28/03/2015 12:07:04] > Broadcasted message: "Map Cleaned.".
+[28/03/2015 12:13:19] > Saving server...
+[28/03/2015 12:13:20] > SAVE: Complete in 1.701 seconds using relational house storage.
+[28/03/2015 12:14:56] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/03/2015 12:18:36] Nadador Knight has logged in.
+[28/03/2015 12:23:15] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/03/2015 12:23:17] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[28/03/2015 12:23:46] > CLEAN: Removed 6 items from 16 tiles in 0.156 seconds.
+[28/03/2015 12:23:46] > Broadcasted message: "Map Cleaned.".
+[28/03/2015 12:31:38] > Broadcasted message: "Para comprar bless digite !bless".
+[28/03/2015 12:36:40] > Saving server...
+[28/03/2015 12:36:42] > SAVE: Complete in 1.872 seconds using relational house storage.
+[28/03/2015 12:39:56] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/03/2015 12:39:59] > Broadcasted message: "Para comprar bless digite !bless".
+[28/03/2015 12:40:27] > CLEAN: Removed 32 items from 71 tiles in 0.171 seconds.
+[28/03/2015 12:40:27] > Broadcasted message: "Map Cleaned.".
+[28/03/2015 12:42:30] Paladizinho has logged in.
+[28/03/2015 12:48:20] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[28/03/2015 12:48:40] Druidzera has logged out.
+[28/03/2015 12:51:15] Nadador Knight has logged out.
+[28/03/2015 12:51:18] Nadador Knight has logged in.
+[28/03/2015 12:56:37] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/03/2015 12:56:41] > Broadcasted message: "Para comprar bless digite !bless".
+[28/03/2015 12:57:08] > CLEAN: Removed 755 items from 474 tiles in 0.208 seconds.
+[28/03/2015 12:57:08] > Broadcasted message: "Map Cleaned.".
+[28/03/2015 13:00:01] > Saving server...
+[28/03/2015 13:00:03] > SAVE: Complete in 2.25 seconds using relational house storage.
+[28/03/2015 13:00:37] Xerath has logged out.
+[28/03/2015 13:01:14] Nadador Knight has logged out.
+[28/03/2015 13:01:54] Xerath has logged in.
+[28/03/2015 13:05:02] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/03/2015 13:11:15] Paladizinho has logged out.
+[28/03/2015 13:11:46] Account Manager has logged in.
+[28/03/2015 13:11:48] Account Manager has logged out.
+[28/03/2015 13:13:06] Nadador Knight has logged in.
+[28/03/2015 13:13:18] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/03/2015 13:13:23] > Broadcasted message: "Para comprar bless digite !bless".
+[28/03/2015 13:13:49] > CLEAN: Removed 7 items from 9 tiles in 0.349 seconds.
+[28/03/2015 13:13:49] > Broadcasted message: "Map Cleaned.".
+[28/03/2015 13:14:49] Xerath has logged out.
+[28/03/2015 13:14:51] Xerath has logged in.
+[28/03/2015 13:21:44] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[28/03/2015 13:23:15] Account Manager has logged in.
+[28/03/2015 13:23:16] Account Manager has logged out.
+[28/03/2015 13:23:22] > Saving server...
+[28/03/2015 13:23:24] > SAVE: Complete in 2.075 seconds using relational house storage.
+[28/03/2015 13:24:47] Account Manager has logged in.
+[28/03/2015 13:24:48] Account Manager has logged out.
+[28/03/2015 13:24:55] Account Manager has logged in.
+[28/03/2015 13:25:14] Account Manager has logged out.
+[28/03/2015 13:28:11] Account Manager has logged in.
+[28/03/2015 13:28:12] Account Manager has logged out.
+[28/03/2015 13:29:59] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/03/2015 13:30:05] > Broadcasted message: "Para comprar bless digite !bless".
+[28/03/2015 13:30:29] > CLEAN: Removed 4111 items from 2584 tiles in 0.234 seconds.
+[28/03/2015 13:30:30] > Broadcasted message: "Map Cleaned.".
+[28/03/2015 13:31:48] Nadador Knight has logged out.
+[28/03/2015 13:33:33] Druidzera has logged in.
+[28/03/2015 13:34:33] Account Manager has logged in.
+[28/03/2015 13:34:34] Account Manager has logged out.
+[28/03/2015 13:34:44] Account Manager has logged in.
+[28/03/2015 13:35:04] Account Manager has logged out.
+[28/03/2015 13:35:57] Nadador Knight has logged in.
+[28/03/2015 13:36:21] Account Manager has logged in.
+[28/03/2015 13:36:24] Account Manager has logged out.
+[28/03/2015 13:36:25] Account Manager has logged in.
+[28/03/2015 13:36:27] Account Manager has logged out.
+[28/03/2015 13:36:28] Account Manager has logged in.
+[28/03/2015 13:36:29] Account Manager has logged out.
+[28/03/2015 13:37:28] Account Manager has logged in.
+[28/03/2015 13:37:29] Account Manager has logged out.
+[28/03/2015 13:37:33] Characcter has logged in.
+[28/03/2015 13:38:26] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/03/2015 13:40:40] Characcter has logged out.
+[28/03/2015 13:44:51] Paladizinho has logged in.
+[28/03/2015 13:46:40] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/03/2015 13:46:43] > Saving server...
+[28/03/2015 13:46:45] > SAVE: Complete in 2.012 seconds using relational house storage.
+[28/03/2015 13:46:47] > Broadcasted message: "Para comprar bless digite !bless".
+[28/03/2015 13:47:10] > CLEAN: Removed 3968 items from 2561 tiles in 0.281 seconds.
+[28/03/2015 13:47:11] > Broadcasted message: "Map Cleaned.".
+[28/03/2015 13:53:25] Xerath has logged out.
+[28/03/2015 13:54:06] Druidzera has logged out.
+[28/03/2015 13:54:35] Xerath has logged in.
+[28/03/2015 13:55:08] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/03/2015 13:56:10] Nadador Knight has logged out.
+[28/03/2015 13:57:17] Druidzera has logged in.
+[28/03/2015 14:03:21] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/03/2015 14:03:29] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/03/2015 14:03:51] > CLEAN: Removed 45 items from 186 tiles in 0.172 seconds.
+[28/03/2015 14:03:52] > Broadcasted message: "Map Cleaned.".
+[28/03/2015 14:05:26] Paladizinho has logged out.
+[28/03/2015 14:07:14] Account Manager has logged in.
+[28/03/2015 14:07:30] Account Manager has logged out.
+[28/03/2015 14:07:33] Account Manager has logged in.
+[28/03/2015 14:07:33] Account Manager has logged out.
+[28/03/2015 14:08:59] Haas has logged in.
+[28/03/2015 14:09:29] Haas has logged out.
+[28/03/2015 14:09:30] Haas has logged in.
+[28/03/2015 14:09:30] Haas has logged out.
+[28/03/2015 14:10:04] > Saving server...
+[28/03/2015 14:10:06] > SAVE: Complete in 1.716 seconds using relational house storage.
+[28/03/2015 14:10:32] Haas has logged in.
+[28/03/2015 14:10:38] Nadador Knight has logged in.
+[28/03/2015 14:11:50] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[28/03/2015 14:20:02] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/03/2015 14:20:11] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[28/03/2015 14:20:32] > CLEAN: Removed 1 item from 8 tiles in 0.156 seconds.
+[28/03/2015 14:20:33] > Broadcasted message: "Map Cleaned.".
+[28/03/2015 14:20:39] Nadador Knight has logged out.
+[28/03/2015 14:20:41] Nadador Knight has logged in.
+[28/03/2015 14:23:18] Paladizinho has logged in.
+[28/03/2015 14:24:21] Xerath has logged out.
+[28/03/2015 14:24:56] Paladizinho has logged out.
+[28/03/2015 14:24:58] Paladizinho has logged in.
+[28/03/2015 14:27:19] Nadador Knight has logged out.
+[28/03/2015 14:27:21] Nadador Knight has logged in.
+[28/03/2015 14:28:32] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[28/03/2015 14:30:35] Nadador Knight has logged out.
+[28/03/2015 14:30:59] Nadador Knight has logged in.
+[28/03/2015 14:31:23] Nadador Knight has logged out.
+[28/03/2015 14:33:25] > Saving server...
+[28/03/2015 14:33:27] > SAVE: Complete in 1.7 seconds using relational house storage.
+[28/03/2015 14:36:43] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/03/2015 14:36:53] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/03/2015 14:37:13] > CLEAN: Removed 3 items from 6 tiles in 0.156 seconds.
+[28/03/2015 14:37:14] > Broadcasted message: "Map Cleaned.".
+[28/03/2015 14:38:42] Haas has logged out.
+[28/03/2015 14:45:14] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[28/03/2015 14:53:24] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/03/2015 14:53:35] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[28/03/2015 14:53:54] > CLEAN: Removed 0 items from 3 tiles in 0.156 seconds.
+[28/03/2015 14:53:54] > Broadcasted message: "Map Cleaned.".
+[28/03/2015 14:56:46] > Saving server...
+[28/03/2015 14:56:48] > SAVE: Complete in 1.685 seconds using relational house storage.
+[28/03/2015 14:58:12] Druidzera has logged out.
+[28/03/2015 14:58:14] Druidzera has logged in.
+[28/03/2015 14:58:56] Druidzera has logged out.
+[28/03/2015 14:58:57] Pallyzin has logged in.
+[28/03/2015 14:59:13] Pallyzin has logged out.
+[28/03/2015 14:59:45] Paladizinho has logged out.
+[28/03/2015 15:01:56] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[28/03/2015 15:04:36] Nadador Knight has logged in.
+[28/03/2015 15:04:42] Nadador Knight has logged out.
+[28/03/2015 15:10:05] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/03/2015 15:10:17] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[28/03/2015 15:10:36] > CLEAN: Removed 1 item from 4 tiles in 0.156 seconds.
+[28/03/2015 15:10:36] > Broadcasted message: "Map Cleaned.".
+[28/03/2015 15:18:38] > Broadcasted message: "Para comprar bless digite !bless".
+[28/03/2015 15:20:07] > Saving server...
+[28/03/2015 15:20:08] > SAVE: Complete in 1.435 seconds using relational house storage.
+[28/03/2015 15:26:46] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/03/2015 15:26:59] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/03/2015 15:27:18] > CLEAN: Removed 0 items from 0 tiles in 0.74 seconds.
+[28/03/2015 15:27:19] > Broadcasted message: "Map Cleaned.".
+[28/03/2015 15:33:15] Account Manager has logged in.
+[28/03/2015 15:33:29] Account Manager has logged out.
+[28/03/2015 15:34:28] Haas has logged in.
+[28/03/2015 15:35:20] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[28/03/2015 15:43:27] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/03/2015 15:43:28] > Saving server...
+[28/03/2015 15:43:30] > SAVE: Complete in 1.539 seconds using relational house storage.
+[28/03/2015 15:43:41] > Broadcasted message: "Para comprar bless digite !bless".
+[28/03/2015 15:43:58] > CLEAN: Removed 0 items from 0 tiles in 0.204 seconds.
+[28/03/2015 15:43:58] > Broadcasted message: "Map Cleaned.".
+[28/03/2015 15:49:11] Jean has logged in.
+[28/03/2015 15:49:32] Jean has logged out.
+[28/03/2015 15:50:02] Haas has logged out.
+[28/03/2015 15:50:07] Hashi has logged in.
+[28/03/2015 15:52:02] > Broadcasted message: "Para comprar bless digite !bless".
+[28/03/2015 16:00:08] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/03/2015 16:00:23] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[28/03/2015 16:00:39] > CLEAN: Removed 1 item from 2 tiles in 0.156 seconds.
+[28/03/2015 16:00:39] > Broadcasted message: "Map Cleaned.".
+[28/03/2015 16:06:49] > Saving server...
+[28/03/2015 16:06:51] > SAVE: Complete in 1.606 seconds using relational house storage.
+[28/03/2015 16:08:44] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/03/2015 16:16:49] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/03/2015 16:17:05] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/03/2015 16:17:19] > CLEAN: Removed 0 items from 1 tile in 0.156 seconds.
+[28/03/2015 16:17:19] > Broadcasted message: "Map Cleaned.".
+[28/03/2015 16:18:21] Hashi has logged out.
+[28/03/2015 16:21:09] Nadador Knight has logged in.
+[28/03/2015 16:21:35] > Saving server...
+[28/03/2015 16:21:37] > SAVE: Complete in 1.886 seconds using relational house storage.
+[28/03/2015 16:21:40] Nadador Knight has logged out.
+[28/03/2015 16:21:40] > Saving server...
+[28/03/2015 16:21:42] > SAVE: Complete in 1.553 seconds using relational house storage.
+[28/03/2015 16:21:42] Preparing to shutdown server..
+[28/03/2015 16:21:44] .
+[28/03/2015 16:21:45] Exiting

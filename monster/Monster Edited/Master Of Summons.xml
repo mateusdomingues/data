@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<monster name="Master Of Summons" nameDescription="Master Of Summons" experience="510000000" speed="420" race="Venom">
+  <health now="5000000" max="5000000"/>
+  <look type="238" corpse="6532"/>
+  <strategy attack="720" defense="450"/>
+  <targetchange speed="10" chance="75"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="1"/>
+    <flag targetdistance="4"/>
+  </flags>
+  <attacks>
+    <attack name="Poison" interval="5000" chance="400" min="-10000" max="-20000" range="1">
+      <attribute key="shootEffect" value="poison"/>
+      <attribute key="areaEffect" value="poison"/>
+    </attack>
+    <attack name="Poison" interval="2000" chance="50" min="-10000" max="-20000"/>
+      <attribute key="shootEffect" value="physical"/>
+      <attribute key="areaEffect" value="physical"/>
+  </attacks>
+  <defenses defense="20" armor="20"/>
+  <immunities>
+    <immunity name="outfit"/>
+    <immunity name="invisible"/>
+    <immunity name="poison"/>
+  </immunities>
+        <summons maxSummons="8">
+                <summon name="master of summons" interval="1" chance="100" max="2"/>
+        </summons>
+  <loot/>
+</monster>

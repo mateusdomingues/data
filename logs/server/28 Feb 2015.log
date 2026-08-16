@@ -1,0 +1,1618 @@
+[28/02/2015 11:47:58] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/02/2015 11:47:58] Sever Criado Por Alissow e Comedinha.
+[28/02/2015 11:47:58] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/02/2015 11:47:58] Bom Jogo!!!
+[28/02/2015 11:47:58] 
+[28/02/2015 11:47:58] >> Debugging: nothing.
+[28/02/2015 11:47:59] >> Checking software version... failed checking - malformed file.
+[28/02/2015 11:47:59] 
+[28/02/2015 11:47:59] >> Loading config (config.lua)
+[28/02/2015 11:48:00] > Using plaintext passwords
+[28/02/2015 11:48:00] >> Loading RSA key
+[28/02/2015 11:48:00] >> Starting SQL connection
+[28/02/2015 11:48:00] >> Running Database Manager
+[28/02/2015 11:48:00] > Optimized database.
+[28/02/2015 11:48:00] >> Loading items
+[28/02/2015 11:48:01] >> Loading groups
+[28/02/2015 11:48:01] >> Loading vocations
+[28/02/2015 11:48:01] >> Loading script systems
+[28/02/2015 11:48:03] >> Loading chat channels
+[28/02/2015 11:48:03] >> Loading outfits
+[28/02/2015 11:48:03] >> Loading experience stages
+[28/02/2015 11:48:03] >> Loading monsters
+[28/02/2015 11:48:05] >> Loading map and spawns...
+[28/02/2015 11:48:06] > Map size: 65000x65000.
+[28/02/2015 11:48:06] > Map descriptions: 
+[28/02/2015 11:48:06] Saved with Remere's Map Editor 2.2
+[28/02/2015 11:48:06] No map description available.
+[28/02/2015 11:48:07] Duplicate uniqueId 2407
+[28/02/2015 11:48:10] > Map loading time: 4.836 seconds.
+[28/02/2015 11:48:11] > Data loading time: 0.827 seconds.
+[28/02/2015 11:48:11] > Unserialization time for houses: 0 seconds.
+[28/02/2015 11:48:36] > Unserialization time for map: 25.272 seconds.
+[28/02/2015 11:48:37] >> Checking world type... PvP
+[28/02/2015 11:48:37] >> Initializing game state modules and registering services...
+[28/02/2015 11:48:37] > Global address: 127.0.0.1
+[28/02/2015 11:48:37] > Local ports:
+[28/02/2015 11:48:38] 7171	7172	
+[28/02/2015 11:48:38] >> All modules were loaded, server starting up...
+[28/02/2015 11:48:38] >> OT Death server Online!
+[28/02/2015 11:48:38] 
+[28/02/2015 11:48:41] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[28/02/2015 11:48:42] [Hoster] Jean has logged in.
+[28/02/2015 11:48:51] > Saving server...
+[28/02/2015 11:48:53] > SAVE: Complete in 1.295 seconds using relational house storage.
+[28/02/2015 11:49:13] [Hoster] Jean has logged out.
+[28/02/2015 11:49:19] > Saving server...
+[28/02/2015 11:49:20] > SAVE: Complete in 1.045 seconds using relational house storage.
+[28/02/2015 11:49:20] Preparing to shutdown server..
+[28/02/2015 11:49:20] .
+[28/02/2015 11:49:20] Exiting
+[28/02/2015 11:50:47] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/02/2015 11:50:47] Sever Criado Por Alissow e Comedinha.
+[28/02/2015 11:50:47] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/02/2015 11:50:47] Bom Jogo!!!
+[28/02/2015 11:50:47] 
+[28/02/2015 11:50:47] >> Debugging: nothing.
+[28/02/2015 11:50:48] >> Checking software version... failed checking - malformed file.
+[28/02/2015 11:50:48] 
+[28/02/2015 11:50:48] >> Loading config (config.lua)
+[28/02/2015 11:50:48] > Using plaintext passwords
+[28/02/2015 11:50:49] >> Loading RSA key
+[28/02/2015 11:50:49] >> Starting SQL connection
+[28/02/2015 11:50:49] >> Running Database Manager
+[28/02/2015 11:50:49] > Optimized database.
+[28/02/2015 11:50:49] >> Loading items
+[28/02/2015 11:50:50] >> Loading groups
+[28/02/2015 11:50:50] >> Loading vocations
+[28/02/2015 11:50:50] >> Loading script systems
+[28/02/2015 11:50:50] >> Loading chat channels
+[28/02/2015 11:50:50] >> Loading outfits
+[28/02/2015 11:50:50] >> Loading experience stages
+[28/02/2015 11:50:51] >> Loading monsters
+[28/02/2015 11:50:51] >> Loading map and spawns...
+[28/02/2015 11:50:52] > Map size: 65000x65000.
+[28/02/2015 11:50:52] > Map descriptions: 
+[28/02/2015 11:50:52] Saved with Remere's Map Editor 2.2
+[28/02/2015 11:50:52] No map description available.
+[28/02/2015 11:50:53] Duplicate uniqueId 2407
+[28/02/2015 11:50:56] > Map loading time: 4.852 seconds.
+[28/02/2015 11:50:56] > Data loading time: 0.281 seconds.
+[28/02/2015 11:50:57] > Unserialization time for houses: 0 seconds.
+[28/02/2015 11:51:22] > Unserialization time for map: 25.538 seconds.
+[28/02/2015 11:51:22] >> Checking world type... PvP
+[28/02/2015 11:51:23] >> Initializing game state modules and registering services...
+[28/02/2015 11:51:23] > Global address: 127.0.0.1
+[28/02/2015 11:51:23] > Local ports:
+[28/02/2015 11:51:23] 7171	7172	
+[28/02/2015 11:51:23] >> All modules were loaded, server starting up...
+[28/02/2015 11:51:24] >> OT Death server Online!
+[28/02/2015 11:51:24] 
+[28/02/2015 11:51:25] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[28/02/2015 11:51:27] Account Manager has logged in.
+[28/02/2015 11:51:46] Account Manager has logged out.
+[28/02/2015 11:51:55] > Saving server...
+[28/02/2015 11:51:57] > SAVE: Complete in 1.155 seconds using relational house storage.
+[28/02/2015 11:51:57] Preparing to shutdown server..
+[28/02/2015 11:51:57] .
+[28/02/2015 11:51:57] Exiting
+[28/02/2015 14:06:57] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/02/2015 14:06:57] Sever Criado Por Alissow e Comedinha.
+[28/02/2015 14:06:57] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/02/2015 14:06:57] Bom Jogo!!!
+[28/02/2015 14:06:57] 
+[28/02/2015 14:06:57] >> Debugging: nothing.
+[28/02/2015 14:06:57] >> Checking software version... failed checking - malformed file.
+[28/02/2015 14:06:59] 
+[28/02/2015 14:06:59] >> Loading config (config.lua)
+[28/02/2015 14:06:59] > Using plaintext passwords
+[28/02/2015 14:06:59] >> Loading RSA key
+[28/02/2015 14:06:59] >> Starting SQL connection
+[28/02/2015 14:06:59] >> Running Database Manager
+[28/02/2015 14:07:00] > Optimized database.
+[28/02/2015 14:07:00] >> Loading items
+[28/02/2015 14:07:00] >> Loading groups
+[28/02/2015 14:07:00] >> Loading vocations
+[28/02/2015 14:07:00] >> Loading script systems
+[28/02/2015 14:07:01] >> Loading chat channels
+[28/02/2015 14:07:01] >> Loading outfits
+[28/02/2015 14:07:01] >> Loading experience stages
+[28/02/2015 14:07:01] >> Loading monsters
+[28/02/2015 14:07:01] >> Loading map and spawns...
+[28/02/2015 14:07:02] > Map size: 65000x65000.
+[28/02/2015 14:07:02] > Map descriptions: 
+[28/02/2015 14:07:03] Saved with Remere's Map Editor 2.2
+[28/02/2015 14:07:03] No map description available.
+[28/02/2015 14:07:03] Duplicate uniqueId 2407
+[28/02/2015 14:07:07] > Map loading time: 5.508 seconds.
+[28/02/2015 14:07:08] > Data loading time: 0.952 seconds.
+[28/02/2015 14:07:08] > Unserialization time for houses: 0 seconds.
+[28/02/2015 14:07:35] > Unserialization time for map: 26.697 seconds.
+[28/02/2015 14:07:36] >> Checking world type... PvP
+[28/02/2015 14:07:36] >> Initializing game state modules and registering services...
+[28/02/2015 14:07:36] > Global address: 127.0.0.1
+[28/02/2015 14:07:36] > Local ports:
+[28/02/2015 14:07:37] 7171	7172	
+[28/02/2015 14:07:37] >> All modules were loaded, server starting up...
+[28/02/2015 14:07:37] >> OT Death server Online!
+[28/02/2015 14:07:37] 
+[28/02/2015 14:07:40] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[28/02/2015 14:08:50] Account Manager has logged in.
+[28/02/2015 14:08:54] Account Manager has logged out.
+[28/02/2015 14:11:08] > Saving server...
+[28/02/2015 14:11:09] > SAVE: Complete in 1.17 seconds using relational house storage.
+[28/02/2015 14:11:09] Preparing to shutdown server..
+[28/02/2015 14:11:10] .
+[28/02/2015 14:11:10] Exiting
+[28/02/2015 14:11:29] The Forgotten Server, version 0.3.4 (Crying Damson)
+[28/02/2015 14:11:29] Sever Criado Por Alissow e Comedinha.
+[28/02/2015 14:11:29] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[28/02/2015 14:11:29] Bom Jogo!!!
+[28/02/2015 14:11:30] 
+[28/02/2015 14:11:30] >> Debugging: nothing.
+[28/02/2015 14:11:30] >> Checking software version... failed checking - malformed file.
+[28/02/2015 14:11:31] 
+[28/02/2015 14:11:31] >> Loading config (config.lua)
+[28/02/2015 14:11:31] > Using plaintext passwords
+[28/02/2015 14:11:31] >> Loading RSA key
+[28/02/2015 14:11:31] >> Starting SQL connection
+[28/02/2015 14:11:31] >> Running Database Manager
+[28/02/2015 14:11:31] > Optimized database.
+[28/02/2015 14:11:32] >> Loading items
+[28/02/2015 14:11:32] >> Loading groups
+[28/02/2015 14:11:32] >> Loading vocations
+[28/02/2015 14:11:32] >> Loading script systems
+[28/02/2015 14:11:33] >> Loading chat channels
+[28/02/2015 14:11:33] >> Loading outfits
+[28/02/2015 14:11:33] >> Loading experience stages
+[28/02/2015 14:11:33] >> Loading monsters
+[28/02/2015 14:11:34] >> Loading map and spawns...
+[28/02/2015 14:11:34] > Map size: 65000x65000.
+[28/02/2015 14:11:34] > Map descriptions: 
+[28/02/2015 14:11:35] Saved with Remere's Map Editor 2.2
+[28/02/2015 14:11:35] No map description available.
+[28/02/2015 14:11:35] Duplicate uniqueId 2407
+[28/02/2015 14:11:39] > Map loading time: 5.057 seconds.
+[28/02/2015 14:11:39] > Data loading time: 0.312 seconds.
+[28/02/2015 14:11:39] > Unserialization time for houses: 0 seconds.
+[28/02/2015 14:12:05] > Unserialization time for map: 25.181 seconds.
+[28/02/2015 14:12:05] >> Checking world type... PvP
+[28/02/2015 14:12:05] >> Initializing game state modules and registering services...
+[28/02/2015 14:12:06] > Global address: deathpvp.no-ip.biz
+[28/02/2015 14:12:06] > Local ports:
+[28/02/2015 14:12:06] 7171	7172	
+[28/02/2015 14:12:06] >> All modules were loaded, server starting up...
+[28/02/2015 14:12:06] >> OT Death server Online!
+[28/02/2015 14:12:06] 
+[28/02/2015 14:12:07] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[28/02/2015 14:12:08] Account Manager has logged in.
+[28/02/2015 14:12:15] Account Manager has logged in.
+[28/02/2015 14:12:17] Account Manager has logged out.
+[28/02/2015 14:12:37] Jean has logged in.
+[28/02/2015 14:12:50] Account Manager has logged in.
+[28/02/2015 14:13:05] Account Manager has logged out.
+[28/02/2015 14:13:07] Account Manager has logged in.
+[28/02/2015 14:13:08] Account Manager has logged out.
+[28/02/2015 14:13:08] Account Manager has logged out.
+[28/02/2015 14:13:16] Account Manager has logged in.
+[28/02/2015 14:13:16] Account Manager has logged in.
+[28/02/2015 14:13:34] Account Manager has logged out.
+[28/02/2015 14:13:38] Account Manager has logged out.
+[28/02/2015 14:13:47] Honda has logged in.
+[28/02/2015 14:14:00] Druidzerah Mythus has logged in.
+[28/02/2015 14:15:38] Jean has logged out.
+[28/02/2015 14:16:12] Honda has logged out.
+[28/02/2015 14:16:13] Account Manager has logged in.
+[28/02/2015 14:16:16] Account Manager has logged in.
+[28/02/2015 14:16:21] Account Manager has logged out.
+[28/02/2015 14:16:24] Druidzerah Mythus has logged out.
+[28/02/2015 14:16:26] Account Manager has logged in.
+[28/02/2015 14:16:33] Account Manager has logged out.
+[28/02/2015 14:16:46] Account Manager has logged in.
+[28/02/2015 14:16:47] Account Manager has logged out.
+[28/02/2015 14:16:54] Druidzerah Mythus has logged in.
+[28/02/2015 14:16:56] Druidzerah Mythus has logged out.
+[28/02/2015 14:16:58] Pallyzerah Mythus has logged in.
+[28/02/2015 14:17:06] Pallyzerah Mythus has logged out.
+[28/02/2015 14:17:07] Druidzerah Mythus has logged in.
+[28/02/2015 14:17:13] Druidzerah Mythus has logged out.
+[28/02/2015 14:17:14] Pallyzerah Mythus has logged in.
+[28/02/2015 14:17:15] Account Manager has logged in.
+[28/02/2015 14:17:19] Account Manager has logged out.
+[28/02/2015 14:17:24] Pallyzerah Mythus has logged out.
+[28/02/2015 14:17:26] Druidzerah Mythus has logged in.
+[28/02/2015 14:17:30] Druidzerah Mythus has logged out.
+[28/02/2015 14:17:32] Pallyzerah Mythus has logged in.
+[28/02/2015 14:17:34] Bahlouli has logged in.
+[28/02/2015 14:17:35] Account Manager has logged out.
+[28/02/2015 14:17:41] Bruuno has logged in.
+[28/02/2015 14:17:52] Account Manager has logged in.
+[28/02/2015 14:17:56] Jean has logged in.
+[28/02/2015 14:18:01] Pallyzerah Mythus has logged out.
+[28/02/2015 14:18:01] Druidzerah Mythus has logged in.
+[28/02/2015 14:18:03] > Broadcasted message: "New record: 6 players are logged in.".
+[28/02/2015 14:18:04] Account Manager has logged in.
+[28/02/2015 14:18:08] Account Manager has logged out.
+[28/02/2015 14:18:13] Account Manager has logged out.
+[28/02/2015 14:18:19] Druidzerah Mythus has logged out.
+[28/02/2015 14:18:20] Pallyzerah Mythus has logged in.
+[28/02/2015 14:18:24] Account Manager has logged in.
+[28/02/2015 14:18:31] Pallyzerah Mythus has logged out.
+[28/02/2015 14:18:32] Druidzerah Mythus has logged in.
+[28/02/2015 14:18:32] Jean has logged out.
+[28/02/2015 14:18:33] Fakedoi has logged in.
+[28/02/2015 14:18:43] Account Manager has logged in.
+[28/02/2015 14:18:45] Account Manager has logged out.
+[28/02/2015 14:18:51] Account Manager has logged in.
+[28/02/2015 14:18:59] Account Manager has logged out.
+[28/02/2015 14:19:06] Knight Boladu has logged in.
+[28/02/2015 14:19:12] Account Manager has logged out.
+[28/02/2015 14:19:18] Menino Mal has logged in.
+[28/02/2015 14:19:54] > Broadcasted message: "Para comprar bless digite !bless".
+[28/02/2015 14:19:55] > Broadcasted message: "New record: 7 players are logged in.".
+[28/02/2015 14:19:56] Account Manager has logged in.
+[28/02/2015 14:20:03] Menino Mal has logged out.
+[28/02/2015 14:20:04] Account Manager has logged in.
+[28/02/2015 14:20:19] Account Manager has logged out.
+[28/02/2015 14:20:25] Account Manager has logged out.
+[28/02/2015 14:20:31] Tudo Dois has logged in.
+[28/02/2015 14:20:35] Account Manager has logged in.
+[28/02/2015 14:20:49] Fakedoi has logged out.
+[28/02/2015 14:20:50] Jean has logged in.
+[28/02/2015 14:21:01] Account Manager has logged out.
+[28/02/2015 14:21:13] Knight Boladu has logged out.
+[28/02/2015 14:21:15] Knight Doido has logged in.
+[28/02/2015 14:21:17] Knight Boladu has logged in.
+[28/02/2015 14:21:19] Bruuno has logged out.
+[28/02/2015 14:21:20] Bruuno has logged in.
+[28/02/2015 14:21:34] Tudo Dois has logged out.
+[28/02/2015 14:21:41] Druidzerah Mythus has logged out.
+[28/02/2015 14:21:43] Druidzerah Mythus has logged in.
+[28/02/2015 14:22:11] Knight Boladu has logged out.
+[28/02/2015 14:22:14] Knight Boladu has logged in.
+[28/02/2015 14:22:18] Bahlouli has logged out.
+[28/02/2015 14:22:18] Jean has logged out.
+[28/02/2015 14:22:19] Account Manager has logged in.
+[28/02/2015 14:22:21] Bahlouli has logged in.
+[28/02/2015 14:22:35] Account Manager has logged out.
+[28/02/2015 14:22:41] Account Manager has logged in.
+[28/02/2015 14:23:03] Account Manager has logged out.
+[28/02/2015 14:23:38] Jureminha has logged in.
+[28/02/2015 14:24:37] Knight Boladu has logged out.
+[28/02/2015 14:24:39] Knight Boladu has logged in.
+[28/02/2015 14:25:08] Knight Boladu has logged out.
+[28/02/2015 14:25:09] Knight Boladu has logged in.
+[28/02/2015 14:25:16] Knight Doido has logged out.
+[28/02/2015 14:25:17] Bruuno has logged out.
+[28/02/2015 14:25:18] Bruuno has logged in.
+[28/02/2015 14:25:18] Knight Doido has logged in.
+[28/02/2015 14:25:56] Bruuno has logged out.
+[28/02/2015 14:25:58] Bruuno has logged in.
+[28/02/2015 14:26:20] Bruuno has logged out.
+[28/02/2015 14:26:21] Bruuno has logged in.
+[28/02/2015 14:26:23] Knight Boladu has logged out.
+[28/02/2015 14:26:26] Knight Boladu has logged in.
+[28/02/2015 14:28:14] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 14:28:16] > Broadcasted message: "Para comprar bless digite !bless".
+[28/02/2015 14:28:45] > CLEAN: Removed 287 items from 412 tiles in 0.219 seconds.
+[28/02/2015 14:28:45] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 14:30:03] Jean has logged in.
+[28/02/2015 14:30:17] Bahlouli has logged out.
+[28/02/2015 14:30:18] Jureminha has logged out.
+[28/02/2015 14:30:19] Jureminha has logged in.
+[28/02/2015 14:30:29] Bahlouli has logged in.
+[28/02/2015 14:30:42] Jureminha has logged out.
+[28/02/2015 14:30:43] Knight Boladu has logged out.
+[28/02/2015 14:30:44] Jureminha has logged in.
+[28/02/2015 14:30:45] Knight Boladu has logged in.
+[28/02/2015 14:30:51] Jureminha has logged out.
+[28/02/2015 14:30:53] Jureminha has logged in.
+[28/02/2015 14:33:40] Jureminha has logged out.
+[28/02/2015 14:33:43] Jureminha has logged in.
+[28/02/2015 14:34:23] Knight Doido has logged out.
+[28/02/2015 14:34:25] Knight Doido has logged in.
+[28/02/2015 14:34:59] > Saving server...
+[28/02/2015 14:35:01] > SAVE: Complete in 2.028 seconds using relational house storage.
+[28/02/2015 14:35:43] Druidzerah Mythus has logged out.
+[28/02/2015 14:35:45] Druidzerah Mythus has logged in.
+[28/02/2015 14:36:37] > Broadcasted message: "Para comprar bless digite !bless".
+[28/02/2015 14:38:11] Druidzerah Mythus has logged out.
+[28/02/2015 14:38:13] Druidzerah Mythus has logged in.
+[28/02/2015 14:40:24] Knight Doido has logged out.
+[28/02/2015 14:40:25] Knight Doido has logged in.
+[28/02/2015 14:41:18] Knight Boladu has logged out.
+[28/02/2015 14:41:19] Knight Boladu has logged in.
+[28/02/2015 14:42:02] Bahlouli has logged out.
+[28/02/2015 14:42:04] Bahlouli has logged in.
+[28/02/2015 14:42:07] Jureminha has logged out.
+[28/02/2015 14:42:08] Jureminha has logged in.
+[28/02/2015 14:42:46] Bahlouli has logged out.
+[28/02/2015 14:42:48] Bahlouli has logged in.
+[28/02/2015 14:43:27] Bahlouli has logged out.
+[28/02/2015 14:43:29] Bahlouli has logged in.
+[28/02/2015 14:44:55] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 14:44:58] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[28/02/2015 14:45:24] Jureminha has logged out.
+[28/02/2015 14:45:26] > CLEAN: Removed 648 items from 1268 tiles in 0.319 seconds.
+[28/02/2015 14:45:26] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 14:45:26] Jureminha has logged in.
+[28/02/2015 14:45:27] Jureminha has logged out.
+[28/02/2015 14:45:33] Jureminha has logged in.
+[28/02/2015 14:45:34] > Broadcasted message: "New record: 8 players are logged in.".
+[28/02/2015 14:45:34] Mateus has logged in.
+[28/02/2015 14:46:02] Jean has logged out.
+[28/02/2015 14:46:04] Fakedoi has logged in.
+[28/02/2015 14:49:22] Knight Boladu has logged out.
+[28/02/2015 14:49:25] Knight Boladu has logged in.
+[28/02/2015 14:50:01] Druidzerah Mythus has logged out.
+[28/02/2015 14:50:05] Druidzerah Mythus has logged in.
+[28/02/2015 14:50:23] Druidzerah Mythus has logged out.
+[28/02/2015 14:52:34] Druidzerah Mythus has logged in.
+[28/02/2015 14:53:00] Knight Doido has logged out.
+[28/02/2015 14:53:02] Account Manager has logged in.
+[28/02/2015 14:53:19] > Broadcasted message: "Para comprar bless digite !bless".
+[28/02/2015 14:53:36] Account Manager has logged out.
+[28/02/2015 14:53:51] Deathstroke has logged in.
+[28/02/2015 14:54:11] Bruuno has logged out.
+[28/02/2015 14:54:14] Bruuno has logged in.
+[28/02/2015 14:54:17] > Broadcasted message: "New record: 9 players are logged in.".
+[28/02/2015 14:54:22] Account Manager has logged in.
+[28/02/2015 14:54:51] Account Manager has logged out.
+[28/02/2015 14:55:07] Account Manager has logged in.
+[28/02/2015 14:55:25] Knight Boladu has logged out.
+[28/02/2015 14:55:27] Knight Boladu has logged in.
+[28/02/2015 14:55:53] Druidzerah Mythus has logged out.
+[28/02/2015 14:55:55] Druidzerah Mythus has logged in.
+[28/02/2015 14:56:08] Account Manager has logged out.
+[28/02/2015 14:56:17] Hoki has logged in.
+[28/02/2015 14:57:30] Knight Boladu has logged out.
+[28/02/2015 14:57:33] Knight Boladu has logged in.
+[28/02/2015 14:57:38] > Broadcasted message: "New record: 10 players are logged in.".
+[28/02/2015 14:57:44] Account Manager has logged in.
+[28/02/2015 14:57:47] Deathstroke has logged out.
+[28/02/2015 14:57:50] Knight Doido has logged in.
+[28/02/2015 14:58:13] Account Manager has logged out.
+[28/02/2015 14:58:20] > Saving server...
+[28/02/2015 14:58:24] > SAVE: Complete in 2.82 seconds using relational house storage.
+[28/02/2015 14:58:27] Account Manager has logged in.
+[28/02/2015 14:58:29] Fakedoi has logged out.
+[28/02/2015 14:58:32] Fakedoi has logged in.
+[28/02/2015 14:59:20] Account Manager has logged out.
+[28/02/2015 14:59:27] Account Manager has logged in.
+[28/02/2015 14:59:29] Knight Doido has logged out.
+[28/02/2015 14:59:30] Account Manager has logged out.
+[28/02/2015 14:59:31] Deathstroke has logged in.
+[28/02/2015 14:59:32] Merlin Scort has logged in.
+[28/02/2015 15:00:31] Bahlouli has logged out.
+[28/02/2015 15:00:32] Bahlouli has logged in.
+[28/02/2015 15:01:09] Knight Boladu has logged out.
+[28/02/2015 15:01:10] Knight Boladu has logged in.
+[28/02/2015 15:01:11] Knight Boladu has logged out.
+[28/02/2015 15:01:16] Knight Boladu has logged in.
+[28/02/2015 15:01:17] Knight Boladu has logged out.
+[28/02/2015 15:01:36] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 15:01:40] > Broadcasted message: "Para comprar bless digite !bless".
+[28/02/2015 15:01:45] Bahlouli has logged out.
+[28/02/2015 15:01:48] Bahlouli has logged in.
+[28/02/2015 15:02:06] > CLEAN: Removed 719 items from 1482 tiles in 0.241 seconds.
+[28/02/2015 15:02:07] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 15:02:54] Account Manager has logged in.
+[28/02/2015 15:03:13] Account Manager has logged out.
+[28/02/2015 15:03:22] Account Manager has logged in.
+[28/02/2015 15:03:38] Hoki has logged out.
+[28/02/2015 15:03:39] Account Manager has logged out.
+[28/02/2015 15:03:40] Hoki has logged in.
+[28/02/2015 15:03:46] Nadador Arqueiro has logged in.
+[28/02/2015 15:04:04] Bruuno has logged out.
+[28/02/2015 15:04:06] Bruuno has logged in.
+[28/02/2015 15:04:56] Merlin Scort has logged out.
+[28/02/2015 15:05:28] Deathstroke has logged out.
+[28/02/2015 15:05:30] Deathstroke has logged in.
+[28/02/2015 15:05:39] Merlin Scort has logged in.
+[28/02/2015 15:06:41] Deathstroke has logged out.
+[28/02/2015 15:06:43] Deathstroke has logged in.
+[28/02/2015 15:10:01] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/02/2015 15:10:04] Bruuno has logged out.
+[28/02/2015 15:10:06] Bruuno has logged in.
+[28/02/2015 15:10:33] Druidzerah Mythus has logged out.
+[28/02/2015 15:10:37] Druidzerah Mythus has logged in.
+[28/02/2015 15:11:28] Bruuno has logged out.
+[28/02/2015 15:11:43] Mateus has logged out.
+[28/02/2015 15:11:56] Bruuno has logged in.
+[28/02/2015 15:13:55] Fakedoi has logged out.
+[28/02/2015 15:14:04] > Saving server...
+[28/02/2015 15:14:07] > SAVE: Complete in 2.181 seconds using relational house storage.
+[28/02/2015 15:15:35] Merlin Scort has logged out.
+[28/02/2015 15:15:36] Merlin Scort has logged in.
+[28/02/2015 15:18:17] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 15:18:22] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[28/02/2015 15:18:36] Merlin Scort has logged out.
+[28/02/2015 15:18:37] Merlin Scort has logged in.
+[28/02/2015 15:18:48] > CLEAN: Removed 1209 items from 1837 tiles in 0.188 seconds.
+[28/02/2015 15:18:48] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 15:19:50] Jureminha has logged out.
+[28/02/2015 15:19:52] Jureminha has logged in.
+[28/02/2015 15:21:41] > Saving server...
+[28/02/2015 15:21:43] > SAVE: Complete in 2.075 seconds using relational house storage.
+[28/02/2015 15:22:51] Jureminha has logged out.
+[28/02/2015 15:22:53] Jureminha has logged in.
+[28/02/2015 15:23:42] Nadador Arqueiro has logged out.
+[28/02/2015 15:24:37] Jureminha has logged out.
+[28/02/2015 15:24:40] Jureminha has logged in.
+[28/02/2015 15:25:34] Nadador Arqueiro has logged in.
+[28/02/2015 15:25:48] Account Manager has logged in.
+[28/02/2015 15:26:05] Account Manager has logged out.
+[28/02/2015 15:26:07] Jureminha has logged out.
+[28/02/2015 15:26:09] Jureminha has logged in.
+[28/02/2015 15:26:16] Account Manager has logged in.
+[28/02/2015 15:26:16] Account Manager has logged in.
+[28/02/2015 15:26:27] Account Manager has logged out.
+[28/02/2015 15:26:40] Bruuno has logged out.
+[28/02/2015 15:26:42] Bruuno has logged in.
+[28/02/2015 15:26:43] > Broadcasted message: "Para comprar bless digite !bless".
+[28/02/2015 15:26:46] Account Manager has logged out.
+[28/02/2015 15:27:21] Account Manager has logged in.
+[28/02/2015 15:27:43] Account Manager has logged out.
+[28/02/2015 15:27:44] Slc Chachorreira has logged in.
+[28/02/2015 15:27:56] Kaiozin has logged in.
+[28/02/2015 15:29:08] Kaiozin has logged out.
+[28/02/2015 15:29:10] Kaiozin has logged in.
+[28/02/2015 15:29:23] Slc Chachorreira has logged out.
+[28/02/2015 15:29:25] Jureminha has logged out.
+[28/02/2015 15:29:25] Slc Chachorreira has logged in.
+[28/02/2015 15:29:27] Jureminha has logged in.
+[28/02/2015 15:29:44] Hoki has logged out.
+[28/02/2015 15:29:46] Hoki has logged in.
+[28/02/2015 15:30:32] Kaiozin has logged out.
+[28/02/2015 15:30:34] Kaiozin has logged in.
+[28/02/2015 15:31:16] Bruuno has logged out.
+[28/02/2015 15:31:19] Druidzerah Mythus has logged out.
+[28/02/2015 15:31:21] Druidzerah Mythus has logged in.
+[28/02/2015 15:31:25] Bruuno has logged in.
+[28/02/2015 15:31:39] Slc Chachorreira has logged out.
+[28/02/2015 15:31:41] Slc Chachorreira has logged in.
+[28/02/2015 15:32:18] Hoki has logged out.
+[28/02/2015 15:32:20] Hoki has logged in.
+[28/02/2015 15:32:29] Hoki has logged out.
+[28/02/2015 15:32:31] Hoki has logged in.
+[28/02/2015 15:32:45] Slc Chachorreira has logged out.
+[28/02/2015 15:32:47] Slc Chachorreira has logged in.
+[28/02/2015 15:32:49] Nadador Arqueiro has logged out.
+[28/02/2015 15:32:51] Nadador Arqueiro has logged in.
+[28/02/2015 15:32:57] Slc Chachorreira has logged out.
+[28/02/2015 15:32:59] Slc Chachorreira has logged in.
+[28/02/2015 15:33:21] Hoki has logged out.
+[28/02/2015 15:33:22] Bruuno has logged out.
+[28/02/2015 15:33:24] Kaiozin has logged out.
+[28/02/2015 15:33:26] Bruuno has logged in.
+[28/02/2015 15:33:27] Kaiozin has logged in.
+[28/02/2015 15:33:29] Hoki has logged in.
+[28/02/2015 15:33:50] Kaiozin has logged out.
+[28/02/2015 15:33:52] Kaiozin has logged in.
+[28/02/2015 15:34:14] Nadador Arqueiro has logged out.
+[28/02/2015 15:34:16] Nadador Arqueiro has logged in.
+[28/02/2015 15:34:49] Nadador Arqueiro has logged out.
+[28/02/2015 15:34:52] Nadador Arqueiro has logged in.
+[28/02/2015 15:34:58] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 15:35:04] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[28/02/2015 15:35:19] Nadador Arqueiro has logged out.
+[28/02/2015 15:35:23] Nadador Arqueiro has logged in.
+[28/02/2015 15:35:27] Bahlouli has logged out.
+[28/02/2015 15:35:29] > CLEAN: Removed 2431 items from 2513 tiles in 0.187 seconds.
+[28/02/2015 15:35:29] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 15:35:30] Bahlouli has logged in.
+[28/02/2015 15:35:47] Kaiozin has logged out.
+[28/02/2015 15:35:52] Kaiozin has logged in.
+[28/02/2015 15:36:16] Jureminha has logged out.
+[28/02/2015 15:36:19] Jureminha has logged in.
+[28/02/2015 15:37:16] Slc Chachorreira has logged out.
+[28/02/2015 15:37:18] Slc Chachorreira has logged in.
+[28/02/2015 15:37:36] Jureminha has logged out.
+[28/02/2015 15:37:38] Jureminha has logged in.
+[28/02/2015 15:37:41] Slc Chachorreira has logged out.
+[28/02/2015 15:37:43] Slc Chachorreira has logged in.
+[28/02/2015 15:37:45] Bruuno has logged out.
+[28/02/2015 15:37:46] Bruuno has logged in.
+[28/02/2015 15:38:06] Kaiozin has logged out.
+[28/02/2015 15:38:08] Kaiozin has logged in.
+[28/02/2015 15:38:30] Bahlouli has logged out.
+[28/02/2015 15:38:36] Bahlouli has logged in.
+[28/02/2015 15:39:25] Kaiozin has logged out.
+[28/02/2015 15:39:27] Kaiozin has logged in.
+[28/02/2015 15:39:33] Jureminha has logged out.
+[28/02/2015 15:39:35] Jureminha has logged in.
+[28/02/2015 15:40:56] Merlin Scort has logged out.
+[28/02/2015 15:42:28] Kaiozin has logged out.
+[28/02/2015 15:42:29] Kaiozin has logged in.
+[28/02/2015 15:42:33] Kaiozin has logged out.
+[28/02/2015 15:42:34] Kaiozin has logged in.
+[28/02/2015 15:42:52] Hoki has logged out.
+[28/02/2015 15:42:54] Hoki has logged in.
+[28/02/2015 15:43:25] > Broadcasted message: "Para comprar bless digite !bless".
+[28/02/2015 15:44:23] Druidzerah Mythus has logged out.
+[28/02/2015 15:44:24] Druidzerah Mythus has logged in.
+[28/02/2015 15:44:47] Slc Chachorreira has logged out.
+[28/02/2015 15:44:50] Slc Chachorreira has logged in.
+[28/02/2015 15:45:02] > Saving server...
+[28/02/2015 15:45:04] > SAVE: Complete in 1.997 seconds using relational house storage.
+[28/02/2015 15:45:08] Bruuno has logged out.
+[28/02/2015 15:45:09] Bruuno has logged in.
+[28/02/2015 15:45:23] Slc Chachorreira has logged out.
+[28/02/2015 15:45:24] Slc Chachorreira has logged in.
+[28/02/2015 15:45:31] Deathstroke has logged out.
+[28/02/2015 15:45:33] Deathstroke has logged in.
+[28/02/2015 15:45:45] Kaiozin has logged out.
+[28/02/2015 15:45:46] Kaiozin has logged in.
+[28/02/2015 15:47:34] Nadador Arqueiro has logged out.
+[28/02/2015 15:47:36] Nadador Arqueiro has logged in.
+[28/02/2015 15:48:09] Bahlouli has logged out.
+[28/02/2015 15:48:12] Bahlouli has logged in.
+[28/02/2015 15:48:34] Hoki has logged out.
+[28/02/2015 15:48:35] Hoki has logged in.
+[28/02/2015 15:49:02] Hoki has logged out.
+[28/02/2015 15:49:04] Hoki has logged in.
+[28/02/2015 15:49:24] Druidzerah Mythus has logged out.
+[28/02/2015 15:49:27] Druidzerah Mythus has logged in.
+[28/02/2015 15:51:06] Hoki has logged out.
+[28/02/2015 15:51:39] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 15:51:44] Kaiozin has logged out.
+[28/02/2015 15:51:46] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[28/02/2015 15:51:47] Kaiozin has logged in.
+[28/02/2015 15:52:09] Kaiozin has logged out.
+[28/02/2015 15:52:09] > CLEAN: Removed 2900 items from 2877 tiles in 0.28 seconds.
+[28/02/2015 15:52:10] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 15:52:10] Kaiozin has logged in.
+[28/02/2015 15:52:48] Nadador Arqueiro has logged out.
+[28/02/2015 15:52:51] Nadador Arqueiro has logged in.
+[28/02/2015 15:53:17] Kaiozin has logged out.
+[28/02/2015 15:53:20] Kaiozin has logged in.
+[28/02/2015 15:53:29] Kaiozin has logged out.
+[28/02/2015 15:53:30] Account Manager has logged in.
+[28/02/2015 15:53:56] Account Manager has logged out.
+[28/02/2015 15:54:05] Master has logged in.
+[28/02/2015 15:54:17] Bruuno has logged out.
+[28/02/2015 15:54:19] Bruuno has logged in.
+[28/02/2015 15:57:21] Druidzerah Mythus has logged out.
+[28/02/2015 15:57:29] Master has logged out.
+[28/02/2015 15:57:31] Kaiozin has logged in.
+[28/02/2015 15:57:37] Druidzerah Mythus has logged in.
+[28/02/2015 15:57:37] Bruuno has logged out.
+[28/02/2015 15:57:38] Bruuno has logged in.
+[28/02/2015 15:57:43] Kaiozin has logged out.
+[28/02/2015 15:57:56] Deathstroke has logged out.
+[28/02/2015 15:57:58] Deathstroke has logged in.
+[28/02/2015 15:58:54] Bruuno has logged out.
+[28/02/2015 15:58:55] Bruuno has logged in.
+[28/02/2015 15:59:02] Slc Chachorreira has logged out.
+[28/02/2015 15:59:03] Nadador Arqueiro has logged out.
+[28/02/2015 15:59:04] Nadador Arqueiro has logged in.
+[28/02/2015 15:59:11] Master has logged in.
+[28/02/2015 15:59:11] Slc Chachorreira has logged in.
+[28/02/2015 15:59:13] Master has logged out.
+[28/02/2015 15:59:14] Kaiozin has logged in.
+[28/02/2015 15:59:34] Account Manager has logged in.
+[28/02/2015 15:59:37] Slc Chachorreira has logged out.
+[28/02/2015 15:59:38] Account Manager has logged in.
+[28/02/2015 15:59:48] Account Manager has logged out.
+[28/02/2015 15:59:55] Account Manager has logged in.
+[28/02/2015 16:00:07] > Broadcasted message: "Para comprar bless digite !bless".
+[28/02/2015 16:00:18] Account Manager has logged out.
+[28/02/2015 16:00:32] Leaver has logged in.
+[28/02/2015 16:00:41] Account Manager has logged out.
+[28/02/2015 16:00:51] Slc Chachorrera has logged in.
+[28/02/2015 16:01:02] Leaver has logged out.
+[28/02/2015 16:01:02] Jureminha has logged out.
+[28/02/2015 16:01:04] Leaver has logged in.
+[28/02/2015 16:01:11] Kaiozin has logged out.
+[28/02/2015 16:01:12] Master has logged in.
+[28/02/2015 16:01:21] Master has logged out.
+[28/02/2015 16:01:22] Kaiozin has logged in.
+[28/02/2015 16:01:48] Druidzerah Mythus has logged out.
+[28/02/2015 16:01:49] Druidzerah Mythus has logged in.
+[28/02/2015 16:01:59] Druidzerah Mythus has logged out.
+[28/02/2015 16:02:02] Druidzerah Mythus has logged in.
+[28/02/2015 16:02:26] Leaver has logged out.
+[28/02/2015 16:02:27] Leaver has logged in.
+[28/02/2015 16:04:27] Jureminha has logged in.
+[28/02/2015 16:06:06] Druidzerah Mythus has logged out.
+[28/02/2015 16:06:10] Druidzerah Mythus has logged in.
+[28/02/2015 16:07:22] Account Manager has logged in.
+[28/02/2015 16:07:37] Account Manager has logged out.
+[28/02/2015 16:07:49] Account Manager has logged in.
+[28/02/2015 16:08:06] Slc Chachorrera has logged out.
+[28/02/2015 16:08:08] Slc Chachorrera has logged in.
+[28/02/2015 16:08:12] Account Manager has logged out.
+[28/02/2015 16:08:12] Account Manager has logged in.
+[28/02/2015 16:08:13] Account Manager has logged out.
+[28/02/2015 16:08:18] Hauzerah Rajadao has logged in.
+[28/02/2015 16:08:20] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 16:08:23] Bahlouli has logged out.
+[28/02/2015 16:08:23] > Saving server...
+[28/02/2015 16:08:25] > SAVE: Complete in 1.919 seconds using relational house storage.
+[28/02/2015 16:08:25] Bahlouli has logged in.
+[28/02/2015 16:08:28] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/02/2015 16:08:30] Druidzerah Mythus has logged out.
+[28/02/2015 16:08:30] Druidzerah Mythus has logged in.
+[28/02/2015 16:08:45] Druidzerah Mythus has logged out.
+[28/02/2015 16:08:46] Druidzerah Mythus has logged in.
+[28/02/2015 16:08:50] > CLEAN: Removed 1618 items from 1971 tiles in 0.187 seconds.
+[28/02/2015 16:08:50] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 16:09:48] Druidzerah Mythus has logged out.
+[28/02/2015 16:10:06] Druidzerah Mythus has logged in.
+[28/02/2015 16:10:24] Kaiozin has logged out.
+[28/02/2015 16:10:26] Kaiozin has logged in.
+[28/02/2015 16:11:23] Kaiozin has logged out.
+[28/02/2015 16:11:25] Kaiozin has logged in.
+[28/02/2015 16:12:39] Nadador Arqueiro has logged out.
+[28/02/2015 16:12:41] Nadador Arqueiro has logged in.
+[28/02/2015 16:14:04] Nadador Arqueiro has logged out.
+[28/02/2015 16:14:07] Nadador Arqueiro has logged in.
+[28/02/2015 16:15:12] Hauzerah Rajadao has logged out.
+[28/02/2015 16:15:15] Hauzerah Rajadao has logged in.
+[28/02/2015 16:15:35] Nadador Arqueiro has logged out.
+[28/02/2015 16:15:37] Nadador Arqueiro has logged in.
+[28/02/2015 16:15:42] > Broadcasted message: "New record: 11 players are logged in.".
+[28/02/2015 16:15:42] Account Manager has logged in.
+[28/02/2015 16:15:54] Account Manager has logged out.
+[28/02/2015 16:16:00] Druidzerah Mythus has logged out.
+[28/02/2015 16:16:01] Account Manager has logged in.
+[28/02/2015 16:16:16] Account Manager has logged out.
+[28/02/2015 16:16:17] Account Manager has logged in.
+[28/02/2015 16:16:30] Account Manager has logged out.
+[28/02/2015 16:16:38] Bobombox has logged in.
+[28/02/2015 16:16:43] Bobombox has logged out.
+[28/02/2015 16:16:49] > Broadcasted message: "Para comprar bless digite !bless".
+[28/02/2015 16:16:55] Account Manager has logged in.
+[28/02/2015 16:17:10] Account Manager has logged out.
+[28/02/2015 16:17:20] Zumbasss has logged in.
+[28/02/2015 16:19:38] Bruuno has logged out.
+[28/02/2015 16:19:40] Bruuno has logged in.
+[28/02/2015 16:19:57] Deathstroke has logged out.
+[28/02/2015 16:19:58] Deathstroke has logged in.
+[28/02/2015 16:20:11] Merlin Scort has logged in.
+[28/02/2015 16:22:17] Leaver has logged out.
+[28/02/2015 16:23:29] Kaiozin has logged out.
+[28/02/2015 16:23:29] Account Manager has logged in.
+[28/02/2015 16:23:48] Account Manager has logged out.
+[28/02/2015 16:23:54] Pally Tenebroso has logged in.
+[28/02/2015 16:24:36] Bruuno has logged out.
+[28/02/2015 16:24:37] Bruuno has logged in.
+[28/02/2015 16:24:59] Hauzerah Rajadao has logged out.
+[28/02/2015 16:25:00] Account Manager has logged in.
+[28/02/2015 16:25:01] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 16:25:10] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/02/2015 16:25:23] Account Manager has logged out.
+[28/02/2015 16:25:24] Account Manager has logged in.
+[28/02/2015 16:25:25] Account Manager has logged out.
+[28/02/2015 16:25:29] Hauzerah has logged in.
+[28/02/2015 16:25:31] > CLEAN: Removed 2018 items from 2329 tiles in 0.187 seconds.
+[28/02/2015 16:25:31] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 16:28:04] Hauzerah has logged out.
+[28/02/2015 16:28:07] Hauzerah has logged in.
+[28/02/2015 16:29:16] Hauzerah has logged out.
+[28/02/2015 16:29:18] Hauzerah has logged in.
+[28/02/2015 16:31:44] > Saving server...
+[28/02/2015 16:31:46] > SAVE: Complete in 2.059 seconds using relational house storage.
+[28/02/2015 16:31:56] Bahlouli has logged out.
+[28/02/2015 16:31:58] Bruuno has logged out.
+[28/02/2015 16:31:59] Bruuno has logged in.
+[28/02/2015 16:32:30] Nadador Arqueiro has logged out.
+[28/02/2015 16:32:32] Nadador Arqueiro has logged in.
+[28/02/2015 16:32:47] Bruuno has logged out.
+[28/02/2015 16:32:48] Bruuno has logged in.
+[28/02/2015 16:33:30] Merlin Scort has logged out.
+[28/02/2015 16:33:31] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[28/02/2015 16:33:34] Merlin Scort has logged in.
+[28/02/2015 16:33:47] Hauzerah has logged out.
+[28/02/2015 16:33:49] Hauzerah has logged in.
+[28/02/2015 16:34:07] Hauzerah has logged out.
+[28/02/2015 16:37:45] Deathstroke has logged out.
+[28/02/2015 16:37:48] Deathstroke has logged in.
+[28/02/2015 16:38:19] Pally Tenebroso has logged out.
+[28/02/2015 16:38:28] Pally Tenebroso has logged in.
+[28/02/2015 16:38:31] Slc Chachorrera has logged out.
+[28/02/2015 16:38:54] Bruuno has logged out.
+[28/02/2015 16:38:58] Bruuno has logged in.
+[28/02/2015 16:39:08] Pally Tenebroso has logged out.
+[28/02/2015 16:39:25] Merlin Scort has logged out.
+[28/02/2015 16:39:28] Merlin Scort has logged in.
+[28/02/2015 16:39:50] Bahlouli has logged in.
+[28/02/2015 16:41:08] Zumbasss has logged out.
+[28/02/2015 16:41:09] Bobombox has logged in.
+[28/02/2015 16:41:18] Bobombox has logged out.
+[28/02/2015 16:41:19] Zumbasss has logged in.
+[28/02/2015 16:41:20] Pally Tenebroso has logged in.
+[28/02/2015 16:41:22] Zumbasss has logged out.
+[28/02/2015 16:41:22] Bobombox has logged in.
+[28/02/2015 16:41:42] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 16:41:52] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[28/02/2015 16:42:13] > CLEAN: Removed 3149 items from 2760 tiles in 0.203 seconds.
+[28/02/2015 16:42:13] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 16:42:26] Pally Tenebroso has logged out.
+[28/02/2015 16:43:00] Leaver has logged in.
+[28/02/2015 16:43:18] Bobombox has logged out.
+[28/02/2015 16:43:20] Bobombox has logged in.
+[28/02/2015 16:44:06] Merlin Scort has logged out.
+[28/02/2015 16:44:44] Merlin Scort has logged in.
+[28/02/2015 16:45:31] Pally Tenebroso has logged in.
+[28/02/2015 16:46:13] Bobombox has logged out.
+[28/02/2015 16:46:15] Bobombox has logged in.
+[28/02/2015 16:50:13] > Broadcasted message: "Para comprar bless digite !bless".
+[28/02/2015 16:50:58] Bobombox has logged out.
+[28/02/2015 16:51:09] Zumbasss has logged in.
+[28/02/2015 16:51:11] Zumbasss has logged out.
+[28/02/2015 16:51:12] Bobombox has logged in.
+[28/02/2015 16:51:20] Bobombox has logged out.
+[28/02/2015 16:51:34] Bobombox has logged in.
+[28/02/2015 16:53:37] Bobombox has logged out.
+[28/02/2015 16:53:48] Bobombox has logged in.
+[28/02/2015 16:54:22] Deathstroke has logged out.
+[28/02/2015 16:54:58] Menino Mal has logged in.
+[28/02/2015 16:55:05] > Saving server...
+[28/02/2015 16:55:07] > SAVE: Complete in 2.028 seconds using relational house storage.
+[28/02/2015 16:55:13] Deathstroke has logged in.
+[28/02/2015 16:55:18] Menino Mal has logged out.
+[28/02/2015 16:55:25] Knight Boladu has logged in.
+[28/02/2015 16:55:26] Knight Boladu has logged out.
+[28/02/2015 16:55:27] Knight Boladu has logged in.
+[28/02/2015 16:55:36] Knight Boladu has logged out.
+[28/02/2015 16:55:47] Jean has logged in.
+[28/02/2015 16:57:00] Leaver has logged out.
+[28/02/2015 16:57:39] Jean has logged out.
+[28/02/2015 16:58:21] Deathstroke has logged out.
+[28/02/2015 16:58:23] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 16:58:34] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[28/02/2015 16:58:54] > CLEAN: Removed 1212 items from 1515 tiles in 0.198 seconds.
+[28/02/2015 16:58:54] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 16:59:14] Deathstroke has logged in.
+[28/02/2015 16:59:41] Pally Tenebroso has logged out.
+[28/02/2015 16:59:46] Pally Tenebroso has logged in.
+[28/02/2015 17:00:21] Pally Tenebroso has logged out.
+[28/02/2015 17:02:05] Nadador Arqueiro has logged out.
+[28/02/2015 17:02:11] Merlin Scort has logged out.
+[28/02/2015 17:02:13] Merlin Scort has logged in.
+[28/02/2015 17:02:20] Bobombox has logged out.
+[28/02/2015 17:02:21] Bobombox has logged in.
+[28/02/2015 17:02:53] Bobombox has logged out.
+[28/02/2015 17:03:36] Bobombox has logged in.
+[28/02/2015 17:03:37] Bahlouli has logged out.
+[28/02/2015 17:03:46] Deathstroke has logged out.
+[28/02/2015 17:03:49] Deathstroke has logged in.
+[28/02/2015 17:04:18] Bobombox has logged out.
+[28/02/2015 17:04:21] Bobombox has logged in.
+[28/02/2015 17:06:03] Merlin Scort has logged out.
+[28/02/2015 17:06:13] Account Manager has logged in.
+[28/02/2015 17:06:25] Account Manager has logged out.
+[28/02/2015 17:06:26] Deathstroke has logged out.
+[28/02/2015 17:06:28] Deathstroke has logged in.
+[28/02/2015 17:06:33] Account Manager has logged in.
+[28/02/2015 17:06:55] Account Manager has logged out.
+[28/02/2015 17:06:56] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[28/02/2015 17:07:02] Jureminha Paladin has logged in.
+[28/02/2015 17:07:08] Bobombox has logged out.
+[28/02/2015 17:07:09] Bobombox has logged in.
+[28/02/2015 17:07:20] Account Manager has logged in.
+[28/02/2015 17:07:40] Account Manager has logged out.
+[28/02/2015 17:07:46] Bobombox has logged out.
+[28/02/2015 17:07:47] Pally has logged in.
+[28/02/2015 17:07:48] Bobombox has logged in.
+[28/02/2015 17:09:42] Bahlouli has logged in.
+[28/02/2015 17:09:54] Deathstroke has logged out.
+[28/02/2015 17:09:56] Deathstroke has logged in.
+[28/02/2015 17:11:48] Deathstroke has logged out.
+[28/02/2015 17:11:50] Deathstroke has logged in.
+[28/02/2015 17:11:56] Jureminha has logged out.
+[28/02/2015 17:11:58] Jureminha has logged in.
+[28/02/2015 17:13:28] Merlin Scort has logged in.
+[28/02/2015 17:13:48] Nadador Arqueiro has logged in.
+[28/02/2015 17:15:04] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 17:15:17] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[28/02/2015 17:15:34] > CLEAN: Removed 634 items from 644 tiles in 0.208 seconds.
+[28/02/2015 17:15:35] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 17:16:38] Nadador Arqueiro has logged out.
+[28/02/2015 17:16:51] Nadador Arqueiro has logged in.
+[28/02/2015 17:18:26] > Saving server...
+[28/02/2015 17:18:29] > SAVE: Complete in 2.508 seconds using relational house storage.
+[28/02/2015 17:18:44] Hauzerah has logged in.
+[28/02/2015 17:19:09] Jureminha has logged out.
+[28/02/2015 17:19:15] Jureminha has logged in.
+[28/02/2015 17:19:45] Jureminha has logged out.
+[28/02/2015 17:20:24] Hauzerah has logged out.
+[28/02/2015 17:20:27] Hauzerah has logged in.
+[28/02/2015 17:21:12] Jureminha has logged in.
+[28/02/2015 17:21:38] Hauzerah has logged out.
+[28/02/2015 17:21:41] Hauzerah has logged in.
+[28/02/2015 17:21:48] Bobombox has logged out.
+[28/02/2015 17:21:50] Bobombox has logged in.
+[28/02/2015 17:22:09] Account Manager has logged in.
+[28/02/2015 17:22:24] Account Manager has logged out.
+[28/02/2015 17:22:29] Account Manager has logged in.
+[28/02/2015 17:22:41] Account Manager has logged out.
+[28/02/2015 17:22:45] Lucas has logged in.
+[28/02/2015 17:23:32] Bobombox has logged out.
+[28/02/2015 17:23:34] Bobombox has logged in.
+[28/02/2015 17:23:38] > Broadcasted message: "Para comprar bless digite !bless".
+[28/02/2015 17:24:09] Bobombox has logged out.
+[28/02/2015 17:24:10] Bobombox has logged in.
+[28/02/2015 17:25:59] > Broadcasted message: "New record: 12 players are logged in.".
+[28/02/2015 17:26:00] Honda has logged in.
+[28/02/2015 17:26:12] Jureminha Paladin has logged out.
+[28/02/2015 17:26:24] Lucas has logged out.
+[28/02/2015 17:27:11] Lucas has logged in.
+[28/02/2015 17:27:13] Lucas has logged out.
+[28/02/2015 17:27:21] Lucas has logged in.
+[28/02/2015 17:28:01] Honda has logged out.
+[28/02/2015 17:28:11] Account Manager has logged in.
+[28/02/2015 17:29:41] Account Manager has logged out.
+[28/02/2015 17:29:54] Walker has logged in.
+[28/02/2015 17:30:42] Hauzerah has logged out.
+[28/02/2015 17:30:43] Hauzerah has logged in.
+[28/02/2015 17:31:10] Lucas has logged out.
+[28/02/2015 17:31:12] Lucas has logged in.
+[28/02/2015 17:31:14] Lucas has logged out.
+[28/02/2015 17:31:45] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 17:31:59] > Broadcasted message: "Para comprar bless digite !bless".
+[28/02/2015 17:32:16] > CLEAN: Removed 2423 items from 2409 tiles in 0.188 seconds.
+[28/02/2015 17:32:16] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 17:32:52] Hauzerah has logged out.
+[28/02/2015 17:32:53] Lucas has logged in.
+[28/02/2015 17:33:01] Hauzerah has logged in.
+[28/02/2015 17:33:37] Pally has logged out.
+[28/02/2015 17:33:43] Pally has logged in.
+[28/02/2015 17:34:02] Bruuno has logged out.
+[28/02/2015 17:34:07] Bruuno has logged in.
+[28/02/2015 17:34:10] Jureminha has logged out.
+[28/02/2015 17:34:37] Hauzerah has logged out.
+[28/02/2015 17:34:39] Hauzerah has logged in.
+[28/02/2015 17:36:03] Lucas has logged out.
+[28/02/2015 17:36:34] Lucas has logged in.
+[28/02/2015 17:36:45] Nadador Arqueiro has logged out.
+[28/02/2015 17:37:59] Hauzerah has logged out.
+[28/02/2015 17:38:00] Hauzerah has logged in.
+[28/02/2015 17:38:17] Walker has logged out.
+[28/02/2015 17:38:19] Walker has logged in.
+[28/02/2015 17:39:51] Lucas has logged out.
+[28/02/2015 17:39:52] Bobombox has logged out.
+[28/02/2015 17:39:54] Bobombox has logged in.
+[28/02/2015 17:39:55] Lucas has logged in.
+[28/02/2015 17:40:20] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[28/02/2015 17:41:47] > Saving server...
+[28/02/2015 17:41:49] > SAVE: Complete in 2.34 seconds using relational house storage.
+[28/02/2015 17:42:07] Jureminha has logged in.
+[28/02/2015 17:42:58] Lucas has logged out.
+[28/02/2015 17:43:18] Lucas has logged in.
+[28/02/2015 17:43:21] Lucas has logged out.
+[28/02/2015 17:45:18] Hauzerah has logged out.
+[28/02/2015 17:45:19] Account Manager has logged in.
+[28/02/2015 17:45:39] Account Manager has logged out.
+[28/02/2015 17:45:40] Account Manager has logged in.
+[28/02/2015 17:45:40] Account Manager has logged out.
+[28/02/2015 17:45:47] Hauzerah Rajadao has logged in.
+[28/02/2015 17:45:49] Hauzerah Rajadao has logged out.
+[28/02/2015 17:45:50] Deathstroke has logged out.
+[28/02/2015 17:45:51] Knight Of Rajada has logged in.
+[28/02/2015 17:45:52] Deathstroke has logged in.
+[28/02/2015 17:46:34] Walker has logged out.
+[28/02/2015 17:46:37] Walker has logged in.
+[28/02/2015 17:48:26] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 17:48:37] Nadador Arqueiro has logged in.
+[28/02/2015 17:48:41] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[28/02/2015 17:48:57] > CLEAN: Removed 2661 items from 2843 tiles in 0.187 seconds.
+[28/02/2015 17:48:57] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 17:48:57] Knight Of Rajada has logged out.
+[28/02/2015 17:49:01] Knight Of Rajada has logged in.
+[28/02/2015 17:49:48] Bobombox has logged out.
+[28/02/2015 17:50:06] Account Manager has logged in.
+[28/02/2015 17:50:07] Jureminha has logged out.
+[28/02/2015 17:50:08] Jureminha has logged in.
+[28/02/2015 17:50:19] Account Manager has logged out.
+[28/02/2015 17:50:23] Account Manager has logged in.
+[28/02/2015 17:50:36] Account Manager has logged out.
+[28/02/2015 17:50:48] Spectors Death has logged in.
+[28/02/2015 17:51:36] Nadador Arqueiro has logged out.
+[28/02/2015 17:51:38] Nadador Arqueiro has logged in.
+[28/02/2015 17:52:51] Nadador Arqueiro has logged out.
+[28/02/2015 17:52:53] Nadador Arqueiro has logged in.
+[28/02/2015 17:53:03] Walker has logged out.
+[28/02/2015 17:53:05] Honda has logged in.
+[28/02/2015 17:53:43] Honda has logged out.
+[28/02/2015 17:53:57] Walker has logged in.
+[28/02/2015 17:53:59] Pally has logged out.
+[28/02/2015 17:54:22] Bruuno has logged out.
+[28/02/2015 17:57:02] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[28/02/2015 17:57:22] Mateus has logged in.
+[28/02/2015 17:58:12] Walker has logged out.
+[28/02/2015 17:58:15] Walker has logged in.
+[28/02/2015 17:58:16] Walker has logged out.
+[28/02/2015 17:58:32] Honda has logged in.
+[28/02/2015 17:59:04] Knight Of Rajada has logged out.
+[28/02/2015 17:59:06] Knight Of Rajada has logged in.
+[28/02/2015 17:59:14] Honda has logged out.
+[28/02/2015 17:59:19] Deathstroke has logged out.
+[28/02/2015 17:59:21] Deathstroke has logged in.
+[28/02/2015 17:59:29] Nadador Arqueiro has logged out.
+[28/02/2015 17:59:32] Nadador Arqueiro has logged in.
+[28/02/2015 18:00:47] Nadador Arqueiro has logged out.
+[28/02/2015 18:00:52] Nadador Arqueiro has logged in.
+[28/02/2015 18:01:33] Lucas has logged in.
+[28/02/2015 18:03:05] Honda has logged in.
+[28/02/2015 18:04:19] Lucas has logged out.
+[28/02/2015 18:04:27] Lucas has logged in.
+[28/02/2015 18:04:56] Lucas has logged out.
+[28/02/2015 18:05:07] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 18:05:08] > Saving server...
+[28/02/2015 18:05:10] > SAVE: Complete in 2.517 seconds using relational house storage.
+[28/02/2015 18:05:13] Lucas has logged in.
+[28/02/2015 18:05:23] > Broadcasted message: "Para comprar bless digite !bless".
+[28/02/2015 18:05:37] > CLEAN: Removed 2746 items from 2083 tiles in 0.219 seconds.
+[28/02/2015 18:05:38] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 18:05:59] Spectors Death has logged out.
+[28/02/2015 18:06:02] Spectors Death has logged in.
+[28/02/2015 18:06:47] Lucas has logged out.
+[28/02/2015 18:06:49] Lucas has logged in.
+[28/02/2015 18:08:41] Honda has logged out.
+[28/02/2015 18:08:43] Honda has logged in.
+[28/02/2015 18:08:51] Spectors Death has logged out.
+[28/02/2015 18:08:52] Spectors Death has logged in.
+[28/02/2015 18:09:22] Spectors Death has logged out.
+[28/02/2015 18:09:24] Spectors Death has logged in.
+[28/02/2015 18:09:38] Knight Of Rajada has logged out.
+[28/02/2015 18:09:39] Knight Of Rajada has logged in.
+[28/02/2015 18:10:21] [Warning - Protocol::RSA_decrypt] Not valid packet size
+[28/02/2015 18:13:33] Spectors Death has logged out.
+[28/02/2015 18:13:34] Spectors Death has logged in.
+[28/02/2015 18:13:44] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/02/2015 18:13:56] Deathstroke has logged out.
+[28/02/2015 18:13:57] Deathstroke has logged in.
+[28/02/2015 18:15:40] Slc Chachorrera has logged in.
+[28/02/2015 18:15:55] Bahlouli has logged out.
+[28/02/2015 18:16:26] Deathstroke has logged out.
+[28/02/2015 18:16:27] Bahlouli has logged in.
+[28/02/2015 18:16:27] Deathstroke has logged in.
+[28/02/2015 18:17:22] Deathstroke has logged out.
+[28/02/2015 18:17:23] Deathstroke has logged in.
+[28/02/2015 18:17:38] Lucas has logged out.
+[28/02/2015 18:17:39] Lucas has logged in.
+[28/02/2015 18:17:42] Lucas has logged out.
+[28/02/2015 18:18:06] Deathstroke has logged out.
+[28/02/2015 18:18:07] Deathstroke has logged in.
+[28/02/2015 18:18:45] Lucas has logged in.
+[28/02/2015 18:18:49] Lucas has logged out.
+[28/02/2015 18:18:50] Lucas has logged in.
+[28/02/2015 18:19:18] Slc Chachorrera has logged out.
+[28/02/2015 18:19:19] Slc Chachorrera has logged in.
+[28/02/2015 18:19:26] Merlin Scort has logged out.
+[28/02/2015 18:19:28] Merlin Scort has logged in.
+[28/02/2015 18:20:44] Slc Chachorrera has logged out.
+[28/02/2015 18:20:44] Slc Chachorrera has logged in.
+[28/02/2015 18:21:48] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 18:21:50] Account Manager has logged in.
+[28/02/2015 18:21:50] Nadador Arqueiro has logged out.
+[28/02/2015 18:21:58] Account Manager has logged out.
+[28/02/2015 18:22:05] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/02/2015 18:22:17] Slc Chachorrera has logged out.
+[28/02/2015 18:22:18] > CLEAN: Removed 3070 items from 2482 tiles in 0.234 seconds.
+[28/02/2015 18:22:18] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 18:22:19] Slc Chachorrera has logged in.
+[28/02/2015 18:23:28] Bahlouli has logged out.
+[28/02/2015 18:23:30] Bahlouli has logged in.
+[28/02/2015 18:23:32] Slc Chachorrera has logged out.
+[28/02/2015 18:23:34] Slc Chachorrera has logged in.
+[28/02/2015 18:25:35] Jureminha has logged out.
+[28/02/2015 18:25:51] Jureminha has logged in.
+[28/02/2015 18:26:15] Slc Chachorrera has logged out.
+[28/02/2015 18:26:17] Slc Chachorrera has logged in.
+[28/02/2015 18:26:21] Bahlouli has logged out.
+[28/02/2015 18:26:23] Bahlouli has logged in.
+[28/02/2015 18:28:12] Knight Of Rajada has logged out.
+[28/02/2015 18:28:18] Knight Of Rajada has logged in.
+[28/02/2015 18:28:30] > Saving server...
+[28/02/2015 18:28:30] sqlite3_step(): SQLITE ERROR: unable to open database file
+[28/02/2015 18:28:33] > SAVE: Complete in 3.146 seconds using relational house storage.
+[28/02/2015 18:29:35] Slc Chachorrera has logged out.
+[28/02/2015 18:29:38] Slc Chachorrera has logged in.
+[28/02/2015 18:30:26] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/02/2015 18:30:36] Slc Chachorrera has logged out.
+[28/02/2015 18:30:39] Slc Chachorrera has logged in.
+[28/02/2015 18:30:48] Spectors Death has logged out.
+[28/02/2015 18:30:50] Spectors Death has logged in.
+[28/02/2015 18:30:57] Account Manager has logged in.
+[28/02/2015 18:31:02] Account Manager has logged out.
+[28/02/2015 18:32:51] Menino Mal has logged in.
+[28/02/2015 18:32:52] Bahlouli has logged out.
+[28/02/2015 18:33:16] Bahlouli has logged in.
+[28/02/2015 18:33:30] Bahlouli has logged out.
+[28/02/2015 18:33:42] Slc Chachorrera has logged out.
+[28/02/2015 18:33:44] Slc Chachorrera has logged in.
+[28/02/2015 18:34:22] Spectors Death has logged out.
+[28/02/2015 18:34:24] Spectors Death has logged in.
+[28/02/2015 18:37:11] Deathstroke has logged out.
+[28/02/2015 18:37:13] Deathstroke has logged in.
+[28/02/2015 18:37:16] Deathstroke has logged out.
+[28/02/2015 18:37:32] Account Manager has logged in.
+[28/02/2015 18:37:49] Account Manager has logged out.
+[28/02/2015 18:37:58] Account Manager has logged in.
+[28/02/2015 18:38:14] Lucas has logged out.
+[28/02/2015 18:38:21] Account Manager has logged out.
+[28/02/2015 18:38:22] Jureminha has logged out.
+[28/02/2015 18:38:25] Jureminha has logged in.
+[28/02/2015 18:38:29] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 18:38:33] Menino Mal has logged out.
+[28/02/2015 18:38:36] Menino Mal has logged in.
+[28/02/2015 18:38:40] Mage Ziika has logged in.
+[28/02/2015 18:38:47] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/02/2015 18:39:02] > CLEAN: Removed 2394 items from 2454 tiles in 0.962 seconds.
+[28/02/2015 18:39:04] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 18:39:40] Deathstroke has logged in.
+[28/02/2015 18:39:51] Bahlouli has logged in.
+[28/02/2015 18:40:23] Bahlouli has logged out.
+[28/02/2015 18:40:26] Bahlouli has logged in.
+[28/02/2015 18:40:29] Deathstroke has logged out.
+[28/02/2015 18:40:30] Knight Doido has logged in.
+[28/02/2015 18:40:38] Bahlouli has logged out.
+[28/02/2015 18:40:40] Bahlouli has logged in.
+[28/02/2015 18:41:05] Knight Doido has logged out.
+[28/02/2015 18:41:07] Deathstroke has logged in.
+[28/02/2015 18:41:16] Knight Of Rajada has logged out.
+[28/02/2015 18:41:19] Account Manager has logged in.
+[28/02/2015 18:41:21] Bahlouli has logged out.
+[28/02/2015 18:41:24] Bahlouli has logged in.
+[28/02/2015 18:41:57] Account Manager has logged out.
+[28/02/2015 18:42:06] Paladin Of Rajada has logged in.
+[28/02/2015 18:42:30] Paladin Of Rajada has logged out.
+[28/02/2015 18:42:32] Jureminha has logged out.
+[28/02/2015 18:42:33] Knight Of Rajada has logged in.
+[28/02/2015 18:42:36] Jureminha has logged in.
+[28/02/2015 18:42:37] Knight Of Rajada has logged out.
+[28/02/2015 18:42:41] Hauzerah has logged in.
+[28/02/2015 18:42:52] Hauzerah has logged out.
+[28/02/2015 18:42:55] Paladin Of Rajada has logged in.
+[28/02/2015 18:43:02] Slc Chachorrera has logged out.
+[28/02/2015 18:43:07] Slc Chachorrera has logged in.
+[28/02/2015 18:47:08] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[28/02/2015 18:47:24] Menino Mal has logged out.
+[28/02/2015 18:47:32] Menino Mal has logged in.
+[28/02/2015 18:47:33] Menino Mal has logged out.
+[28/02/2015 18:49:43] Honda has logged out.
+[28/02/2015 18:51:50] > Saving server...
+[28/02/2015 18:51:52] > SAVE: Complete in 2.125 seconds using relational house storage.
+[28/02/2015 18:55:10] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 18:55:29] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/02/2015 18:55:40] > CLEAN: Removed 308 items from 512 tiles in 0.451 seconds.
+[28/02/2015 18:55:41] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 19:02:21] Slc Chachorrera has logged out.
+[28/02/2015 19:02:23] Slc Chachorrera has logged in.
+[28/02/2015 19:02:44] Slc Chachorrera has logged out.
+[28/02/2015 19:02:45] Slc Chachorrera has logged in.
+[28/02/2015 19:03:29] Paladin Of Rajada has logged out.
+[28/02/2015 19:03:31] Paladin Of Rajada has logged in.
+[28/02/2015 19:03:50] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[28/02/2015 19:11:51] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 19:12:11] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[28/02/2015 19:12:23] > CLEAN: Removed 581 items from 996 tiles in 0.229 seconds.
+[28/02/2015 19:12:23] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 19:15:11] > Saving server...
+[28/02/2015 19:15:13] > SAVE: Complete in 2.296 seconds using relational house storage.
+[28/02/2015 19:20:32] > Broadcasted message: "Para comprar bless digite !bless".
+[28/02/2015 19:20:53] Paladin Of Rajada has logged out.
+[28/02/2015 19:21:00] Spectors Death has logged out.
+[28/02/2015 19:21:10] Deathstroke has logged out.
+[28/02/2015 19:21:11] Deathstroke has logged in.
+[28/02/2015 19:21:57] Honda has logged in.
+[28/02/2015 19:22:16] Account Manager has logged in.
+[28/02/2015 19:22:37] Account Manager has logged out.
+[28/02/2015 19:23:03] Jureminha has logged out.
+[28/02/2015 19:23:08] Deathstroke has logged out.
+[28/02/2015 19:23:12] Deathstroke has logged in.
+[28/02/2015 19:23:13] Account Manager has logged in.
+[28/02/2015 19:23:16] Account Manager has logged out.
+[28/02/2015 19:23:24] Jureminha has logged in.
+[28/02/2015 19:23:33] Jureminha Paladin has logged in.
+[28/02/2015 19:23:43] Jureminha Paladin has logged out.
+[28/02/2015 19:23:44] Eu Gosto De Buceta has logged in.
+[28/02/2015 19:23:50] Deathstroke has logged out.
+[28/02/2015 19:23:57] Deathstroke has logged in.
+[28/02/2015 19:24:21] Slc Chachorrera has logged out.
+[28/02/2015 19:24:23] Slc Chachorrera has logged in.
+[28/02/2015 19:24:25] Bahlouli has logged out.
+[28/02/2015 19:24:25] 
+[28/02/2015 19:24:25] Lua Script Error: [CreatureScript Interface] 
+[28/02/2015 19:24:25] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[28/02/2015 19:24:26] 
+[28/02/2015 19:24:26] luaGetCreatureName(). Creature not found
+[28/02/2015 19:24:26] sqlite3_step(): SQLITE ERROR: unable to open database file
+[28/02/2015 19:24:26] Deathstroke has logged out.
+[28/02/2015 19:24:30] Bahlouli has logged in.
+[28/02/2015 19:25:13] Deathstroke has logged in.
+[28/02/2015 19:25:40] Menino Mal has logged in.
+[28/02/2015 19:26:49] Deathstroke has logged out.
+[28/02/2015 19:27:03] Deathstroke has logged in.
+[28/02/2015 19:27:15] Account Manager has logged in.
+[28/02/2015 19:27:16] Account Manager has logged out.
+[28/02/2015 19:27:17] Eu Gosto De Buceta has logged out.
+[28/02/2015 19:27:19] Eu Gosto De Buceta has logged in.
+[28/02/2015 19:27:37] Deathstroke has logged out.
+[28/02/2015 19:27:38] Account Manager has logged in.
+[28/02/2015 19:27:39] Account Manager has logged out.
+[28/02/2015 19:27:47] Deathstroke has logged in.
+[28/02/2015 19:28:08] Deathstroke has logged out.
+[28/02/2015 19:28:14] Deathstroke has logged in.
+[28/02/2015 19:28:32] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 19:28:43] Deathstroke has logged out.
+[28/02/2015 19:28:53] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/02/2015 19:28:59] Deathstroke has logged in.
+[28/02/2015 19:29:02] > CLEAN: Removed 1437 items from 1088 tiles in 0.216 seconds.
+[28/02/2015 19:29:02] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 19:29:16] Deathstroke has logged out.
+[28/02/2015 19:30:22] Bahlouli has logged out.
+[28/02/2015 19:30:23] Bahlouli has logged in.
+[28/02/2015 19:30:27] Deathstroke has logged in.
+[28/02/2015 19:30:58] Deathstroke has logged out.
+[28/02/2015 19:31:22] Deathstroke has logged in.
+[28/02/2015 19:31:43] Deathstroke has logged out.
+[28/02/2015 19:32:16] Deathstroke has logged in.
+[28/02/2015 19:32:42] 
+[28/02/2015 19:32:42] Lua Script Error: [Action Interface] 
+[28/02/2015 19:32:43] data/actions/scripts/upgrade1.lua:onUse
+[28/02/2015 19:32:43] 
+[28/02/2015 19:32:43] luaGetItemDefense(). Item not found
+[28/02/2015 19:32:43] 
+[28/02/2015 19:32:43] Lua Script Error: [Action Interface] 
+[28/02/2015 19:32:43] data/actions/scripts/upgrade1.lua:onUse
+[28/02/2015 19:32:44] 
+[28/02/2015 19:32:44] data/actions/scripts/upgrade1.lua:27: attempt to compare number with boolean
+[28/02/2015 19:32:44] stack traceback:
+[28/02/2015 19:32:44] 	data/actions/scripts/upgrade1.lua:27: in function <data/actions/scripts/upgrade1.lua:18>
+[28/02/2015 19:32:45] Deathstroke has logged out.
+[28/02/2015 19:32:55] Deathstroke has logged in.
+[28/02/2015 19:33:18] Deathstroke has logged out.
+[28/02/2015 19:33:29] Merlin Scort has logged out.
+[28/02/2015 19:33:30] Merlin Scort has logged in.
+[28/02/2015 19:33:33] Merlin Scort has logged out.
+[28/02/2015 19:33:40] Menino Mal has logged out.
+[28/02/2015 19:33:53] Deathstroke has logged in.
+[28/02/2015 19:34:17] Menino Mal has logged in.
+[28/02/2015 19:34:49] Slc Chachorrera has logged out.
+[28/02/2015 19:34:50] Slc Chachorrera has logged in.
+[28/02/2015 19:35:16] Deathstroke has logged out.
+[28/02/2015 19:35:17] Deathstroke has logged in.
+[28/02/2015 19:35:56] Jureminha has logged out.
+[28/02/2015 19:35:59] Deathstroke has logged out.
+[28/02/2015 19:36:03] Deathstroke has logged in.
+[28/02/2015 19:36:10] Eu Gosto De Buceta has logged out.
+[28/02/2015 19:36:29] Jureminha has logged in.
+[28/02/2015 19:37:14] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[28/02/2015 19:37:47] Deathstroke has logged out.
+[28/02/2015 19:37:54] Deathstroke has logged in.
+[28/02/2015 19:38:32] > Saving server...
+[28/02/2015 19:38:34] > SAVE: Complete in 2.007 seconds using relational house storage.
+[28/02/2015 19:38:36] Bahlouli has logged out.
+[28/02/2015 19:38:37] Deathstroke has logged out.
+[28/02/2015 19:38:39] Bahlouli has logged in.
+[28/02/2015 19:39:05] Deathstroke has logged in.
+[28/02/2015 19:39:18] Jureminha has logged out.
+[28/02/2015 19:39:19] Jureminha has logged in.
+[28/02/2015 19:40:01] Mage Ziika has logged out.
+[28/02/2015 19:40:02] Mage Ziika has logged in.
+[28/02/2015 19:40:18] Deathstroke has logged out.
+[28/02/2015 19:40:26] Mage Ziika has logged out.
+[28/02/2015 19:40:27] Mage Ziika has logged in.
+[28/02/2015 19:40:46] Jureminha has logged out.
+[28/02/2015 19:40:52] Eu Gosto De Buceta has logged in.
+[28/02/2015 19:43:46] Mateus has logged out.
+[28/02/2015 19:45:13] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 19:45:35] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[28/02/2015 19:45:39] Slc Chachorrera has logged out.
+[28/02/2015 19:45:44] > CLEAN: Removed 566 items from 812 tiles in 0.266 seconds.
+[28/02/2015 19:45:45] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 19:46:39] Slc Chachorrera has logged in.
+[28/02/2015 19:47:22] Eu Gosto De Buceta has logged out.
+[28/02/2015 19:47:27] Jureminha has logged in.
+[28/02/2015 19:53:56] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[28/02/2015 19:54:30] Slc Chachorrera has logged out.
+[28/02/2015 19:54:31] Slc Chachorrera has logged in.
+[28/02/2015 19:54:34] Jureminha has logged out.
+[28/02/2015 19:54:35] Jureminha has logged in.
+[28/02/2015 19:55:25] Account Manager has logged in.
+[28/02/2015 19:55:29] Account Manager has logged out.
+[28/02/2015 19:55:30] Pally Tenebroso has logged in.
+[28/02/2015 19:56:39] Honda has logged out.
+[28/02/2015 19:57:45] Slc Chachorrera has logged out.
+[28/02/2015 19:57:47] Slc Chachorrera has logged in.
+[28/02/2015 19:59:24] Jureminha Paladin has logged in.
+[28/02/2015 20:00:19] Slc Chachorrera has logged out.
+[28/02/2015 20:00:21] Slc Chachorrera has logged in.
+[28/02/2015 20:00:29] Jureminha Paladin has logged out.
+[28/02/2015 20:00:30] Eu Gosto De Buceta has logged in.
+[28/02/2015 20:01:08] Jureminha has logged out.
+[28/02/2015 20:01:13] Account Manager has logged in.
+[28/02/2015 20:01:14] Account Manager has logged out.
+[28/02/2015 20:01:19] Jureminha has logged in.
+[28/02/2015 20:01:33] Pally Tenebroso has logged out.
+[28/02/2015 20:01:36] Pally Tenebroso has logged in.
+[28/02/2015 20:01:53] > Saving server...
+[28/02/2015 20:01:55] > SAVE: Complete in 1.718 seconds using relational house storage.
+[28/02/2015 20:01:55] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 20:02:05] Menino Mal has logged out.
+[28/02/2015 20:02:17] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/02/2015 20:02:19] Eu Gosto De Buceta has logged out.
+[28/02/2015 20:02:20] Jureminha Paladin has logged in.
+[28/02/2015 20:02:24] Jureminha has logged out.
+[28/02/2015 20:02:25] Jureminha has logged in.
+[28/02/2015 20:02:25] > CLEAN: Removed 904 items from 1012 tiles in 0.203 seconds.
+[28/02/2015 20:02:26] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 20:02:42] Jureminha has logged out.
+[28/02/2015 20:02:48] Jureminha has logged in.
+[28/02/2015 20:03:53] Pally Tenebroso has logged out.
+[28/02/2015 20:03:55] Pally Tenebroso has logged in.
+[28/02/2015 20:06:55] Bahlouli has logged out.
+[28/02/2015 20:06:58] Bahlouli has logged in.
+[28/02/2015 20:08:59] Pally Tenebroso has logged out.
+[28/02/2015 20:09:00] Kaiozin has logged in.
+[28/02/2015 20:09:20] Kaiozin has logged out.
+[28/02/2015 20:09:20] Pally Tenebroso has logged in.
+[28/02/2015 20:10:38] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[28/02/2015 20:12:56] Pally Tenebroso has logged out.
+[28/02/2015 20:12:58] Pally Tenebroso has logged in.
+[28/02/2015 20:13:16] Slc Chachorrera has logged out.
+[28/02/2015 20:13:20] Slc Chachorrera has logged in.
+[28/02/2015 20:13:23] Bahlouli has logged out.
+[28/02/2015 20:13:27] Bahlouli has logged in.
+[28/02/2015 20:17:29] Jureminha Paladin has logged out.
+[28/02/2015 20:17:31] Jureminha Paladin has logged in.
+[28/02/2015 20:18:36] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 20:18:56] Jureminha Paladin has logged out.
+[28/02/2015 20:18:58] Jureminha Paladin has logged in.
+[28/02/2015 20:18:59] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[28/02/2015 20:19:07] > CLEAN: Removed 1668 items from 1705 tiles in 0.18 seconds.
+[28/02/2015 20:19:07] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 20:19:55] Jureminha Paladin has logged out.
+[28/02/2015 20:19:57] Jureminha Paladin has logged in.
+[28/02/2015 20:21:53] Jureminha Paladin has logged out.
+[28/02/2015 20:21:55] Jureminha Paladin has logged in.
+[28/02/2015 20:25:01] Jureminha Paladin has logged out.
+[28/02/2015 20:25:02] Jureminha Paladin has logged in.
+[28/02/2015 20:25:14] > Saving server...
+[28/02/2015 20:25:15] > SAVE: Complete in 1.741 seconds using relational house storage.
+[28/02/2015 20:26:40] Slc Chachorrera has logged out.
+[28/02/2015 20:26:41] Slc Chachorrera has logged in.
+[28/02/2015 20:26:54] Slc Chachorrera has logged out.
+[28/02/2015 20:26:55] Slc Chachorreira has logged in.
+[28/02/2015 20:27:20] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/02/2015 20:27:31] Slc Chachorreira has logged out.
+[28/02/2015 20:27:32] Slc Chachorrera has logged in.
+[28/02/2015 20:27:34] Slc Chachorrera has logged out.
+[28/02/2015 20:27:35] Account Manager has logged in.
+[28/02/2015 20:28:17] Account Manager has logged out.
+[28/02/2015 20:28:28] Slc Chachorreira has logged in.
+[28/02/2015 20:28:31] Slc Chachorreira has logged out.
+[28/02/2015 20:28:31] Slc Cachorrera has logged in.
+[28/02/2015 20:28:36] Slc Cachorrera has logged out.
+[28/02/2015 20:28:37] Slc Chachorrera has logged in.
+[28/02/2015 20:29:29] Slc Chachorrera has logged out.
+[28/02/2015 20:29:30] Slc Chachorreira has logged in.
+[28/02/2015 20:29:32] Jureminha Paladin has logged out.
+[28/02/2015 20:29:33] Slc Chachorreira has logged out.
+[28/02/2015 20:29:33] Jureminha Paladin has logged in.
+[28/02/2015 20:29:34] Slc Cachorrera has logged in.
+[28/02/2015 20:29:34] Jureminha Paladin has logged out.
+[28/02/2015 20:29:40] Jureminha Paladin has logged in.
+[28/02/2015 20:30:27] Jureminha Paladin has logged out.
+[28/02/2015 20:30:28] Jureminha Paladin has logged in.
+[28/02/2015 20:32:18] Mage Ziika has logged out.
+[28/02/2015 20:32:21] Mage Ziika has logged in.
+[28/02/2015 20:35:17] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 20:35:41] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[28/02/2015 20:35:47] > CLEAN: Removed 2107 items from 1069 tiles in 0.184 seconds.
+[28/02/2015 20:35:48] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 20:36:13] Bahlouli has logged out.
+[28/02/2015 20:36:47] Jureminha has logged out.
+[28/02/2015 20:37:11] Jureminha has logged in.
+[28/02/2015 20:37:31] Pally Tenebroso has logged out.
+[28/02/2015 20:38:00] Mage Ziika has logged out.
+[28/02/2015 20:38:03] Mage Ziika has logged in.
+[28/02/2015 20:39:21] Mage Ziika has logged out.
+[28/02/2015 20:39:23] Mage Ziika has logged in.
+[28/02/2015 20:39:47] Jureminha Paladin has logged out.
+[28/02/2015 20:39:58] Jureminha Paladin has logged in.
+[28/02/2015 20:43:29] Bahlouli has logged in.
+[28/02/2015 20:44:02] > Broadcasted message: "Para comprar bless digite !bless".
+[28/02/2015 20:44:08] Jureminha Paladin has logged out.
+[28/02/2015 20:44:09] Jureminha Paladin has logged in.
+[28/02/2015 20:44:44] Mage Ziika has logged out.
+[28/02/2015 20:44:46] Mage Ziika has logged in.
+[28/02/2015 20:45:14] Jureminha Paladin has logged out.
+[28/02/2015 20:45:17] Jureminha Paladin has logged in.
+[28/02/2015 20:46:13] Slc Cachorrera has logged out.
+[28/02/2015 20:47:42] Jureminha Paladin has logged out.
+[28/02/2015 20:47:44] Jureminha Paladin has logged in.
+[28/02/2015 20:48:17] Slc Cachorrera has logged in.
+[28/02/2015 20:48:35] > Saving server...
+[28/02/2015 20:48:37] > SAVE: Complete in 1.856 seconds using relational house storage.
+[28/02/2015 20:48:39] Bahlouli has logged out.
+[28/02/2015 20:48:42] Bahlouli has logged in.
+[28/02/2015 20:49:10] Mage Ziika has logged out.
+[28/02/2015 20:49:13] Mage Ziika has logged in.
+[28/02/2015 20:51:34] Slc Cachorrera has logged out.
+[28/02/2015 20:51:35] Slc Chachorrera has logged in.
+[28/02/2015 20:51:43] Jureminha has logged out.
+[28/02/2015 20:51:50] Jureminha has logged in.
+[28/02/2015 20:51:58] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 20:52:06] Slc Chachorrera has logged out.
+[28/02/2015 20:52:07] Slc Cachorrera has logged in.
+[28/02/2015 20:52:23] > Broadcasted message: "Para comprar bless digite !bless".
+[28/02/2015 20:52:29] > CLEAN: Removed 1231 items from 1057 tiles in 0.546 seconds.
+[28/02/2015 20:52:30] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 20:54:53] Slc Cachorrera has logged out.
+[28/02/2015 20:54:54] Slc Chachorrera has logged in.
+[28/02/2015 20:58:40] Druidzerah Mythus has logged in.
+[28/02/2015 21:00:22] Druidzerah Mythus has logged out.
+[28/02/2015 21:00:40] Slc Chachorrera has logged out.
+[28/02/2015 21:00:41] Slc Cachorrera has logged in.
+[28/02/2015 21:00:44] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/02/2015 21:00:57] 
+[28/02/2015 21:00:57] Lua Script Error: [Action Interface] 
+[28/02/2015 21:00:57] data/actions/scripts/destroyfield.lua:onUse
+[28/02/2015 21:00:58] 
+[28/02/2015 21:00:58] luaGetThingFromPos(). Tile not found
+[28/02/2015 21:01:39] Slc Cachorrera has logged out.
+[28/02/2015 21:01:40] Slc Chachorrera has logged in.
+[28/02/2015 21:01:56] Jureminha Paladin has logged out.
+[28/02/2015 21:01:59] Jureminha Paladin has logged in.
+[28/02/2015 21:03:49] Slc Chachorrera has logged out.
+[28/02/2015 21:03:50] Slc Cachorrera has logged in.
+[28/02/2015 21:06:05] Slc Cachorrera has logged out.
+[28/02/2015 21:06:07] Slc Cachorrera has logged in.
+[28/02/2015 21:07:54] Slc Cachorrera has logged out.
+[28/02/2015 21:07:55] Slc Chachorrera has logged in.
+[28/02/2015 21:08:39] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 21:09:05] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/02/2015 21:09:10] > CLEAN: Removed 65 items from 103 tiles in 0.679 seconds.
+[28/02/2015 21:09:11] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 21:10:39] Slc Chachorrera has logged out.
+[28/02/2015 21:10:39] Slc Chachorrera has logged in.
+[28/02/2015 21:11:00] Slc Chachorrera has logged out.
+[28/02/2015 21:11:02] Slc Chachorrera has logged in.
+[28/02/2015 21:11:56] > Saving server...
+[28/02/2015 21:11:58] > SAVE: Complete in 1.672 seconds using relational house storage.
+[28/02/2015 21:13:00] Druidzerah Mythus has logged in.
+[28/02/2015 21:16:24] Deathstroke has logged in.
+[28/02/2015 21:16:48] Deathstroke has logged out.
+[28/02/2015 21:16:50] Deathstroke has logged in.
+[28/02/2015 21:17:00] Deathstroke has logged out.
+[28/02/2015 21:17:02] Deathstroke has logged in.
+[28/02/2015 21:17:26] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[28/02/2015 21:17:31] Deathstroke has logged out.
+[28/02/2015 21:17:32] Deathstroke has logged in.
+[28/02/2015 21:17:53] Deathstroke has logged out.
+[28/02/2015 21:17:55] Deathstroke has logged in.
+[28/02/2015 21:18:20] Deathstroke has logged out.
+[28/02/2015 21:18:23] Deathstroke has logged in.
+[28/02/2015 21:18:33] Deathstroke has logged out.
+[28/02/2015 21:18:35] Deathstroke has logged in.
+[28/02/2015 21:18:46] Deathstroke has logged out.
+[28/02/2015 21:18:47] Deathstroke has logged in.
+[28/02/2015 21:19:00] Deathstroke has logged out.
+[28/02/2015 21:19:02] Deathstroke has logged in.
+[28/02/2015 21:19:23] Deathstroke has logged out.
+[28/02/2015 21:19:24] Deathstroke has logged in.
+[28/02/2015 21:19:43] Deathstroke has logged out.
+[28/02/2015 21:19:45] Deathstroke has logged in.
+[28/02/2015 21:19:57] Deathstroke has logged out.
+[28/02/2015 21:19:59] Deathstroke has logged in.
+[28/02/2015 21:20:10] Deathstroke has logged out.
+[28/02/2015 21:20:11] Deathstroke has logged in.
+[28/02/2015 21:20:18] Slc Chachorrera has logged out.
+[28/02/2015 21:20:19] Slc Chachorrera has logged in.
+[28/02/2015 21:20:24] Deathstroke has logged out.
+[28/02/2015 21:20:27] Deathstroke has logged in.
+[28/02/2015 21:20:54] Deathstroke has logged out.
+[28/02/2015 21:20:56] Deathstroke has logged in.
+[28/02/2015 21:21:47] Deathstroke has logged out.
+[28/02/2015 21:21:48] Deathstroke has logged in.
+[28/02/2015 21:22:43] Deathstroke has logged out.
+[28/02/2015 21:22:45] Deathstroke has logged in.
+[28/02/2015 21:22:56] Deathstroke has logged out.
+[28/02/2015 21:22:58] Deathstroke has logged in.
+[28/02/2015 21:23:09] Deathstroke has logged out.
+[28/02/2015 21:23:11] Deathstroke has logged in.
+[28/02/2015 21:23:23] Deathstroke has logged out.
+[28/02/2015 21:23:24] Deathstroke has logged in.
+[28/02/2015 21:23:36] Deathstroke has logged out.
+[28/02/2015 21:23:37] Deathstroke has logged in.
+[28/02/2015 21:23:50] Deathstroke has logged out.
+[28/02/2015 21:23:51] Deathstroke has logged in.
+[28/02/2015 21:25:20] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 21:25:47] > Broadcasted message: "Para comprar bless digite !bless".
+[28/02/2015 21:25:50] > CLEAN: Removed 176 items from 187 tiles in 0.16 seconds.
+[28/02/2015 21:25:50] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 21:28:15] Jureminha Paladin has logged out.
+[28/02/2015 21:28:17] Jureminha Paladin has logged in.
+[28/02/2015 21:28:46] Slc Chachorrera has logged out.
+[28/02/2015 21:28:48] Slc Chachorrera has logged in.
+[28/02/2015 21:30:16] Slc Chachorrera has logged out.
+[28/02/2015 21:30:18] Slc Chachorrera has logged in.
+[28/02/2015 21:32:19] Mage Ziika has logged out.
+[28/02/2015 21:34:08] > Broadcasted message: "Para comprar bless digite !bless".
+[28/02/2015 21:35:17] > Saving server...
+[28/02/2015 21:35:19] > SAVE: Complete in 1.779 seconds using relational house storage.
+[28/02/2015 21:35:30] Jureminha Paladin has logged out.
+[28/02/2015 21:35:31] Jureminha Paladin has logged in.
+[28/02/2015 21:38:15] Jureminha has logged out.
+[28/02/2015 21:38:21] Jureminha Paladin has logged out.
+[28/02/2015 21:38:31] Druidzerah Mythus has logged out.
+[28/02/2015 21:38:33] Druidzerah Mythus has logged in.
+[28/02/2015 21:39:28] Deathstroke has logged out.
+[28/02/2015 21:40:38] Jureminha has logged in.
+[28/02/2015 21:40:53] Deathstroke has logged in.
+[28/02/2015 21:41:12] Jureminha Paladin has logged in.
+[28/02/2015 21:41:40] Druidzerah Mythus has logged out.
+[28/02/2015 21:41:42] Druidzerah Mythus has logged in.
+[28/02/2015 21:42:01] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 21:42:29] > Broadcasted message: "Para comprar bless digite !bless".
+[28/02/2015 21:42:31] > CLEAN: Removed 382 items from 304 tiles in 0.184 seconds.
+[28/02/2015 21:42:32] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 21:44:14] Bahlouli has logged out.
+[28/02/2015 21:44:23] Deathstroke has logged out.
+[28/02/2015 21:48:57] Druidzerah Mythus has logged out.
+[28/02/2015 21:48:59] Druidzerah Mythus has logged in.
+[28/02/2015 21:50:50] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[28/02/2015 21:50:52] Mage Ziika has logged in.
+[28/02/2015 21:51:20] Account Manager has logged in.
+[28/02/2015 21:51:29] Account Manager has logged out.
+[28/02/2015 21:51:34] Account Manager has logged in.
+[28/02/2015 21:51:39] Bahlouli has logged in.
+[28/02/2015 21:52:02] Account Manager has logged out.
+[28/02/2015 21:52:11] Skhowz has logged in.
+[28/02/2015 21:55:51] Skhowz has logged out.
+[28/02/2015 21:55:53] Skhowz has logged in.
+[28/02/2015 21:58:26] 
+[28/02/2015 21:58:26] Lua Script Error: [Action Interface] 
+[28/02/2015 21:58:27] data/actions/scripts/upgrade.lua:onUse
+[28/02/2015 21:58:27] 
+[28/02/2015 21:58:27] luaGetItemAttack(). Item not found
+[28/02/2015 21:58:27] 
+[28/02/2015 21:58:27] Lua Script Error: [Action Interface] 
+[28/02/2015 21:58:27] data/actions/scripts/upgrade.lua:onUse
+[28/02/2015 21:58:27] 
+[28/02/2015 21:58:27] data/actions/scripts/upgrade.lua:27: attempt to compare number with boolean
+[28/02/2015 21:58:28] stack traceback:
+[28/02/2015 21:58:28] 	data/actions/scripts/upgrade.lua:27: in function <data/actions/scripts/upgrade.lua:18>
+[28/02/2015 21:58:38] > Saving server...
+[28/02/2015 21:58:40] > SAVE: Complete in 1.9 seconds using relational house storage.
+[28/02/2015 21:58:42] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 21:59:11] > Broadcasted message: "Para comprar bless digite !bless".
+[28/02/2015 21:59:13] > CLEAN: Removed 365 items from 554 tiles in 0.17 seconds.
+[28/02/2015 21:59:13] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 22:02:19] Bahlouli has logged out.
+[28/02/2015 22:02:29] Deathstroke has logged in.
+[28/02/2015 22:03:20] Deathstroke has logged out.
+[28/02/2015 22:03:21] Deathstroke has logged in.
+[28/02/2015 22:03:42] Deathstroke has logged out.
+[28/02/2015 22:03:45] Deathstroke has logged in.
+[28/02/2015 22:04:02] Deathstroke has logged out.
+[28/02/2015 22:04:03] Deathstroke has logged in.
+[28/02/2015 22:04:07] Skhowz has logged out.
+[28/02/2015 22:04:09] Skhowz has logged in.
+[28/02/2015 22:04:22] Deathstroke has logged out.
+[28/02/2015 22:04:23] Deathstroke has logged in.
+[28/02/2015 22:04:40] Deathstroke has logged out.
+[28/02/2015 22:04:42] Deathstroke has logged in.
+[28/02/2015 22:05:00] Deathstroke has logged out.
+[28/02/2015 22:05:04] Deathstroke has logged in.
+[28/02/2015 22:05:21] Deathstroke has logged out.
+[28/02/2015 22:05:23] Deathstroke has logged in.
+[28/02/2015 22:05:38] Deathstroke has logged out.
+[28/02/2015 22:05:39] Deathstroke has logged in.
+[28/02/2015 22:05:54] Deathstroke has logged out.
+[28/02/2015 22:05:56] Skhowz has logged out.
+[28/02/2015 22:05:58] Skhowz has logged in.
+[28/02/2015 22:06:00] Deathstroke has logged in.
+[28/02/2015 22:06:21] Deathstroke has logged out.
+[28/02/2015 22:06:23] Deathstroke has logged in.
+[28/02/2015 22:06:26] Deathstroke has logged out.
+[28/02/2015 22:06:27] Deathstroke has logged in.
+[28/02/2015 22:06:28] Deathstroke has logged out.
+[28/02/2015 22:06:34] Bahlouli has logged in.
+[28/02/2015 22:06:54] Mateus has logged in.
+[28/02/2015 22:07:32] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/02/2015 22:07:39] Slc Chachorrera has logged out.
+[28/02/2015 22:08:22] Mage Ziika has logged out.
+[28/02/2015 22:08:44] Skhowz has logged out.
+[28/02/2015 22:09:32] Jureminha Paladin has logged out.
+[28/02/2015 22:09:41] Mage Ziika has logged in.
+[28/02/2015 22:10:17] Bahlouli has logged out.
+[28/02/2015 22:10:44] Honda has logged in.
+[28/02/2015 22:13:06] Slc Chachorrera has logged in.
+[28/02/2015 22:15:23] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 22:15:53] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[28/02/2015 22:15:53] > CLEAN: Removed 1093 items from 1263 tiles in 0.266 seconds.
+[28/02/2015 22:15:54] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 22:16:40] Mateus has logged out.
+[28/02/2015 22:17:52] Honda has logged out.
+[28/02/2015 22:17:54] Honda has logged in.
+[28/02/2015 22:21:59] > Saving server...
+[28/02/2015 22:22:00] > SAVE: Complete in 1.7 seconds using relational house storage.
+[28/02/2015 22:24:14] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[28/02/2015 22:32:04] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 22:32:35] > CLEAN: Removed 4766 items from 2751 tiles in 0.337 seconds.
+[28/02/2015 22:32:35] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 22:32:36] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[28/02/2015 22:33:22] Slc Chachorrera has logged out.
+[28/02/2015 22:33:26] Druidzerah Mythus has logged out.
+[28/02/2015 22:33:28] Druidzerah Mythus has logged in.
+[28/02/2015 22:35:36] Druidzerah Mythus has logged out.
+[28/02/2015 22:35:38] Druidzerah Mythus has logged in.
+[28/02/2015 22:38:48] Mage Ziika has logged out.
+[28/02/2015 22:40:57] > Broadcasted message: "Para comprar bless digite !bless".
+[28/02/2015 22:45:15] Jureminha has logged out.
+[28/02/2015 22:45:20] > Saving server...
+[28/02/2015 22:45:21] > SAVE: Complete in 1.424 seconds using relational house storage.
+[28/02/2015 22:45:53] Jureminha has logged in.
+[28/02/2015 22:46:19] Jureminha has logged out.
+[28/02/2015 22:47:03] Jureminha has logged in.
+[28/02/2015 22:48:45] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 22:49:15] > CLEAN: Removed 1894 items from 1466 tiles in 0.218 seconds.
+[28/02/2015 22:49:15] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 22:49:18] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/02/2015 22:53:18] Jureminha Paladin has logged in.
+[28/02/2015 22:53:32] Jureminha Paladin has logged out.
+[28/02/2015 22:53:44] Jureminha Paladin has logged in.
+[28/02/2015 22:54:05] Jureminha has logged out.
+[28/02/2015 22:54:15] Jureminha has logged in.
+[28/02/2015 22:54:31] Jureminha Paladin has logged out.
+[28/02/2015 22:54:34] Honda has logged out.
+[28/02/2015 22:54:52] Jureminha has logged out.
+[28/02/2015 22:54:54] Jureminha has logged in.
+[28/02/2015 22:56:01] Honda has logged in.
+[28/02/2015 22:57:39] > Broadcasted message: "Para ver as noticias fale !notice".
+[28/02/2015 23:05:26] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 23:05:57] > CLEAN: Removed 3190 items from 1681 tiles in 0.301 seconds.
+[28/02/2015 23:05:57] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 23:06:00] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[28/02/2015 23:08:41] > Saving server...
+[28/02/2015 23:08:44] > SAVE: Complete in 2.446 seconds using relational house storage.
+[28/02/2015 23:14:21] > Broadcasted message: "Para comprar bless digite !bless".
+[28/02/2015 23:15:19] Jureminha Paladin has logged in.
+[28/02/2015 23:18:33] Bruuno has logged in.
+[28/02/2015 23:20:32] Jean has logged in.
+[28/02/2015 23:21:41] Jean has logged out.
+[28/02/2015 23:21:56] Bruuno has logged out.
+[28/02/2015 23:22:03] Leaver has logged in.
+[28/02/2015 23:22:07] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[28/02/2015 23:22:29] Druidzerah Mythus has logged out.
+[28/02/2015 23:22:38] > CLEAN: Removed 4526 items from 2743 tiles in 0.307 seconds.
+[28/02/2015 23:22:38] > Broadcasted message: "Map Cleaned.".
+[28/02/2015 23:22:42] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[28/02/2015 23:22:45] Druidzerah Mythus has logged in.
+[28/02/2015 23:23:52] Leaver has logged out.
+[28/02/2015 23:24:03] Bruuno has logged in.
+[28/02/2015 23:24:39] Bruuno has logged out.
+[28/02/2015 23:24:46] Jureminha Paladin has logged out.
+[28/02/2015 23:24:47] Jureminha Paladin has logged in.
+[28/02/2015 23:24:49] Leaver has logged in.
+[28/02/2015 23:25:23] Jureminha Paladin has logged out.
+[28/02/2015 23:25:25] Jureminha Paladin has logged in.
+[28/02/2015 23:25:52] Bruuno has logged in.
+[28/02/2015 23:26:44] Bruuno has logged out.
+[28/02/2015 23:26:50] Bruuno has logged in.
+[28/02/2015 23:28:13] Bruuno has logged out.
+[28/02/2015 23:28:29] Leaver has logged out.
+[28/02/2015 23:29:01] Bruuno has logged in.
+[28/02/2015 23:29:02] Bruuno has logged out.
+[28/02/2015 23:29:07] Leaver has logged in.
+[28/02/2015 23:30:01] Jureminha Paladin has logged out.
+[28/02/2015 23:31:03] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[28/02/2015 23:31:44] Leaver has logged out.
+[28/02/2015 23:31:45] Leaver has logged in.
+[28/02/2015 23:32:02] > Saving server...
+[28/02/2015 23:32:04] > SAVE: Complete in 1.769 seconds using relational house storage.
+[28/02/2015 23:33:00] Jureminha has logged out.
+[28/02/2015 23:33:00] Honda has logged out.
+[28/02/2015 23:33:01] Druidzerah Mythus has logged out.
+[28/02/2015 23:33:01] Leaver has logged out.
+[28/02/2015 23:33:01] > Saving server...
+[28/02/2015 23:33:02] > SAVE: Complete in 1.135 seconds using relational house storage.
+[28/02/2015 23:33:03] Preparing to shutdown server..
+[28/02/2015 23:33:05] .
+[28/02/2015 23:33:05] Exiting

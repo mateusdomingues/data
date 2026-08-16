@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+
+<movements>
+	<movevent event="Equip" itemid="6132" slot="feet" function="onEquipItem" />
+	<movevent event="Equip" itemid="2640" slot="feet" function="onEquipItem" />
+        <movevent event="Equip" itemid="0" slot="necklace" function="onEquipItem"/> 
+	<movevent event="DeEquip" itemid="2640" slot="feet" function="onDeEquipItem" />
+	<movevent event="Equip" itemid="6132" slot="feet" function="onEquipItem" />
+	<movevent event="Equip" itemid="2640" slot="feet" function="onEquipItem" />
+	<movevent event="DeEquip" itemid="2640" slot="feet" function="onDeEquipItem" />  
+	<movevent event="StepIn" actionid="10000" script="coal_basin.lua" />
+	<movevent event="StepIn" itemid="2109" script="ball.lua" /> 
+	<movevent event="StepIn" itemid="1510" script="traps.lua" />
+	<movevent event="StepOut" itemid="1511" script="traps.lua" />
+	<movevent event="StepIn" itemid="1512" script="traps2.lua" />
+	<movevent event="StepOut" itemid="1513" script="traps2.lua" />
+	<movevent event="StepIn" itemid="1387" script="temple change.lua" />
+	<movevent event="StepIn" actionid="10001" script="pits seals.lua"/>
+	<movevent event="StepIn" actionid="10002" script="pits seals.lua"/>
+	<movevent event="StepIn" actionid="10003" script="pits seals.lua"/>
+	<movevent event="StepIn" actionid="10004" script="pits seals.lua"/>
+	<movevent event="StepIn" actionid="10005" script="pits seals.lua"/>
+	<movevent event="StepIn" actionid="22222" script="pits seals.lua"/>
+        <movevent type="StepIn" actionid="13540" event="script" value="epic.lua"/>
+        <movevent type="StepIn" actionid="13550" event="script" value="questshinigami.lua"/>
+	<movevent event="StepIn" actionid="60001" script="teleport.lua"/>
+        <movevent type="StepIn" actionid="13541" event="script" value="vip.lua"/>
+        <movevent type="StepIn" actionid="13542" event="script" value="areaderaids.lua"/>
+        <movevent type="StepIn" actionid="13543" event="script" value="shinigami.lua"/>
+	<movevent event="StepIn" actionid="22222" script="poifinal.lua"/>
+	<movevent event="Equip" itemid="2205" slot="ring" function="onEquipItem"/>
+	<movevent event="DeEquip" itemid="2205" slot="ring" function="onDeEquipItem"/>
+	<movevent event="Equip" itemid="2168" slot="ring" function="onEquipItem"/>
+	<movevent event="DeEquip" itemid="2168" slot="ring" function="onDeEquipItem"/>
+        <movevent event="Equip" itemid="2127" slot="ring" function="onEquipItem" script="montaria.lua"/>
+        <movevent event="DeEquip" itemid="2127" slot="ring" function="onDeEquipItem" script="montaria.lua"/>
+
+<!-- Swimming -->
+	<movevent type="StepIn" actionid="2500" event="script" value="paladin.lua"/>
+	<movevent type="StepIn" actionid="2501" event="script" value="sorcerer.lua"/>
+	<movevent type="StepIn" actionid="2502" event="script" value="knight.lua"/>
+	<movevent type="StepIn" actionid="2503" event="script" value="druid.lua"/>
+
+<!-- Jungle Maw -->
+	<movevent event="AddItem" tileitem="1" itemid="4208" script="JungleMaw.lua"/> -- Etapa final
+	<movevent event="StepIn" itemid="4208" script="JungleMaw.lua"/>
+
+<!-- Swimming -->
+	<movevent type="StepIn" itemid="4828" event="script" value="swimming/north.lua"/>
+	<movevent type="StepIn" itemid="4829" event="script" value="swimming/east.lua"/>
+	<movevent type="StepIn" itemid="4830" event="script" value="swimming/south.lua"/>
+	<movevent type="StepIn" itemid="4831" event="script" value="swimming/west.lua"/>
+
+<!-- Depot Tiles -->
+<movevent event="StepIn" itemid="446" script="depot tiles.lua" />
+	<movevent event="StepOut" itemid="447" script="depot tiles.lua" />
+
+	<movevent event="StepIn" itemid="426" script="depot tiles.lua" />
+	<movevent event="StepOut" itemid="425" script="depot tiles.lua" />
+
+	<movevent event="StepIn" itemid="416" script="depot tiles.lua" />
+	<movevent event="StepOut" itemid="417" script="depot tiles.lua" />
+
+	<movevent event="StepIn" itemid="3216" script="depot tiles.lua" />
+	<movevent event="StepOut" itemid="3217" script="depot tiles.lua" />
+
+<!-- Fields -->
+	<movevent event="StepIn" itemid="1487" function="onStepInField" />
+	<movevent event="AddItem" tileitem="0" itemid="1487" function="onAddField" />
+
+	<movevent event="StepIn" itemid="1488" function="onStepInField" />
+	<movevent event="AddItem" tileitem="0" itemid="1488" function="onAddField" />
+
+	<movevent event="StepIn" itemid="1490" function="onStepInField" />
+	<movevent event="AddItem" tileitem="0" itemid="1490" function="onAddField" />
+
+	<movevent event="StepIn" itemid="1491" function="onStepInField" />
+	<movevent event="AddItem" tileitem="0" itemid="1491" function="onAddField" />
+
+	<movevent event="StepIn" itemid="1492" function="onStepInField" />
+	<movevent event="AddItem" tileitem="0" itemid="1492" function="onAddField" />
+
+	<movevent event="StepIn" itemid="1493" function="onStepInField" />
+	<movevent event="AddItem" tileitem="0" itemid="1493" function="onAddField" />
+
+	<movevent event="StepIn" itemid="1495" function="onStepInField" />
+	<movevent event="AddItem" tileitem="0" itemid="1495" function="onAddField" />
+
+	<movevent event="StepIn" itemid="1496" function="onStepInField" />
+	<movevent event="AddItem" tileitem="0" itemid="1496" function="onAddField" />
+
+	<movevent event="StepIn" itemid="1506" function="onStepInField" />
+	<movevent event="AddItem" tileitem="0" itemid="1506" function="onAddField" />
+
+	<movevent event="Equip" itemid="2197" slot="necklace" function="onEquipItem" />
+	<movevent event="DeEquip" itemid="2197" slot="necklace" function="onDeEquipItem" />
+
+	<movevent event="Equip" itemid="2126" slot="necklace" function="onEquipItem" />
+	<movevent event="DeEquip" itemid="2126" slot="necklace" function="onDeEquipItem" />
+
+	<movevent event="Equip" itemid="2199" slot="necklace" function="onEquipItem" />
+	<movevent event="DeEquip" itemid="2199" slot="necklace" function="onDeEquipItem" />
+
+	<movevent event="Equip" itemid="2132" slot="necklace" function="onEquipItem" />
+	<movevent event="DeEquip" itemid="2132" slot="necklace" function="onDeEquipItem" />
+
+	<movevent event="Equip" itemid="2198" slot="necklace" function="onEquipItem" />
+	<movevent event="DeEquip" itemid="2198" slot="necklace" function="onDeEquipItem" />
+
+	<movevent event="Equip" itemid="2201" slot="necklace" function="onEquipItem" />
+	<movevent event="DeEquip" itemid="2201" slot="necklace" function="onDeEquipItem" />
+
+	<movevent event="Equip" itemid="2261" slot="necklace" function="onEquipItem" />
+	<movevent event="DeEquip" itemid="2261" slot="necklace" function="onDeEquipItem" />
+
+	<movevent event="Equip" itemid="2200" slot="necklace" function="onEquipItem" />
+	<movevent event="DeEquip" itemid="2200" slot="necklace" function="onDeEquipItem" />
+
+	<movevent event="Equip" itemid="2164" slot="ring" function="onEquipItem" />
+	<movevent event="DeEquip" itemid="2164" slot="ring" function="onDeEquipItem" />
+
+	<movevent event="Equip" itemid="2207" slot="ring" function="onEquipItem" />
+	<movevent event="Equip" itemid="2210" slot="ring" function="onEquipItem" />
+	<movevent event="DeEquip" itemid="2210" slot="ring" function="onDeEquipItem" />
+
+	<movevent event="Equip" itemid="2208" slot="ring" function="onEquipItem" />
+	<movevent event="Equip" itemid="2211" slot="ring" function="onEquipItem" />
+	<movevent event="DeEquip" itemid="2211" slot="ring" function="onDeEquipItem" />
+
+	<movevent event="Equip" itemid="2209" slot="ring" function="onEquipItem" />
+	<movevent event="Equip" itemid="2212" slot="ring" function="onEquipItem" />
+	<movevent event="DeEquip" itemid="2212" slot="ring" function="onDeEquipItem" />
+
+	<movevent event="Equip" itemid="2213" slot="ring" function="onEquipItem" />
+	<movevent event="Equip" itemid="2215" slot="ring" function="onEquipItem" />
+	<movevent event="DeEquip" itemid="2215" slot="ring" function="onDeEquipItem" />
+
+	<movevent event="Equip" itemid="2168" slot="ring" function="onEquipItem" />
+	<movevent event="Equip" itemid="2205" slot="ring" function="onEquipItem" />
+	<movevent event="DeEquip" itemid="2205" slot="ring" function="onDeEquipItem" />
+
+	<movevent event="Equip" itemid="2165" slot="ring" function="onEquipItem" />
+	<movevent event="Equip" itemid="2202" slot="ring" function="onEquipItem" />
+	<movevent event="DeEquip" itemid="2202" slot="ring" function="onDeEquipItem" />
+
+	<movevent event="Equip" itemid="2167" slot="ring" function="onEquipItem" />
+	<movevent event="Equip" itemid="2204" slot="ring" function="onEquipItem" />
+	<movevent event="DeEquip" itemid="2204" slot="ring" function="onDeEquipItem" />
+
+	<movevent event="Equip" itemid="2169" slot="ring" function="onEquipItem" />
+	<movevent event="Equip" itemid="2206" slot="ring" function="onEquipItem" />
+	<movevent event="DeEquip" itemid="2206" slot="ring" function="onDeEquipItem" />
+
+	<movevent event="Equip" itemid="2214" slot="ring" function="onEquipItem" />
+	<movevent event="Equip" itemid="2216" slot="ring" function="onEquipItem" />
+	<movevent event="DeEquip" itemid="2216" slot="ring" function="onDeEquipItem" />
+
+	<movevent event="Equip" itemid="2195" slot="feet" function="onEquipItem" />
+	<movevent event="DeEquip" itemid="2195" slot="feet" function="onDeEquipItem" />
+
+	<movevent event="StepOut" itemid="1214" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1222" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1226" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1230" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1236" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1236" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1240" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1244" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1248" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1254" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1254" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1258" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1262" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="3537" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="3537" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="3539" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="3541" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="3543" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5085" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5100" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5100" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5102" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5104" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5118" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5118" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5120" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5122" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5124" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5136" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5136" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5139" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5139" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5280" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5280" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5287" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5291" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5295" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5518" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5749" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1211" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1211" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1220" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1224" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1228" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1233" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1233" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1238" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1242" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1246" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1251" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1251" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1256" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1260" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="3546" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="3546" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="3548" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="3550" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="3552" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5083" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5109" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5109" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5111" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5113" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5115" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5127" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5127" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5129" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5131" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5133" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5142" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5142" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5145" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5145" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5283" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5283" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5285" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5289" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5293" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5516" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5749" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5121" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5123" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="1247" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="6209" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="6205" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="6266" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="6897" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="6899" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="6908" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="6906" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="6261" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="6264" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="6207" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="6203" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="6906" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5106" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="6262" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="6260" script="leveldoors.lua" />
+	<movevent event="StepOut" itemid="5132" script="leveldoors.lua" />
+        <movement event="StepOut" itemid="10064" script="boneco de teleport.lua" />
+
+
+
+<!-- Snow -->
+	<movevent event="StepOut" itemid="670" script="snow.lua" />
+	<movevent event="StepOut" itemid="6580" script="snow.lua" />
+	<movevent event="StepOut" itemid="6580" script="snow.lua" />
+	<movevent event="StepOut" itemid="6581" script="snow.lua" />
+	<movevent event="StepOut" itemid="6582" script="snow.lua" />
+	<movevent event="StepOut" itemid="6583" script="snow.lua" />
+	<movevent event="StepOut" itemid="6584" script="snow.lua" />
+	<movevent event="StepOut" itemid="6585" script="snow.lua" />
+	<movevent event="StepOut" itemid="6586" script="snow.lua" />
+	<movevent event="StepOut" itemid="6587" script="snow.lua" />
+	<movevent event="StepOut" itemid="6588" script="snow.lua" />
+	<movevent event="StepOut" itemid="6589" script="snow.lua" />
+	<movevent event="StepOut" itemid="6590" script="snow.lua" />
+	<movevent event="StepOut" itemid="6591" script="snow.lua" />
+	<movevent event="StepOut" itemid="6592" script="snow.lua" />
+	<movevent event="StepOut" itemid="6593" script="snow.lua" />
+</movements>

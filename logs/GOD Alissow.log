@@ -1,0 +1,4273 @@
+[27/01/2009 14:38:57] /goto test
+[27/01/2009 14:40:23] /down
+[27/01/2009 14:40:30] /i shovel
+[27/01/2009 14:41:40] /down
+[27/01/2009 14:41:43] /down
+[27/01/2009 14:42:07] /up
+[27/01/2009 14:42:13] /up
+[27/01/2009 14:42:30] /a 3
+[27/01/2009 14:42:55] /up
+[27/01/2009 14:43:45] /up
+[27/01/2009 14:44:11] /a 3
+[27/01/2009 14:46:15] /summon demon
+[27/01/2009 14:46:43] /a 3
+[27/01/2009 14:50:24] /i 6132
+[27/01/2009 14:51:32] /i rope 
+[27/01/2009 16:43:31] /t
+[27/01/2009 16:43:53] /i worn soft boots
+[27/01/2009 16:46:42] /npc senha
+[27/01/2009 16:47:11] /r
+[27/01/2009 16:53:18] /reload npcs
+[27/01/2009 16:53:21] /npc senha
+[27/01/2009 17:02:10] /reload npcs
+[27/01/2009 17:02:13] /npc senha
+[27/01/2009 17:03:02] /t
+[27/01/2009 17:03:54] /i depot
+[27/01/2009 17:04:03] /i 2594
+[27/01/2009 17:04:22] /t
+[30/01/2009 00:46:11] /reload spells
+[30/01/2009 00:47:33] /reload spells
+[30/01/2009 00:50:44] /addskill Test, level
+[30/01/2009 00:50:44] /addskill Test, level
+[30/01/2009 00:50:44] /addskill Test, level
+[30/01/2009 00:50:44] /addskill Test, level
+[30/01/2009 00:50:44] /addskill Test, level
+[30/01/2009 00:50:44] /addskill Test, level
+[30/01/2009 00:50:44] /addskill Test, level
+[30/01/2009 00:50:44] /addskill Test, level
+[30/01/2009 00:50:44] /addskill Test, level
+[30/01/2009 00:50:44] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:45] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:46] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:47] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:48] /addskill Test, level
+[30/01/2009 00:50:49] /addskill Test, level
+[30/01/2009 00:50:49] /addskill Test, level
+[30/01/2009 00:50:49] /addskill Test, level
+[30/01/2009 00:50:49] /addskill Test, level
+[30/01/2009 00:50:49] /addskill Test, level
+[30/01/2009 00:50:49] /addskill Test, level
+[30/01/2009 00:50:49] /addskill Test, level
+[30/01/2009 00:50:49] /addskill Test, level
+[30/01/2009 00:50:49] /addskill Test, level
+[30/01/2009 00:50:49] /addskill Test, level
+[30/01/2009 00:50:49] /addskill Test, level
+[30/01/2009 00:50:49] /addskill Test, level
+[30/01/2009 00:50:49] /addskill Test, level
+[30/01/2009 00:52:17] /unban test
+[30/01/2009 00:55:34] /i backpack of holding
+[30/01/2009 00:55:44] /i assassin star 100
+[30/01/2009 00:55:46] /i assassin star
+[30/01/2009 00:55:58] /addskill Test, level
+[30/01/2009 00:55:58] /addskill Test, level
+[30/01/2009 00:55:58] /addskill Test, level
+[30/01/2009 00:55:58] /addskill Test, level
+[30/01/2009 00:55:58] /addskill Test, level
+[30/01/2009 00:55:58] /addskill Test, level
+[30/01/2009 00:55:58] /addskill Test, level
+[30/01/2009 00:55:58] /addskill Test, level
+[30/01/2009 00:55:58] /addskill Test, level
+[30/01/2009 00:55:58] /addskill Test, level
+[30/01/2009 00:55:58] /addskill Test, level
+[30/01/2009 00:55:58] /addskill Test, level
+[30/01/2009 00:55:58] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:55:59] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:00] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:01] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:02] /addskill Test, level
+[30/01/2009 00:56:03] /addskill Test, level
+[30/01/2009 00:56:03] /addskill Test, level
+[30/01/2009 00:56:03] /addskill Test, level
+[30/01/2009 00:56:03] /addskill Test, level
+[30/01/2009 00:56:03] /addskill Test, level
+[30/01/2009 00:56:03] /addskill Test, level
+[30/01/2009 00:56:03] /addskill Test, level
+[30/01/2009 00:56:03] /addskill Test, level
+[30/01/2009 00:56:03] /addskill Test, level
+[30/01/2009 00:56:03] /addskill Test, level
+[30/01/2009 00:56:03] /addskill Test, level
+[30/01/2009 00:56:03] /addskill Test, level
+[30/01/2009 00:56:06] /addskill Test, level
+[30/01/2009 00:56:06] /addskill Test, level
+[30/01/2009 00:56:06] /addskill Test, level
+[30/01/2009 00:56:06] /addskill Test, level
+[30/01/2009 00:56:06] /addskill Test, level
+[30/01/2009 00:56:06] /addskill Test, level
+[30/01/2009 00:56:06] /addskill Test, level
+[30/01/2009 00:56:06] /addskill Test, level
+[30/01/2009 00:56:06] /addskill Test, level
+[30/01/2009 00:56:06] /addskill Test, level
+[30/01/2009 00:56:06] /addskill Test, level
+[30/01/2009 00:56:06] /addskill Test, level
+[30/01/2009 00:56:06] /addskill Test, level
+[30/01/2009 00:56:06] /addskill Test, level
+[30/01/2009 00:56:06] /addskill Test, level
+[30/01/2009 00:56:06] /addskill Test, level
+[30/01/2009 00:56:06] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:07] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:08] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:09] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:10] /addskill Test, level
+[30/01/2009 00:56:11] /addskill Test, level
+[30/01/2009 00:56:11] /addskill Test, level
+[30/01/2009 00:56:11] /addskill Test, level
+[30/01/2009 00:56:11] /addskill Test, level
+[30/01/2009 00:56:11] /addskill Test, level
+[30/01/2009 00:56:11] /addskill Test, level
+[30/01/2009 00:56:11] /addskill Test, level
+[30/01/2009 00:56:26] /addskill Test, distance
+[30/01/2009 00:56:26] /addskill Test, distance
+[30/01/2009 00:56:26] /addskill Test, distance
+[30/01/2009 00:56:26] /addskill Test, distance
+[30/01/2009 00:56:26] /addskill Test, distance
+[30/01/2009 00:56:26] /addskill Test, distance
+[30/01/2009 00:56:26] /addskill Test, distance
+[30/01/2009 00:56:26] /addskill Test, distance
+[30/01/2009 00:56:26] /addskill Test, distance
+[30/01/2009 00:56:26] /addskill Test, distance
+[30/01/2009 00:56:26] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:27] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:28] /addskill Test, distance
+[30/01/2009 00:56:29] /addskill Test, distance
+[30/01/2009 00:56:29] /addskill Test, distance
+[30/01/2009 00:56:29] /addskill Test, distance
+[30/01/2009 00:56:29] /addskill Test, distance
+[30/01/2009 00:56:29] /addskill Test, distance
+[30/01/2009 00:56:29] /addskill Test, distance
+[30/01/2009 00:56:29] /addskill Test, distance
+[30/01/2009 00:56:29] /addskill Test, distance
+[30/01/2009 00:56:29] /addskill Test, distance
+[30/01/2009 00:56:29] /addskill Test, distance
+[30/01/2009 00:56:29] /addskill Test, distance
+[30/01/2009 00:56:29] /addskill Test, distance
+[30/01/2009 00:56:29] /addskill Test, distance
+[30/01/2009 00:56:29] /addskill Test, distance
+[30/01/2009 00:56:29] /addskill Test, distance
+[30/01/2009 00:56:29] /addskill Test, distance
+[30/01/2009 00:56:33] /addskill Test, distance
+[30/01/2009 00:56:34] /addskill Test, distance
+[30/01/2009 00:56:34] /addskill Test, distance
+[30/01/2009 00:56:34] /addskill Test, distance
+[30/01/2009 00:56:34] /addskill Test, distance
+[30/01/2009 00:56:34] /addskill Test, distance
+[30/01/2009 00:56:34] /addskill Test, distance
+[30/01/2009 00:56:34] /addskill Test, distance
+[30/01/2009 00:56:34] /addskill Test, distance
+[30/01/2009 00:56:34] /addskill Test, distance
+[30/01/2009 00:56:34] /addskill Test, distance
+[30/01/2009 00:56:34] /addskill Test, distance
+[30/01/2009 00:56:34] /addskill Test, distance
+[30/01/2009 00:56:34] /addskill Test, distance
+[30/01/2009 00:56:34] /addskill Test, distance
+[30/01/2009 00:56:34] /addskill Test, distance
+[30/01/2009 00:56:34] /addskill Test, distance
+[30/01/2009 00:56:34] /addskill Test, distance
+[30/01/2009 00:56:34] /addskill Test, distance
+[30/01/2009 00:56:34] /addskill Test, distance
+[30/01/2009 00:56:34] /addskill Test, distance
+[30/01/2009 00:56:34] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:35] /addskill Test, distance
+[30/01/2009 00:56:36] /addskill Test, distance
+[30/01/2009 00:56:36] /addskill Test, distance
+[30/01/2009 00:56:36] /addskill Test, distance
+[30/01/2009 00:56:36] /addskill Test, distance
+[30/01/2009 00:56:36] /addskill Test, distance
+[30/01/2009 00:56:36] /addskill Test, distance
+[30/01/2009 00:56:36] /addskill Test, distance
+[30/01/2009 00:56:36] /addskill Test, distance
+[30/01/2009 00:56:36] /addskill Test, distance
+[30/01/2009 00:56:36] /addskill Test, distance
+[30/01/2009 00:56:36] /addskill Test, distance
+[30/01/2009 00:56:36] /addskill Test, distance
+[30/01/2009 00:56:36] /addskill Test, distance
+[30/01/2009 00:56:36] /addskill Test, distance
+[30/01/2009 00:56:36] /addskill Test, distance
+[30/01/2009 00:56:36] /addskill Test, distance
+[30/01/2009 00:56:36] /addskill Test, distance
+[30/01/2009 00:56:36] /addskill Test, distance
+[30/01/2009 00:58:21] /addskill Test, magic
+[30/01/2009 00:58:22] /addskill Test, magic
+[30/01/2009 00:58:23] /addskill Test, magic
+[30/01/2009 00:58:23] /addskill Test, magic
+[30/01/2009 00:58:24] /addskill Test, magic
+[30/01/2009 00:58:24] /addskill Test, magic
+[30/01/2009 00:58:25] /addskill Test, magic
+[30/01/2009 00:58:25] /addskill Test, magic
+[30/01/2009 00:58:26] /addskill Test, magic
+[30/01/2009 00:58:26] /addskill Test, magic
+[30/01/2009 00:58:27] /addskill Test, magic
+[30/01/2009 00:58:27] /addskill Test, magic
+[30/01/2009 00:58:28] /addskill Test, magic
+[30/01/2009 00:58:31] /addskill Test, magic
+[30/01/2009 00:58:32] /addskill Test, magic
+[30/01/2009 00:58:32] /addskill Test, magic
+[30/01/2009 00:58:33] /addskill Test, magic
+[30/01/2009 00:58:33] /addskill Test, magic
+[30/01/2009 00:58:34] /addskill Test, magic
+[30/01/2009 00:58:34] /addskill Test, magic
+[30/01/2009 00:58:35] /addskill Test, magic
+[30/01/2009 00:58:35] /addskill Test, magic
+[30/01/2009 00:58:36] /addskill Test, magic
+[30/01/2009 00:58:36] /addskill Test, magic
+[30/01/2009 00:58:37] /addskill Test, magic
+[30/01/2009 00:58:38] /addskill Test, magic
+[30/01/2009 00:58:38] /addskill Test, magic
+[30/01/2009 00:58:39] /addskill Test, magic
+[30/01/2009 00:58:39] /addskill Test, magic
+[30/01/2009 00:58:40] /addskill Test, magic
+[30/01/2009 00:58:42] /addskill Test, magic
+[30/01/2009 00:58:42] /addskill Test, magic
+[30/01/2009 00:58:47] /addskill Test, magic
+[30/01/2009 00:58:47] /addskill Test, magic
+[30/01/2009 00:58:48] /addskill Test, magic
+[30/01/2009 00:58:48] /addskill Test, magic
+[30/01/2009 00:58:49] /addskill Test, magic
+[30/01/2009 00:58:50] /addskill Test, magic
+[30/01/2009 00:58:50] /addskill Test, magic
+[30/01/2009 00:58:58] /m orshabaal
+[30/01/2009 01:01:29] /m ghazbaran
+[30/01/2009 01:01:33] /c test
+[30/01/2009 01:02:05] /t
+[31/01/2009 15:08:35] /t
+[31/01/2009 15:09:55] /raid orshabaal
+[31/01/2009 16:23:54] /npc cityguard
+[31/01/2009 16:24:59] /addskill testing, level
+[31/01/2009 16:25:00] /addskill testing, level
+[31/01/2009 16:25:00] /addskill testing, level
+[31/01/2009 16:25:00] /addskill testing, level
+[31/01/2009 16:25:01] /addskill testing, level
+[31/01/2009 16:25:01] /addskill testing, level
+[31/01/2009 16:25:01] /addskill testing, level
+[31/01/2009 16:25:02] /addskill testing, level
+[31/01/2009 16:25:02] /addskill testing, level
+[31/01/2009 16:25:02] /addskill testing, level
+[31/01/2009 16:25:03] /addskill testing, level
+[31/01/2009 16:25:03] /addskill testing, level
+[31/01/2009 16:25:03] /addskill testing, level
+[31/01/2009 16:25:03] /addskill testing, level
+[31/01/2009 16:25:08] /addskill testing, level
+[31/01/2009 16:25:08] /addskill testing, level
+[31/01/2009 16:25:08] /addskill testing, level
+[31/01/2009 16:25:09] /addskill testing, level
+[31/01/2009 16:25:09] /addskill testing, level
+[31/01/2009 16:25:09] /addskill testing, level
+[31/01/2009 16:25:09] /addskill testing, level
+[31/01/2009 16:25:10] /addskill testing, level
+[31/01/2009 16:25:10] /addskill testing, level
+[31/01/2009 16:25:10] /addskill testing, level
+[31/01/2009 16:25:11] /addskill testing, level
+[31/01/2009 16:25:11] /addskill testing, level
+[31/01/2009 16:25:11] /addskill testing, level
+[31/01/2009 16:25:12] /addskill testing, level
+[31/01/2009 16:25:12] /addskill testing, level
+[31/01/2009 16:25:27] /r
+[03/02/2009 22:38:58] /t
+[03/02/2009 22:39:00] /up
+[03/02/2009 22:39:01] /up
+[03/02/2009 22:59:43] /i small sappire
+[03/02/2009 22:59:49] /i small amethyst
+[03/02/2009 23:06:21] /npc ruby
+[03/02/2009 23:06:22] /npc ruby
+[04/02/2009 00:18:04] /up
+[04/02/2009 00:18:04] /up
+[04/02/2009 12:16:47] /i queen's spectre
+[04/02/2009 12:16:51] /i queen's spectre
+[04/02/2009 12:17:00] /i 7411
+[04/02/2009 12:17:19] /i 7410
+[04/02/2009 12:31:24] /t
+[04/02/2009 12:31:57] /npc monge
+[04/02/2009 12:32:02] /npc blessings
+[04/02/2009 12:32:24] /i crystal coin
+[04/02/2009 12:33:25] /a 2
+[04/02/2009 12:36:39] /t
+[04/02/2009 12:36:40] /up
+[04/02/2009 12:36:40] /up
+[04/02/2009 12:36:48] /i small sapphire
+[04/02/2009 12:36:57] /i small emerald
+[04/02/2009 12:37:04] /i small ruby
+[04/02/2009 12:39:10] /up
+[04/02/2009 12:39:32] /i burst arrow
+[04/02/2009 12:39:55] /i bow
+[04/02/2009 12:40:07] /goto ghazbaran
+[04/02/2009 12:40:43] /t
+[04/02/2009 12:49:52] /t
+[11/02/2009 19:11:00] /bc "blue lol
+[11/02/2009 20:00:36] /i 8293
+[11/02/2009 20:10:49] /i 8288
+[11/02/2009 20:11:04] /i 8291
+[11/02/2009 20:11:16] /i 7787
+[11/02/2009 20:12:35] /i 8293
+[11/02/2009 20:12:38] /i 8293
+[11/02/2009 20:12:38] /i 8293
+[11/02/2009 20:12:48] /i backpack of holding
+[11/02/2009 20:13:14] /i assassin star
+[11/02/2009 20:13:17] /i assassin star
+[12/02/2009 11:46:28] /t
+[12/02/2009 11:48:38] /i magic plate armor
+[12/02/2009 11:49:33] /i spellbook of warding
+[12/02/2009 11:50:22] /i spellbook of enlightenment
+[12/02/2009 11:54:13] /i yalahari mask
+[12/02/2009 12:03:37] /shutdown 50
+[12/02/2009 12:03:41] /shutdown 10
+[12/02/2009 12:03:45] /shutdown 7777777777
+[12/02/2009 12:03:57] /shutdown 777777777745666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666
+[12/02/2009 12:04:11] /shutdown 4564645616545945649489791631000*897408498749841
+[12/02/2009 12:04:18] /shutdown 4564645616545945649489791631000897408498749841
+[12/02/2009 13:54:26] /i 1981
+[12/02/2009 14:37:48] /i rusty remover
+[12/02/2009 14:38:00] /i rusty remover
+[12/02/2009 14:39:34] /i 9814
+[12/02/2009 14:39:45] /clean
+[12/02/2009 14:41:25] /i 8723
+[12/02/2009 14:42:54] /i 9930
+[12/02/2009 14:44:29] /reload actions
+[12/02/2009 14:45:12] /i 9815
+[12/02/2009 14:45:29] /i backpack of holding
+[12/02/2009 14:47:04] /i backpack of holding
+[12/02/2009 14:47:09] /i rust remover
+[12/02/2009 14:47:19] /i 9808
+[12/02/2009 14:47:26] /i 9808
+[12/02/2009 14:47:28] /i rust remover
+[12/02/2009 14:47:37] /i rust remover
+[12/02/2009 14:47:40] /i 9808
+[12/02/2009 14:47:40] /i 9808
+[12/02/2009 14:47:40] /i 9808
+[12/02/2009 14:47:41] /i 9808
+[12/02/2009 14:47:47] /i rust remover
+[12/02/2009 14:48:07] /i 9808
+[12/02/2009 14:48:08] /i 9808
+[12/02/2009 14:48:09] /i 9808
+[12/02/2009 14:48:09] /i 9808
+[12/02/2009 14:48:10] /i 9808
+[12/02/2009 14:48:10] /i 9808
+[12/02/2009 14:48:11] /i 9808
+[12/02/2009 14:48:11] /i 9808
+[12/02/2009 14:48:12] /i 9808
+[12/02/2009 14:48:51] /i 9808
+[12/02/2009 14:48:53] /i 9808
+[12/02/2009 16:09:13] /i firewalker boots
+[12/02/2009 16:09:36] /i fire field
+[12/02/2009 16:09:37] /i fire field
+[12/02/2009 16:09:38] /i fire field
+[12/02/2009 18:08:03] /npc firewalker
+[12/02/2009 18:08:11] /r
+[12/02/2009 18:08:37] /reload npcs
+[12/02/2009 18:08:42] /npc firewalker
+[12/02/2009 18:09:08] /i worn firewalker boots
+[12/02/2009 18:09:36] /i crystal coin
+[12/02/2009 18:13:53] /newtype 145
+[12/02/2009 18:14:58] /newtype 57
+[12/02/2009 18:16:51] /reload npcs
+[12/02/2009 18:22:09] /t
+[12/02/2009 18:22:12] /i crystal coin
+[12/02/2009 18:26:47] /i crystal coin 
+[12/02/2009 18:37:30] /t
+[12/02/2009 18:37:34] /a 4
+[12/02/2009 18:37:35] /a 4
+[12/02/2009 18:45:25] /t
+[12/02/2009 18:49:14] /t
+[12/02/2009 18:57:38] /up
+[12/02/2009 18:57:42] /t
+[12/02/2009 18:58:23] /reload npcs
+[12/02/2009 19:18:52] /up
+[12/02/2009 19:18:54] /up
+[12/02/2009 19:18:54] /up
+[12/02/2009 19:20:53] /down
+[12/02/2009 19:20:55] /up
+[12/02/2009 19:29:36] /newtype 45
+[12/02/2009 19:29:38] /newtype 77
+[12/02/2009 19:29:43] /newtype 105
+[12/02/2009 19:29:46] /newtype 111
+[12/02/2009 19:29:48] /newtype 666
+[12/02/2009 19:29:51] /newtype 551
+[12/02/2009 19:29:54] /newtype 221
+[12/02/2009 19:29:57] /newtype 301
+[12/02/2009 19:29:59] /newtype 304
+[12/02/2009 19:30:00] /newtype 305
+[12/02/2009 19:30:03] /newtype 306
+[12/02/2009 19:36:11] /t
+[13/02/2009 14:25:38] /a 5
+[13/02/2009 14:25:39] /a 5
+[13/02/2009 14:25:39] /a 5
+[13/02/2009 14:25:40] /a 5
+[13/02/2009 14:25:42] /down
+[13/02/2009 14:25:44] /a 5
+[13/02/2009 14:25:45] /a 5
+[13/02/2009 14:31:55] /t
+[13/02/2009 14:32:02] /a 6
+[13/02/2009 14:32:02] /a 6
+[13/02/2009 14:32:03] /a 6
+[13/02/2009 14:32:03] /a 6
+[13/02/2009 14:32:03] /a 6
+[13/02/2009 14:32:04] /a 6
+[13/02/2009 14:32:42] /r
+[13/02/2009 14:32:54] /m demon
+[13/02/2009 14:32:55] /m demon
+[13/02/2009 14:32:56] /m demon
+[13/02/2009 14:32:57] /m demon
+[13/02/2009 14:32:58] /m demon
+[13/02/2009 14:32:59] /m demon
+[13/02/2009 14:33:00] /m demon
+[13/02/2009 14:33:01] /m demon
+[13/02/2009 14:33:02] /m demon
+[13/02/2009 14:33:04] /m demon
+[13/02/2009 14:33:05] /m demon
+[13/02/2009 14:33:06] /r
+[13/02/2009 14:33:08] /m demon
+[13/02/2009 14:33:29] /r
+[13/02/2009 14:33:30] /r
+[13/02/2009 14:33:31] /r
+[13/02/2009 14:33:32] /r
+[13/02/2009 14:33:33] /r
+[13/02/2009 14:33:34] /r
+[13/02/2009 14:33:35] /r
+[13/02/2009 14:33:35] /r
+[13/02/2009 14:33:37] /r
+[13/02/2009 14:33:38] /r
+[13/02/2009 14:33:40] /r
+[13/02/2009 15:02:37] /c test
+[13/02/2009 15:02:38] /c test
+[13/02/2009 15:02:39] /c test
+[13/02/2009 15:02:48] /c test
+[13/02/2009 15:02:50] /c test
+[13/02/2009 15:02:57] /c test
+[13/02/2009 15:02:58] /c test
+[13/02/2009 15:03:06] /c test
+[13/02/2009 15:06:53] /reload actions
+[13/02/2009 15:07:33] /up
+[13/02/2009 15:07:58] /c test
+[13/02/2009 15:07:59] /c test
+[13/02/2009 15:08:05] /c test
+[13/02/2009 15:08:11] /c test
+[13/02/2009 15:08:44] /up
+[13/02/2009 15:08:50] /c test
+[13/02/2009 15:08:55] /c test
+[13/02/2009 15:08:58] /c test
+[13/02/2009 15:10:13] /up
+[13/02/2009 15:15:06] /t
+[13/02/2009 15:45:05] /down
+[13/02/2009 15:45:26] /up
+[13/02/2009 15:45:32] /down
+[13/02/2009 15:45:42] /up
+[15/02/2009 18:20:23] /t
+[15/02/2009 18:21:20] /a 5
+[15/02/2009 18:27:07] /b lol
+[15/02/2009 18:28:23] /bc lol
+[15/02/2009 18:30:18] /reload talkactions
+[15/02/2009 18:30:19] /bcolor "white Olá pessoal!
+[15/02/2009 18:30:41] /bcolor
+[15/02/2009 18:30:45] /bcolor "green lol
+[15/02/2009 18:31:12] /mkick
+[15/02/2009 18:31:15] /mkick 5
+[15/02/2009 18:31:18] /mkick 1
+[15/02/2009 19:08:18] /a 5
+[15/02/2009 19:08:19] /a 5
+[15/02/2009 19:08:19] /a 5
+[15/02/2009 19:08:20] /a 5
+[15/02/2009 19:08:20] /a 5
+[15/02/2009 19:08:20] /a 5
+[15/02/2009 19:08:21] /a 5
+[15/02/2009 19:08:24] /a 15
+[15/02/2009 19:08:25] /a 15
+[15/02/2009 19:08:25] /a 15
+[15/02/2009 19:08:26] /a 15
+[15/02/2009 19:10:49] /t
+[15/02/2009 19:12:33] /addskill Testknight, level
+[15/02/2009 19:12:33] /addskill Testknight, level
+[15/02/2009 19:12:33] /addskill Testknight, level
+[15/02/2009 19:12:33] /addskill Testknight, level
+[15/02/2009 19:12:33] /addskill Testknight, level
+[15/02/2009 19:12:33] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:34] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:35] /addskill Testknight, level
+[15/02/2009 19:12:51] /addskill Test knight, level
+[15/02/2009 19:12:51] /addskill Test knight, level
+[15/02/2009 19:12:51] /addskill Test knight, level
+[15/02/2009 19:12:51] /addskill Test knight, level
+[15/02/2009 19:12:51] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:52] /addskill Test knight, level
+[15/02/2009 19:12:53] /addskill Test knight, level
+[15/02/2009 19:12:53] /addskill Test knight, level
+[15/02/2009 19:12:53] /addskill Test knight, level
+[15/02/2009 19:12:53] /addskill Test knight, level
+[15/02/2009 19:12:53] /addskill Test knight, level
+[15/02/2009 19:12:53] /addskill Test knight, level
+[15/02/2009 19:12:53] /addskill Test knight, level
+[15/02/2009 19:12:53] /addskill Test knight, level
+[15/02/2009 19:12:53] /addskill Test knight, level
+[15/02/2009 19:12:53] /addskill Test knight, level
+[15/02/2009 19:12:53] /addskill Test knight, level
+[15/02/2009 19:12:53] /addskill Test knight, level
+[15/02/2009 19:12:53] /addskill Test knight, level
+[15/02/2009 19:12:53] /addskill Test knight, level
+[15/02/2009 19:12:53] /addskill Test knight, level
+[15/02/2009 19:12:53] /addskill Test knight, level
+[15/02/2009 19:12:53] /addskill Test knight, level
+[15/02/2009 19:12:53] /addskill Test knight, level
+[15/02/2009 19:12:53] /addskill Test knight, level
+[15/02/2009 19:12:53] /addskill Test knight, level
+[15/02/2009 19:12:53] /addskill Test knight, level
+[15/02/2009 19:12:53] /addskill Test knight, level
+[15/02/2009 19:12:53] /addskill Test knight, level
+[15/02/2009 19:12:53] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:54] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:55] /addskill Test knight, level
+[15/02/2009 19:12:56] /addskill Test knight, level
+[15/02/2009 19:12:56] /addskill Test knight, level
+[15/02/2009 19:12:56] /addskill Test knight, level
+[15/02/2009 19:12:56] /addskill Test knight, level
+[15/02/2009 19:12:56] /addskill Test knight, level
+[15/02/2009 19:12:56] /addskill Test knight, level
+[15/02/2009 19:12:56] /addskill Test knight, level
+[15/02/2009 19:12:56] /addskill Test knight, level
+[15/02/2009 19:12:56] /addskill Test knight, level
+[15/02/2009 19:12:56] /addskill Test knight, level
+[15/02/2009 19:12:56] /addskill Test knight, level
+[15/02/2009 19:12:56] /addskill Test knight, level
+[15/02/2009 19:12:56] /addskill Test knight, level
+[15/02/2009 19:12:56] /addskill Test knight, level
+[15/02/2009 19:12:56] /addskill Test knight, level
+[15/02/2009 19:12:56] /addskill Test knight, level
+[15/02/2009 19:12:56] /addskill Test knight, level
+[15/02/2009 19:12:56] /addskill Test knight, level
+[15/02/2009 19:12:56] /addskill Test knight, level
+[15/02/2009 19:12:56] /addskill Test knight, level
+[15/02/2009 19:12:56] /addskill Test knight, level
+[15/02/2009 19:12:56] /addskill Test knight, level
+[15/02/2009 19:12:56] /addskill Test knight, level
+[15/02/2009 19:12:56] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:57] /addskill Test knight, level
+[15/02/2009 19:12:58] /addskill Test knight, level
+[15/02/2009 19:12:58] /addskill Test knight, level
+[15/02/2009 19:12:58] /addskill Test knight, level
+[15/02/2009 19:12:58] /addskill Test knight, level
+[15/02/2009 19:12:58] /addskill Test knight, level
+[15/02/2009 19:12:58] /addskill Test knight, level
+[15/02/2009 19:12:58] /addskill Test knight, level
+[15/02/2009 19:12:58] /addskill Test knight, level
+[15/02/2009 19:12:58] /addskill Test knight, level
+[15/02/2009 19:12:58] /addskill Test knight, level
+[15/02/2009 19:12:58] /addskill Test knight, level
+[15/02/2009 19:12:58] /addskill Test knight, level
+[15/02/2009 19:12:58] /addskill Test knight, level
+[15/02/2009 19:12:58] /addskill Test knight, level
+[15/02/2009 19:12:58] /addskill Test knight, level
+[15/02/2009 19:12:58] /addskill Test knight, level
+[15/02/2009 19:12:58] /addskill Test knight, level
+[15/02/2009 19:12:58] /addskill Test knight, level
+[15/02/2009 19:12:58] /addskill Test knight, level
+[15/02/2009 19:12:58] /addskill Test knight, level
+[15/02/2009 19:12:58] /addskill Test knight, level
+[15/02/2009 19:12:58] /addskill Test knight, level
+[15/02/2009 19:12:58] /addskill Test knight, level
+[15/02/2009 19:12:59] /addskill Test knight, level
+[15/02/2009 19:12:59] /addskill Test knight, level
+[15/02/2009 19:12:59] /addskill Test knight, level
+[15/02/2009 19:12:59] /addskill Test knight, level
+[15/02/2009 19:12:59] /addskill Test knight, level
+[15/02/2009 19:12:59] /addskill Test knight, level
+[15/02/2009 19:12:59] /addskill Test knight, level
+[15/02/2009 19:12:59] /addskill Test knight, level
+[15/02/2009 19:12:59] /addskill Test knight, level
+[15/02/2009 19:12:59] /addskill Test knight, level
+[15/02/2009 19:12:59] /addskill Test knight, level
+[15/02/2009 19:12:59] /addskill Test knight, level
+[15/02/2009 19:12:59] /addskill Test knight, level
+[15/02/2009 19:12:59] /addskill Test knight, level
+[15/02/2009 19:12:59] /addskill Test knight, level
+[15/02/2009 19:12:59] /addskill Test knight, level
+[15/02/2009 19:12:59] /addskill Test knight, level
+[15/02/2009 19:12:59] /addskill Test knight, level
+[15/02/2009 19:13:00] /addskill Test knight, level
+[15/02/2009 19:13:00] /addskill Test knight, level
+[15/02/2009 19:13:00] /addskill Test knight, level
+[15/02/2009 19:13:00] /addskill Test knight, level
+[15/02/2009 19:13:00] /addskill Test knight, level
+[15/02/2009 19:13:00] /addskill Test knight, level
+[15/02/2009 19:13:00] /addskill Test knight, level
+[15/02/2009 19:13:00] /addskill Test knight, level
+[15/02/2009 19:13:00] /addskill Test knight, level
+[15/02/2009 19:13:00] /addskill Test knight, level
+[15/02/2009 19:13:00] /addskill Test knight, level
+[15/02/2009 19:13:00] /addskill Test knight, level
+[15/02/2009 19:13:00] /addskill Test knight, level
+[15/02/2009 19:13:00] /addskill Test knight, level
+[15/02/2009 19:13:00] /addskill Test knight, level
+[15/02/2009 19:13:00] /addskill Test knight, level
+[15/02/2009 19:13:00] /addskill Test knight, level
+[15/02/2009 19:13:00] /addskill Test knight, level
+[15/02/2009 19:13:00] /addskill Test knight, level
+[15/02/2009 19:13:00] /addskill Test knight, level
+[15/02/2009 19:13:00] /addskill Test knight, level
+[15/02/2009 19:13:00] /addskill Test knight, level
+[15/02/2009 19:13:00] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:01] /addskill Test knight, level
+[15/02/2009 19:13:02] /addskill Test knight, level
+[15/02/2009 19:13:02] /addskill Test knight, level
+[15/02/2009 19:13:02] /addskill Test knight, level
+[15/02/2009 19:13:02] /addskill Test knight, level
+[15/02/2009 19:13:02] /addskill Test knight, level
+[15/02/2009 19:13:02] /addskill Test knight, level
+[15/02/2009 19:13:02] /addskill Test knight, level
+[15/02/2009 19:13:02] /addskill Test knight, level
+[15/02/2009 19:13:02] /addskill Test knight, level
+[15/02/2009 19:13:02] /addskill Test knight, level
+[15/02/2009 19:13:02] /addskill Test knight, level
+[15/02/2009 19:13:02] /addskill Test knight, level
+[15/02/2009 19:13:02] /addskill Test knight, level
+[15/02/2009 19:13:02] /addskill Test knight, level
+[15/02/2009 19:13:05] /addskill Test knight, level
+[15/02/2009 19:13:05] /addskill Test knight, level
+[15/02/2009 19:13:05] /addskill Test knight, level
+[15/02/2009 19:13:05] /addskill Test knight, level
+[15/02/2009 19:13:05] /addskill Test knight, level
+[15/02/2009 19:13:05] /addskill Test knight, level
+[15/02/2009 19:13:05] /addskill Test knight, level
+[15/02/2009 19:13:05] /addskill Test knight, level
+[15/02/2009 19:13:05] /addskill Test knight, level
+[15/02/2009 19:13:05] /addskill Test knight, level
+[15/02/2009 19:13:06] /addskill Test knight, level
+[15/02/2009 19:13:06] /addskill Test knight, level
+[15/02/2009 19:13:06] /addskill Test knight, level
+[15/02/2009 19:13:06] /addskill Test knight, level
+[15/02/2009 19:13:06] /addskill Test knight, level
+[15/02/2009 19:13:06] /addskill Test knight, level
+[15/02/2009 19:13:06] /addskill Test knight, level
+[15/02/2009 19:13:06] /addskill Test knight, level
+[15/02/2009 19:13:06] /addskill Test knight, level
+[15/02/2009 19:13:06] /addskill Test knight, level
+[15/02/2009 19:13:06] /addskill Test knight, level
+[15/02/2009 19:13:07] /addskill Test knight, level
+[15/02/2009 19:13:07] /addskill Test knight, level
+[15/02/2009 19:13:07] /addskill Test knight, level
+[15/02/2009 19:13:07] /addskill Test knight, level
+[15/02/2009 19:13:07] /addskill Test knight, level
+[15/02/2009 19:13:07] /addskill Test knight, level
+[15/02/2009 19:13:07] /addskill Test knight, level
+[15/02/2009 19:13:07] /addskill Test knight, level
+[15/02/2009 19:13:07] /addskill Test knight, level
+[15/02/2009 19:13:07] /addskill Test knight, level
+[15/02/2009 19:13:07] /addskill Test knight, level
+[15/02/2009 19:13:07] /addskill Test knight, level
+[15/02/2009 19:13:07] /addskill Test knight, level
+[15/02/2009 19:13:07] /addskill Test knight, level
+[15/02/2009 19:13:07] /addskill Test knight, level
+[15/02/2009 19:13:07] /addskill Test knight, level
+[15/02/2009 19:13:07] /addskill Test knight, level
+[15/02/2009 19:13:07] /addskill Test knight, level
+[15/02/2009 19:13:07] /addskill Test knight, level
+[15/02/2009 19:13:07] /addskill Test knight, level
+[15/02/2009 19:13:07] /addskill Test knight, level
+[15/02/2009 19:13:07] /addskill Test knight, level
+[15/02/2009 19:13:07] /addskill Test knight, level
+[15/02/2009 19:13:07] /addskill Test knight, level
+[15/02/2009 19:13:08] /addskill Test knight, level
+[15/02/2009 19:13:08] /addskill Test knight, level
+[15/02/2009 19:13:08] /addskill Test knight, level
+[15/02/2009 19:13:08] /addskill Test knight, level
+[15/02/2009 19:13:08] /addskill Test knight, level
+[15/02/2009 19:13:08] /addskill Test knight, level
+[15/02/2009 19:13:08] /addskill Test knight, level
+[15/02/2009 19:13:08] /addskill Test knight, level
+[15/02/2009 19:13:08] /addskill Test knight, level
+[15/02/2009 19:13:08] /addskill Test knight, level
+[15/02/2009 19:13:08] /addskill Test knight, level
+[15/02/2009 19:13:08] /addskill Test knight, level
+[15/02/2009 19:13:08] /addskill Test knight, level
+[15/02/2009 19:13:08] /addskill Test knight, level
+[15/02/2009 19:13:08] /addskill Test knight, level
+[15/02/2009 19:13:08] /addskill Test knight, level
+[15/02/2009 19:13:08] /addskill Test knight, level
+[15/02/2009 19:13:08] /addskill Test knight, level
+[15/02/2009 19:13:08] /addskill Test knight, level
+[15/02/2009 19:13:08] /addskill Test knight, level
+[15/02/2009 19:13:08] /addskill Test knight, level
+[15/02/2009 19:13:08] /addskill Test knight, level
+[15/02/2009 19:13:08] /addskill Test knight, level
+[15/02/2009 19:13:08] /addskill Test knight, level
+[15/02/2009 19:13:09] /addskill Test knight, level
+[15/02/2009 19:13:09] /addskill Test knight, level
+[15/02/2009 19:13:09] /addskill Test knight, level
+[15/02/2009 19:13:09] /addskill Test knight, level
+[15/02/2009 19:13:09] /addskill Test knight, level
+[15/02/2009 19:13:09] /addskill Test knight, level
+[15/02/2009 19:13:09] /addskill Test knight, level
+[15/02/2009 19:13:09] /addskill Test knight, level
+[15/02/2009 19:13:09] /addskill Test knight, level
+[15/02/2009 19:13:09] /addskill Test knight, level
+[15/02/2009 19:13:09] /addskill Test knight, level
+[15/02/2009 19:13:09] /addskill Test knight, level
+[15/02/2009 19:13:09] /addskill Test knight, level
+[15/02/2009 19:13:09] /addskill Test knight, level
+[15/02/2009 19:13:09] /addskill Test knight, level
+[15/02/2009 19:13:09] /addskill Test knight, level
+[15/02/2009 19:13:09] /addskill Test knight, level
+[15/02/2009 19:13:09] /addskill Test knight, level
+[15/02/2009 19:13:09] /addskill Test knight, level
+[15/02/2009 19:13:09] /addskill Test knight, level
+[15/02/2009 19:13:09] /addskill Test knight, level
+[15/02/2009 19:13:09] /addskill Test knight, level
+[15/02/2009 19:13:09] /addskill Test knight, level
+[15/02/2009 19:13:09] /addskill Test knight, level
+[15/02/2009 19:13:10] /addskill Test knight, level
+[15/02/2009 19:13:10] /addskill Test knight, level
+[15/02/2009 19:13:10] /addskill Test knight, level
+[15/02/2009 19:13:10] /addskill Test knight, level
+[15/02/2009 19:13:10] /addskill Test knight, level
+[15/02/2009 19:13:10] /addskill Test knight, level
+[15/02/2009 19:13:10] /addskill Test knight, level
+[15/02/2009 19:13:10] /addskill Test knight, level
+[15/02/2009 19:13:10] /addskill Test knight, level
+[15/02/2009 19:13:10] /addskill Test knight, level
+[15/02/2009 19:13:10] /addskill Test knight, level
+[15/02/2009 19:13:10] /addskill Test knight, level
+[15/02/2009 19:13:10] /addskill Test knight, level
+[15/02/2009 19:13:10] /addskill Test knight, level
+[15/02/2009 19:13:10] /addskill Test knight, level
+[15/02/2009 19:13:10] /addskill Test knight, level
+[15/02/2009 19:13:10] /addskill Test knight, level
+[15/02/2009 19:13:10] /addskill Test knight, level
+[15/02/2009 19:13:10] /addskill Test knight, level
+[15/02/2009 19:13:10] /addskill Test knight, level
+[15/02/2009 19:13:10] /addskill Test knight, level
+[15/02/2009 19:13:10] /addskill Test knight, level
+[15/02/2009 19:13:10] /addskill Test knight, level
+[15/02/2009 19:13:10] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:11] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:12] /addskill Test knight, level
+[15/02/2009 19:13:13] /addskill Test knight, level
+[15/02/2009 19:13:13] /addskill Test knight, level
+[15/02/2009 19:13:13] /addskill Test knight, level
+[15/02/2009 19:13:13] /addskill Test knight, level
+[15/02/2009 19:13:13] /addskill Test knight, level
+[15/02/2009 19:13:13] /addskill Test knight, level
+[15/02/2009 19:13:13] /addskill Test knight, level
+[15/02/2009 19:13:13] /addskill Test knight, level
+[15/02/2009 19:13:13] /addskill Test knight, level
+[15/02/2009 19:13:13] /addskill Test knight, level
+[15/02/2009 19:13:13] /addskill Test knight, level
+[15/02/2009 19:13:13] /addskill Test knight, level
+[15/02/2009 19:13:13] /addskill Test knight, level
+[15/02/2009 19:13:13] /addskill Test knight, level
+[15/02/2009 19:13:13] /addskill Test knight, level
+[15/02/2009 19:13:13] /addskill Test knight, level
+[15/02/2009 19:13:13] /addskill Test knight, level
+[15/02/2009 19:13:13] /addskill Test knight, level
+[15/02/2009 19:13:13] /addskill Test knight, level
+[15/02/2009 19:13:13] /addskill Test knight, level
+[15/02/2009 19:13:13] /addskill Test knight, level
+[15/02/2009 19:13:13] /addskill Test knight, level
+[15/02/2009 19:13:13] /addskill Test knight, level
+[15/02/2009 19:13:13] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:14] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:15] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:16] /addskill Test knight, level
+[15/02/2009 19:13:17] /addskill Test knight, level
+[15/02/2009 19:14:40] /addskill Test knight, level
+[15/02/2009 19:14:40] /addskill Test knight, level
+[15/02/2009 19:14:40] /addskill Test knight, level
+[15/02/2009 19:14:40] /addskill Test knight, level
+[15/02/2009 19:14:40] /addskill Test knight, level
+[15/02/2009 19:14:40] /addskill Test knight, level
+[15/02/2009 19:14:40] /addskill Test knight, level
+[15/02/2009 19:14:40] /addskill Test knight, level
+[15/02/2009 19:14:40] /addskill Test knight, level
+[15/02/2009 19:14:40] /addskill Test knight, level
+[15/02/2009 19:14:40] /addskill Test knight, level
+[15/02/2009 19:14:41] /addskill Test knight, level
+[15/02/2009 19:14:41] /addskill Test knight, level
+[15/02/2009 19:14:41] /addskill Test knight, level
+[15/02/2009 19:14:41] /addskill Test knight, level
+[15/02/2009 19:14:41] /addskill Test knight, level
+[15/02/2009 19:14:41] /addskill Test knight, level
+[15/02/2009 19:14:41] /addskill Test knight, level
+[15/02/2009 19:14:41] /addskill Test knight, level
+[15/02/2009 19:14:41] /addskill Test knight, level
+[15/02/2009 19:14:41] /addskill Test knight, level
+[15/02/2009 19:14:41] /addskill Test knight, level
+[15/02/2009 19:14:41] /addskill Test knight, level
+[15/02/2009 19:14:41] /addskill Test knight, level
+[15/02/2009 19:14:41] /addskill Test knight, level
+[15/02/2009 19:14:41] /addskill Test knight, level
+[15/02/2009 19:14:41] /addskill Test knight, level
+[15/02/2009 19:14:41] /addskill Test knight, level
+[15/02/2009 19:14:41] /addskill Test knight, level
+[15/02/2009 19:14:41] /addskill Test knight, level
+[15/02/2009 19:14:41] /addskill Test knight, level
+[15/02/2009 19:14:41] /addskill Test knight, level
+[15/02/2009 19:14:41] /addskill Test knight, level
+[15/02/2009 19:14:41] /addskill Test knight, level
+[15/02/2009 19:14:42] /addskill Test knight, level
+[15/02/2009 19:14:42] /addskill Test knight, level
+[15/02/2009 19:14:42] /addskill Test knight, level
+[15/02/2009 19:14:42] /addskill Test knight, level
+[15/02/2009 19:14:53] /addskill Test knight, magic
+[15/02/2009 19:14:53] /addskill Test knight, magic
+[15/02/2009 19:14:53] /addskill Test knight, magic
+[15/02/2009 19:14:53] /addskill Test knight, magic
+[15/02/2009 19:14:53] /addskill Test knight, magic
+[15/02/2009 19:14:53] /addskill Test knight, magic
+[15/02/2009 19:14:53] /addskill Test knight, magic
+[15/02/2009 19:14:53] /addskill Test knight, magic
+[15/02/2009 19:14:53] /addskill Test knight, magic
+[15/02/2009 19:14:53] /addskill Test knight, magic
+[15/02/2009 19:14:53] /addskill Test knight, magic
+[15/02/2009 19:14:53] /addskill Test knight, magic
+[15/02/2009 19:14:53] /addskill Test knight, magic
+[15/02/2009 19:14:53] /addskill Test knight, magic
+[15/02/2009 19:14:54] /addskill Test knight, magic
+[15/02/2009 19:14:54] /addskill Test knight, magic
+[15/02/2009 19:14:54] /addskill Test knight, magic
+[15/02/2009 19:14:54] /addskill Test knight, magic
+[15/02/2009 19:14:54] /addskill Test knight, magic
+[15/02/2009 19:14:54] /addskill Test knight, magic
+[15/02/2009 19:14:54] /addskill Test knight, magic
+[15/02/2009 19:14:54] /addskill Test knight, magic
+[15/02/2009 19:14:54] /addskill Test knight, magic
+[15/02/2009 19:14:54] /addskill Test knight, magic
+[15/02/2009 19:14:54] /addskill Test knight, magic
+[15/02/2009 19:14:54] /addskill Test knight, magic
+[15/02/2009 19:14:54] /addskill Test knight, magic
+[15/02/2009 19:14:54] /addskill Test knight, magic
+[15/02/2009 19:14:54] /addskill Test knight, magic
+[15/02/2009 19:14:54] /addskill Test knight, magic
+[15/02/2009 19:14:54] /addskill Test knight, magic
+[15/02/2009 19:14:54] /addskill Test knight, magic
+[15/02/2009 19:14:54] /addskill Test knight, magic
+[15/02/2009 19:14:54] /addskill Test knight, magic
+[15/02/2009 19:14:54] /addskill Test knight, magic
+[15/02/2009 19:14:54] /addskill Test knight, magic
+[15/02/2009 19:14:54] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:55] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:56] /addskill Test knight, magic
+[15/02/2009 19:14:57] /addskill Test knight, magic
+[15/02/2009 19:14:57] /addskill Test knight, magic
+[15/02/2009 19:14:57] /addskill Test knight, magic
+[15/02/2009 19:14:57] /addskill Test knight, magic
+[15/02/2009 19:14:57] /addskill Test knight, magic
+[15/02/2009 19:14:57] /addskill Test knight, magic
+[15/02/2009 19:14:57] /addskill Test knight, magic
+[15/02/2009 19:14:58] /addskill Test knight, magicds
+[15/02/2009 19:15:03] /addskill Test knight, magic
+[15/02/2009 19:15:03] /addskill Test knight, magic
+[15/02/2009 19:15:03] /addskill Test knight, magic
+[15/02/2009 19:15:03] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:04] /addskill Test knight, magic
+[15/02/2009 19:15:05] /addskill Test knight, magic
+[15/02/2009 19:15:05] /addskill Test knight, magic
+[15/02/2009 19:15:05] /addskill Test knight, magic
+[15/02/2009 19:15:05] /addskill Test knight, magic
+[15/02/2009 19:15:05] /addskill Test knight, magic
+[15/02/2009 19:15:05] /addskill Test knight, magic
+[15/02/2009 19:15:05] /addskill Test knight, magic
+[15/02/2009 19:15:05] /addskill Test knight, magic
+[15/02/2009 19:15:05] /addskill Test knight, magic
+[15/02/2009 19:15:05] /addskill Test knight, magic
+[15/02/2009 19:15:05] /addskill Test knight, magic
+[15/02/2009 19:15:05] /addskill Test knight, magic
+[15/02/2009 19:15:05] /addskill Test knight, magic
+[15/02/2009 19:15:05] /addskill Test knight, magic
+[15/02/2009 19:15:05] /addskill Test knight, magic
+[15/02/2009 19:15:05] /addskill Test knight, magic
+[15/02/2009 19:15:05] /addskill Test knight, magic
+[15/02/2009 19:15:05] /addskill Test knight, magic
+[15/02/2009 19:15:05] /addskill Test knight, magic
+[15/02/2009 19:15:05] /addskill Test knight, magic
+[15/02/2009 19:15:05] /addskill Test knight, magic
+[15/02/2009 19:15:05] /addskill Test knight, magic
+[15/02/2009 19:15:05] /addskill Test knight, magic
+[15/02/2009 19:15:05] /addskill Test knight, magic
+[15/02/2009 19:15:06] /addskill Test knight, magic
+[15/02/2009 19:15:06] /addskill Test knight, magic
+[15/02/2009 19:15:06] /addskill Test knight, magic
+[15/02/2009 19:15:06] /addskill Test knight, magic
+[15/02/2009 19:15:06] /addskill Test knight, magic
+[15/02/2009 19:15:06] /addskill Test knight, magic
+[15/02/2009 19:15:06] /addskill Test knight, magic
+[15/02/2009 19:15:06] /addskill Test knight, magic
+[15/02/2009 19:15:06] /addskill Test knight, magic
+[15/02/2009 19:15:06] /addskill Test knight, magic
+[15/02/2009 19:15:06] /addskill Test knight, magic
+[15/02/2009 19:15:06] /addskill Test knight, magic
+[15/02/2009 19:15:06] /addskill Test knight, magic
+[15/02/2009 19:15:06] /addskill Test knight, magic
+[15/02/2009 19:15:06] /addskill Test knight, magic
+[15/02/2009 19:15:06] /addskill Test knight, magic
+[15/02/2009 19:15:06] /addskill Test knight, magic
+[15/02/2009 19:15:06] /addskill Test knight, magic
+[15/02/2009 19:15:06] /addskill Test knight, magic
+[15/02/2009 19:15:06] /addskill Test knight, magic
+[15/02/2009 19:15:06] /addskill Test knight, magic
+[15/02/2009 19:15:06] /addskill Test knight, magic
+[15/02/2009 19:15:06] /addskill Test knight, magic
+[15/02/2009 19:15:06] /addskill Test knight, magic
+[15/02/2009 19:15:07] /addskill Test knight, magic
+[15/02/2009 19:15:07] /addskill Test knight, magic
+[15/02/2009 19:15:07] /addskill Test knight, magic
+[15/02/2009 19:15:07] /addskill Test knight, magic
+[15/02/2009 19:15:07] /addskill Test knight, magic
+[15/02/2009 19:15:07] /addskill Test knight, magic
+[15/02/2009 19:15:07] /addskill Test knight, magic
+[15/02/2009 19:15:07] /addskill Test knight, magic
+[15/02/2009 19:15:07] /addskill Test knight, magic
+[15/02/2009 19:15:07] /addskill Test knight, magic
+[15/02/2009 19:15:07] /addskill Test knight, magic
+[15/02/2009 19:15:07] /addskill Test knight, magic
+[15/02/2009 19:15:07] /addskill Test knight, magic
+[15/02/2009 19:15:07] /addskill Test knight, magic
+[15/02/2009 19:15:07] /addskill Test knight, magic
+[15/02/2009 19:15:26] /addskill Test knight, magic
+[15/02/2009 19:15:27] /addskill Test knight, magic
+[15/02/2009 19:15:27] /addskill Test knight, magic
+[15/02/2009 19:15:27] /addskill Test knight, magic
+[15/02/2009 19:15:27] /addskill Test knight, magic
+[15/02/2009 19:15:27] /addskill Test knight, magic
+[15/02/2009 19:15:27] /addskill Test knight, magic
+[15/02/2009 19:15:27] /addskill Test knight, magic
+[15/02/2009 19:15:27] /addskill Test knight, magic
+[15/02/2009 19:15:27] /addskill Test knight, magic
+[15/02/2009 19:15:27] /addskill Test knight, magic
+[15/02/2009 19:15:27] /addskill Test knight, magic
+[15/02/2009 19:15:27] /addskill Test knight, magic
+[15/02/2009 19:15:27] /addskill Test knight, magic
+[15/02/2009 19:15:27] /addskill Test knight, magic
+[15/02/2009 19:15:27] /addskill Test knight, magic
+[15/02/2009 19:15:27] /addskill Test knight, magic
+[15/02/2009 19:15:27] /addskill Test knight, magic
+[15/02/2009 19:15:27] /addskill Test knight, magic
+[15/02/2009 19:15:27] /addskill Test knight, magic
+[15/02/2009 19:15:27] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:28] /addskill Test knight, magic
+[15/02/2009 19:15:29] /addskill Test knight, magic
+[15/02/2009 19:15:29] /addskill Test knight, magic
+[15/02/2009 19:15:29] /addskill Test knight, magic
+[15/02/2009 19:15:29] /addskill Test knight, magic
+[15/02/2009 19:15:29] /addskill Test knight, magic
+[15/02/2009 19:15:29] /addskill Test knight, magic
+[15/02/2009 19:15:29] /addskill Test knight, magic
+[15/02/2009 19:15:29] /addskill Test knight, magic
+[15/02/2009 19:15:29] /addskill Test knight, magic
+[15/02/2009 19:15:29] /addskill Test knight, magic
+[15/02/2009 19:15:29] /addskill Test knight, magic
+[15/02/2009 19:15:29] /addskill Test knight, magic
+[15/02/2009 19:15:29] /addskill Test knight, magic
+[15/02/2009 19:15:29] /addskill Test knight, magic
+[15/02/2009 19:15:29] /addskill Test knight, magic
+[15/02/2009 19:15:29] /addskill Test knight, magic
+[15/02/2009 19:15:29] /addskill Test knight, magic
+[15/02/2009 19:15:29] /addskill Test knight, magic
+[15/02/2009 19:15:29] /addskill Test knight, magic
+[15/02/2009 19:15:29] /addskill Test knight, magic
+[15/02/2009 19:15:29] /addskill Test knight, magic
+[15/02/2009 19:15:29] /addskill Test knight, magic
+[15/02/2009 19:15:29] /addskill Test knight, magic
+[15/02/2009 19:15:29] /addskill Test knight, magic
+[15/02/2009 19:15:30] /addskill Test knight, magic
+[15/02/2009 19:15:30] /addskill Test knight, magic
+[15/02/2009 19:15:30] /addskill Test knight, magic
+[15/02/2009 19:15:30] /addskill Test knight, magic
+[15/02/2009 19:15:30] /addskill Test knight, magic
+[15/02/2009 19:15:30] /addskill Test knight, magic
+[15/02/2009 19:15:30] /addskill Test knight, magic
+[15/02/2009 19:15:30] /addskill Test knight, magic
+[15/02/2009 19:15:30] /addskill Test knight, magic
+[15/02/2009 19:15:30] /addskill Test knight, magic
+[15/02/2009 19:15:30] /addskill Test knight, magic
+[15/02/2009 19:15:30] /addskill Test knight, magic
+[15/02/2009 19:15:30] /addskill Test knight, magic
+[15/02/2009 19:15:30] /addskill Test knight, magic
+[15/02/2009 19:15:30] /addskill Test knight, magic
+[15/02/2009 19:15:30] /addskill Test knight, magic
+[15/02/2009 19:15:30] /addskill Test knight, magic
+[15/02/2009 19:15:30] /addskill Test knight, magic
+[15/02/2009 19:15:38] /i solar axe
+[15/02/2009 19:16:28] /c test knight
+[15/02/2009 19:20:50] /a 5
+[15/02/2009 19:33:20] /a 1
+[15/02/2009 21:02:14] /t
+[15/02/2009 21:26:48] /newtype 311
+[15/02/2009 21:26:52] /newtype 312
+[15/02/2009 21:26:56] /newtype 310
+[15/02/2009 21:27:10] /newtype 303
+[15/02/2009 21:27:15] /newtype 302
+[15/02/2009 21:27:18] /newtype 301
+[15/02/2009 21:27:20] /newtype 303
+[15/02/2009 21:27:26] /newtype 304
+[15/02/2009 21:27:28] /newtype 305
+[15/02/2009 21:27:30] /newtype 306
+[15/02/2009 21:27:32] /newtype 307
+[15/02/2009 21:27:35] /newtype 308
+[15/02/2009 21:27:38] /newtype 303
+[15/02/2009 21:31:08] /m big boss troviller
+[15/02/2009 21:31:11] /m big boss troviler
+[15/02/2009 21:31:17] /m big boss trolliver
+[15/02/2009 21:31:34] /m latrivan
+[15/02/2009 21:31:41] /summon frost dragon
+[15/02/2009 21:33:22] /newtype 303
+[15/02/2009 21:34:16] /i 9912
+[15/02/2009 21:34:30] /i 9780
+[15/02/2009 21:35:18] /i 8978
+[15/02/2009 21:35:44] /i 20028
+[15/02/2009 21:36:28] /i 9823
+[15/02/2009 21:37:03] /i 9004
+[15/02/2009 21:37:19] /i 9783
+[15/02/2009 21:45:28] /reload monsters
+[15/02/2009 21:45:41] /m the fastest turtle
+[15/02/2009 21:45:44] /m the fastest turtle
+[15/02/2009 21:47:06] /reload monsters
+[15/02/2009 21:47:10] /m the fastest turtle
+[15/02/2009 21:47:19] /m the fastest turtle
+[15/02/2009 21:47:21] /m the fastest turtle
+[15/02/2009 21:47:34] /reload monsters
+[15/02/2009 21:47:36] /m the fastest turtle
+[15/02/2009 21:48:38] /m the fastest turtle
+[15/02/2009 21:49:14] /reload monsters
+[15/02/2009 21:49:15] /m the fastest turtle
+[15/02/2009 21:54:06] /m the fastest turtle
+[15/02/2009 21:55:07] /i crystal coin 
+[22/02/2009 21:22:14] /raid ghazbaran
+[22/02/2009 21:22:37] /raid ghazbaran
+[22/02/2009 21:22:40] /raid orshabaal
+[22/02/2009 21:22:48] /shutdown 1
+[22/02/2009 21:23:12] /bc green lol
+[22/02/2009 21:24:13] /raid ghazbaran
+[22/02/2009 21:24:18] /goto grim reaper
+[22/02/2009 21:27:16] /reload talkactions
+[22/02/2009 21:40:11] /summon morgaroth
+[24/02/2009 23:15:50] /t
+[24/02/2009 23:16:25] /a 4
+[24/02/2009 23:16:25] /a 4
+[24/02/2009 23:16:27] /a 4
+[24/02/2009 23:17:17] /down
+[24/02/2009 23:17:29] /a 5
+[24/02/2009 23:17:30] /a 5
+[25/02/2009 00:00:42] /i 6498
+[25/02/2009 00:02:12] /i 8029
+[25/02/2009 00:02:26] /i 8046
+[25/02/2009 00:07:31] /down
+[25/02/2009 00:07:32] /down
+[25/02/2009 14:21:57] /goto test knight
+[25/02/2009 14:28:10] /b go
+[25/02/2009 14:28:15] /a 5
+[25/02/2009 14:28:30] /a 45
+[25/02/2009 14:28:31] /a 45
+[25/02/2009 14:28:41] /a 1
+[25/02/2009 14:28:47] /i football
+[25/02/2009 14:29:29] /r
+[25/02/2009 14:55:24] !pos
+[25/02/2009 15:08:38] /npc bank
+[25/02/2009 15:14:42] /a 5
+[25/02/2009 15:17:39] /a 15
+[25/02/2009 15:17:39] /a 15
+[25/02/2009 15:17:40] /a 15
+[25/02/2009 15:17:40] /a 15
+[25/02/2009 15:22:53] /t
+[25/02/2009 15:23:23] /ghost
+[25/02/2009 15:31:29] /expevent
+[25/02/2009 15:34:29] /expevent
+[25/02/2009 15:51:41] /i 9090
+[25/02/2009 15:55:57] /c test sorcerer
+[25/02/2009 15:56:09] /addskill test sorcerer, level
+[25/02/2009 15:56:10] /addskill test sorcerer, level
+[25/02/2009 15:56:10] /addskill test sorcerer, level
+[25/02/2009 15:56:10] /addskill test sorcerer, level
+[25/02/2009 15:56:11] /addskill test sorcerer, level
+[25/02/2009 15:56:11] /addskill test sorcerer, level
+[25/02/2009 15:56:11] /addskill test sorcerer, level
+[25/02/2009 15:56:12] /addskill test sorcerer, level
+[25/02/2009 15:56:12] /addskill test sorcerer, level
+[25/02/2009 15:56:12] /addskill test sorcerer, level
+[25/02/2009 15:56:13] /addskill test sorcerer, level
+[25/02/2009 15:56:13] /addskill test sorcerer, level
+[25/02/2009 15:56:13] /addskill test sorcerer, level
+[25/02/2009 15:56:14] /addskill test sorcerer, level
+[25/02/2009 15:56:14] /addskill test sorcerer, level
+[25/02/2009 15:56:14] /addskill test sorcerer, level
+[25/02/2009 15:56:15] /addskill test sorcerer, level
+[25/02/2009 15:56:15] /addskill test sorcerer, level
+[25/02/2009 15:56:15] /addskill test sorcerer, level
+[25/02/2009 15:56:15] /addskill test sorcerer, level
+[25/02/2009 15:56:19] /addskill test sorcerer, level
+[25/02/2009 15:56:19] /addskill test sorcerer, level
+[25/02/2009 15:56:19] /addskill test sorcerer, level
+[25/02/2009 15:56:20] /addskill test sorcerer, level
+[25/02/2009 15:56:20] /addskill test sorcerer, level
+[25/02/2009 15:56:20] /addskill test sorcerer, level
+[25/02/2009 15:56:21] /addskill test sorcerer, level
+[25/02/2009 15:56:21] /addskill test sorcerer, level
+[25/02/2009 15:56:21] /addskill test sorcerer, level
+[25/02/2009 15:56:21] /addskill test sorcerer, level
+[25/02/2009 15:56:22] /addskill test sorcerer, level
+[25/02/2009 15:56:22] /addskill test sorcerer, level
+[25/02/2009 15:56:22] /addskill test sorcerer, level
+[25/02/2009 15:56:23] /addskill test sorcerer, level
+[25/02/2009 15:56:23] /addskill test sorcerer, level
+[25/02/2009 15:56:23] /addskill test sorcerer, level
+[25/02/2009 15:56:24] /addskill test sorcerer, level
+[25/02/2009 15:56:24] /addskill test sorcerer, level
+[25/02/2009 15:56:27] /addskill test sorcerer, level
+[25/02/2009 15:56:27] /addskill test sorcerer, level
+[25/02/2009 15:56:27] /addskill test sorcerer, level
+[25/02/2009 15:56:28] /addskill test sorcerer, level
+[25/02/2009 15:56:28] /addskill test sorcerer, level
+[25/02/2009 15:56:28] /addskill test sorcerer, level
+[25/02/2009 15:56:29] /addskill test sorcerer, level
+[25/02/2009 15:56:29] /addskill test sorcerer, level
+[25/02/2009 15:56:29] /addskill test sorcerer, level
+[25/02/2009 15:56:30] /addskill test sorcerer, level
+[25/02/2009 15:56:30] /addskill test sorcerer, level
+[25/02/2009 15:56:31] /addskill test sorcerer, level
+[25/02/2009 15:56:33] /addskill test sorcerer, level
+[25/02/2009 15:56:35] /addskill test sorcerer, level
+[25/02/2009 15:56:35] /addskill test sorcerer, level
+[25/02/2009 15:56:35] /addskill test sorcerer, level
+[25/02/2009 15:56:36] /addskill test sorcerer, level
+[25/02/2009 15:56:36] /addskill test sorcerer, level
+[25/02/2009 15:56:36] /addskill test sorcerer, level
+[25/02/2009 15:56:37] /addskill test sorcerer, level
+[25/02/2009 15:56:37] /addskill test sorcerer, level
+[25/02/2009 15:56:37] /addskill test sorcerer, level
+[25/02/2009 15:56:38] /addskill test sorcerer, level
+[25/02/2009 15:56:38] /addskill test sorcerer, level
+[25/02/2009 15:56:39] /addskill test sorcerer, level
+[25/02/2009 15:56:39] /addskill test sorcerer, level
+[25/02/2009 15:56:39] /addskill test sorcerer, level
+[25/02/2009 15:56:40] /addskill test sorcerer, level
+[25/02/2009 15:56:40] /addskill test sorcerer, level
+[25/02/2009 15:56:40] /addskill test sorcerer, level
+[25/02/2009 15:56:41] /addskill test sorcerer, level
+[25/02/2009 15:56:42] /addskill test sorcerer, level
+[25/02/2009 15:56:42] /addskill test sorcerer, level
+[25/02/2009 15:56:42] /addskill test sorcerer, level
+[25/02/2009 15:56:43] /addskill test sorcerer, level
+[25/02/2009 15:56:43] /addskill test sorcerer, level
+[25/02/2009 15:56:44] /addskill test sorcerer, level
+[25/02/2009 15:56:44] /addskill test sorcerer, level
+[25/02/2009 15:56:45] /addskill test sorcerer, level
+[25/02/2009 15:56:48] /addskill test sorcerer, level
+[25/02/2009 15:56:48] /addskill test sorcerer, level
+[25/02/2009 15:56:49] /addskill test sorcerer, level
+[25/02/2009 15:56:49] /addskill test sorcerer, level
+[25/02/2009 15:56:50] /addskill test sorcerer, level
+[25/02/2009 15:56:50] /addskill test sorcerer, level
+[25/02/2009 15:56:53] /addskill test sorcerer, level
+[25/02/2009 15:56:53] /addskill test sorcerer, level
+[25/02/2009 15:56:54] /addskill test sorcerer, level
+[25/02/2009 15:56:55] /addskill test sorcerer, level
+[25/02/2009 15:57:15] /m the fastest turtle
+[25/02/2009 15:57:29] /m morgaroth
+[25/02/2009 15:57:37] /m the fastest turtle
+[25/02/2009 15:57:46] /m the fastest turtle
+[25/02/2009 15:57:47] /m the fastest turtle
+[25/02/2009 15:57:47] /m the fastest turtle
+[25/02/2009 15:57:48] /m the fastest turtle
+[25/02/2009 16:00:03] /addskill level, test sorcerer
+[25/02/2009 16:00:08] /addskill level, test sorcerer
+[25/02/2009 16:00:22] /addskill level, Test Sorcerer
+[25/02/2009 16:00:34] /addskill level, Test Sorcerer
+[25/02/2009 16:00:35] /addskill level, Test Sorcerer
+[25/02/2009 16:00:45] /addskill level, Test Sorcerer
+[25/02/2009 16:00:50] /addskill level, god alissow
+[25/02/2009 16:00:51] /addskill level, god alissow
+[25/02/2009 16:01:45] /addskill level, test sorcerer
+[25/02/2009 16:02:04] /addskill test sorcerer, magic
+[25/02/2009 16:32:53] /i golden legs
+[04/03/2009 17:34:00] /a 5
+[04/03/2009 17:34:01] /a 5
+[04/03/2009 17:34:08] /a 5
+[04/03/2009 17:34:09] /a 5
+[04/03/2009 17:34:58] /summon the fastest turtle
+[04/03/2009 17:35:25] /a 1
+[04/03/2009 17:36:31] /up
+[04/03/2009 17:36:34] /down
+[04/03/2009 17:37:08] /a 1
+[04/03/2009 17:40:17] /m the fastest turtle
+[04/03/2009 17:40:18] /t
+[04/03/2009 17:43:16] /goto the fastest turtle
+[04/03/2009 17:43:24] /a 1
+[04/03/2009 17:43:28] /a 1
+[04/03/2009 17:43:49] /a 5
+[04/03/2009 17:43:51] /a 1
+[04/03/2009 17:47:02] /summon demon
+[04/03/2009 17:48:18] /m dragon
+[04/03/2009 17:48:29] /r
+[04/03/2009 17:48:31] /r
+[04/03/2009 17:48:33] /r
+[04/03/2009 17:48:34] /r
+[04/03/2009 17:49:16] /t
+[04/03/2009 17:49:23] /npc cityguard
+[04/03/2009 17:49:32] /c guard
+[04/03/2009 17:49:36] /r
+[04/03/2009 17:49:40] /npc cityguard
+[04/03/2009 17:56:36] /i crystal coin 
+[04/03/2009 18:28:00] /a 15
+[04/03/2009 18:28:00] /a 15
+[04/03/2009 18:28:02] /a 15
+[04/03/2009 18:28:02] /a 15
+[04/03/2009 18:28:09] /a 1
+[04/03/2009 18:28:19] /a 1
+[04/03/2009 18:28:21] /a 1
+[04/03/2009 18:28:35] /t
+[04/03/2009 18:28:55] /a 5
+[04/03/2009 18:29:01] /t
+[04/03/2009 18:29:10] /a 50
+[04/03/2009 18:29:20] /a 50
+[04/03/2009 18:29:21] /a 50
+[04/03/2009 18:29:23] /up
+[04/03/2009 18:30:08] /t
+[04/03/2009 18:30:12] /t
+[04/03/2009 18:30:14] /a 15
+[04/03/2009 18:30:30] /t
+[04/03/2009 18:30:38] /a 50
+[04/03/2009 18:30:43] /a 15
+[05/03/2009 16:06:29] /t
+[05/03/2009 16:06:54] /a 1
+[05/03/2009 16:06:56] /a 1
+[05/03/2009 16:06:57] /a 1
+[05/03/2009 16:06:57] /a 1
+[05/03/2009 16:06:58] /a 1
+[05/03/2009 16:07:01] /a 5
+[05/03/2009 16:08:04] /summon demon
+[05/03/2009 16:09:11] /up
+[05/03/2009 16:09:17] /down
+[06/03/2009 17:17:41] /t
+[06/03/2009 17:20:35] /i 3608
+[06/03/2009 17:20:45] /i 3607
+[06/03/2009 17:21:17] /i 1304
+[06/03/2009 17:21:47] /i 3607
+[06/03/2009 17:22:03] /i 3615
+[06/03/2009 17:22:14] /i 1285
+[06/03/2009 17:22:24] /i 3616
+[06/03/2009 17:22:33] /i 3608
+[06/03/2009 17:22:42] /i 3609
+[06/03/2009 17:22:49] /r
+[06/03/2009 17:22:50] /r
+[06/03/2009 17:22:50] /r
+[06/03/2009 17:22:51] /r
+[06/03/2009 17:22:51] /r
+[06/03/2009 17:22:52] /r
+[06/03/2009 17:22:53] /r
+[06/03/2009 17:22:58] /i 3610
+[06/03/2009 17:23:03] /i 3611
+[06/03/2009 17:23:08] /i 3612
+[06/03/2009 17:23:14] /i 3613
+[06/03/2009 17:23:20] /i 3614
+[06/03/2009 17:23:41] /i 3612
+[06/03/2009 17:23:54] /i 3648
+[06/03/2009 17:24:16] /i 3649
+[06/03/2009 17:24:20] /i 3650
+[06/03/2009 17:24:22] /i 3651
+[06/03/2009 17:24:25] /i 3652
+[06/03/2009 17:24:28] /i 3653
+[06/03/2009 17:24:30] /i 3654
+[06/03/2009 17:24:33] /i 3655
+[06/03/2009 17:24:36] /i 3656
+[06/03/2009 17:24:50] /i 3669
+[06/03/2009 17:24:55] /i 3666
+[06/03/2009 17:25:06] /i 3667
+[06/03/2009 17:25:24] /i 3668
+[06/03/2009 17:25:28] /i 3670
+[06/03/2009 17:25:39] /i 3669
+[06/03/2009 17:25:55] /i 3657
+[06/03/2009 17:32:37] /i crystal coin
+[06/03/2009 17:33:26] /a 5
+[06/03/2009 17:33:28] /a 1
+[06/03/2009 17:33:30] /up
+[06/03/2009 17:33:30] /up
+[06/03/2009 17:33:47] /down
+[06/03/2009 17:33:48] /down
+[06/03/2009 17:33:50] /a 15
+[06/03/2009 17:33:50] /a 15
+[06/03/2009 17:33:52] /a 15
+[06/03/2009 17:33:53] /a 15
+[06/03/2009 18:18:06] /t
+[06/03/2009 18:18:27] /a 2
+[06/03/2009 18:18:29] /up
+[06/03/2009 18:18:31] /up
+[06/03/2009 18:20:41] /t
+[06/03/2009 18:22:00] /goto grorlam
+[06/03/2009 18:22:11] /i shovel
+[06/03/2009 18:22:55] /c banshee
+[06/03/2009 18:23:00] /c banshee
+[06/03/2009 18:23:03] /c banshee
+[06/03/2009 18:23:07] /r
+[06/03/2009 18:23:08] /r
+[06/03/2009 18:23:08] /r
+[06/03/2009 18:23:09] /r
+[06/03/2009 18:27:32] /up
+[06/03/2009 18:31:43] /t
+[06/03/2009 18:32:04] /up
+[06/03/2009 18:35:28] /up
+[06/03/2009 18:42:38] /t
+[06/03/2009 18:42:43] /t
+[06/03/2009 18:42:49] /a 2
+[06/03/2009 18:42:50] /a 2
+[06/03/2009 18:42:50] /a 2
+[06/03/2009 18:42:50] /a 2
+[06/03/2009 18:42:51] /a 2
+[06/03/2009 18:42:56] /t
+[06/03/2009 19:16:01] /i assassin star
+[06/03/2009 19:16:01] /i assassin star
+[06/03/2009 19:16:16] /i backpack of holding
+[06/03/2009 19:18:04] /goto ice witch
+[06/03/2009 19:18:07] /down
+[06/03/2009 19:18:07] /down
+[06/03/2009 19:18:13] /i shovel
+[06/03/2009 19:18:16] /i shope
+[06/03/2009 19:18:19] /i rope
+[07/03/2009 11:00:47] /goto grim reaper
+[07/03/2009 11:00:51] /a 10
+[07/03/2009 11:00:52] /a 10
+[07/03/2009 11:00:53] /a 10
+[07/03/2009 11:00:54] /a 10
+[07/03/2009 11:00:59] /i amulet of loss
+[07/03/2009 11:05:08] /t
+[07/03/2009 11:05:31] /i solar axe
+[07/03/2009 11:08:00] /i 2343
+[07/03/2009 11:26:40] /goto werewolf
+[07/03/2009 11:26:43] /t
+[07/03/2009 11:27:29] /goto test
+[07/03/2009 11:27:38] /c Testing
+[07/03/2009 11:28:20] /t
+[07/03/2009 11:28:23] /c testing
+[07/03/2009 12:34:09] /goto gozzler
+[07/03/2009 12:34:14] /goto gozzler
+[07/03/2009 12:34:16] /goto gozzler
+[07/03/2009 12:34:20] /goto gozzler
+[07/03/2009 12:34:22] /goto gozzler
+[07/03/2009 12:34:24] /goto gozzler
+[07/03/2009 12:34:25] /goto gozzler
+[07/03/2009 12:34:27] /goto gozzler
+[07/03/2009 12:34:30] /goto gozzler
+[07/03/2009 12:34:31] /goto gozzler
+[07/03/2009 12:34:35] /goto gozzler
+[07/03/2009 12:34:41] /goto gozzler
+[07/03/2009 12:34:49] /goto gozzler
+[07/03/2009 12:34:52] /goto gozzler
+[07/03/2009 12:42:03] /a 3
+[07/03/2009 12:42:03] /a 3
+[07/03/2009 12:42:03] /a 3
+[07/03/2009 12:42:06] /a 3
+[07/03/2009 12:42:06] /a 3
+[07/03/2009 12:42:07] /a 3
+[07/03/2009 12:53:03] /t
+[07/03/2009 12:53:53] /i iron worker
+[07/03/2009 12:54:00] /i 8853
+[07/03/2009 12:54:12] /i 8851
+[07/03/2009 12:56:18] /i 8853
+[07/03/2009 12:56:27] /i 8850
+[07/03/2009 12:56:33] /i 8849
+[07/03/2009 12:56:41] /i 8852
+[07/03/2009 12:57:42] /i 8903
+[07/03/2009 12:57:49] /i 8904
+[07/03/2009 12:57:55] /i 8905
+[07/03/2009 12:58:08] /i 8918
+[07/03/2009 13:26:05] /goto test
+[07/03/2009 13:26:08] /a 1
+[07/03/2009 13:26:15] /goto test
+[07/03/2009 13:26:19] /a 1
+[07/03/2009 13:26:19] /a 1
+[07/03/2009 13:26:58] /m orshabaal
+[07/03/2009 13:27:13] /r
+[07/03/2009 13:27:23] /i crossbow
+[07/03/2009 13:27:36] /m orshabaal
+[07/03/2009 13:27:52] /r
+[07/03/2009 13:27:59] /m orshabaal
+[07/03/2009 13:28:17] /r
+[07/03/2009 13:28:30] /c test sorcerer
+[07/03/2009 13:28:42] /t
+[07/03/2009 14:20:20] /t
+[07/03/2009 14:20:33] /a 15
+[07/03/2009 14:20:34] /a 15
+[07/03/2009 14:20:35] /a 15
+[09/03/2009 19:25:01] /t
+[12/03/2009 20:29:03] /t
+[12/03/2009 20:33:02] /t
+[14/03/2009 19:47:52] /down
+[14/03/2009 19:47:54] /down
+[14/03/2009 19:47:59] /up
+[14/03/2009 19:48:15] /a 4
+[14/03/2009 19:48:36] /down
+[15/03/2009 23:47:04] /t
+[15/03/2009 23:47:15] /down
+[15/03/2009 23:47:20] /up
+[15/03/2009 23:51:27] /up
+[15/03/2009 23:52:09] /t
+[15/03/2009 23:52:19] /a 7
+[18/03/2009 13:42:06] /t
+[18/03/2009 13:42:46] /r
+[19/03/2009 18:13:07] /i avalanche rune
+[20/03/2009 23:02:09] /mode
+[20/03/2009 23:02:12] /mode 1
+[20/03/2009 23:02:15] /mode 2
+[20/03/2009 23:02:16] /mode 3
+[20/03/2009 23:02:19] /mode 4
+[20/03/2009 23:02:21] /mode 2
+[20/03/2009 23:03:36] /cliport
+[20/03/2009 23:03:42] /mode 2
+[25/03/2009 18:05:27] /summon demon
+[25/03/2009 18:05:30] /summon demon
+[25/03/2009 18:05:34] /summon demon
+[25/03/2009 18:05:47] /t
+[25/03/2009 18:05:54] /npc demon
+[25/03/2009 18:06:00] /npc firewalker
+[25/03/2009 18:07:00] /summon dragon
+[25/03/2009 18:07:44] /up
+[25/03/2009 18:09:48] /a 2
+[25/03/2009 18:13:14] /t
+[26/03/2009 17:32:44] /a 50
+[26/03/2009 17:32:45] /a 50
+[26/03/2009 17:32:46] /a 50
+[26/03/2009 17:32:47] /a 50
+[26/03/2009 17:33:20] /summon demodras
+[26/03/2009 17:33:39] /summon apocalypse
+[26/03/2009 17:34:42] /summon bazir
+[26/03/2009 17:37:58] /t
+[27/03/2009 19:27:13] /r
+[27/03/2009 19:27:15] /r
+[27/03/2009 19:27:36] /t
+[27/03/2009 19:30:13] /up
+[27/03/2009 19:30:20] /up
+[27/03/2009 19:32:15] /down
+[27/03/2009 19:32:15] /down
+[27/03/2009 19:32:35] /a 20
+[27/03/2009 19:32:36] /a 20
+[27/03/2009 19:32:38] /a 20
+[27/03/2009 19:32:49] /a 2
+[27/03/2009 19:35:28] /a 10
+[27/03/2009 19:35:29] /a 10
+[27/03/2009 19:35:31] /a 10
+[27/03/2009 19:36:31] /t
+[27/03/2009 19:36:57] /t
+[27/03/2009 19:37:01] /a 50
+[27/03/2009 19:37:05] /a 1
+[27/03/2009 19:37:47] /t
+[27/03/2009 19:38:59] /t
+[27/03/2009 19:39:40] /t
+[27/03/2009 19:42:12] /a 50
+[27/03/2009 19:42:15] /down
+[27/03/2009 19:42:18] /a 5
+[27/03/2009 19:42:18] /a 5
+[27/03/2009 19:42:19] /a 5
+[27/03/2009 19:42:19] /a 5
+[27/03/2009 19:42:23] /a 15
+[27/03/2009 19:42:24] /a 15
+[27/03/2009 19:42:25] /a 15
+[27/03/2009 19:42:26] /a 15
+[27/03/2009 19:42:27] /a 15
+[27/03/2009 19:42:29] /a 10
+[27/03/2009 19:42:30] /a 10
+[27/03/2009 19:42:32] /a 5
+[27/03/2009 19:42:36] /a 2
+[27/03/2009 19:42:56] /a 10
+[27/03/2009 19:42:57] /a 10
+[27/03/2009 19:42:58] /a 10
+[27/03/2009 19:42:58] /a 10
+[27/03/2009 19:43:00] /a 10
+[27/03/2009 19:43:02] /a 10
+[28/03/2009 00:15:44] /t
+[28/03/2009 16:32:24] /a 50
+[28/03/2009 16:32:25] /a 50
+[28/03/2009 16:32:26] /a 50
+[28/03/2009 16:32:27] /a 50
+[28/03/2009 16:32:29] /a 5
+[28/03/2009 16:32:29] /a 5
+[28/03/2009 16:32:29] /a 5
+[28/03/2009 16:35:44] /summon morgaroth
+[28/03/2009 16:35:51] /m demon
+[28/03/2009 16:36:19] /c testing
+[28/03/2009 16:36:49] /addskill testing, level
+[28/03/2009 16:36:50] /addskill testing, level
+[28/03/2009 16:39:27] /a 3
+[28/03/2009 16:39:28] /a 3
+[28/03/2009 16:57:32] /t
+[28/03/2009 17:07:44] /i 4535
+[28/03/2009 17:08:07] /i sword
+[28/03/2009 17:08:15] /i crossbow
+[28/03/2009 17:08:21] /i apple
+[28/03/2009 17:08:25] /i apple 5
+[28/03/2009 17:08:30] /i red apple
+[28/03/2009 17:08:33] /i red apple
+[28/03/2009 17:08:45] /i red apple
+[28/03/2009 17:08:59] /i spellbook
+[29/03/2009 13:47:26] /m morgaroth
+[29/03/2009 13:51:23] /i 7405
+[29/03/2009 13:51:28] /i 7405
+[29/03/2009 13:51:28] /i 7405
+[29/03/2009 13:51:29] /i 7405
+[29/03/2009 13:51:30] /i 7405
+[29/03/2009 13:57:21] /i 3058
+[29/03/2009 14:03:59] /reload monsters
+[29/03/2009 14:04:16] /c test
+[29/03/2009 14:04:41] /c test
+[29/03/2009 14:04:49] /b test
+[29/03/2009 14:05:25] /summon baron of the room
+[29/03/2009 14:05:56] /m baron of the room
+[29/03/2009 14:07:42] /reload monsters
+[29/03/2009 14:07:57] /m baron of the room
+[29/03/2009 14:08:42] /m orshabaal
+[29/03/2009 14:09:02] /m baron of the room
+[29/03/2009 16:28:46] /c test
+[29/03/2009 16:28:51] /c test knight
+[29/03/2009 16:28:56] /c test sorcerer
+[29/03/2009 16:29:14] /i red apple
+[29/03/2009 16:29:32] /i spellbook
+[29/03/2009 17:09:35] /t
+[29/03/2009 17:09:44] /c test
+[29/03/2009 17:09:56] /c test knight
+[30/03/2009 14:31:10] /c test
+[30/03/2009 14:48:04] /t
+[30/03/2009 14:51:56] /unban test
+[30/03/2009 15:02:23] /m the fastest turtle
+[30/03/2009 15:19:04] /m demon
+[30/03/2009 15:19:14] /m dragon
+[30/03/2009 15:19:14] /m dragon
+[30/03/2009 15:20:09] /m dragon
+[30/03/2009 15:23:56] /m dragon
+[30/03/2009 15:24:10] /m elf
+[30/03/2009 15:27:03] /m dragon
+[30/03/2009 15:27:03] /m dragon
+[30/03/2009 15:27:03] /m dragon
+[30/03/2009 15:27:04] /m dragon
+[30/03/2009 15:31:00] /c test druid
+[30/03/2009 15:31:05] /m carrion worm
+[30/03/2009 15:31:06] /m carrion worm
+[30/03/2009 15:31:06] /m carrion worm
+[30/03/2009 15:31:06] /m carrion worm
+[30/03/2009 15:36:41] /m dragon
+[30/03/2009 15:43:58] /m carrion worm
+[30/03/2009 15:43:58] /m carrion worm
+[30/03/2009 15:43:59] /m carrion worm
+[30/03/2009 15:43:59] /m carrion worm
+[30/03/2009 15:43:59] /m carrion worm
+[30/03/2009 15:47:07] /reload spells
+[30/03/2009 15:53:07] /addskill GOD Alissow, magic
+[30/03/2009 15:53:08] /addskill GOD Alissow, magic
+[30/03/2009 15:53:11] /addskill GOD Alissow, magic
+[30/03/2009 15:53:15] /addskill GOD Alissow, axe
+[30/03/2009 15:53:16] /addskill GOD Alissow, axe
+[30/03/2009 15:53:17] /addskill GOD Alissow, axe
+[30/03/2009 15:53:19] /addskill GOD Alissow, axe
+[30/03/2009 15:53:22] /addskill GOD Alissow, sword
+[30/03/2009 15:53:27] /addskill GOD Alissow, shield
+[30/03/2009 15:53:28] /addskill GOD Alissow, shield
+[30/03/2009 15:53:29] /addskill GOD Alissow, shield
+[30/03/2009 15:53:35] /addskill GOD Alissow, magic
+[30/03/2009 15:53:39] /addskill GOD Alissow, ml
+[30/03/2009 15:53:43] /addskill GOD Alissow, fishing
+[30/03/2009 15:53:44] /addskill GOD Alissow, fishing
+[30/03/2009 15:53:45] /addskill GOD Alissow, fishing
+[30/03/2009 15:53:46] /addskill GOD Alissow, fishing
+[30/03/2009 15:53:52] /addskill GOD Alissow, fist
+[30/03/2009 17:06:19] /ban test, 9
+[30/03/2009 17:06:34] /unban test
+[30/03/2009 17:06:54] /ban
+[30/03/2009 17:06:59] /ban test
+[30/03/2009 17:27:53] /goto alissow
+[30/03/2009 17:27:58] /goto arenanpc
+[30/03/2009 17:28:02] /goto Alissow
+[30/03/2009 17:28:05] /npc alissow
+[30/03/2009 17:28:10] /npc arenancp
+[30/03/2009 17:28:12] /npc arenanpc
+[30/03/2009 17:28:54] /a 50
+[30/03/2009 17:28:55] /a 50
+[30/03/2009 17:28:56] /a 50
+[30/03/2009 17:28:56] /a 50
+[30/03/2009 17:28:57] /a 50
+[30/03/2009 17:28:59] /a 5
+[30/03/2009 17:28:59] /a 5
+[30/03/2009 17:29:00] /a 5
+[30/03/2009 17:29:00] /a 5
+[30/03/2009 17:29:01] /a 5
+[30/03/2009 17:29:01] /a 5
+[30/03/2009 17:29:02] /a 5
+[30/03/2009 17:29:02] /a 5
+[30/03/2009 17:29:02] /a 5
+[30/03/2009 17:29:02] /a 5
+[30/03/2009 17:29:10] /a 5
+[30/03/2009 17:29:11] /a 5
+[30/03/2009 17:29:12] /a 5
+[30/03/2009 17:29:13] /a 5
+[30/03/2009 17:29:13] /a 5
+[30/03/2009 17:29:14] /a 5
+[30/03/2009 17:29:16] /a 5
+[30/03/2009 17:29:16] /a 5
+[30/03/2009 17:29:16] /a 5
+[30/03/2009 17:29:17] /a 5
+[30/03/2009 17:29:17] /a 5
+[30/03/2009 17:29:17] /a 5
+[30/03/2009 17:29:20] /a 5
+[30/03/2009 17:29:20] /a 5
+[30/03/2009 17:29:21] /a 5
+[30/03/2009 17:29:21] /a 5
+[30/03/2009 17:29:21] /a 5
+[30/03/2009 17:29:22] /a 5
+[30/03/2009 17:29:22] /a 5
+[30/03/2009 17:29:23] /a 5
+[30/03/2009 17:29:23] /a 5
+[30/03/2009 17:29:23] /a 5
+[30/03/2009 17:29:24] /a 5
+[30/03/2009 17:29:25] /a 5
+[30/03/2009 17:29:25] /a 5
+[30/03/2009 17:29:25] /a 5
+[30/03/2009 17:29:28] /a 50
+[30/03/2009 17:29:30] /a 60
+[30/03/2009 17:29:32] /a 70
+[30/03/2009 17:29:34] /a 80
+[30/03/2009 17:29:35] /a 90
+[30/03/2009 17:29:38] /a 5
+[30/03/2009 17:29:38] /a 5
+[30/03/2009 17:29:38] /a 5
+[30/03/2009 17:29:38] /a 5
+[30/03/2009 17:29:39] /a 5
+[30/03/2009 17:29:39] /a 5
+[30/03/2009 17:29:39] /a 5
+[30/03/2009 17:29:40] /a 5
+[30/03/2009 17:29:40] /a 5
+[30/03/2009 17:29:40] /a 5
+[30/03/2009 17:29:41] /a 5
+[30/03/2009 17:29:41] /a 5
+[30/03/2009 17:29:43] /a 5
+[30/03/2009 17:29:43] /a 5
+[30/03/2009 17:29:43] /a 5
+[30/03/2009 17:29:44] /a 5
+[30/03/2009 17:29:44] /a 5
+[30/03/2009 17:29:44] /a 5
+[30/03/2009 17:29:45] /a 5
+[30/03/2009 17:29:45] /a 5
+[30/03/2009 17:29:45] /a 5
+[30/03/2009 17:29:46] /a 5
+[30/03/2009 17:29:46] /a 5
+[30/03/2009 17:29:47] /a 5
+[30/03/2009 17:29:48] /a 5
+[30/03/2009 17:29:55] /a 5
+[30/03/2009 17:30:04] /npc alissow
+[30/03/2009 17:30:08] /npc arenanpc
+[30/03/2009 17:30:27] /i crystal coin
+[31/03/2009 17:33:34] /t
+[31/03/2009 17:34:52] /npc capitao coruja
+[31/03/2009 17:35:31] /npc capitao coruja
+[31/03/2009 17:35:55] /npc capitao coruja
+[31/03/2009 18:02:05] /up
+[31/03/2009 18:03:31] /npc izac
+[31/03/2009 18:04:34] /a 4
+[31/03/2009 18:04:38] /up
+[31/03/2009 18:04:43] /npc izac
+[31/03/2009 18:05:02] /npc izac
+[31/03/2009 18:05:18] /npc izac
+[31/03/2009 18:05:36] /npc izac
+[31/03/2009 18:39:16] /b lol
+[31/03/2009 18:39:18] /bc lol
+[01/04/2009 15:48:45] /c alissow
+[01/04/2009 15:49:05] /addskill alissow, level
+[01/04/2009 15:49:05] /addskill alissow, level
+[01/04/2009 15:49:05] /addskill alissow, level
+[01/04/2009 15:49:05] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:06] /addskill alissow, level
+[01/04/2009 15:49:07] /addskill alissow, level
+[01/04/2009 15:49:08] /addskill alissow, level
+[01/04/2009 15:49:08] /addskill alissow, level
+[01/04/2009 15:49:08] /addskill alissow, level
+[01/04/2009 15:49:08] /addskill alissow, level
+[01/04/2009 15:49:08] /addskill alissow, level
+[01/04/2009 15:49:08] /addskill alissow, level
+[01/04/2009 15:49:08] /addskill alissow, level
+[01/04/2009 15:49:08] /addskill alissow, level
+[01/04/2009 15:49:08] /addskill alissow, level
+[01/04/2009 15:49:08] /addskill alissow, level
+[01/04/2009 15:49:08] /addskill alissow, level
+[01/04/2009 15:49:08] /addskill alissow, level
+[01/04/2009 15:49:08] /addskill alissow, level
+[01/04/2009 15:49:08] /addskill alissow, level
+[01/04/2009 15:49:08] /addskill alissow, level
+[01/04/2009 15:49:08] /addskill alissow, level
+[01/04/2009 15:49:08] /addskill alissow, level
+[01/04/2009 15:49:08] /addskill alissow, level
+[01/04/2009 15:49:08] /addskill alissow, level
+[01/04/2009 15:49:09] /addskill alissow, level
+[01/04/2009 15:49:09] /addskill alissow, level
+[01/04/2009 15:49:09] /addskill alissow, level
+[01/04/2009 15:49:09] /addskill alissow, level
+[01/04/2009 15:49:09] /addskill alissow, level
+[01/04/2009 15:49:09] /addskill alissow, level
+[01/04/2009 15:49:09] /addskill alissow, level
+[01/04/2009 15:49:09] /addskill alissow, level
+[01/04/2009 15:49:09] /addskill alissow, level
+[01/04/2009 15:49:09] /addskill alissow, level
+[01/04/2009 15:49:09] /addskill alissow, level
+[01/04/2009 15:49:09] /addskill alissow, level
+[01/04/2009 15:49:09] /addskill alissow, level
+[01/04/2009 15:49:09] /addskill alissow, level
+[01/04/2009 15:49:09] /addskill alissow, level
+[01/04/2009 15:49:09] /addskill alissow, level
+[01/04/2009 15:49:10] /addskill alissow, level
+[01/04/2009 15:49:10] /addskill alissow, level
+[01/04/2009 15:49:10] /addskill alissow, level
+[01/04/2009 15:49:10] /addskill alissow, level
+[01/04/2009 15:49:10] /addskill alissow, level
+[01/04/2009 15:49:10] /addskill alissow, level
+[01/04/2009 15:49:10] /addskill alissow, level
+[01/04/2009 15:49:10] /addskill alissow, level
+[01/04/2009 15:49:10] /addskill alissow, level
+[01/04/2009 15:49:10] /addskill alissow, level
+[01/04/2009 15:49:10] /addskill alissow, level
+[01/04/2009 15:49:10] /addskill alissow, level
+[01/04/2009 15:49:10] /addskill alissow, level
+[01/04/2009 15:49:10] /addskill alissow, level
+[01/04/2009 15:49:10] /addskill alissow, level
+[01/04/2009 15:49:10] /addskill alissow, level
+[01/04/2009 15:49:10] /addskill alissow, level
+[01/04/2009 15:49:10] /addskill alissow, level
+[01/04/2009 15:49:10] /addskill alissow, level
+[01/04/2009 15:49:10] /addskill alissow, level
+[01/04/2009 15:49:10] /addskill alissow, level
+[01/04/2009 15:49:11] /addskill alissow, level
+[01/04/2009 15:49:11] /addskill alissow, level
+[01/04/2009 15:49:11] /addskill alissow, level
+[01/04/2009 15:49:11] /addskill alissow, level
+[01/04/2009 15:49:11] /addskill alissow, level
+[01/04/2009 15:49:11] /addskill alissow, level
+[01/04/2009 15:49:11] /addskill alissow, level
+[01/04/2009 15:49:11] /addskill alissow, level
+[01/04/2009 15:49:11] /addskill alissow, level
+[01/04/2009 15:49:12] /addskill alissow, level
+[01/04/2009 15:49:12] /addskill alissow, level
+[01/04/2009 15:49:12] /addskill alissow, level
+[01/04/2009 15:49:12] /addskill alissow, level
+[01/04/2009 15:49:12] /addskill alissow, level
+[01/04/2009 15:49:12] /addskill alissow, level
+[01/04/2009 15:49:12] /addskill alissow, level
+[01/04/2009 15:49:12] /addskill alissow, level
+[01/04/2009 15:49:12] /addskill alissow, level
+[01/04/2009 15:49:12] /addskill alissow, level
+[01/04/2009 15:49:12] /addskill alissow, level
+[01/04/2009 15:49:12] /addskill alissow, level
+[01/04/2009 15:49:12] /addskill alissow, level
+[01/04/2009 15:49:12] /addskill alissow, level
+[01/04/2009 15:49:12] /addskill alissow, level
+[01/04/2009 15:49:12] /addskill alissow, level
+[01/04/2009 15:49:12] /addskill alissow, level
+[01/04/2009 15:49:13] /addskill alissow, level
+[01/04/2009 15:49:13] /addskill alissow, level
+[01/04/2009 15:49:13] /addskill alissow, level
+[01/04/2009 15:49:13] /addskill alissow, level
+[01/04/2009 15:49:13] /addskill alissow, level
+[01/04/2009 15:49:13] /addskill alissow, level
+[01/04/2009 15:49:13] /addskill alissow, level
+[01/04/2009 15:49:13] /addskill alissow, level
+[01/04/2009 15:49:13] /addskill alissow, level
+[01/04/2009 15:49:14] /addskill alissow, level
+[01/04/2009 15:49:14] /addskill alissow, level
+[01/04/2009 15:49:14] /addskill alissow, level
+[01/04/2009 15:49:14] /addskill alissow, level
+[01/04/2009 15:49:14] /addskill alissow, level
+[01/04/2009 15:49:14] /addskill alissow, level
+[01/04/2009 15:49:14] /addskill alissow, level
+[01/04/2009 15:49:14] /addskill alissow, level
+[01/04/2009 15:49:14] /addskill alissow, level
+[01/04/2009 15:49:14] /addskill alissow, level
+[01/04/2009 15:49:14] /addskill alissow, level
+[01/04/2009 15:49:14] /addskill alissow, level
+[01/04/2009 15:49:14] /addskill alissow, level
+[01/04/2009 15:49:14] /addskill alissow, level
+[01/04/2009 15:49:14] /addskill alissow, level
+[01/04/2009 15:49:14] /addskill alissow, level
+[01/04/2009 15:49:14] /addskill alissow, level
+[01/04/2009 15:49:14] /addskill alissow, level
+[01/04/2009 15:49:14] /addskill alissow, level
+[01/04/2009 15:49:15] /addskill alissow, level
+[01/04/2009 15:49:15] /addskill alissow, level
+[01/04/2009 15:49:15] /addskill alissow, level
+[01/04/2009 15:49:15] /addskill alissow, level
+[01/04/2009 15:49:15] /addskill alissow, level
+[01/04/2009 15:49:15] /addskill alissow, level
+[01/04/2009 15:49:15] /addskill alissow, level
+[01/04/2009 15:49:15] /addskill alissow, level
+[01/04/2009 15:49:15] /addskill alissow, level
+[01/04/2009 15:49:15] /addskill alissow, level
+[01/04/2009 15:49:15] /addskill alissow, level
+[01/04/2009 15:49:15] /addskill alissow, level
+[01/04/2009 15:49:15] /addskill alissow, level
+[01/04/2009 15:49:15] /addskill alissow, level
+[01/04/2009 15:49:15] /addskill alissow, level
+[01/04/2009 15:49:15] /addskill alissow, level
+[01/04/2009 15:49:15] /addskill alissow, level
+[01/04/2009 15:49:15] /addskill alissow, level
+[01/04/2009 15:49:16] /addskill alissow, level
+[01/04/2009 15:49:16] /addskill alissow, level
+[01/04/2009 15:49:16] /addskill alissow, level
+[01/04/2009 15:49:17] /addskill alissow, level
+[01/04/2009 15:49:17] /addskill alissow, level
+[01/04/2009 15:49:17] /addskill alissow, level
+[01/04/2009 15:49:17] /addskill alissow, level
+[01/04/2009 15:49:17] /addskill alissow, level
+[01/04/2009 15:49:17] /addskill alissow, level
+[01/04/2009 15:49:17] /addskill alissow, level
+[01/04/2009 15:49:17] /addskill alissow, level
+[01/04/2009 15:49:17] /addskill alissow, level
+[01/04/2009 15:49:17] /addskill alissow, level
+[01/04/2009 15:49:17] /addskill alissow, level
+[01/04/2009 15:49:17] /addskill alissow, level
+[01/04/2009 15:49:17] /addskill alissow, level
+[01/04/2009 15:49:17] /addskill alissow, level
+[01/04/2009 15:49:17] /addskill alissow, level
+[01/04/2009 15:49:17] /addskill alissow, level
+[01/04/2009 15:49:17] /addskill alissow, level
+[01/04/2009 15:49:17] /addskill alissow, level
+[01/04/2009 15:49:17] /addskill alissow, level
+[01/04/2009 15:49:17] /addskill alissow, level
+[01/04/2009 15:49:17] /addskill alissow, level
+[01/04/2009 15:49:18] /addskill alissow, axe
+[01/04/2009 15:49:19] /addskill alissow, axe
+[01/04/2009 15:49:19] /addskill alissow, axe
+[01/04/2009 15:49:19] /addskill alissow, axe
+[01/04/2009 15:49:19] /addskill alissow, axe
+[01/04/2009 15:49:19] /addskill alissow, axe
+[01/04/2009 15:49:19] /addskill alissow, axe
+[01/04/2009 15:49:19] /addskill alissow, axe
+[01/04/2009 15:49:19] /addskill alissow, axe
+[01/04/2009 15:49:19] /addskill alissow, axe
+[01/04/2009 15:49:19] /addskill alissow, axe
+[01/04/2009 15:49:19] /addskill alissow, axe
+[01/04/2009 15:49:19] /addskill alissow, axe
+[01/04/2009 15:49:19] /addskill alissow, axe
+[01/04/2009 15:49:19] /addskill alissow, axe
+[01/04/2009 15:49:19] /addskill alissow, axe
+[01/04/2009 15:49:19] /addskill alissow, axe
+[01/04/2009 15:49:19] /addskill alissow, axe
+[01/04/2009 15:49:19] /addskill alissow, axe
+[01/04/2009 15:49:19] /addskill alissow, axe
+[01/04/2009 15:49:19] /addskill alissow, axe
+[01/04/2009 15:49:23] /addskill alissow, axe
+[01/04/2009 15:49:23] /addskill alissow, axe
+[01/04/2009 15:49:23] /addskill alissow, axe
+[01/04/2009 15:49:23] /addskill alissow, axe
+[01/04/2009 15:49:23] /addskill alissow, axe
+[01/04/2009 15:49:23] /addskill alissow, axe
+[01/04/2009 15:49:23] /addskill alissow, axe
+[01/04/2009 15:49:23] /addskill alissow, axe
+[01/04/2009 15:49:23] /addskill alissow, axe
+[01/04/2009 15:49:23] /addskill alissow, axe
+[01/04/2009 15:49:23] /addskill alissow, axe
+[01/04/2009 15:49:23] /addskill alissow, axe
+[01/04/2009 15:49:23] /addskill alissow, axe
+[01/04/2009 15:49:23] /addskill alissow, axe
+[01/04/2009 15:49:23] /addskill alissow, axe
+[01/04/2009 15:49:23] /addskill alissow, axe
+[01/04/2009 15:49:23] /addskill alissow, axe
+[01/04/2009 15:49:24] /addskill alissow, axe
+[01/04/2009 15:49:24] /addskill alissow, axe
+[01/04/2009 15:49:24] /addskill alissow, axe
+[01/04/2009 15:49:24] /addskill alissow, axe
+[01/04/2009 15:49:24] /addskill alissow, axe
+[01/04/2009 15:49:24] /addskill alissow, axe
+[01/04/2009 15:49:24] /addskill alissow, axe
+[01/04/2009 15:49:24] /addskill alissow, axe
+[01/04/2009 15:49:26] /addskill alissow, axe
+[01/04/2009 15:49:26] /addskill alissow, axe
+[01/04/2009 15:49:27] /addskill alissow, axe
+[01/04/2009 15:49:27] /addskill alissow, axe
+[01/04/2009 15:49:27] /addskill alissow, axe
+[01/04/2009 15:49:28] /addskill alissow, level
+[01/04/2009 15:49:29] /addskill alissow, level
+[01/04/2009 15:49:29] /addskill alissow, level
+[01/04/2009 15:49:29] /addskill alissow, level
+[01/04/2009 15:49:29] /addskill alissow, level
+[01/04/2009 15:49:29] /addskill alissow, level
+[01/04/2009 15:49:31] /addskill alissow, level
+[01/04/2009 15:49:32] /addskill alissow, level
+[01/04/2009 15:49:32] /addskill alissow, level
+[01/04/2009 15:49:33] /addskill alissow, level
+[01/04/2009 15:49:33] /addskill alissow, level
+[01/04/2009 15:49:34] /addskill alissow, level
+[01/04/2009 15:49:35] /addskill alissow, level
+[01/04/2009 15:49:40] /i crystal coin
+[01/04/2009 15:49:50] /i stonecutter axe
+[01/04/2009 15:49:57] /i mastermind shield
+[01/04/2009 15:50:02] /i demon helmet
+[01/04/2009 15:50:13] /addskill alissow, magic
+[01/04/2009 15:50:14] /addskill alissow, magic
+[01/04/2009 15:50:16] /addskill alissow, magic
+[01/04/2009 15:50:16] /addskill alissow, magic
+[01/04/2009 15:50:17] /addskill alissow, magic
+[01/04/2009 15:50:18] /addskill alissow, magic
+[01/04/2009 15:50:21] /addskill alissow, level
+[01/04/2009 15:50:22] /addskill alissow, level
+[01/04/2009 15:50:22] /addskill alissow, level
+[01/04/2009 15:50:22] /addskill alissow, level
+[01/04/2009 15:50:23] /addskill alissow, level
+[01/04/2009 15:50:23] /addskill alissow, level
+[01/04/2009 15:50:23] /addskill alissow, level
+[01/04/2009 15:50:23] /addskill alissow, level
+[01/04/2009 15:50:23] /addskill alissow, level
+[01/04/2009 15:50:23] /addskill alissow, level
+[01/04/2009 15:50:23] /addskill alissow, level
+[01/04/2009 15:50:23] /addskill alissow, level
+[01/04/2009 15:50:24] /addskill alissow, level
+[01/04/2009 15:50:24] /addskill alissow, level
+[01/04/2009 15:50:24] /addskill alissow, level
+[01/04/2009 15:50:24] /addskill alissow, level
+[01/04/2009 15:50:25] /addskill alissow, level
+[01/04/2009 15:50:25] /addskill alissow, level
+[01/04/2009 15:50:25] /addskill alissow, level
+[01/04/2009 15:50:25] /addskill alissow, level
+[01/04/2009 15:50:26] /addskill alissow, level
+[01/04/2009 15:50:26] /addskill alissow, level
+[01/04/2009 15:50:26] /addskill alissow, level
+[01/04/2009 15:50:26] /addskill alissow, level
+[01/04/2009 15:50:26] /addskill alissow, level
+[01/04/2009 15:50:26] /addskill alissow, level
+[01/04/2009 15:50:26] /addskill alissow, level
+[01/04/2009 15:50:26] /addskill alissow, level
+[01/04/2009 15:50:26] /addskill alissow, level
+[01/04/2009 15:50:26] /addskill alissow, level
+[01/04/2009 15:50:26] /addskill alissow, level
+[01/04/2009 15:50:28] /addskill alissow, level
+[01/04/2009 15:50:28] /addskill alissow, level
+[01/04/2009 15:50:28] /addskill alissow, level
+[01/04/2009 15:50:29] /addskill alissow, level
+[01/04/2009 15:50:43] /i golden legs
+[01/04/2009 15:50:48] /i magic plate armor
+[01/04/2009 15:50:55] /i bunny slippers
+[01/04/2009 15:50:57] /i bunny slippers
+[01/04/2009 15:54:31] /i firewalker boots
+[05/04/2009 10:38:47] /i minotaur leather
+[05/04/2009 12:05:28] /a 3
+[05/04/2009 12:05:29] /a 3
+[05/04/2009 12:14:39] /addskill test druid, level
+[05/04/2009 12:14:40] /addskill test druid, level
+[05/04/2009 12:14:41] /addskill test druid, level
+[05/04/2009 12:14:41] /addskill test druid, level
+[05/04/2009 12:14:42] /addskill test druid, level
+[05/04/2009 12:14:42] /addskill test druid, level
+[05/04/2009 12:14:43] /addskill test druid, level
+[05/04/2009 12:14:43] /addskill test druid, level
+[05/04/2009 12:14:44] /addskill test druid, level
+[05/04/2009 12:14:44] /addskill test druid, level
+[05/04/2009 12:14:45] /addskill test druid, level
+[05/04/2009 12:14:45] /addskill test druid, level
+[05/04/2009 12:14:46] /addskill test druid, level
+[05/04/2009 12:14:46] /addskill test druid, level
+[05/04/2009 12:14:47] /addskill test druid, level
+[05/04/2009 12:14:47] /addskill test druid, level
+[05/04/2009 12:14:48] /addskill test druid, level
+[05/04/2009 12:14:49] /addskill test druid, level
+[05/04/2009 12:14:50] /addskill test druid, level
+[05/04/2009 12:14:50] /addskill test druid, level
+[05/04/2009 12:16:24] /addskill test druid, magic
+[05/04/2009 12:16:24] /addskill test druid, magic
+[05/04/2009 12:16:24] /addskill test druid, magic
+[05/04/2009 12:16:25] /addskill test druid, magic
+[05/04/2009 12:16:25] /addskill test druid, magic
+[05/04/2009 12:16:26] /addskill test druid, magic
+[05/04/2009 12:16:26] /addskill test druid, magic
+[05/04/2009 12:16:26] /addskill test druid, magic
+[05/04/2009 12:16:27] /addskill test druid, magic
+[05/04/2009 12:16:27] /addskill test druid, magic
+[05/04/2009 12:16:28] /addskill test druid, magic
+[05/04/2009 12:16:29] /addskill test druid, magic
+[05/04/2009 12:16:29] /addskill test druid, magic
+[05/04/2009 12:16:30] /addskill test druid, magic
+[05/04/2009 12:16:36] /addskill test druid, magic
+[05/04/2009 12:16:37] /addskill test druid, magic
+[05/04/2009 12:16:37] /addskill test druid, magic
+[05/04/2009 12:16:38] /addskill test druid, magic
+[05/04/2009 12:16:38] /addskill test druid, magic
+[06/04/2009 15:28:53] /cliport
+[06/04/2009 15:28:56] /cliport
+[06/04/2009 15:32:14] /unban test
+[06/04/2009 15:45:02] /addskill god alissow, level
+[06/04/2009 15:45:07] /addskill god alissow, level
+[06/04/2009 15:45:07] /addskill god alissow, level
+[06/04/2009 15:45:09] /addskill god alissow, level
+[06/04/2009 15:49:59] /clean
+[06/04/2009 15:51:01] /addskill god alissow, level
+[06/04/2009 15:51:01] /addskill god alissow, level
+[06/04/2009 15:51:01] /addskill god alissow, level
+[06/04/2009 15:51:01] /addskill god alissow, level
+[06/04/2009 15:51:01] /addskill god alissow, level
+[06/04/2009 15:51:01] /addskill god alissow, level
+[06/04/2009 15:51:01] /addskill god alissow, level
+[06/04/2009 15:51:01] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:02] /addskill god alissow, level
+[06/04/2009 15:51:03] /addskill god alissow, level
+[06/04/2009 15:51:03] /addskill god alissow, level
+[06/04/2009 15:51:03] /addskill god alissow, level
+[06/04/2009 15:51:03] /addskill god alissow, level
+[06/04/2009 15:51:03] /addskill god alissow, level
+[06/04/2009 15:51:03] /addskill god alissow, level
+[06/04/2009 15:51:03] /addskill god alissow, level
+[06/04/2009 15:51:03] /addskill god alissow, level
+[06/04/2009 15:51:03] /addskill god alissow, level
+[06/04/2009 15:51:03] /addskill god alissow, level
+[06/04/2009 15:51:03] /addskill god alissow, level
+[06/04/2009 15:51:03] /addskill god alissow, level
+[06/04/2009 15:51:03] /addskill god alissow, level
+[06/04/2009 15:51:03] /addskill god alissow, level
+[06/04/2009 15:51:03] /addskill god alissow, level
+[06/04/2009 15:51:03] /addskill god alissow, level
+[06/04/2009 15:51:03] /addskill god alissow, level
+[06/04/2009 15:51:03] /addskill god alissow, level
+[06/04/2009 15:51:04] /addskill god alissow, level
+[06/04/2009 15:51:04] /addskill god alissow, level
+[06/04/2009 15:51:04] /addskill god alissow, level
+[06/04/2009 15:51:04] /addskill god alissow, level
+[06/04/2009 15:51:04] /addskill god alissow, level
+[06/04/2009 15:51:04] /addskill god alissow, level
+[06/04/2009 15:51:04] /addskill god alissow, level
+[06/04/2009 15:51:04] /addskill god alissow, level
+[06/04/2009 15:51:04] /addskill god alissow, level
+[06/04/2009 15:51:04] /addskill god alissow, level
+[06/04/2009 15:51:04] /addskill god alissow, level
+[06/04/2009 15:51:05] /addskill god alissow, level
+[06/04/2009 15:51:05] /addskill god alissow, level
+[06/04/2009 15:51:05] /addskill god alissow, level
+[06/04/2009 15:51:05] /addskill god alissow, level
+[06/04/2009 15:51:05] /addskill god alissow, level
+[06/04/2009 15:51:05] /addskill god alissow, level
+[06/04/2009 15:51:06] /addskill god alissow, level
+[06/04/2009 15:51:06] /addskill god alissow, level
+[06/04/2009 15:51:06] /addskill god alissow, level
+[06/04/2009 15:51:06] /addskill god alissow, level
+[06/04/2009 15:51:06] /addskill god alissow, level
+[06/04/2009 15:51:06] /addskill god alissow, level
+[06/04/2009 15:51:07] /addskill god alissow, level
+[06/04/2009 15:51:07] /addskill god alissow, level
+[06/04/2009 15:51:07] /addskill god alissow, level
+[06/04/2009 15:51:08] /addskill god alissow, level
+[06/04/2009 15:51:08] /addskill god alissow, level
+[06/04/2009 15:58:27] /closeserver
+[06/04/2009 15:58:37] /openserver
+[06/04/2009 15:58:55] /closeserver
+[06/04/2009 15:59:04] /openserver
+[06/04/2009 15:59:22] /attr
+[06/04/2009 15:59:23] /attr
+[06/04/2009 15:59:33] /serverdiag
+[06/04/2009 15:59:52] /shutdown 30
+[06/04/2009 16:00:00] /mode
+[06/04/2009 16:00:04] /mode 1
+[06/04/2009 16:00:06] /mode 3
+[06/04/2009 16:00:21] /s soya
+[06/04/2009 16:00:29] /s demon
+[06/04/2009 16:00:46] /n demon
+[06/04/2009 16:00:49] /n soya
+[06/04/2009 16:00:58] /m dragon
+[06/04/2009 16:01:22] /raid orshabaal
+[06/04/2009 16:01:31] /raid orshabaal
+[06/04/2009 16:01:41] /newtype 5
+[06/04/2009 16:01:47] /r
+[06/04/2009 16:01:50] /r
+[06/04/2009 16:01:51] /r
+[06/04/2009 16:01:51] /r
+[06/04/2009 16:01:53] /r
+[06/04/2009 16:01:54] /r
+[06/04/2009 16:01:54] /r
+[06/04/2009 16:01:57] /r
+[06/04/2009 16:02:31] /i crystal coin
+[06/04/2009 16:04:37] /bc lol
+[06/04/2009 16:04:40] /mkick
+[06/04/2009 16:04:42] /mkick 5
+[06/04/2009 16:04:44] /mkick 50
+[06/04/2009 16:04:57] /ban test, 10
+[06/04/2009 16:05:06] /ban Test, 10
+[06/04/2009 16:05:18] /t
+[06/04/2009 16:07:38] /mc
+[06/04/2009 16:09:10] /a 10
+[06/04/2009 16:14:31] /a 10
+[06/04/2009 16:15:57] /i minotaur leather
+[06/04/2009 16:17:22] /i chicken feather
+[06/04/2009 16:18:05] /goto wasp
+[06/04/2009 16:18:07] /goto wasp
+[06/04/2009 16:18:11] /goto soya
+[06/04/2009 16:18:13] /goto addoner
+[06/04/2009 16:18:19] /r
+[06/04/2009 16:18:20] /goto addoner
+[06/04/2009 16:18:23] /r
+[06/04/2009 16:18:24] /goto addoner
+[06/04/2009 16:19:02] /m exp bug
+[06/04/2009 16:19:03] /m exp bug
+[06/04/2009 16:19:05] /m exp bug
+[06/04/2009 16:20:01] /i honeycomb
+[06/04/2009 16:21:01] /i elane's crossbow
+[06/04/2009 16:21:38] /m baron of the room
+[06/04/2009 16:22:05] /reload monsters
+[06/04/2009 16:22:08] /m baron of the room
+[06/04/2009 16:23:36] /i lizard leather
+[06/04/2009 16:26:39] /r
+[06/04/2009 16:26:51] /r
+[06/04/2009 16:26:53] /r
+[06/04/2009 16:26:59] /i 7656
+[06/04/2009 16:38:43] /npc bulma
+[06/04/2009 16:38:45] /r
+[06/04/2009 16:40:59] /npc bulma
+[06/04/2009 16:41:44] /a 3
+[06/04/2009 16:43:31] /i enchanted chicken wing
+[06/04/2009 16:44:10] /i piece of royal steel
+[06/04/2009 16:44:54] /i piece of draconian
+[06/04/2009 16:44:57] /i piece of draconian
+[06/04/2009 16:45:02] /i piece of draconian stell
+[06/04/2009 16:45:04] /i piece of draconian steel
+[06/04/2009 16:48:40] /i piece of hell steel
+[06/04/2009 16:49:26] /goto hunter
+[06/04/2009 16:49:31] /goto hunter
+[06/04/2009 16:49:38] /a 4
+[06/04/2009 16:49:45] /goto hunter
+[06/04/2009 16:49:46] /goto hunter
+[06/04/2009 16:50:53] /i ankh
+[06/04/2009 16:51:36] /i soul stone
+[06/04/2009 16:54:12] /i huge chunk of crude iron
+[06/04/2009 16:55:35] /i damaged steel helmet
+[06/04/2009 16:56:45] /i warrior's sweat
+[06/04/2009 16:59:55] /i fighting spirit
+[06/04/2009 17:01:10] /i dragon claw
+[06/04/2009 17:01:47] /i spool of yarn
+[06/04/2009 17:04:21] /i waterhose
+[06/04/2009 17:04:34] /i ceiron's wolf tooth chain
+[06/04/2009 17:09:14] /i mermaid comb
+[06/04/2009 17:12:24] /i eye patch
+[06/04/2009 17:12:31] /i peg leg
+[06/04/2009 17:12:34] /i hook
+[06/04/2009 17:14:03] /i deadeye devious' eye patch
+[06/04/2009 17:15:46] /i brutus bloodbeard's hat
+[06/04/2009 17:16:41] /i spool of yarn
+[06/04/2009 17:18:55] /i simon the beggar's favorite staff
+[06/04/2009 17:23:24] /i voodoo doll
+[06/04/2009 17:23:33] /i voodoo doll
+[06/04/2009 17:31:00] /clean
+[06/04/2009 17:33:25] /i vampiric crest
+[06/04/2009 17:37:25] /npc bulma
+[06/04/2009 17:40:58] /up
+[06/04/2009 17:41:01] /down
+[06/04/2009 17:43:16] /i crystal arrow
+[09/04/2009 17:59:58] /i magic plate armor
+[09/04/2009 18:00:09] /i time ring
+[10/04/2009 01:00:50] /town acya
+[10/04/2009 01:00:55] /town icya
+[10/04/2009 01:00:58] /town icya 1
+[10/04/2009 01:01:04] /town 3
+[10/04/2009 01:01:06] /town 4
+[10/04/2009 01:01:10] /town 5
+[10/04/2009 01:01:12] /town 6
+[10/04/2009 01:01:15] /town 7
+[10/04/2009 01:01:18] /town 8
+[10/04/2009 01:02:10] /a 50
+[10/04/2009 01:02:11] /a 50
+[10/04/2009 01:02:15] /a 10
+[10/04/2009 01:02:19] /a 50
+[10/04/2009 01:02:21] /a 50
+[10/04/2009 01:02:29] /a 50
+[10/04/2009 01:02:31] /a 50
+[10/04/2009 01:03:38] /up
+[10/04/2009 01:03:43] /down
+[10/04/2009 01:05:21] /up
+[10/04/2009 01:05:38] /up
+[10/04/2009 01:05:41] /down
+[10/04/2009 01:05:42] /down
+[10/04/2009 01:05:58] /a 4
+[10/04/2009 01:06:02] /a 4
+[10/04/2009 18:20:23] /up
+[10/04/2009 18:20:25] /down
+[10/04/2009 18:21:36] /i yalahar armor
+[10/04/2009 18:21:40] /i yalahari armor
+[10/04/2009 18:21:57] /i yalahari legs
+[10/04/2009 18:22:01] /i yalahari pants
+[10/04/2009 18:22:02] /i yalahari pant
+[10/04/2009 20:45:15] /up
+[10/04/2009 20:45:19] /down
+[10/04/2009 20:46:07] /a 1
+[10/04/2009 20:46:08] /a 1
+[10/04/2009 20:46:11] /up
+[10/04/2009 20:46:13] /a 5
+[10/04/2009 20:46:17] /up
+[10/04/2009 20:46:22] /down
+[10/04/2009 20:46:22] /down
+[10/04/2009 20:46:24] /a 5
+[11/04/2009 19:46:29] /i vampire dust
+[11/04/2009 19:46:33] /i demon dust
+[11/04/2009 19:46:42] /i demon dust 1
+[11/04/2009 19:46:46] /i demon dusts
+[11/04/2009 19:46:47] /i demon dusts
+[11/04/2009 19:47:18] /i 5906
+[11/04/2009 19:47:29] /i demon horn
+[11/04/2009 19:47:39] /i demonic essence
+[11/04/2009 19:47:44] /i talon
+[12/04/2009 15:44:59] /t
+[12/04/2009 15:45:33] /a 1
+[12/04/2009 15:45:35] /down
+[12/04/2009 15:47:36] /town 3
+[12/04/2009 15:47:38] /town 4
+[12/04/2009 15:47:40] /town 5
+[12/04/2009 15:47:41] /town 6
+[12/04/2009 15:47:43] /town 7
+[12/04/2009 15:47:45] /town 8
+[12/04/2009 15:47:49] /a 50
+[12/04/2009 15:47:50] /a 50
+[12/04/2009 15:47:51] /a 50
+[12/04/2009 15:47:52] /a 50
+[12/04/2009 15:47:53] /a 50
+[12/04/2009 15:47:54] /a 50
+[12/04/2009 15:47:54] /a 50
+[12/04/2009 15:47:56] /a 50
+[12/04/2009 15:47:57] /a 50
+[12/04/2009 15:48:16] /a 50
+[12/04/2009 15:48:17] /a 50
+[12/04/2009 15:48:18] /a 50
+[12/04/2009 15:48:19] /a 50
+[12/04/2009 15:48:23] /town 8
+[12/04/2009 15:48:33] /a 50
+[12/04/2009 15:48:35] /a 50
+[12/04/2009 15:48:36] /a 50
+[12/04/2009 15:48:37] /a 50
+[12/04/2009 15:48:38] /a 50
+[12/04/2009 15:48:39] /a 50
+[12/04/2009 15:48:40] /a 50
+[12/04/2009 15:48:42] /a 10
+[12/04/2009 15:48:42] /a 10
+[12/04/2009 15:48:42] /a 10
+[12/04/2009 15:48:43] /a 10
+[12/04/2009 15:48:43] /a 10
+[12/04/2009 15:48:44] /a 10
+[12/04/2009 15:48:44] /a 10
+[12/04/2009 15:48:44] /a 10
+[12/04/2009 15:48:45] /a 10
+[12/04/2009 15:48:46] /a 10
+[12/04/2009 15:48:46] /a 10
+[12/04/2009 15:48:46] /a 10
+[12/04/2009 15:48:47] /a 10
+[12/04/2009 15:48:48] /a 10
+[12/04/2009 15:48:49] /a 10
+[12/04/2009 15:48:49] /a 10
+[12/04/2009 15:48:50] /a 10
+[12/04/2009 15:48:51] /a 10
+[12/04/2009 15:48:51] /a 10
+[12/04/2009 15:48:51] /a 10
+[12/04/2009 15:48:52] /a 10
+[12/04/2009 15:48:52] /a 10
+[12/04/2009 15:48:53] /a 10
+[12/04/2009 15:48:53] /a 10
+[12/04/2009 15:49:08] /a 4
+[12/04/2009 15:49:45] /t
+[12/04/2009 15:49:51] /a 4
+[12/04/2009 15:49:53] /a 4
+[12/04/2009 15:49:55] /a 1
+[12/04/2009 15:50:03] /t
+[12/04/2009 15:50:06] /a 4
+[12/04/2009 15:50:07] /a 4
+[12/04/2009 15:50:15] /a 1
+[12/04/2009 15:50:18] /a 1
+[12/04/2009 15:50:20] /a 1
+[12/04/2009 15:50:27] /a 1
+[12/04/2009 15:50:58] /goto capitao coruja
+[12/04/2009 15:51:11] /a 3
+[12/04/2009 15:51:19] /a 50
+[12/04/2009 15:51:20] /a 50
+[12/04/2009 15:51:23] /a 50
+[12/04/2009 15:51:32] /a 1
+[12/04/2009 15:51:35] /r
+[12/04/2009 15:52:35] /npc addoner
+[12/04/2009 15:53:06] /i 5906
+[12/04/2009 15:53:13] /i demonic essence
+[12/04/2009 15:53:13] /i demonic essence
+[12/04/2009 15:53:17] /i talon
+[12/04/2009 15:53:31] /a 30
+[12/04/2009 15:53:42] /a 1
+[12/04/2009 15:53:45] /a 1
+[12/04/2009 15:54:03] /down
+[12/04/2009 15:54:06] /up
+[12/04/2009 15:54:15] /a 1
+[12/04/2009 15:54:16] /a 1
+[12/04/2009 15:54:24] /i 5066
+[12/04/2009 15:54:33] /i 5064
+[12/04/2009 15:54:37] /a 1
+[12/04/2009 15:56:00] /i stuffed dragon
+[12/04/2009 15:57:28] /reload actions
+[13/04/2009 18:01:33] /t
+[13/04/2009 18:01:37] /a 50
+[13/04/2009 18:01:38] /a 50
+[13/04/2009 18:01:39] /a 50
+[13/04/2009 18:01:40] /a 50
+[13/04/2009 18:01:44] /a 5
+[13/04/2009 18:01:45] /a 5
+[13/04/2009 18:02:00] /summon dragon lord
+[13/04/2009 18:03:26] /reload movements
+[13/04/2009 18:16:59] /shutdown 1
+[15/04/2009 21:58:12] /goto cat
+[15/04/2009 22:01:10] /goto dragon
+[15/04/2009 22:01:13] /down
+[15/04/2009 22:01:15] /a 5
+[15/04/2009 22:01:16] /a 5
+[15/04/2009 22:01:19] /down
+[15/04/2009 22:01:20] /down
+[15/04/2009 22:01:22] /a 5
+[15/04/2009 22:01:22] /a 5
+[15/04/2009 22:01:22] /a 5
+[15/04/2009 22:01:23] /a 5
+[15/04/2009 22:01:23] /a 5
+[15/04/2009 22:01:25] /a 5
+[15/04/2009 22:01:26] /a 5
+[15/04/2009 22:01:26] /a 5
+[15/04/2009 22:01:27] /a 5
+[15/04/2009 22:01:30] /i spear
+[15/04/2009 22:09:47] /i magic prision rune
+[15/04/2009 22:09:53] /i magic prison rune
+[15/04/2009 22:09:54] /i magic prison rune
+[15/04/2009 22:10:01] /i magic prison
+[15/04/2009 22:10:26] /reload spells
+[15/04/2009 22:12:00] /i shark
+[15/04/2009 22:14:37] /reload monsters
+[15/04/2009 22:14:42] /m shark
+[15/04/2009 22:14:43] /m shark
+[15/04/2009 22:14:48] /m shark
+[15/04/2009 22:31:58] /serverdiag
+[15/04/2009 22:39:42] /reload spells
+[15/04/2009 22:39:53] /m demon
+[15/04/2009 22:40:07] /m dragon
+[15/04/2009 22:40:40] /reload spells
+[16/04/2009 20:04:57] /t
+[16/04/2009 20:05:02] /goto capitao coruja
+[16/04/2009 20:05:34] /a 50
+[16/04/2009 20:05:34] /a 50
+[16/04/2009 20:05:35] /a 50
+[16/04/2009 20:05:36] /a 50
+[16/04/2009 20:05:37] /a 50
+[16/04/2009 20:05:38] /a 50
+[16/04/2009 20:05:51] /a 50
+[16/04/2009 20:05:52] /a 50
+[16/04/2009 20:05:52] /a 50
+[16/04/2009 20:05:55] /a 10
+[16/04/2009 20:05:55] /a 10
+[16/04/2009 20:05:57] /a 10
+[16/04/2009 20:05:57] /a 10
+[16/04/2009 20:05:58] /a 10
+[16/04/2009 20:05:59] /a 10
+[16/04/2009 20:06:01] /a 5
+[16/04/2009 20:06:02] /a 5
+[16/04/2009 20:06:02] /a 5
+[16/04/2009 20:06:02] /a 5
+[16/04/2009 20:06:03] /a 5
+[16/04/2009 20:06:03] /a 5
+[16/04/2009 20:06:04] /a 5
+[16/04/2009 20:06:05] /a 5
+[16/04/2009 20:06:05] /a 5
+[16/04/2009 20:06:07] /a 5
+[16/04/2009 20:06:07] /a 5
+[16/04/2009 20:06:07] /a 5
+[16/04/2009 20:06:08] /a 5
+[16/04/2009 20:06:09] /a 5
+[16/04/2009 20:06:09] /a 5
+[16/04/2009 20:06:09] /a 5
+[16/04/2009 20:06:10] /a 5
+[16/04/2009 20:06:10] /a 5
+[16/04/2009 20:06:11] /a 5
+[16/04/2009 20:06:11] /a 5
+[16/04/2009 20:06:11] /a 5
+[16/04/2009 20:06:11] /a 5
+[16/04/2009 20:06:12] /a 5
+[16/04/2009 20:06:12] /a 5
+[16/04/2009 20:06:14] /a 5
+[16/04/2009 20:06:15] /a 5
+[16/04/2009 20:06:15] /a 5
+[16/04/2009 20:06:15] /a 5
+[16/04/2009 20:06:16] /a 5
+[16/04/2009 20:06:16] /a 5
+[16/04/2009 20:06:16] /a 5
+[16/04/2009 20:06:17] /a 5
+[16/04/2009 20:06:17] /a 5
+[16/04/2009 20:06:17] /a 5
+[16/04/2009 20:06:18] /a 5
+[16/04/2009 20:06:19] /a 5
+[16/04/2009 20:06:19] /a 5
+[16/04/2009 20:06:19] /a 5
+[16/04/2009 20:06:20] /a 5
+[16/04/2009 20:06:20] /a 5
+[16/04/2009 20:06:23] /a 5
+[16/04/2009 20:06:23] /a 5
+[16/04/2009 20:06:23] /a 5
+[16/04/2009 20:06:24] /a 5
+[16/04/2009 20:06:24] /a 5
+[16/04/2009 20:06:25] /a 5
+[16/04/2009 20:06:26] /a 5
+[16/04/2009 20:06:26] /a 5
+[16/04/2009 20:06:27] /a 5
+[16/04/2009 20:06:27] /a 5
+[16/04/2009 20:06:28] /a 5
+[16/04/2009 20:06:28] /a 5
+[16/04/2009 20:06:28] /a 5
+[16/04/2009 20:06:29] /a 5
+[16/04/2009 20:06:29] /a 5
+[16/04/2009 20:06:30] /a 5
+[16/04/2009 20:06:31] /a 5
+[16/04/2009 20:06:31] /a 5
+[16/04/2009 20:06:32] /a 5
+[16/04/2009 20:06:32] /a 5
+[16/04/2009 20:06:33] /a 5
+[16/04/2009 20:06:33] /a 5
+[16/04/2009 20:06:34] /a 5
+[16/04/2009 20:06:34] /a 5
+[16/04/2009 20:06:34] /a 5
+[16/04/2009 20:06:34] /a 5
+[16/04/2009 20:06:36] /a 5
+[16/04/2009 20:06:36] /a 5
+[16/04/2009 20:06:37] /a 5
+[16/04/2009 20:06:37] /a 5
+[16/04/2009 20:06:37] /a 5
+[16/04/2009 20:06:38] /a 5
+[16/04/2009 20:06:38] /a 5
+[16/04/2009 20:06:39] /a 5
+[16/04/2009 20:06:39] /a 5
+[16/04/2009 20:06:39] /a 5
+[16/04/2009 20:06:40] /a 5
+[16/04/2009 20:06:40] /a 5
+[16/04/2009 20:06:40] /a 5
+[16/04/2009 20:06:41] /a 5
+[16/04/2009 20:06:41] /a 5
+[16/04/2009 20:06:42] /a 5
+[16/04/2009 20:06:42] /a 5
+[16/04/2009 20:06:43] /a 5
+[16/04/2009 20:06:43] /a 5
+[16/04/2009 20:06:44] /a 5
+[16/04/2009 20:06:44] /a 5
+[16/04/2009 20:06:45] /a 5
+[16/04/2009 20:06:47] /a 10
+[16/04/2009 20:06:48] /a 10
+[16/04/2009 20:06:48] /a 10
+[16/04/2009 20:06:49] /a 10
+[16/04/2009 20:06:49] /a 10
+[16/04/2009 20:06:49] /a 10
+[16/04/2009 20:06:50] /a 10
+[16/04/2009 20:06:50] /a 10
+[16/04/2009 20:06:50] /a 10
+[16/04/2009 20:06:51] /a 10
+[16/04/2009 20:06:52] /a 10
+[16/04/2009 20:06:52] /a 10
+[16/04/2009 20:06:53] /a 10
+[16/04/2009 20:06:54] /a 10
+[16/04/2009 20:06:54] /a 10
+[16/04/2009 20:06:55] /a 10
+[16/04/2009 20:06:55] /a 10
+[16/04/2009 20:06:56] /a 10
+[16/04/2009 20:06:57] /a 10
+[16/04/2009 20:06:57] /a 10
+[16/04/2009 20:06:57] /a 10
+[16/04/2009 20:06:58] /a 10
+[16/04/2009 20:06:58] /a 10
+[16/04/2009 20:06:59] /a 10
+[16/04/2009 20:11:07] /r
+[16/04/2009 20:11:08] /r
+[16/04/2009 20:11:09] /r
+[17/04/2009 16:22:50] /t
+[17/04/2009 16:33:54] /i 1039
+[17/04/2009 16:34:03] /i 1000
+[17/04/2009 17:25:45] !pos
+[17/04/2009 17:25:49] !pos
+[17/04/2009 17:25:50] !pos
+[17/04/2009 17:25:56] /i 1039
+[17/04/2009 17:25:57] /i 1039
+[17/04/2009 17:35:15] /b á
+[17/04/2009 17:39:34] !pos
+[17/04/2009 17:39:36] !pos
+[17/04/2009 17:40:44] /i 1039
+[17/04/2009 17:40:45] /i 1039
+[17/04/2009 17:57:09] /i 1056
+[17/04/2009 17:57:12] /i 1053
+[17/04/2009 17:57:15] /r
+[17/04/2009 17:57:16] /r
+[17/04/2009 17:57:27] /i 1039
+[17/04/2009 17:57:28] /i 1039
+[17/04/2009 18:00:20] /i 1039
+[17/04/2009 18:00:21] /i 1039
+[17/04/2009 18:02:38] /i 1059
+[17/04/2009 18:02:41] /r
+[17/04/2009 18:02:45] /i 1039
+[17/04/2009 18:02:46] /i 1039
+[17/04/2009 18:26:18] /i 1039
+[17/04/2009 18:26:19] /i 1039
+[17/04/2009 18:52:18] /town 3
+[17/04/2009 18:52:20] /town 4
+[17/04/2009 18:52:22] /town 5
+[17/04/2009 18:52:24] /town 6
+[17/04/2009 18:52:27] /town 7
+[17/04/2009 18:52:29] /town 8
+[17/04/2009 18:52:31] /town 9
+[17/04/2009 18:52:33] /town 10
+[17/04/2009 18:52:35] /town 1
+[17/04/2009 18:53:08] /up
+[17/04/2009 18:53:09] /up
+[17/04/2009 18:53:11] /up
+[17/04/2009 18:53:28] /a 10
+[17/04/2009 18:53:29] /a 10
+[17/04/2009 18:53:29] /a 10
+[17/04/2009 18:53:30] /a 10
+[17/04/2009 18:53:30] /a 10
+[17/04/2009 18:53:31] /a 10
+[17/04/2009 18:53:32] /a 10
+[17/04/2009 18:53:32] /a 10
+[17/04/2009 18:53:33] /a 10
+[17/04/2009 18:53:33] /a 10
+[17/04/2009 18:53:34] /a 10
+[17/04/2009 18:53:34] /a 10
+[17/04/2009 18:53:35] /a 10
+[17/04/2009 18:53:35] /a 10
+[17/04/2009 18:53:37] /a 10
+[17/04/2009 18:53:39] /a 10
+[17/04/2009 18:53:43] /a 10
+[18/04/2009 12:54:10] /i vampire shield
+[18/04/2009 12:54:48] /i ring of healing
+[18/04/2009 12:54:49] /i ring of healing
+[18/04/2009 12:55:12] /i deaded cleaver
+[18/04/2009 12:55:21] /i Dreaded Cleaver
+[18/04/2009 13:01:50] /i 6080
+[18/04/2009 14:39:08] /t
+[18/04/2009 19:01:02] /addskill god alissow, club
+[18/04/2009 19:01:05] /addskill god alissow, club
+[18/04/2009 19:01:06] /addskill god alissow, club
+[18/04/2009 19:01:09] /addskill god alissow, club
+[18/04/2009 19:01:10] /addskill god alissow, club
+[18/04/2009 19:01:11] /addskill god alissow, club
+[18/04/2009 19:01:12] /addskill god alissow, club
+[18/04/2009 19:01:12] /addskill god alissow, club
+[18/04/2009 19:01:13] /addskill god alissow, club
+[18/04/2009 19:07:23] /t
+[18/04/2009 19:17:42] /a 1
+[18/04/2009 19:26:47] /i plate armor
+[18/04/2009 19:26:53] /i plate legs
+[18/04/2009 19:30:18] /i mage hat
+[18/04/2009 19:36:14] /i witchhunter's cloak
+[18/04/2009 19:37:18] /i Magician's Robe
+[18/04/2009 19:39:36] /i wand of vortex
+[18/04/2009 19:41:07] /i Spellbook of Enlightenment
+[18/04/2009 19:42:03] /i spellbook
+[18/04/2009 19:44:36] /i snakebit rod
+[18/04/2009 19:45:15] /i snakebite rod
+[18/04/2009 19:46:45] /i belted cape
+[18/04/2009 19:48:12] /i spear
+[18/04/2009 19:52:40] /i orcish axe
+[18/04/2009 19:53:33] /i battle hammer
+[18/04/2009 19:54:52] /i Templar Scytheblade
+[18/04/2009 23:29:19] /a 5
+[18/04/2009 23:29:20] /a 5
+[18/04/2009 23:29:20] /a 5
+[18/04/2009 23:29:21] /a 5
+[18/04/2009 23:29:22] /a 5
+[18/04/2009 23:29:22] /a 5
+[18/04/2009 23:29:22] /a 5
+[18/04/2009 23:29:23] /a 5
+[18/04/2009 23:29:25] /a 5
+[18/04/2009 23:29:29] /a 1
+[18/04/2009 23:29:30] /a 1
+[18/04/2009 23:29:31] /a 1
+[18/04/2009 23:37:29] /a 5
+[18/04/2009 23:37:30] /a 5
+[18/04/2009 23:37:30] /a 5
+[18/04/2009 23:37:31] /a 5
+[18/04/2009 23:37:32] /a 5
+[18/04/2009 23:37:32] /a 5
+[18/04/2009 23:37:33] /a 5
+[18/04/2009 23:37:33] /a 5
+[18/04/2009 23:37:35] /a 5
+[18/04/2009 23:37:38] /a 3
+[18/04/2009 23:37:40] /a 1
+[18/04/2009 23:37:40] /a 1
+[18/04/2009 23:37:44] /t
+[18/04/2009 23:37:46] /t
+[19/04/2009 11:46:33] /goto antonio
+[19/04/2009 11:50:11] /reload npcs
+[19/04/2009 11:56:18] /reload npcs
+[19/04/2009 12:45:38] /a 3
+[19/04/2009 12:45:41] /a 3
+[19/04/2009 12:46:00] /a 3
+[19/04/2009 12:48:33] /t
+[20/04/2009 11:37:10] /goto halvar
+[20/04/2009 11:39:02] /a 5
+[20/04/2009 11:39:42] /r
+[20/04/2009 11:39:45] /r
+[20/04/2009 11:39:49] /i backpack
+[20/04/2009 11:42:40] /a 5
+[20/04/2009 11:48:57] /reload npcs
+[20/04/2009 11:49:09] /i crystal coin
+[20/04/2009 12:13:57] /goto dark rodo
+[20/04/2009 12:13:58] /t
+[20/04/2009 12:14:01] /a 6
+[20/04/2009 12:14:02] /a 6
+[20/04/2009 12:14:03] /a 6
+[22/04/2009 14:19:06] /i spellbook of enlightement
+[22/04/2009 14:19:38] /i spellbook of enlightenment
+[22/04/2009 14:22:26] /i yalahari mask
+[22/04/2009 14:45:51] /goto capitao coruja
+[22/04/2009 14:46:08] /i crystal coin
+[22/04/2009 14:48:44] /t
+[22/04/2009 14:48:47] /clean
+[23/04/2009 22:31:21] /save
+[23/04/2009 22:34:21] /i 9976
+[23/04/2009 22:40:05] /i 7735
+[23/04/2009 22:40:42] /m rotworm
+[23/04/2009 22:40:43] /m rotworm
+[23/04/2009 22:42:37] /i patched boots
+[23/04/2009 22:42:46] /i patched boots
+[23/04/2009 22:43:39] /i 2641
+[24/04/2009 16:18:19] /r
+[24/04/2009 16:18:24] /i backpack of holding
+[24/04/2009 16:18:29] /i 2050
+[24/04/2009 16:18:38] /i 2382
+[24/04/2009 16:19:00] /i backpack
+[24/04/2009 16:19:07] /i bacg
+[24/04/2009 16:19:09] /i bag
+[24/04/2009 16:19:33] /i 2674
+[24/04/2009 16:19:48] /i meat
+[24/04/2009 16:20:11] /i 2650
+[24/04/2009 16:20:27] /i 2651
+[24/04/2009 21:58:15] /a 30
+[24/04/2009 21:58:17] /a 30
+[24/04/2009 21:58:36] /a 2
+[24/04/2009 21:58:38] /a 2
+[24/04/2009 21:58:47] /c test books
+[24/04/2009 21:58:48] /c test books
+[24/04/2009 21:58:49] /c test books
+[24/04/2009 22:00:40] /reload monsters
+[24/04/2009 22:04:59] /i 8889
+[24/04/2009 22:05:06] /i 9889
+[24/04/2009 22:08:02] /a 50
+[24/04/2009 22:08:05] /a 5
+[24/04/2009 22:08:09] /c test books
+[24/04/2009 22:17:16] /i 9889
+[24/04/2009 22:18:30] /a 49
+[24/04/2009 22:18:32] /a 3
+[24/04/2009 22:18:38] /c test books
+[24/04/2009 22:19:30] /c test book
+[24/04/2009 22:19:31] /c test books
+[24/04/2009 22:20:58] /a 48
+[24/04/2009 22:21:00] /a 2
+[24/04/2009 22:21:19] /c test books
+[24/04/2009 22:25:35] /i amulet of loss
+[24/04/2009 22:25:54] /i amulet of loss
+[24/04/2009 22:25:55] /i amulet of loss
+[24/04/2009 22:25:55] /i amulet of loss
+[24/04/2009 22:25:56] /i amulet of loss
+[24/04/2009 23:13:34] /a 3
+[24/04/2009 23:15:35] /a 3
+[24/04/2009 23:15:51] /summon demon
+[24/04/2009 23:23:59] /goto capitao coruja
+[24/04/2009 23:24:10] /goto izac
+[24/04/2009 23:34:03] /down
+[24/04/2009 23:44:17] /t
+[24/04/2009 23:49:39] /i small emerand
+[24/04/2009 23:49:41] /i small emerald
+[24/04/2009 23:49:49] /i small amethist
+[24/04/2009 23:49:53] /i small amethyst
+[24/04/2009 23:52:04] /down
+[24/04/2009 23:52:10] /i spike sword
+[24/04/2009 23:52:53] /save
+[25/04/2009 10:05:27] /goto soya
+[25/04/2009 13:49:27] /goto izac
+[25/04/2009 13:50:00] /down
+[25/04/2009 13:50:02] /a 5
+[25/04/2009 13:50:04] /a 5
+[25/04/2009 13:50:10] /a 2
+[25/04/2009 14:09:47] /i 8213
+[25/04/2009 14:09:50] /up
+[25/04/2009 14:09:53] /down
+[25/04/2009 14:57:15] /a 1
+[26/04/2009 13:15:04] /t
+[26/04/2009 13:18:34] /down
+[26/04/2009 13:19:20] /up
+[26/04/2009 13:19:38] /up
+[26/04/2009 13:19:40] /down
+[26/04/2009 13:19:44] /t
+[28/04/2009 16:20:44] /t
+[28/04/2009 19:16:49] /addskill paladin test, level
+[28/04/2009 19:16:50] /addskill paladin test, level
+[28/04/2009 19:16:50] /addskill paladin test, level
+[28/04/2009 19:16:51] /addskill paladin test, level
+[28/04/2009 19:16:51] /addskill paladin test, level
+[28/04/2009 19:16:51] /addskill paladin test, level
+[28/04/2009 19:16:51] /addskill paladin test, level
+[28/04/2009 19:16:51] /addskill paladin test, level
+[28/04/2009 19:16:51] /addskill paladin test, level
+[28/04/2009 19:16:51] /addskill paladin test, level
+[28/04/2009 19:16:51] /addskill paladin test, level
+[28/04/2009 19:16:51] /addskill paladin test, level
+[28/04/2009 19:16:51] /addskill paladin test, level
+[28/04/2009 19:16:51] /addskill paladin test, level
+[28/04/2009 19:16:51] /addskill paladin test, level
+[28/04/2009 19:16:51] /addskill paladin test, level
+[28/04/2009 19:16:51] /addskill paladin test, level
+[28/04/2009 19:16:51] /addskill paladin test, level
+[28/04/2009 19:16:51] /addskill paladin test, level
+[28/04/2009 19:16:51] /addskill paladin test, level
+[28/04/2009 19:16:51] /addskill paladin test, level
+[28/04/2009 19:16:51] /addskill paladin test, level
+[28/04/2009 19:16:51] /addskill paladin test, level
+[28/04/2009 19:16:51] /addskill paladin test, level
+[28/04/2009 19:16:51] /addskill paladin test, level
+[28/04/2009 19:16:52] /addskill paladin test, level
+[28/04/2009 19:16:53] /addskill paladin test, level
+[28/04/2009 19:16:53] /addskill paladin test, level
+[28/04/2009 19:16:53] /addskill paladin test, level
+[28/04/2009 19:16:53] /addskill paladin test, level
+[28/04/2009 19:16:53] /addskill paladin test, level
+[28/04/2009 19:16:53] /addskill paladin test, level
+[28/04/2009 19:16:53] /addskill paladin test, level
+[28/04/2009 19:16:53] /addskill paladin test, level
+[28/04/2009 19:16:53] /addskill paladin test, level
+[28/04/2009 19:16:53] /addskill paladin test, level
+[28/04/2009 19:16:53] /addskill paladin test, level
+[28/04/2009 19:16:53] /addskill paladin test, level
+[28/04/2009 19:16:53] /addskill paladin test, level
+[28/04/2009 19:16:53] /addskill paladin test, level
+[28/04/2009 19:16:53] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:54] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:55] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:56] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:57] /addskill paladin test, level
+[28/04/2009 19:16:58] /addskill paladin test, level
+[28/04/2009 19:16:58] /addskill paladin test, level
+[28/04/2009 19:16:58] /addskill paladin test, level
+[28/04/2009 19:16:58] /addskill paladin test, level
+[28/04/2009 19:16:58] /addskill paladin test, level
+[28/04/2009 19:16:58] /addskill paladin test, level
+[28/04/2009 19:16:58] /addskill paladin test, level
+[28/04/2009 19:16:58] /addskill paladin test, level
+[28/04/2009 19:16:58] /addskill paladin test, level
+[28/04/2009 19:16:58] /addskill paladin test, level
+[28/04/2009 19:16:58] /addskill paladin test, level
+[28/04/2009 19:16:58] /addskill paladin test, level
+[28/04/2009 19:17:05] /addskill paladin test, distance
+[28/04/2009 19:17:05] /addskill paladin test, distance
+[28/04/2009 19:17:05] /addskill paladin test, distance
+[28/04/2009 19:17:06] /addskill paladin test, distance
+[28/04/2009 19:17:06] /addskill paladin test, distance
+[28/04/2009 19:17:06] /addskill paladin test, distance
+[28/04/2009 19:17:06] /addskill paladin test, distance
+[28/04/2009 19:17:06] /addskill paladin test, distance
+[28/04/2009 19:17:06] /addskill paladin test, distance
+[28/04/2009 19:17:06] /addskill paladin test, distance
+[28/04/2009 19:17:06] /addskill paladin test, distance
+[28/04/2009 19:17:06] /addskill paladin test, distance
+[28/04/2009 19:17:06] /addskill paladin test, distance
+[28/04/2009 19:17:06] /addskill paladin test, distance
+[28/04/2009 19:17:06] /addskill paladin test, distance
+[28/04/2009 19:17:06] /addskill paladin test, distance
+[28/04/2009 19:17:06] /addskill paladin test, distance
+[28/04/2009 19:17:06] /addskill paladin test, distance
+[28/04/2009 19:17:06] /addskill paladin test, distance
+[28/04/2009 19:17:06] /addskill paladin test, distance
+[28/04/2009 19:17:06] /addskill paladin test, distance
+[28/04/2009 19:17:06] /addskill paladin test, distance
+[28/04/2009 19:17:06] /addskill paladin test, distance
+[28/04/2009 19:17:06] /addskill paladin test, distance
+[28/04/2009 19:17:06] /addskill paladin test, distance
+[28/04/2009 19:17:07] /addskill paladin test, distance
+[28/04/2009 19:17:07] /addskill paladin test, distance
+[28/04/2009 19:17:07] /addskill paladin test, distance
+[28/04/2009 19:17:07] /addskill paladin test, distance
+[28/04/2009 19:17:07] /addskill paladin test, distance
+[28/04/2009 19:17:07] /addskill paladin test, distance
+[28/04/2009 19:17:07] /addskill paladin test, distance
+[28/04/2009 19:17:10] /addskill paladin test, distance
+[28/04/2009 19:17:10] /addskill paladin test, distance
+[28/04/2009 19:17:10] /addskill paladin test, distance
+[28/04/2009 19:17:10] /addskill paladin test, distance
+[28/04/2009 19:17:10] /addskill paladin test, distance
+[28/04/2009 19:17:10] /addskill paladin test, distance
+[28/04/2009 19:17:11] /addskill paladin test, distance
+[28/04/2009 19:17:11] /addskill paladin test, distance
+[28/04/2009 19:17:11] /addskill paladin test, distance
+[28/04/2009 19:17:11] /addskill paladin test, distance
+[28/04/2009 19:17:11] /addskill paladin test, distance
+[28/04/2009 19:17:11] /addskill paladin test, distance
+[28/04/2009 19:17:11] /addskill paladin test, distance
+[28/04/2009 19:17:11] /addskill paladin test, distance
+[28/04/2009 19:17:11] /addskill paladin test, distance
+[28/04/2009 19:17:11] /addskill paladin test, distance
+[28/04/2009 19:17:11] /addskill paladin test, distance
+[28/04/2009 19:17:11] /addskill paladin test, distance
+[28/04/2009 19:17:11] /addskill paladin test, distance
+[28/04/2009 19:17:11] /addskill paladin test, distance
+[28/04/2009 19:17:11] /addskill paladin test, distance
+[28/04/2009 19:17:11] /addskill paladin test, distance
+[28/04/2009 19:17:11] /addskill paladin test, distance
+[28/04/2009 19:17:11] /addskill paladin test, distance
+[28/04/2009 19:17:11] /addskill paladin test, distance
+[28/04/2009 19:17:11] /addskill paladin test, distance
+[28/04/2009 19:17:11] /addskill paladin test, distance
+[28/04/2009 19:17:12] /addskill paladin test, distance
+[28/04/2009 19:17:12] /addskill paladin test, distance
+[28/04/2009 19:17:12] /addskill paladin test, distance
+[28/04/2009 19:17:12] /addskill paladin test, distance
+[28/04/2009 19:17:12] /addskill paladin test, distance
+[28/04/2009 19:17:12] /addskill paladin test, distance
+[28/04/2009 19:17:12] /addskill paladin test, distance
+[28/04/2009 19:17:13] /addskill paladin test, distance
+[28/04/2009 19:17:13] /addskill paladin test, distance
+[28/04/2009 19:17:13] /addskill paladin test, distance
+[28/04/2009 19:17:13] /addskill paladin test, distance
+[28/04/2009 19:17:13] /addskill paladin test, distance
+[28/04/2009 19:17:13] /addskill paladin test, distance
+[28/04/2009 19:17:13] /addskill paladin test, distance
+[28/04/2009 19:17:14] /addskill paladin test, distance
+[28/04/2009 19:17:14] /addskill paladin test, distance
+[28/04/2009 19:17:14] /addskill paladin test, distance
+[28/04/2009 19:17:14] /addskill paladin test, distance
+[28/04/2009 19:17:14] /addskill paladin test, distance
+[28/04/2009 19:17:14] /addskill paladin test, distance
+[28/04/2009 19:17:14] /addskill paladin test, distance
+[28/04/2009 19:17:14] /addskill paladin test, distance
+[28/04/2009 19:17:14] /addskill paladin test, distance
+[28/04/2009 19:17:14] /addskill paladin test, distance
+[28/04/2009 19:17:14] /addskill paladin test, distance
+[28/04/2009 19:17:14] /addskill paladin test, distance
+[28/04/2009 19:17:14] /addskill paladin test, distance
+[28/04/2009 19:17:14] /addskill paladin test, distance
+[28/04/2009 19:17:14] /addskill paladin test, distance
+[28/04/2009 19:17:14] /addskill paladin test, distance
+[28/04/2009 19:17:14] /addskill paladin test, distance
+[28/04/2009 19:17:14] /addskill paladin test, distance
+[28/04/2009 19:17:14] /addskill paladin test, distance
+[28/04/2009 19:17:14] /addskill paladin test, distance
+[28/04/2009 19:17:14] /addskill paladin test, distance
+[28/04/2009 19:17:21] /addskill paladin test, magic
+[28/04/2009 19:17:22] /addskill paladin test, magic
+[28/04/2009 19:17:22] /addskill paladin test, magic
+[28/04/2009 19:17:23] /addskill paladin test, magic
+[28/04/2009 19:17:23] /addskill paladin test, magic
+[28/04/2009 19:17:24] /addskill paladin test, magic
+[28/04/2009 19:17:24] /addskill paladin test, magic
+[28/04/2009 19:17:25] /addskill paladin test, magic
+[28/04/2009 19:17:25] /addskill paladin test, magic
+[28/04/2009 19:17:26] /addskill paladin test, magic
+[28/04/2009 19:17:27] /addskill paladin test, magic
+[28/04/2009 19:17:27] /addskill paladin test, magic
+[28/04/2009 19:17:28] /addskill paladin test, magic
+[28/04/2009 19:17:29] /addskill paladin test, magic
+[28/04/2009 19:17:32] /addskill paladin test, magic
+[28/04/2009 19:17:33] /addskill paladin test, magic
+[28/04/2009 19:17:33] /addskill paladin test, magic
+[28/04/2009 19:17:34] /addskill paladin test, magic
+[28/04/2009 19:18:07] /i assassin star
+[28/04/2009 19:18:08] /i assassin star
+[28/04/2009 19:18:09] /i assassin star
+[28/04/2009 19:18:09] /i assassin star
+[01/05/2009 13:17:29] /i rust remover
+[01/05/2009 13:17:49] /attr
+[01/05/2009 13:17:51] /attr 5
+[01/05/2009 13:17:57] /attr alissow
+[01/05/2009 13:19:15] /reload globalevents
+[01/05/2009 13:19:19] /reload globaleventshhhh
+[01/05/2009 14:41:08] /npc storkus
+[01/05/2009 14:45:37] /i Vampire Lord Token
+[02/05/2009 14:45:58] /i yalahari legs
+[02/05/2009 14:46:16] /i 9776
+[02/05/2009 14:46:35] /i 9776
+[02/05/2009 14:46:39] /r
+[02/05/2009 14:46:40] /r
+[02/05/2009 14:46:46] /a 2
+[02/05/2009 14:47:01] /npc soya
+[02/05/2009 14:47:03] /r
+[02/05/2009 14:49:33] /reload talkactions
+[02/05/2009 14:49:35] /r
+[02/05/2009 14:51:04] /r
+[02/05/2009 14:53:26] /r
+[02/05/2009 14:54:42] /r
+[02/05/2009 14:57:49] /a 2
+[02/05/2009 14:57:51] /r
+[02/05/2009 14:58:20] /goto halvar
+[02/05/2009 14:58:41] /addskill GOD AlissoW, level
+[02/05/2009 14:58:42] /addskill GOD AlissoW, level
+[02/05/2009 14:58:42] /addskill GOD AlissoW, level
+[02/05/2009 14:58:42] /addskill GOD AlissoW, level
+[02/05/2009 14:58:42] /addskill GOD AlissoW, level
+[02/05/2009 14:58:43] /addskill GOD AlissoW, level
+[02/05/2009 14:58:43] /addskill GOD AlissoW, level
+[02/05/2009 14:58:43] /addskill GOD AlissoW, level
+[02/05/2009 14:58:44] /addskill GOD AlissoW, level
+[02/05/2009 14:58:44] /addskill GOD AlissoW, level
+[02/05/2009 14:58:44] /addskill GOD AlissoW, level
+[02/05/2009 14:58:45] /addskill GOD AlissoW, level
+[02/05/2009 14:58:45] /addskill GOD AlissoW, level
+[02/05/2009 14:58:46] /addskill GOD AlissoW, level
+[02/05/2009 14:58:46] /addskill GOD AlissoW, level
+[02/05/2009 14:58:46] /addskill GOD AlissoW, level
+[02/05/2009 14:58:47] /addskill GOD AlissoW, level
+[02/05/2009 14:58:50] /addskill GOD AlissoW, level
+[02/05/2009 14:58:50] /addskill GOD AlissoW, level
+[02/05/2009 14:58:51] /addskill GOD AlissoW, level
+[02/05/2009 14:58:51] /addskill GOD AlissoW, level
+[02/05/2009 14:58:52] /addskill GOD AlissoW, level
+[02/05/2009 14:58:52] /addskill GOD AlissoW, level
+[02/05/2009 14:58:55] /addskill GOD AlissoW, level
+[02/05/2009 14:58:55] /addskill GOD AlissoW, level
+[02/05/2009 14:58:56] /addskill GOD AlissoW, level
+[02/05/2009 15:00:15] /t
+[02/05/2009 15:00:41] /reload config
+[02/05/2009 15:01:28] /a 50
+[02/05/2009 15:01:31] /a 5
+[02/05/2009 15:01:32] /a 5
+[02/05/2009 15:01:46] /a 6
+[02/05/2009 15:02:55] /addskill God alissow, level
+[02/05/2009 15:02:56] /addskill God alissow, level
+[02/05/2009 15:02:56] /addskill God alissow, level
+[02/05/2009 15:02:56] /addskill God alissow, level
+[02/05/2009 15:02:56] /addskill God alissow, level
+[02/05/2009 15:02:56] /addskill God alissow, level
+[02/05/2009 15:02:56] /addskill God alissow, level
+[02/05/2009 15:02:56] /addskill God alissow, level
+[02/05/2009 15:02:57] /addskill God alissow, level
+[02/05/2009 15:02:57] /addskill God alissow, level
+[02/05/2009 15:02:57] /addskill God alissow, level
+[02/05/2009 15:02:57] /addskill God alissow, level
+[02/05/2009 15:02:57] /addskill God alissow, level
+[02/05/2009 15:02:57] /addskill God alissow, level
+[02/05/2009 15:02:58] /addskill God alissow, level
+[02/05/2009 15:02:58] /addskill God alissow, level
+[02/05/2009 15:02:58] /addskill God alissow, level
+[02/05/2009 15:02:58] /addskill God alissow, level
+[02/05/2009 15:02:58] /addskill God alissow, level
+[02/05/2009 15:02:58] /addskill God alissow, level
+[02/05/2009 15:02:58] /addskill God alissow, level
+[02/05/2009 15:02:58] /addskill God alissow, level
+[02/05/2009 15:02:59] /addskill God alissow, level
+[02/05/2009 15:02:59] /addskill God alissow, level
+[02/05/2009 15:02:59] /addskill God alissow, level
+[02/05/2009 15:02:59] /addskill God alissow, level
+[02/05/2009 15:02:59] /addskill God alissow, level
+[02/05/2009 15:02:59] /addskill God alissow, level
+[02/05/2009 15:02:59] /addskill God alissow, level
+[02/05/2009 15:02:59] /addskill God alissow, level
+[02/05/2009 15:03:00] /addskill God alissow, level
+[02/05/2009 15:03:00] /addskill God alissow, level
+[02/05/2009 15:03:00] /addskill God alissow, level
+[02/05/2009 15:03:00] /addskill God alissow, level
+[02/05/2009 15:03:00] /addskill God alissow, level
+[02/05/2009 15:03:00] /addskill God alissow, level
+[02/05/2009 15:03:00] /addskill God alissow, level
+[02/05/2009 15:03:00] /addskill God alissow, level
+[02/05/2009 15:03:01] /addskill God alissow, level
+[02/05/2009 15:03:01] /addskill God alissow, level
+[02/05/2009 15:03:01] /addskill God alissow, level
+[02/05/2009 15:03:01] /addskill God alissow, level
+[02/05/2009 15:03:01] /addskill God alissow, level
+[02/05/2009 15:03:01] /addskill God alissow, level
+[02/05/2009 15:03:01] /addskill God alissow, level
+[02/05/2009 15:03:02] /addskill God alissow, level
+[02/05/2009 15:03:02] /addskill God alissow, level
+[02/05/2009 15:03:02] /addskill God alissow, level
+[02/05/2009 15:03:02] /addskill God alissow, level
+[02/05/2009 15:03:02] /addskill God alissow, level
+[02/05/2009 15:03:03] /addskill God alissow, level
+[02/05/2009 15:03:03] /addskill God alissow, level
+[02/05/2009 15:03:04] /addskill God alissow, level
+[02/05/2009 15:03:04] /addskill God alissow, level
+[02/05/2009 15:03:04] /addskill God alissow, level
+[02/05/2009 15:03:04] /addskill God alissow, level
+[02/05/2009 15:03:04] /addskill God alissow, level
+[02/05/2009 15:03:04] /addskill God alissow, level
+[02/05/2009 15:03:04] /addskill God alissow, level
+[02/05/2009 15:03:05] /addskill God alissow, level
+[02/05/2009 15:03:05] /addskill God alissow, level
+[02/05/2009 15:03:05] /addskill God alissow, level
+[02/05/2009 15:03:05] /addskill God alissow, level
+[02/05/2009 15:03:05] /addskill God alissow, level
+[02/05/2009 15:03:05] /addskill God alissow, level
+[02/05/2009 15:03:05] /addskill God alissow, level
+[02/05/2009 15:03:05] /addskill God alissow, level
+[02/05/2009 15:03:06] /addskill God alissow, level
+[02/05/2009 15:03:06] /addskill God alissow, level
+[02/05/2009 15:03:06] /addskill God alissow, level
+[02/05/2009 15:03:06] /addskill God alissow, level
+[02/05/2009 15:03:06] /addskill God alissow, level
+[02/05/2009 15:03:06] /addskill God alissow, level
+[02/05/2009 15:03:06] /addskill God alissow, level
+[02/05/2009 15:03:07] /addskill God alissow, level
+[02/05/2009 15:03:07] /addskill God alissow, level
+[02/05/2009 15:03:07] /addskill God alissow, level
+[02/05/2009 15:03:07] /addskill God alissow, level
+[02/05/2009 15:03:07] /addskill God alissow, level
+[02/05/2009 15:04:34] /t
+[02/05/2009 15:07:21] /i 9777
+[02/05/2009 15:07:31] /i 9776
+[02/05/2009 15:07:33] /i 9775
+[02/05/2009 15:07:36] /i 9774
+[02/05/2009 15:07:39] /i 9773
+[02/05/2009 15:07:45] /i 9778
+[02/05/2009 15:17:47] /r
+[02/05/2009 15:17:49] /r
+[02/05/2009 15:17:50] /r
+[02/05/2009 16:21:00] /a 200
+[02/05/2009 16:21:03] /a 5
+[02/05/2009 16:21:04] /a 5
+[02/05/2009 16:21:04] /a 5
+[02/05/2009 16:21:05] /a 5
+[02/05/2009 16:21:06] /a 200
+[02/05/2009 16:23:09] /i crystal coin
+[02/05/2009 16:24:41] /a 3
+[02/05/2009 16:24:49] /summon orshabaal
+[02/05/2009 16:24:56] /summon orshabaal
+[02/05/2009 16:24:59] /summon orshabaal
+[02/05/2009 16:25:08] /summon orshabaal
+[02/05/2009 16:25:28] /a 1
+[02/05/2009 16:25:29] /a 1
+[02/05/2009 16:25:30] /a 1
+[02/05/2009 16:25:31] /a 1
+[02/05/2009 16:25:41] /summon orshabaal
+[02/05/2009 16:26:04] /a 2
+[02/05/2009 16:26:26] /summon orshabaal
+[09/05/2009 10:08:57] /i tower shield
+[09/05/2009 10:24:41] /goto soya
+[09/05/2009 10:24:48] /r
+[09/05/2009 10:24:49] /goto soya
+[09/05/2009 10:24:55] /a 2
+[09/05/2009 10:26:01] /r
+[09/05/2009 10:26:01] /r
+[09/05/2009 10:26:04] /goto soya
+[09/05/2009 10:26:07] /r
+[09/05/2009 10:26:09] /r
+[09/05/2009 10:26:10] /goto soya
+[09/05/2009 10:26:13] /a 1
+[09/05/2009 10:35:54] /r
+[09/05/2009 10:35:57] /goto soya
+[09/05/2009 10:35:59] /goto soya
+[09/05/2009 10:38:47] /goto halvar
+[09/05/2009 10:38:52] /a 2
+[09/05/2009 10:39:15] /addskill God alissow, level
+[09/05/2009 10:39:15] /addskill God alissow, level
+[09/05/2009 10:39:16] /addskill God alissow, level
+[09/05/2009 10:39:16] /addskill God alissow, level
+[09/05/2009 10:39:16] /addskill God alissow, level
+[09/05/2009 10:39:17] /addskill God alissow, level
+[09/05/2009 10:39:17] /addskill God alissow, level
+[09/05/2009 10:39:17] /addskill God alissow, level
+[09/05/2009 10:39:18] /addskill God alissow, level
+[09/05/2009 10:39:19] /addskill God alissow, level
+[09/05/2009 10:39:19] /addskill God alissow, level
+[09/05/2009 10:39:19] /addskill God alissow, level
+[09/05/2009 10:39:20] /addskill God alissow, level
+[09/05/2009 10:39:20] /addskill God alissow, level
+[09/05/2009 10:39:20] /addskill God alissow, level
+[09/05/2009 10:39:21] /addskill God alissow, level
+[09/05/2009 10:39:23] /addskill God alissow, level
+[09/05/2009 10:39:23] /addskill God alissow, level
+[09/05/2009 10:39:23] /addskill God alissow, level
+[09/05/2009 10:39:23] /addskill God alissow, level
+[09/05/2009 10:39:23] /addskill God alissow, level
+[09/05/2009 10:39:23] /addskill God alissow, level
+[09/05/2009 10:40:08] /t
+[09/05/2009 12:09:03] /i ice rapier
+[09/05/2009 12:09:28] /i ice rapier
+[09/05/2009 12:09:28] /i ice rapier
+[09/05/2009 12:09:38] /i avenger
+[16/05/2009 11:35:11] /b sa
+[16/05/2009 11:35:14] /bc ads
+[16/05/2009 11:35:24] /i ice rapier
+[16/05/2009 17:06:57] /a 2
+[16/05/2009 17:06:57] /a 2
+[16/05/2009 17:06:58] /a 2
+[16/05/2009 17:06:58] /a 2
+[16/05/2009 20:10:21] /t
+[16/05/2009 20:13:22] /i 7620
+[16/05/2009 20:13:27] /i 7620
+[16/05/2009 20:13:28] /i 7620
+[16/05/2009 21:19:52] /down
+[16/05/2009 21:20:00] /down
+[16/05/2009 21:23:31] /down
+[02/07/2009 14:29:15] /t
+[06/07/2009 17:59:10] /t
+[06/07/2009 17:59:17] /newtype 15
+[06/07/2009 17:59:19] /newtype 77
+[06/07/2009 17:59:21] /newtype 101
+[06/07/2009 17:59:24] /newtype 150
+[06/07/2009 17:59:26] /newtype 170
+[06/07/2009 17:59:29] /newtype 160
+[06/07/2009 17:59:31] /newtype 161
+[06/07/2009 17:59:32] /newtype 161
+[06/07/2009 18:00:54] /i 5938
+[06/07/2009 18:01:17] /i 5939
+[06/07/2009 18:01:59] /newtype 1
+[06/07/2009 18:02:12] /r
+[06/07/2009 18:02:14] /r
+[06/07/2009 18:02:18] /m medusa
+[06/07/2009 18:02:22] /m medusa
+[06/07/2009 18:03:20] /up
+[06/07/2009 18:03:22] /m medusa
+[06/07/2009 18:03:28] /r
+[06/07/2009 18:03:30] /a 1
+[06/07/2009 18:03:30] /a 1
+[06/07/2009 18:03:31] /up
+[06/07/2009 18:09:26] /newtype 332
+[06/07/2009 18:09:28] /newtype 331
+[06/07/2009 18:09:31] /newtype 330
+[06/07/2009 18:09:38] /newtype 329
+[06/07/2009 18:09:41] /newtype 328
+[06/07/2009 18:09:43] /newtype 327
+[06/07/2009 18:09:45] /newtype 326
+[06/07/2009 18:09:48] /newtype 333
+[06/07/2009 18:09:52] /newtype 334
+[06/07/2009 18:10:36] /m medusa
+[06/07/2009 18:10:50] /m medusa
+[06/07/2009 18:10:53] /r
+[06/07/2009 18:10:55] /m medusa
+[06/07/2009 18:10:57] /m medusa
+[06/07/2009 18:10:58] /m medusa
+[06/07/2009 18:10:59] /m medusa
+[06/07/2009 18:11:00] /m medusa
+[06/07/2009 18:11:02] /r
+[06/07/2009 18:11:03] /r
+[06/07/2009 18:11:04] /r
+[06/07/2009 18:11:05] /r
+[06/07/2009 18:11:24] /i 10034
+[06/07/2009 18:11:41] /i 10033
+[06/07/2009 18:11:45] /i 10035
+[06/07/2009 18:11:50] /i 10036
+[06/07/2009 18:11:54] /r
+[06/07/2009 18:11:57] /i 10036
+[06/07/2009 18:12:00] /i 10037
+[06/07/2009 18:12:06] /i 10038
+[06/07/2009 18:12:10] /i 10039
+[06/07/2009 18:12:19] /i 10040
+[06/07/2009 18:12:29] /r
+[06/07/2009 18:12:37] /a 1
+[06/07/2009 18:12:41] /i 10040
+[06/07/2009 18:12:44] /i 10041
+[06/07/2009 18:12:46] /i 10042
+[06/07/2009 18:12:55] /i 10030
+[06/07/2009 18:13:01] /r
+[06/07/2009 18:13:05] /i 10030
+[06/07/2009 18:13:08] /i 10031
+[06/07/2009 18:13:11] /i 10032
+[06/07/2009 18:13:13] /i 10033
+[06/07/2009 18:13:23] /i 10028
+[06/07/2009 18:13:34] /i 10029
+[06/07/2009 18:13:40] /i 10027
+[06/07/2009 18:13:42] /i 10026
+[06/07/2009 18:13:49] /i 10025
+[06/07/2009 18:13:53] /i 10024
+[06/07/2009 18:14:00] /i 10023
+[06/07/2009 18:14:04] /i 10022
+[06/07/2009 18:14:08] /i 10021
+[06/07/2009 18:14:14] /r
+[06/07/2009 18:14:19] /i 10021
+[06/07/2009 18:14:23] /i 10020
+[06/07/2009 18:14:30] /i 10019
+[06/07/2009 18:14:34] /i 10018
+[06/07/2009 18:14:42] /r
+[06/07/2009 18:14:44] /r
+[06/07/2009 18:14:49] /i 10019
+[06/07/2009 18:14:52] /i 10019
+[06/07/2009 18:15:51] /c test
+[06/07/2009 18:16:02] /r
+[06/07/2009 18:16:04] /r
+[06/07/2009 18:16:05] /r
+[06/07/2009 18:16:15] /i 10029
+[06/07/2009 18:17:59] /down
+[06/07/2009 18:18:00] /down
+[06/07/2009 18:18:02] /down
+[06/07/2009 18:19:40] /t
+[06/07/2009 18:36:19] /reload talkactions
+[06/07/2009 18:38:49] /addskill God alissow, sword
+[06/07/2009 18:40:35] /a 1
+[06/07/2009 18:45:42] /m medusa
+[06/07/2009 18:46:07] /r
+[06/07/2009 18:46:23] /newtype 321
+[06/07/2009 18:46:25] /newtype 355
+[06/07/2009 18:46:50] /newtype 333
+[06/07/2009 18:47:25] /newtype 334
+[06/07/2009 18:47:40] /newtype 331
+[06/07/2009 18:47:57] /newtype 332
+[06/07/2009 18:47:59] /newtype 333
+[06/07/2009 18:48:03] /newtype 330
+[06/07/2009 18:48:07] /newtype 329
+[06/07/2009 18:48:25] /newtype 328
+[06/07/2009 18:48:34] /newtype 327
+[06/07/2009 19:06:05] /i firewalker boots
+[06/07/2009 19:06:25] /i 9933
+[06/07/2009 19:13:01] /reload npcs
+[06/07/2009 19:15:29] /a 5
+[06/07/2009 19:15:30] /a 5
+[06/07/2009 19:15:31] /a 5
+[06/07/2009 19:19:43] /r
+[06/07/2009 19:20:03] /i 3648
+[06/07/2009 19:21:02] /r
+[06/07/2009 19:22:16] /i 3648
+[06/07/2009 19:22:18] /i 3649
+[06/07/2009 19:22:23] /i 3650
+[06/07/2009 19:22:25] /i 3651
+[06/07/2009 19:22:29] /i 3652
+[06/07/2009 19:22:32] /i 3653
+[06/07/2009 19:22:37] /i 3654
+[06/07/2009 19:22:43] /i 3655
+[06/07/2009 19:23:07] /r
+[06/07/2009 19:23:11] /r
+[06/07/2009 19:23:15] /r
+[06/07/2009 19:23:34] /r
+[06/07/2009 19:23:40] /i 3649
+[06/07/2009 19:23:47] /i 3647
+[06/07/2009 19:35:50] /t
+[06/07/2009 19:36:10] /up
+[06/07/2009 19:36:11] /up
+[06/07/2009 19:36:13] /up
+[06/07/2009 19:36:24] /up
+[06/07/2009 19:37:32] /a 1
+[06/07/2009 19:39:00] /down
+[06/07/2009 19:39:01] /down
+[06/07/2009 19:39:02] /down
+[06/07/2009 19:46:06] /t
+[06/07/2009 19:46:33] /a 2
+[06/07/2009 19:46:35] /up
+[06/07/2009 19:46:36] /up
+[06/07/2009 19:46:38] /up
+[06/07/2009 19:46:41] /a 1
+[06/07/2009 19:46:45] /down
+[06/07/2009 19:46:46] /down
+[06/07/2009 19:46:46] /down
+[06/07/2009 19:46:47] /down
+[06/07/2009 19:47:02] /goto medusa
+[06/07/2009 19:47:56] /reload actions
+[06/07/2009 19:52:23] /summon infernatil
+[06/07/2009 19:52:24] /summon infernatil
+[06/07/2009 19:54:12] /i 2044
+[06/07/2009 19:54:22] /i 2689
+[06/07/2009 19:54:32] /i 2401
+[06/07/2009 19:54:49] /i 2166
+[06/07/2009 19:55:01] /i 2536
+[06/07/2009 19:55:13] /i terra amulet
+[06/07/2009 19:55:52] /reload monsters
+[06/07/2009 19:55:55] /m medusa
+[06/07/2009 19:55:57] /m medusa
+[06/07/2009 19:56:02] /summon demon
+[06/07/2009 19:56:46] /goto Koshei The Deathless
+[06/07/2009 19:58:42] /t
+[06/07/2009 19:59:13] /r
+[06/07/2009 19:59:14] /r
+[06/07/2009 19:59:15] /r
+[06/07/2009 19:59:16] /r
+[06/07/2009 19:59:18] /r
+[06/07/2009 19:59:19] /r
+[06/07/2009 20:02:17] /m rat
+[06/07/2009 20:02:18] /m rat
+[06/07/2009 20:02:18] /m rat
+[06/07/2009 20:02:19] /m rat
+[06/07/2009 20:02:20] /m rat
+[06/07/2009 20:02:20] /m rat
+[06/07/2009 20:02:20] /m rat
+[06/07/2009 20:02:21] /m rat
+[06/07/2009 20:02:24] /r
+[06/07/2009 20:02:26] /m rat
+[06/07/2009 20:02:27] /m rat
+[06/07/2009 20:02:28] /m rat
+[06/07/2009 20:02:28] /m rat
+[06/07/2009 20:02:32] /r
+[06/07/2009 20:02:36] /r
+[06/07/2009 20:02:37] /r
+[06/07/2009 20:03:14] /reload config
+[06/07/2009 20:03:25] /reload config
+[06/07/2009 20:03:37] /c test
+[06/07/2009 20:03:56] /save
+[06/07/2009 20:04:44] /up
+[06/07/2009 20:05:39] /r
+[06/07/2009 20:05:41] /t
+[07/07/2009 16:46:57] /up
+[07/07/2009 16:46:58] /t
+[07/07/2009 16:47:00] /b O.o
+[07/07/2009 18:44:15] /i crown backpack
+[07/07/2009 18:44:19] /i 10025
+[07/07/2009 18:44:29] /r
+[07/07/2009 18:44:29] /r
+[07/07/2009 18:44:30] /r
+[07/07/2009 18:44:30] /r
+[07/07/2009 18:44:30] /r
+[07/07/2009 18:44:30] /r
+[07/07/2009 18:44:30] /r
+[07/07/2009 18:44:30] /r
+[07/07/2009 18:44:30] /r
+[07/07/2009 18:44:30] /r
+[07/07/2009 18:44:31] /r
+[07/07/2009 18:44:31] /r
+[07/07/2009 18:44:31] /r
+[07/07/2009 18:44:31] /r
+[07/07/2009 18:44:31] /r
+[07/07/2009 18:44:31] /r
+[07/07/2009 18:44:31] /r
+[07/07/2009 18:44:31] /r
+[07/07/2009 18:44:31] /r
+[07/07/2009 18:44:32] /r
+[07/07/2009 18:44:32] /r
+[07/07/2009 18:44:32] /r
+[07/07/2009 18:44:32] /r
+[07/07/2009 18:44:32] /r
+[07/07/2009 18:44:32] /r
+[07/07/2009 18:44:32] /r
+[07/07/2009 18:44:32] /r
+[07/07/2009 18:44:32] /r
+[07/07/2009 18:44:32] /r
+[07/07/2009 18:44:32] /r
+[07/07/2009 18:44:32] /r
+[07/07/2009 18:44:32] /r
+[07/07/2009 18:44:32] /r
+[07/07/2009 18:44:32] /r
+[07/07/2009 18:44:32] /r
+[07/07/2009 18:44:32] /r
+[07/07/2009 18:44:32] /r
+[07/07/2009 18:44:32] /r
+[07/07/2009 18:44:32] /r
+[07/07/2009 18:44:32] /r

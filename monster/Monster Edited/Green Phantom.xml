@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<monster name="Green Phantom" nameDescription="Green Phantom" experience="7200000" speed="100" race="blood">
+  <health now="9600" max="9600"/>
+  <look type="319" corpse="2913"/>
+  <strategy attack="10000" defense="500"/>
+  <targetchange speed="10" chance="100"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="100"/>
+    <flag targetdistance="1"/>
+  </flags>
+  <attacks>
+    <attack name="Physical" interval="1000" chance="100" min="-100" max="-200" range="1">
+    </attack>
+    <attack name="Physical" interval="1000" chance="100" min="-100" max="-200"/>
+  </attacks>
+  <defenses armor="0" defense="0"> 
+</defenses>
+  <immunities>
+    <immunity name="paralyze"/>
+    <immunity name="invisible"/>
+  </immunities>
+  <summons maxSummons="2">
+    <summon name="Ghost" interval="3000" chance="10"/>
+  </summons>
+  <loot>
+    <item id="8867" countmax="1" chance1="999999999" chancemax="9999999999"/>
+  </loot>
+</monster>

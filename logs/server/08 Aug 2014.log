@@ -1,0 +1,1594 @@
+[08/08/2014 00:00:03] Lallana has logged out.
+[08/08/2014 00:00:06] Lallana has logged in.
+[08/08/2014 00:04:12] Pally Do Kpta has logged out.
+[08/08/2014 00:04:14] Pally Do Kpta has logged in.
+[08/08/2014 00:05:05] > Saving server...
+[08/08/2014 00:05:07] > SAVE: Complete in 1.657 seconds using relational house storage.
+[08/08/2014 00:05:23] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 00:05:54] > CLEAN: Removed 750 items from 398 tiles in 0.26 seconds.
+[08/08/2014 00:05:54] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 00:06:23] > Broadcasted message: "Para comprar bless digite !bless".
+[08/08/2014 00:11:20] Lallana has logged out.
+[08/08/2014 00:11:22] Lallana has logged in.
+[08/08/2014 00:13:04] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[08/08/2014 00:14:28] Lallana has logged out.
+[08/08/2014 00:14:44] Nois Que Voa Bruxao has logged in.
+[08/08/2014 00:19:45] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[08/08/2014 00:20:22] Pally Do Kpta has logged out.
+[08/08/2014 00:20:23] Pally Do Kpta has logged in.
+[08/08/2014 00:20:41] Nois Que Voa Bruxao has logged out.
+[08/08/2014 00:20:41] Pally Do Kpta has logged out.
+[08/08/2014 00:20:42] > Saving server...
+[08/08/2014 00:20:43] > SAVE: Complete in 1.185 seconds using relational house storage.
+[08/08/2014 00:20:43] Preparing to shutdown server..
+[08/08/2014 00:20:46] .
+[08/08/2014 00:20:46] Exiting
+[08/08/2014 11:27:52] The Forgotten Server, version 0.3.4 (Crying Damson)
+[08/08/2014 11:27:52] Sever Criado Por Alissow e Comedinha.
+[08/08/2014 11:27:52] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[08/08/2014 11:27:52] Bom Jogo!!!
+[08/08/2014 11:27:52] 
+[08/08/2014 11:27:52] >> Debugging: nothing.
+[08/08/2014 11:27:53] >> Checking software version... failed checking - malformed file.
+[08/08/2014 11:27:53] 
+[08/08/2014 11:27:53] >> Loading config (config.lua)
+[08/08/2014 11:27:54] > Using plaintext passwords
+[08/08/2014 11:27:54] >> Loading RSA key
+[08/08/2014 11:27:54] >> Starting SQL connection
+[08/08/2014 11:27:54] >> Running Database Manager
+[08/08/2014 11:27:55] > Optimized database.
+[08/08/2014 11:27:55] >> Loading items
+[08/08/2014 11:27:55] >> Loading groups
+[08/08/2014 11:27:55] >> Loading vocations
+[08/08/2014 11:27:55] >> Loading script systems
+[08/08/2014 11:27:57] >> Loading chat channels
+[08/08/2014 11:27:57] >> Loading outfits
+[08/08/2014 11:27:57] >> Loading experience stages
+[08/08/2014 11:27:57] >> Loading monsters
+[08/08/2014 11:28:00] >> Loading map and spawns...
+[08/08/2014 11:28:00] > Map size: 65000x65000.
+[08/08/2014 11:28:00] > Map descriptions: 
+[08/08/2014 11:28:00] Saved with Remere's Map Editor 2.2
+[08/08/2014 11:28:01] No map description available.
+[08/08/2014 11:28:01] Duplicate uniqueId 2407
+[08/08/2014 11:28:05] > Map loading time: 4.874 seconds.
+[08/08/2014 11:28:05] > Data loading time: 0.744 seconds.
+[08/08/2014 11:28:06] > Unserialization time for houses: 0.012 seconds.
+[08/08/2014 11:28:29] > Unserialization time for map: 23.143 seconds.
+[08/08/2014 11:28:29] >> Checking world type... PvP
+[08/08/2014 11:28:29] >> Initializing game state modules and registering services...
+[08/08/2014 11:28:30] > Global address: deathpvp.no-ip.info
+[08/08/2014 11:28:39] > Local ports:
+[08/08/2014 11:28:39] 7171	7172	
+[08/08/2014 11:28:39] >> All modules were loaded, server starting up...
+[08/08/2014 11:28:39] >> OT Death server Online!
+[08/08/2014 11:28:40] 
+[08/08/2014 11:28:42] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[08/08/2014 11:28:44] [Hoster] Jean has logged in.
+[08/08/2014 11:29:20] Gotak has logged in.
+[08/08/2014 11:29:48] > CLEAN: Removed 1 item from 42 tiles in 0.181 seconds.
+[08/08/2014 11:34:38] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/08/2014 11:36:43] [Hoster] Jean has logged out.
+[08/08/2014 11:41:19] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/08/2014 11:42:20] Lucas has logged in.
+[08/08/2014 11:42:23] Mlktop has logged in.
+[08/08/2014 11:44:38] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 11:45:08] > CLEAN: Removed 187 items from 264 tiles in 0.835 seconds.
+[08/08/2014 11:45:09] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 11:46:00] Jack Violeiro has logged in.
+[08/08/2014 11:47:13] Account Manager has logged in.
+[08/08/2014 11:48:00] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/08/2014 11:48:05] Account Manager has logged out.
+[08/08/2014 11:48:13] Mateus has logged in.
+[08/08/2014 11:49:12] Mateus has logged out.
+[08/08/2014 11:52:25] Pally Do Kpta has logged in.
+[08/08/2014 11:52:45] Anjo pk has logged in.
+[08/08/2014 11:52:58] Gotak has logged out.
+[08/08/2014 11:53:03] Gotak has logged in.
+[08/08/2014 11:54:12] Gotak has logged out.
+[08/08/2014 11:54:17] Gotak has logged in.
+[08/08/2014 11:54:41] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/08/2014 11:58:01] Lucas has logged out.
+[08/08/2014 11:58:03] Lucas has logged in.
+[08/08/2014 11:59:08] Epic Exori has logged in.
+[08/08/2014 12:01:19] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 12:01:22] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[08/08/2014 12:01:23] > Saving server...
+[08/08/2014 12:01:25] > SAVE: Complete in 2.262 seconds using relational house storage.
+[08/08/2014 12:01:49] > CLEAN: Removed 694 items from 635 tiles in 0.171 seconds.
+[08/08/2014 12:01:49] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 12:03:17] Epic Exori has logged out.
+[08/08/2014 12:03:19] Epic Exori has logged in.
+[08/08/2014 12:03:19] Epic Exori has logged out.
+[08/08/2014 12:03:34] Pally Do Kpta has logged out.
+[08/08/2014 12:03:35] Pally Oz Piint has logged in.
+[08/08/2014 12:03:42] Pally Oz Piint has logged out.
+[08/08/2014 12:03:43] Pally Do Kpta has logged in.
+[08/08/2014 12:07:48] Gotak has logged out.
+[08/08/2014 12:07:50] Gotak has logged in.
+[08/08/2014 12:08:03] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[08/08/2014 12:10:09] Galaxy Knight has logged in.
+[08/08/2014 12:10:39] Jack Violeiro has logged out.
+[08/08/2014 12:10:40] Jack Violeiro has logged in.
+[08/08/2014 12:12:25] Anjo pk has logged out.
+[08/08/2014 12:12:28] Anjo pk has logged in.
+[08/08/2014 12:12:29] Anjo pk has logged out.
+[08/08/2014 12:13:16] Anjo pk has logged in.
+[08/08/2014 12:14:44] > Broadcasted message: "Para comprar bless digite !bless".
+[08/08/2014 12:15:48] Mlktop has logged out.
+[08/08/2014 12:15:49] Mlktop has logged in.
+[08/08/2014 12:16:40] Mlktop has logged out.
+[08/08/2014 12:16:43] Mlktop has logged in.
+[08/08/2014 12:17:13] Mlktop has logged out.
+[08/08/2014 12:17:16] Mlktop has logged in.
+[08/08/2014 12:17:47] Mlktop has logged out.
+[08/08/2014 12:17:50] Mlktop has logged in.
+[08/08/2014 12:18:00] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 12:18:10] Anjo pk has logged out.
+[08/08/2014 12:18:30] > CLEAN: Removed 480 items from 578 tiles in 0.202 seconds.
+[08/08/2014 12:18:30] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 12:20:39] Anjo pk has logged in.
+[08/08/2014 12:21:25] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/08/2014 12:21:34] Mlktop has logged out.
+[08/08/2014 12:21:49] Nois Que Voa Bruxao has logged in.
+[08/08/2014 12:22:39] Mlktop has logged in.
+[08/08/2014 12:23:04] Anjo pk has logged out.
+[08/08/2014 12:23:06] Anjo pk has logged in.
+[08/08/2014 12:23:11] Jack Violeiro has logged out.
+[08/08/2014 12:23:13] Jack Violeiro has logged in.
+[08/08/2014 12:23:18] Lucas has logged out.
+[08/08/2014 12:23:19] Lucas has logged in.
+[08/08/2014 12:23:37] Anjo pk has logged out.
+[08/08/2014 12:23:38] Anjo pk has logged in.
+[08/08/2014 12:23:57] Anjo pk has logged out.
+[08/08/2014 12:23:58] Anjo pk has logged in.
+[08/08/2014 12:25:10] Jack Violeiro has logged out.
+[08/08/2014 12:25:11] Jack Violeiro has logged in.
+[08/08/2014 12:27:45] Pally Do Kpta has logged out.
+[08/08/2014 12:27:46] Pally Do Kpta has logged in.
+[08/08/2014 12:28:06] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/08/2014 12:32:00] Galaxy Knight has logged out.
+[08/08/2014 12:32:03] Galaxy Knight has logged in.
+[08/08/2014 12:33:29] Anjo pk has logged out.
+[08/08/2014 12:33:30] Anjo pk has logged in.
+[08/08/2014 12:33:59] Anjo pk has logged out.
+[08/08/2014 12:34:00] Anjo pk has logged in.
+[08/08/2014 12:34:18] Anjo pk has logged out.
+[08/08/2014 12:34:20] Anjo pk has logged in.
+[08/08/2014 12:34:41] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 12:34:44] > Saving server...
+[08/08/2014 12:34:46] > SAVE: Complete in 2.437 seconds using relational house storage.
+[08/08/2014 12:34:47] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/08/2014 12:35:01] Anjo pk has logged out.
+[08/08/2014 12:35:04] Anjo pk has logged in.
+[08/08/2014 12:35:08] Nois Que Voa Bruxao has logged out.
+[08/08/2014 12:35:08] Galaxy Knight has logged out.
+[08/08/2014 12:35:09] Nois Que Voa Bruxao has logged in.
+[08/08/2014 12:35:10] Galaxy Knight has logged in.
+[08/08/2014 12:35:12] > CLEAN: Removed 1003 items from 1237 tiles in 0.212 seconds.
+[08/08/2014 12:35:12] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 12:35:31] Gotak has logged out.
+[08/08/2014 12:35:31] Account Manager has logged in.
+[08/08/2014 12:35:33] Gotak has logged in.
+[08/08/2014 12:36:01] Account Manager has logged out.
+[08/08/2014 12:36:09] Account Manager has logged in.
+[08/08/2014 12:36:37] Anjo pk has logged out.
+[08/08/2014 12:36:38] Account Manager has logged out.
+[08/08/2014 12:36:38] Anjo pk has logged in.
+[08/08/2014 12:36:45] Catatal has logged in.
+[08/08/2014 12:37:23] Galaxy Knight has logged out.
+[08/08/2014 12:37:25] Galaxy Knight has logged in.
+[08/08/2014 12:38:30] Anjo pk has logged out.
+[08/08/2014 12:38:32] Anjo pk has logged in.
+[08/08/2014 12:39:04] Catatal has logged out.
+[08/08/2014 12:39:05] Catatal has logged in.
+[08/08/2014 12:39:06] Catatal has logged out.
+[08/08/2014 12:39:08] Gotak has logged out.
+[08/08/2014 12:39:10] Gotak has logged in.
+[08/08/2014 12:39:34] Catatal has logged in.
+[08/08/2014 12:39:38] Galaxy Knight has logged out.
+[08/08/2014 12:39:39] Nois Que Voa Bruxao has logged out.
+[08/08/2014 12:39:40] Galaxy Knight has logged in.
+[08/08/2014 12:39:40] Nois Que Voa Bruxao has logged in.
+[08/08/2014 12:40:20] Lucas has logged out.
+[08/08/2014 12:40:20] Gotak has logged out.
+[08/08/2014 12:40:21] Lucas has logged in.
+[08/08/2014 12:40:21] Gotak has logged in.
+[08/08/2014 12:40:42] Galaxy Knight has logged out.
+[08/08/2014 12:40:49] Galaxy Knight has logged in.
+[08/08/2014 12:41:01] Galaxy Knight has logged out.
+[08/08/2014 12:41:04] Galaxy Knight has logged in.
+[08/08/2014 12:41:06] Gotak has logged out.
+[08/08/2014 12:41:16] Nois Que Voa Bruxao has logged out.
+[08/08/2014 12:41:18] Nois Que Voa Bruxao has logged in.
+[08/08/2014 12:41:20] Duff Maluko has logged in.
+[08/08/2014 12:41:25] Nois Que Voa Bruxao has logged out.
+[08/08/2014 12:41:27] Nois Que Voa Bruxao has logged in.
+[08/08/2014 12:41:28] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/08/2014 12:41:31] Galaxy Knight has logged out.
+[08/08/2014 12:41:33] Galaxy Knight has logged in.
+[08/08/2014 12:41:54] Lucas has logged out.
+[08/08/2014 12:41:56] Druid master has logged in.
+[08/08/2014 12:42:01] Duff Maluko has logged out.
+[08/08/2014 12:42:08] Legal Fera has logged in.
+[08/08/2014 12:42:14] Druid master has logged out.
+[08/08/2014 12:42:15] Lucas has logged in.
+[08/08/2014 12:42:17] Galaxy Knight has logged out.
+[08/08/2014 12:42:26] Legal Fera has logged out.
+[08/08/2014 12:42:35] Gotak has logged in.
+[08/08/2014 12:42:43] Gotak has logged out.
+[08/08/2014 12:42:44] Nois Que Voa Bruxao has logged out.
+[08/08/2014 12:42:45] Gotak has logged in.
+[08/08/2014 12:42:46] Nois Que Voa Bruxao has logged in.
+[08/08/2014 12:43:20] Mlktop has logged out.
+[08/08/2014 12:43:23] Mlktop has logged in.
+[08/08/2014 12:43:37] Druid Nikito has logged in.
+[08/08/2014 12:44:38] Gotak has logged out.
+[08/08/2014 12:44:39] Gotak has logged in.
+[08/08/2014 12:44:45] Mlktop has logged out.
+[08/08/2014 12:45:18] Nois Que Voa Bruxao has logged out.
+[08/08/2014 12:45:18] Polo play has logged in.
+[08/08/2014 12:45:20] Nois Que Voa Bruxao has logged in.
+[08/08/2014 12:45:28] Nois Que Voa Bruxao has logged out.
+[08/08/2014 12:45:30] Nois Que Voa Bruxao has logged in.
+[08/08/2014 12:46:25] Catatal has logged out.
+[08/08/2014 12:46:27] Catatal has logged in.
+[08/08/2014 12:47:17] Druid Nikito has logged out.
+[08/08/2014 12:47:24] GM Gabriel has logged in.
+[08/08/2014 12:48:09] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[08/08/2014 12:48:53] Catatal has logged out.
+[08/08/2014 12:48:56] Mlktop has logged in.
+[08/08/2014 12:49:07] Catatal has logged in.
+[08/08/2014 12:49:29] Mateus has logged in.
+[08/08/2014 12:49:33] Pally Do Kpta has logged out.
+[08/08/2014 12:49:36] GM Gabriel has logged out.
+[08/08/2014 12:50:21] Duff Maluko has logged in.
+[08/08/2014 12:51:21] Jack Violeiro has logged out.
+[08/08/2014 12:51:24] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 12:51:25] Jack Violeiro has logged in.
+[08/08/2014 12:51:36] Account Manager has logged in.
+[08/08/2014 12:51:39] Account Manager has logged out.
+[08/08/2014 12:51:55] > CLEAN: Removed 1383 items from 1016 tiles in 2 seconds.
+[08/08/2014 12:51:57] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 12:52:46] Druidd has logged in.
+[08/08/2014 12:53:09] Gotak has logged out.
+[08/08/2014 12:53:11] Gotak has logged in.
+[08/08/2014 12:53:43] Mlktop has logged out.
+[08/08/2014 12:53:55] Druidd has logged out.
+[08/08/2014 12:54:19] Account Manager has logged in.
+[08/08/2014 12:54:22] Account Manager has logged out.
+[08/08/2014 12:54:26] Mlktop has logged in.
+[08/08/2014 12:54:29] Druiddd has logged in.
+[08/08/2014 12:54:32] Druiddd has logged out.
+[08/08/2014 12:54:34] Druidd has logged in.
+[08/08/2014 12:54:50] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/08/2014 12:55:01] Duff Maluko has logged out.
+[08/08/2014 12:55:24] Gotak has logged out.
+[08/08/2014 12:55:27] Gotak has logged in.
+[08/08/2014 12:55:31] Microbiio I has logged in.
+[08/08/2014 12:55:48] Gotak has logged out.
+[08/08/2014 12:55:50] Gotak has logged in.
+[08/08/2014 12:55:55] Anjo pk has logged out.
+[08/08/2014 12:56:11] Microbiio I has logged out.
+[08/08/2014 12:56:21] Mlk Lokoo has logged in.
+[08/08/2014 12:56:28] Gotak has logged out.
+[08/08/2014 12:56:31] Gotak has logged in.
+[08/08/2014 12:57:08] Catatal has logged out.
+[08/08/2014 12:57:12] Gotak has logged out.
+[08/08/2014 12:57:14] Catatal has logged in.
+[08/08/2014 12:57:17] Gotak has logged in.
+[08/08/2014 12:57:26] Duff Maluko has logged in.
+[08/08/2014 12:57:55] Druidd has logged out.
+[08/08/2014 12:57:59] Druidd has logged in.
+[08/08/2014 12:58:34] Duff Maluko has logged out.
+[08/08/2014 12:58:39] Duff Maluko has logged in.
+[08/08/2014 12:59:01] Druidd has logged out.
+[08/08/2014 12:59:04] Druidd has logged in.
+[08/08/2014 12:59:16] Nois Que Voa Bruxao has logged out.
+[08/08/2014 12:59:20] Nois Que Voa Bruxao has logged in.
+[08/08/2014 13:00:07] Mlk Lokoo has logged out.
+[08/08/2014 13:00:11] Mlk Lokoo has logged in.
+[08/08/2014 13:00:42] Druidd has logged out.
+[08/08/2014 13:00:53] Catatal has logged out.
+[08/08/2014 13:00:56] Catatal has logged in.
+[08/08/2014 13:00:58] Mlktop has logged out.
+[08/08/2014 13:01:02] Mlktop has logged in.
+[08/08/2014 13:01:04] Gotak has logged out.
+[08/08/2014 13:01:06] Gotak has logged in.
+[08/08/2014 13:01:14] Druidd has logged in.
+[08/08/2014 13:01:28] Lucas has logged out.
+[08/08/2014 13:01:31] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/08/2014 13:01:43] Anjo pk has logged in.
+[08/08/2014 13:02:09] Nois Que Voa Bruxao has logged out.
+[08/08/2014 13:02:13] Nois Que Voa Bruxao has logged in.
+[08/08/2014 13:02:58] Polo play has logged out.
+[08/08/2014 13:03:05] Polo play has logged in.
+[08/08/2014 13:03:18] Polo play has logged out.
+[08/08/2014 13:03:20] Polo play has logged in.
+[08/08/2014 13:03:43] Gotak has logged out.
+[08/08/2014 13:03:47] Gotak has logged in.
+[08/08/2014 13:03:56] Anjo pk has logged out.
+[08/08/2014 13:03:59] Anjo pk has logged in.
+[08/08/2014 13:04:25] Gotak has logged out.
+[08/08/2014 13:04:28] Gotak has logged in.
+[08/08/2014 13:04:30] Polo play has logged out.
+[08/08/2014 13:04:33] Polo play has logged in.
+[08/08/2014 13:05:25] Mateus has logged out.
+[08/08/2014 13:05:35] Druidd has logged out.
+[08/08/2014 13:05:40] Druidd has logged in.
+[08/08/2014 13:05:41] Druidd has logged out.
+[08/08/2014 13:05:41] Pally Brisado has logged in.
+[08/08/2014 13:05:52] Druidd has logged in.
+[08/08/2014 13:05:53] Pally Brisado has logged out.
+[08/08/2014 13:05:56] Catatal has logged out.
+[08/08/2014 13:06:00] Catatal has logged in.
+[08/08/2014 13:06:02] Gotak has logged out.
+[08/08/2014 13:06:04] Pally Brisado has logged in.
+[08/08/2014 13:06:28] Gotak has logged in.
+[08/08/2014 13:06:43] Anjo pk has logged out.
+[08/08/2014 13:06:45] Anjo pk has logged in.
+[08/08/2014 13:07:04] Lucas has logged in.
+[08/08/2014 13:07:38] Mlk Lokoo has logged out.
+[08/08/2014 13:07:40] Mlk Lokoo has logged in.
+[08/08/2014 13:08:05] > Saving server...
+[08/08/2014 13:08:08] > SAVE: Complete in 2.991 seconds using relational house storage.
+[08/08/2014 13:08:09] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 13:08:12] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[08/08/2014 13:08:39] Catatal has logged out.
+[08/08/2014 13:08:39] > CLEAN: Removed 79 items from 229 tiles in 0.252 seconds.
+[08/08/2014 13:08:40] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 13:08:42] Catatal has logged in.
+[08/08/2014 13:09:09] Gotak has logged out.
+[08/08/2014 13:09:11] Gotak has logged in.
+[08/08/2014 13:09:43] Mlk Lokoo has logged out.
+[08/08/2014 13:09:46] Mlk Lokoo has logged in.
+[08/08/2014 13:10:04] Jack Violeiro has logged out.
+[08/08/2014 13:10:06] Jack Violeiro has logged in.
+[08/08/2014 13:13:07] Catatal has logged out.
+[08/08/2014 13:13:09] Catatal has logged in.
+[08/08/2014 13:13:14] Duff Maluko has logged out.
+[08/08/2014 13:14:41] Gotak has logged out.
+[08/08/2014 13:14:44] Gotak has logged in.
+[08/08/2014 13:14:53] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[08/08/2014 13:16:09] Druidd has logged out.
+[08/08/2014 13:20:30] Polo play has logged out.
+[08/08/2014 13:20:31] Polo play has logged in.
+[08/08/2014 13:20:35] Mlktop has logged out.
+[08/08/2014 13:20:37] Mlktop has logged in.
+[08/08/2014 13:20:48] Mlktop has logged out.
+[08/08/2014 13:20:50] Mlktop has logged in.
+[08/08/2014 13:21:31] Mlktop has logged out.
+[08/08/2014 13:21:34] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[08/08/2014 13:21:38] Mlktop has logged in.
+[08/08/2014 13:23:05] Anjo pk has logged out.
+[08/08/2014 13:24:50] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 13:24:53] Nois Que Voa Bruxao has logged out.
+[08/08/2014 13:25:21] > CLEAN: Removed 434 items from 678 tiles in 0.445 seconds.
+[08/08/2014 13:25:21] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 13:27:52] Nois Que Voa Bruxao has logged in.
+[08/08/2014 13:27:56] Gotak has logged out.
+[08/08/2014 13:28:15] > Broadcasted message: "Para comprar bless digite !bless".
+[08/08/2014 13:28:27] Polo play has logged out.
+[08/08/2014 13:29:22] Anjo pk has logged in.
+[08/08/2014 13:29:53] Catatal has logged out.
+[08/08/2014 13:29:55] Catatal has logged in.
+[08/08/2014 13:33:31] Mlk Lokoo has logged out.
+[08/08/2014 13:33:32] Mlk Lokoo has logged in.
+[08/08/2014 13:33:33] Mlk Lokoo has logged out.
+[08/08/2014 13:33:37] Microbiio I has logged in.
+[08/08/2014 13:34:21] Microbiio I has logged out.
+[08/08/2014 13:34:22] Microbiio I has logged in.
+[08/08/2014 13:34:23] Microbiio I has logged out.
+[08/08/2014 13:34:30] Mlk Lokoo has logged in.
+[08/08/2014 13:34:42] Catatal has logged out.
+[08/08/2014 13:34:44] Catatal has logged in.
+[08/08/2014 13:34:56] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[08/08/2014 13:39:42] Pally Da Morte has logged in.
+[08/08/2014 13:40:10] Jack Violeiro has logged out.
+[08/08/2014 13:40:58] Jack Violeiro has logged in.
+[08/08/2014 13:41:26] > Saving server...
+[08/08/2014 13:41:28] > SAVE: Complete in 2.541 seconds using relational house storage.
+[08/08/2014 13:41:31] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 13:41:37] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[08/08/2014 13:42:01] > CLEAN: Removed 1400 items from 1058 tiles in 0.307 seconds.
+[08/08/2014 13:42:01] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 13:42:07] Lucas has logged out.
+[08/08/2014 13:42:09] Lucas has logged in.
+[08/08/2014 13:43:19] Lucas has logged out.
+[08/08/2014 13:43:30] Lucas has logged in.
+[08/08/2014 13:43:44] Mlktop has logged out.
+[08/08/2014 13:43:45] Malkr has logged in.
+[08/08/2014 13:44:09] Anjo pk has logged out.
+[08/08/2014 13:44:10] Anjo pk has logged in.
+[08/08/2014 13:44:12] Malkr has logged out.
+[08/08/2014 13:44:14] Mlktop has logged in.
+[08/08/2014 13:44:51] Nois Que Voa Bruxao has logged out.
+[08/08/2014 13:46:56] Pally Brisado has logged out.
+[08/08/2014 13:47:01] Pally Brisado has logged in.
+[08/08/2014 13:47:28] Anjo pk has logged out.
+[08/08/2014 13:47:30] Anjo pk has logged in.
+[08/08/2014 13:47:57] Mlk Lokoo has logged out.
+[08/08/2014 13:48:03] Mlk Lokoo has logged in.
+[08/08/2014 13:48:18] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/08/2014 13:49:46] Duff Maluko has logged in.
+[08/08/2014 13:50:40] Mlktop has logged out.
+[08/08/2014 13:50:42] Mlktop has logged in.
+[08/08/2014 13:52:42] Anjo pk has logged out.
+[08/08/2014 13:52:44] Anjo pk has logged in.
+[08/08/2014 13:53:21] Lucas has logged out.
+[08/08/2014 13:53:23] Lucas has logged in.
+[08/08/2014 13:54:36] Pally Brisado has logged out.
+[08/08/2014 13:54:40] Nois Que Voa Bruxao has logged in.
+[08/08/2014 13:54:41] Pally Brisado has logged in.
+[08/08/2014 13:54:53] Pally Da Morte has logged out.
+[08/08/2014 13:54:59] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[08/08/2014 13:55:04] Lallana has logged in.
+[08/08/2014 13:55:05] Jack Violeiro has logged out.
+[08/08/2014 13:55:07] Jack Violeiro has logged in.
+[08/08/2014 13:57:57] Nois Que Voa Bruxao has logged out.
+[08/08/2014 13:57:59] Nois Que Voa Bruxao has logged in.
+[08/08/2014 13:58:12] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 13:58:42] > CLEAN: Removed 2370 items from 2406 tiles in 0.834 seconds.
+[08/08/2014 13:58:43] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 13:58:50] Nois Que Voa Bruxao has logged out.
+[08/08/2014 13:58:52] Nois Que Voa Bruxao has logged in.
+[08/08/2014 13:59:16] Lucas has logged out.
+[08/08/2014 13:59:17] Lucas has logged in.
+[08/08/2014 13:59:18] Nois Que Voa Bruxao has logged out.
+[08/08/2014 13:59:20] Nois Que Voa Bruxao has logged in.
+[08/08/2014 14:01:31] Nois Que Voa Bruxao has logged out.
+[08/08/2014 14:01:33] Nois Que Voa Bruxao has logged in.
+[08/08/2014 14:01:39] Catatal has logged out.
+[08/08/2014 14:01:40] Nois Que Voa Bruxao has logged out.
+[08/08/2014 14:01:41] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[08/08/2014 14:01:42] Catatal has logged in.
+[08/08/2014 14:01:42] Nois Que Voa Bruxao has logged in.
+[08/08/2014 14:04:39] Catatal has logged out.
+[08/08/2014 14:04:40] Catatal has logged in.
+[08/08/2014 14:05:31] Lallana has logged out.
+[08/08/2014 14:05:33] Lallana has logged in.
+[08/08/2014 14:06:24] Catatal has logged out.
+[08/08/2014 14:06:26] Catatal has logged in.
+[08/08/2014 14:07:14] Catatal has logged out.
+[08/08/2014 14:07:17] Catatal has logged in.
+[08/08/2014 14:07:36] Mlk Lokoo has logged out.
+[08/08/2014 14:07:40] Mlk Lokoo has logged in.
+[08/08/2014 14:08:22] > Broadcasted message: "Para comprar bless digite !bless".
+[08/08/2014 14:09:15] Mlk Lokoo has logged out.
+[08/08/2014 14:09:18] Mlk Lokoo has logged in.
+[08/08/2014 14:09:28] Mlk Lokoo has logged out.
+[08/08/2014 14:09:41] Mlk Lokoo has logged in.
+[08/08/2014 14:09:59] Nois Que Voa Bruxao has logged out.
+[08/08/2014 14:10:01] Nois Que Voa Bruxao has logged in.
+[08/08/2014 14:10:05] Catatal has logged out.
+[08/08/2014 14:10:06] Catatal has logged in.
+[08/08/2014 14:11:10] Lallana has logged out.
+[08/08/2014 14:11:12] Lallana has logged in.
+[08/08/2014 14:12:00] Nois Que Voa Bruxao has logged out.
+[08/08/2014 14:12:01] Nois Que Voa Bruxao has logged in.
+[08/08/2014 14:13:22] Nois Que Voa Bruxao has logged out.
+[08/08/2014 14:13:24] Nois Que Voa Bruxao has logged in.
+[08/08/2014 14:14:08] Nois Que Voa Bruxao has logged out.
+[08/08/2014 14:14:10] Nois Que Voa Bruxao has logged in.
+[08/08/2014 14:14:35] Nois Que Voa Bruxao has logged out.
+[08/08/2014 14:14:37] Anjo pk has logged out.
+[08/08/2014 14:14:37] Nois Que Voa Bruxao has logged in.
+[08/08/2014 14:14:47] > Saving server...
+[08/08/2014 14:14:50] > SAVE: Complete in 2.817 seconds using relational house storage.
+[08/08/2014 14:14:53] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 14:15:03] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/08/2014 14:15:11] Duff Maluko has logged out.
+[08/08/2014 14:15:24] > CLEAN: Removed 1131 items from 891 tiles in 1.045 seconds.
+[08/08/2014 14:15:25] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 14:16:20] Catatal has logged out.
+[08/08/2014 14:16:26] Catatal has logged in.
+[08/08/2014 14:16:46] Catatal has logged out.
+[08/08/2014 14:16:48] Catatal has logged in.
+[08/08/2014 14:18:11] Anjo pk has logged in.
+[08/08/2014 14:19:56] Pally Brisado has logged out.
+[08/08/2014 14:20:00] Pally Brisado has logged in.
+[08/08/2014 14:21:44] > Broadcasted message: "Para comprar bless digite !bless".
+[08/08/2014 14:25:15] Nois Que Voa Bruxao has logged out.
+[08/08/2014 14:25:28] Lucas has logged out.
+[08/08/2014 14:25:29] Lucas has logged in.
+[08/08/2014 14:28:25] > Broadcasted message: "Para comprar bless digite !bless".
+[08/08/2014 14:29:41] Lucas has logged out.
+[08/08/2014 14:29:43] Lucas has logged in.
+[08/08/2014 14:30:05] Mlk Lokoo has logged out.
+[08/08/2014 14:30:06] Mlk Lokoo has logged in.
+[08/08/2014 14:31:34] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 14:32:04] > CLEAN: Removed 2758 items from 2016 tiles in 0.362 seconds.
+[08/08/2014 14:32:05] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 14:32:15] Mlk Lokoo has logged out.
+[08/08/2014 14:32:16] Mlk Lokoo has logged in.
+[08/08/2014 14:33:25] Catatal has logged out.
+[08/08/2014 14:33:26] Catatal has logged in.
+[08/08/2014 14:33:57] Jack Violeiro has logged out.
+[08/08/2014 14:33:58] Jack Violeiro has logged in.
+[08/08/2014 14:35:00] Pally Da Morte has logged in.
+[08/08/2014 14:35:06] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[08/08/2014 14:36:08] Catatal has logged out.
+[08/08/2014 14:36:10] Anjo pk has logged out.
+[08/08/2014 14:36:11] Catatal has logged in.
+[08/08/2014 14:36:12] Anjo pk has logged in.
+[08/08/2014 14:37:14] Catatal has logged out.
+[08/08/2014 14:37:15] Catatal has logged in.
+[08/08/2014 14:37:26] Anjo pk has logged out.
+[08/08/2014 14:37:39] Anjo pk has logged in.
+[08/08/2014 14:38:33] Anjo pk has logged out.
+[08/08/2014 14:38:38] Anjo pk has logged in.
+[08/08/2014 14:39:45] Jack Violeiro has logged out.
+[08/08/2014 14:39:47] Jack Violeiro has logged in.
+[08/08/2014 14:40:00] Anjo pk has logged out.
+[08/08/2014 14:41:31] Jack Violeiro has logged out.
+[08/08/2014 14:41:32] Jack Violeiro has logged in.
+[08/08/2014 14:41:47] > Broadcasted message: "Para comprar bless digite !bless".
+[08/08/2014 14:43:12] Jack Violeiro has logged out.
+[08/08/2014 14:43:13] Jack Violeiro has logged in.
+[08/08/2014 14:43:30] Lucas has logged out.
+[08/08/2014 14:43:31] Lucas has logged in.
+[08/08/2014 14:43:50] Catatal has logged out.
+[08/08/2014 14:45:52] Mlktop has logged out.
+[08/08/2014 14:46:35] Nois Que Voa Bruxao has logged in.
+[08/08/2014 14:47:08] Catatal has logged in.
+[08/08/2014 14:47:43] Account Manager has logged in.
+[08/08/2014 14:48:00] Account Manager has logged out.
+[08/08/2014 14:48:08] Account Manager has logged in.
+[08/08/2014 14:48:08] > Saving server...
+[08/08/2014 14:48:12] > SAVE: Complete in 2.848 seconds using relational house storage.
+[08/08/2014 14:48:15] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 14:48:28] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/08/2014 14:48:48] > CLEAN: Removed 4316 items from 2613 tiles in 0.945 seconds.
+[08/08/2014 14:48:50] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 14:50:09] Account Manager has logged out.
+[08/08/2014 14:50:17] Ryuuzaki has logged in.
+[08/08/2014 14:50:38] Anjo pk has logged in.
+[08/08/2014 14:52:21] Pally Da Morte has logged out.
+[08/08/2014 14:55:09] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/08/2014 14:55:12] Jack Violeiro has logged out.
+[08/08/2014 14:57:11] Anjo pk has logged out.
+[08/08/2014 14:57:26] Pally Brisado has logged out.
+[08/08/2014 14:57:33] Pally Brisado has logged in.
+[08/08/2014 14:57:45] Anjo pk has logged in.
+[08/08/2014 15:01:50] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/08/2014 15:04:56] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 15:05:27] > CLEAN: Removed 2625 items from 1634 tiles in 4.638 seconds.
+[08/08/2014 15:05:32] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 15:06:39] Nois Que Voa Bruxao has logged out.
+[08/08/2014 15:08:04] Ryuuzaki has logged out.
+[08/08/2014 15:08:31] > Broadcasted message: "Para comprar bless digite !bless".
+[08/08/2014 15:08:51] Pally Brisado has logged out.
+[08/08/2014 15:09:06] Pally Brisado has logged in.
+[08/08/2014 15:10:52] Lucas has logged out.
+[08/08/2014 15:10:54] Lucas has logged in.
+[08/08/2014 15:12:12] Anjo pk has logged out.
+[08/08/2014 15:12:19] Anjo pk has logged in.
+[08/08/2014 15:13:34] Catatal has logged out.
+[08/08/2014 15:14:14] Account Manager has logged in.
+[08/08/2014 15:14:26] Account Manager has logged out.
+[08/08/2014 15:15:12] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[08/08/2014 15:15:19] Fanta-banana has logged in.
+[08/08/2014 15:16:40] Duff Maluko has logged in.
+[08/08/2014 15:18:10] Nois Que Voa Bruxao has logged in.
+[08/08/2014 15:19:09] Duff Maluko has logged out.
+[08/08/2014 15:21:29] > Saving server...
+[08/08/2014 15:21:31] > SAVE: Complete in 2.387 seconds using relational house storage.
+[08/08/2014 15:21:37] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 15:21:53] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/08/2014 15:21:56] Lucas has logged out.
+[08/08/2014 15:22:01] Lucas has logged in.
+[08/08/2014 15:22:07] > CLEAN: Removed 2176 items from 1265 tiles in 0.223 seconds.
+[08/08/2014 15:22:07] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 15:23:14] Lucas has logged out.
+[08/08/2014 15:23:15] Lucas has logged in.
+[08/08/2014 15:23:40] Account Manager has logged in.
+[08/08/2014 15:23:46] Juninhoszz has logged in.
+[08/08/2014 15:23:50] Account Manager has logged out.
+[08/08/2014 15:24:02] Account Manager has logged in.
+[08/08/2014 15:24:19] Account Manager has logged out.
+[08/08/2014 15:24:29] Account Manager has logged in.
+[08/08/2014 15:24:50] Account Manager has logged out.
+[08/08/2014 15:25:28] Juninhoszz has logged out.
+[08/08/2014 15:25:43] Jooao has logged in.
+[08/08/2014 15:26:30] Jooao has logged out.
+[08/08/2014 15:26:36] Account Manager has logged in.
+[08/08/2014 15:26:53] Account Manager has logged out.
+[08/08/2014 15:27:00] Account Manager has logged in.
+[08/08/2014 15:28:34] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/08/2014 15:28:46] Anjo pk has logged out.
+[08/08/2014 15:29:06] Account Manager has logged out.
+[08/08/2014 15:29:08] Account Manager has logged in.
+[08/08/2014 15:29:37] Account Manager has logged out.
+[08/08/2014 15:29:45] Chico Bioca has logged in.
+[08/08/2014 15:30:17] Anjo pk has logged in.
+[08/08/2014 15:30:41] Pally Brisado has logged out.
+[08/08/2014 15:31:38] Fanta-banana has logged out.
+[08/08/2014 15:31:58] Anjo pk has logged out.
+[08/08/2014 15:32:40] Anjo pk has logged in.
+[08/08/2014 15:35:06] Pally Brisado has logged in.
+[08/08/2014 15:35:15] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[08/08/2014 15:35:29] Nois Que Voa Bruxao has logged out.
+[08/08/2014 15:38:18] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 15:38:48] > CLEAN: Removed 1722 items from 1209 tiles in 0.218 seconds.
+[08/08/2014 15:38:49] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 15:41:06] Chico Bioca has logged out.
+[08/08/2014 15:41:56] > Broadcasted message: "Para comprar bless digite !bless".
+[08/08/2014 15:44:41] Mlk Lokoo has logged out.
+[08/08/2014 15:44:43] Mlk Lokoo has logged in.
+[08/08/2014 15:48:37] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/08/2014 15:49:27] Anjo pk has logged out.
+[08/08/2014 15:54:50] > Saving server...
+[08/08/2014 15:54:52] > SAVE: Complete in 1.893 seconds using relational house storage.
+[08/08/2014 15:54:59] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 15:55:18] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/08/2014 15:55:29] > CLEAN: Removed 33 items from 145 tiles in 0.207 seconds.
+[08/08/2014 15:55:30] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 15:59:01] > Saving server...
+[08/08/2014 15:59:03] > SAVE: Complete in 2.437 seconds using relational house storage.
+[08/08/2014 15:59:05] Lallana has logged out.
+[08/08/2014 15:59:05] Lucas has logged out.
+[08/08/2014 15:59:05] Pally Brisado has logged out.
+[08/08/2014 15:59:06] Mlk Lokoo has logged out.
+[08/08/2014 15:59:06] > Saving server...
+[08/08/2014 15:59:08] > SAVE: Complete in 1.553 seconds using relational house storage.
+[08/08/2014 15:59:08] Preparing to shutdown server..
+[08/08/2014 15:59:09] .
+[08/08/2014 15:59:09] Exiting
+[08/08/2014 16:59:02] The Forgotten Server, version 0.3.4 (Crying Damson)
+[08/08/2014 16:59:02] Sever Criado Por Alissow e Comedinha.
+[08/08/2014 16:59:03] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[08/08/2014 16:59:03] Bom Jogo!!!
+[08/08/2014 16:59:03] 
+[08/08/2014 16:59:03] >> Debugging: nothing.
+[08/08/2014 16:59:03] >> Checking software version... failed checking - malformed file.
+[08/08/2014 16:59:04] 
+[08/08/2014 16:59:04] >> Loading config (config.lua)
+[08/08/2014 16:59:04] > Using plaintext passwords
+[08/08/2014 16:59:04] >> Loading RSA key
+[08/08/2014 16:59:05] >> Starting SQL connection
+[08/08/2014 16:59:05] >> Running Database Manager
+[08/08/2014 16:59:05] > Optimized database.
+[08/08/2014 16:59:05] >> Loading items
+[08/08/2014 16:59:06] >> Loading groups
+[08/08/2014 16:59:06] >> Loading vocations
+[08/08/2014 16:59:06] >> Loading script systems
+[08/08/2014 16:59:07] >> Loading chat channels
+[08/08/2014 16:59:07] >> Loading outfits
+[08/08/2014 16:59:07] >> Loading experience stages
+[08/08/2014 16:59:07] >> Loading monsters
+[08/08/2014 16:59:08] >> Loading map and spawns...
+[08/08/2014 16:59:09] > Map size: 65000x65000.
+[08/08/2014 16:59:09] > Map descriptions: 
+[08/08/2014 16:59:09] Saved with Remere's Map Editor 2.2
+[08/08/2014 16:59:09] No map description available.
+[08/08/2014 16:59:10] Duplicate uniqueId 2407
+[08/08/2014 16:59:14] > Map loading time: 5.597 seconds.
+[08/08/2014 16:59:14] > Data loading time: 0.724 seconds.
+[08/08/2014 16:59:15] > Unserialization time for houses: 0.013 seconds.
+[08/08/2014 16:59:39] > Unserialization time for map: 23.859 seconds.
+[08/08/2014 16:59:39] >> Checking world type... PvP
+[08/08/2014 16:59:39] >> Initializing game state modules and registering services...
+[08/08/2014 16:59:40] > Global address: deathpvp.no-ip.info
+[08/08/2014 16:59:40] > Local ports:
+[08/08/2014 16:59:40] 7171	7172	
+[08/08/2014 16:59:41] >> All modules were loaded, server starting up...
+[08/08/2014 16:59:41] >> OT Death server Online!
+[08/08/2014 16:59:41] 
+[08/08/2014 17:04:31] Mlk Lokoo has logged in.
+[08/08/2014 17:05:48] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/08/2014 17:12:29] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[08/08/2014 17:13:41] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[08/08/2014 17:14:08] Pally Brisado has logged in.
+[08/08/2014 17:15:48] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 17:16:18] > CLEAN: Removed 0 items from 41 tiles in 0.194 seconds.
+[08/08/2014 17:16:19] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 17:19:10] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[08/08/2014 17:20:41] Mlk Lokoo has logged out.
+[08/08/2014 17:20:42] Mlk Lokoo has logged in.
+[08/08/2014 17:20:43] Mlk Lokoo has logged out.
+[08/08/2014 17:20:49] Microbiio I has logged in.
+[08/08/2014 17:25:51] Nois Que Voa Bruxao has logged in.
+[08/08/2014 17:25:51] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[08/08/2014 17:32:29] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 17:32:32] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[08/08/2014 17:32:33] > Saving server...
+[08/08/2014 17:32:35] > SAVE: Complete in 1.732 seconds using relational house storage.
+[08/08/2014 17:33:00] > CLEAN: Removed 5585 items from 1954 tiles in 0.262 seconds.
+[08/08/2014 17:33:00] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 17:39:13] > Broadcasted message: "Para comprar bless digite !bless".
+[08/08/2014 17:43:30] Nois Que Voa Bruxao has logged out.
+[08/08/2014 17:45:54] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/08/2014 17:47:48] Yakuza has logged in.
+[08/08/2014 17:49:10] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 17:49:41] > CLEAN: Removed 7424 items from 2017 tiles in 0.243 seconds.
+[08/08/2014 17:49:41] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 17:49:44] Yakuza has logged out.
+[08/08/2014 17:49:51] Yakuza has logged in.
+[08/08/2014 17:52:35] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/08/2014 17:59:16] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[08/08/2014 17:59:47] Lucas has logged in.
+[08/08/2014 18:00:43] Polo play has logged in.
+[08/08/2014 18:05:51] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 18:05:54] > Saving server...
+[08/08/2014 18:05:56] > SAVE: Complete in 1.864 seconds using relational house storage.
+[08/08/2014 18:05:57] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[08/08/2014 18:06:03] Yakuza has logged out.
+[08/08/2014 18:06:21] > CLEAN: Removed 7187 items from 3014 tiles in 0.261 seconds.
+[08/08/2014 18:06:22] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 18:11:41] Polo play has logged out.
+[08/08/2014 18:11:42] Polo play has logged in.
+[08/08/2014 18:11:59] Polo play has logged out.
+[08/08/2014 18:12:38] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/08/2014 18:14:48] > Saving server...
+[08/08/2014 18:14:50] > SAVE: Complete in 1.747 seconds using relational house storage.
+[08/08/2014 18:19:19] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[08/08/2014 18:22:32] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 18:23:03] > CLEAN: Removed 2691 items from 1227 tiles in 0.22 seconds.
+[08/08/2014 18:23:03] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 18:26:00] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[08/08/2014 18:32:41] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[08/08/2014 18:39:13] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 18:39:15] > Saving server...
+[08/08/2014 18:39:17] > SAVE: Complete in 1.82 seconds using relational house storage.
+[08/08/2014 18:39:22] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/08/2014 18:39:43] > CLEAN: Removed 630 items from 554 tiles in 0.193 seconds.
+[08/08/2014 18:39:44] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 18:45:07] Pally Brisado has logged out.
+[08/08/2014 18:46:03] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[08/08/2014 18:48:43] Meele Pally has logged in.
+[08/08/2014 18:49:27] Lucas has logged out.
+[08/08/2014 18:49:29] Lucas has logged in.
+[08/08/2014 18:52:44] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/08/2014 18:54:46] Fanta-banana has logged in.
+[08/08/2014 18:55:32] Meele Pally has logged out.
+[08/08/2014 18:55:36] Meele Pally has logged in.
+[08/08/2014 18:55:54] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 18:56:24] > CLEAN: Removed 3 items from 71 tiles in 0.2 seconds.
+[08/08/2014 18:56:25] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 18:59:25] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[08/08/2014 19:05:18] Meele Pally has logged out.
+[08/08/2014 19:05:21] Meele Pally has logged in.
+[08/08/2014 19:05:58] Microbiio I has logged out.
+[08/08/2014 19:06:05] Microbiio I has logged in.
+[08/08/2014 19:06:06] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[08/08/2014 19:06:31] Meele Pally has logged out.
+[08/08/2014 19:06:35] Meele Pally has logged in.
+[08/08/2014 19:08:42] Mlk Lokoo has logged in.
+[08/08/2014 19:09:59] Meele Pally has logged out.
+[08/08/2014 19:10:06] Account Manager has logged in.
+[08/08/2014 19:10:08] Account Manager has logged out.
+[08/08/2014 19:10:58] Account Manager has logged in.
+[08/08/2014 19:11:27] Account Manager has logged out.
+[08/08/2014 19:11:33] Account Manager has logged in.
+[08/08/2014 19:11:49] Account Manager has logged out.
+[08/08/2014 19:11:55] Lord Biel has logged in.
+[08/08/2014 19:12:35] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 19:12:36] > Saving server...
+[08/08/2014 19:12:38] > SAVE: Complete in 2.273 seconds using relational house storage.
+[08/08/2014 19:12:47] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[08/08/2014 19:13:05] > CLEAN: Removed 206 items from 151 tiles in 0.211 seconds.
+[08/08/2014 19:13:05] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 19:19:28] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[08/08/2014 19:19:57] Fanta-banana has logged out.
+[08/08/2014 19:21:08] Lord Biel has logged out.
+[08/08/2014 19:21:19] Lord Biel has logged in.
+[08/08/2014 19:26:09] > Broadcasted message: "Para comprar bless digite !bless".
+[08/08/2014 19:26:50] Account Manager has logged in.
+[08/08/2014 19:26:51] Account Manager has logged out.
+[08/08/2014 19:27:01] Fanta-banana has logged in.
+[08/08/2014 19:29:16] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 19:29:30] Lord Biel has logged out.
+[08/08/2014 19:29:37] Lord Biel has logged in.
+[08/08/2014 19:29:47] > CLEAN: Removed 684 items from 774 tiles in 0.394 seconds.
+[08/08/2014 19:29:47] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 19:29:59] Lord Biel has logged out.
+[08/08/2014 19:32:50] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[08/08/2014 19:34:02] Lallana has logged in.
+[08/08/2014 19:34:02] Pally Rush has logged in.
+[08/08/2014 19:34:30] Lord Biel has logged in.
+[08/08/2014 19:34:51] Pally Rush has logged out.
+[08/08/2014 19:35:53] Legal Fera has logged in.
+[08/08/2014 19:36:52] Polo play has logged in.
+[08/08/2014 19:37:18] Nois Que Voa Bruxao has logged in.
+[08/08/2014 19:37:31] Legal Fera has logged out.
+[08/08/2014 19:37:33] Nbzim has logged in.
+[08/08/2014 19:39:05] Catatal has logged in.
+[08/08/2014 19:39:31] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/08/2014 19:40:13] Nbzim has logged out.
+[08/08/2014 19:40:17] Polo play has logged out.
+[08/08/2014 19:40:19] Polo play has logged in.
+[08/08/2014 19:40:57] Lord Biel has logged out.
+[08/08/2014 19:41:00] Lord Biel has logged in.
+[08/08/2014 19:41:16] [Hoster] Jean has logged in.
+[08/08/2014 19:41:35] Lord Biel has logged out.
+[08/08/2014 19:41:37] Lord Biel has logged in.
+[08/08/2014 19:43:07] Polo play has logged out.
+[08/08/2014 19:43:08] Polo play has logged in.
+[08/08/2014 19:43:18] Legal Fera has logged in.
+[08/08/2014 19:43:23] Fanta-banana has logged out.
+[08/08/2014 19:43:27] Legal Fera has logged out.
+[08/08/2014 19:43:28] Nbzim has logged in.
+[08/08/2014 19:43:36] Catatal has logged out.
+[08/08/2014 19:43:37] Catatal has logged in.
+[08/08/2014 19:44:21] Catatal has logged out.
+[08/08/2014 19:44:22] Catatal has logged in.
+[08/08/2014 19:44:45] Catatal has logged out.
+[08/08/2014 19:44:46] Catatal has logged in.
+[08/08/2014 19:44:47] Microbiio I has logged out.
+[08/08/2014 19:44:49] Microbiio I has logged in.
+[08/08/2014 19:45:45] Lucas has logged out.
+[08/08/2014 19:45:46] Lucas has logged in.
+[08/08/2014 19:45:57] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 19:45:57] > Saving server...
+[08/08/2014 19:46:01] > SAVE: Complete in 2.957 seconds using relational house storage.
+[08/08/2014 19:46:06] Fanta-banana has logged in.
+[08/08/2014 19:46:12] > Broadcasted message: "Para comprar bless digite !bless".
+[08/08/2014 19:46:27] > CLEAN: Removed 267 items from 340 tiles in 0.212 seconds.
+[08/08/2014 19:46:28] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 19:46:55] Nbzim has logged out.
+[08/08/2014 19:46:57] Nbzim has logged in.
+[08/08/2014 19:48:37] Polo play has logged out.
+[08/08/2014 19:48:38] Catatal has logged out.
+[08/08/2014 19:48:39] Polo play has logged in.
+[08/08/2014 19:48:39] Catatal has logged in.
+[08/08/2014 19:49:21] Polo play has logged out.
+[08/08/2014 19:49:23] Polo play has logged in.
+[08/08/2014 19:49:33] Mlk Lokoo has logged out.
+[08/08/2014 19:51:33] [Hoster] Jean has logged out.
+[08/08/2014 19:51:35] Demonic Striker has logged in.
+[08/08/2014 19:52:11] Demonic Striker has logged out.
+[08/08/2014 19:52:12] [Hoster] Jean has logged in.
+[08/08/2014 19:52:53] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[08/08/2014 19:54:29] Nois Que Voa Bruxao has logged out.
+[08/08/2014 19:55:29] Lord Biel has logged out.
+[08/08/2014 19:55:30] Account Manager has logged in.
+[08/08/2014 19:55:54] Account Manager has logged out.
+[08/08/2014 19:56:08] Lord Biiel has logged in.
+[08/08/2014 19:56:16] Polo play has logged out.
+[08/08/2014 19:56:17] Polo play has logged in.
+[08/08/2014 19:56:37] Polo play has logged out.
+[08/08/2014 19:56:39] Polo play has logged in.
+[08/08/2014 19:56:40] Nbzim has logged out.
+[08/08/2014 19:56:42] Legal Fera has logged in.
+[08/08/2014 19:57:00] Catatal has logged out.
+[08/08/2014 19:57:01] Catatal has logged in.
+[08/08/2014 19:59:34] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/08/2014 20:00:12] Polo play has logged out.
+[08/08/2014 20:02:38] Meele Pally has logged in.
+[08/08/2014 20:02:38] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 20:03:09] > CLEAN: Removed 1119 items from 1105 tiles in 0.353 seconds.
+[08/08/2014 20:03:09] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 20:03:52] Legal Fera has logged out.
+[08/08/2014 20:05:18] Meele Pally has logged out.
+[08/08/2014 20:06:15] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/08/2014 20:09:41] Catatal has logged out.
+[08/08/2014 20:09:42] Lallana has logged out.
+[08/08/2014 20:09:45] Lallana has logged in.
+[08/08/2014 20:09:49] Catatal has logged in.
+[08/08/2014 20:10:23] [Hoster] Jean has logged out.
+[08/08/2014 20:10:49] Demonic Striker has logged in.
+[08/08/2014 20:12:56] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[08/08/2014 20:15:40] Lallana has logged out.
+[08/08/2014 20:15:43] Demonic has logged in.
+[08/08/2014 20:16:52] Demonic Striker has logged out.
+[08/08/2014 20:16:58] Demonic Striker has logged in.
+[08/08/2014 20:17:38] Demonic has logged out.
+[08/08/2014 20:17:40] Demonic Striker has logged out.
+[08/08/2014 20:17:41] Demonic Striker has logged in.
+[08/08/2014 20:17:49] Honda has logged in.
+[08/08/2014 20:18:07] Demonic Striker has logged out.
+[08/08/2014 20:18:09] [Hoster] Jean has logged in.
+[08/08/2014 20:18:11] Fanta-banana has logged out.
+[08/08/2014 20:18:15] [Hoster] Jean has logged out.
+[08/08/2014 20:18:17] Demonic Striker has logged in.
+[08/08/2014 20:19:17] Demonic Striker has logged out.
+[08/08/2014 20:19:18] > Saving server...
+[08/08/2014 20:19:20] > SAVE: Complete in 2.175 seconds using relational house storage.
+[08/08/2014 20:19:21] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 20:19:21] Account Manager has logged in.
+[08/08/2014 20:19:37] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/08/2014 20:19:48] Account Manager has logged out.
+[08/08/2014 20:19:51] > CLEAN: Removed 1436 items from 1107 tiles in 0.302 seconds.
+[08/08/2014 20:19:52] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 20:20:02] Raito Yagami has logged in.
+[08/08/2014 20:20:09] Raito Yagami has logged out.
+[08/08/2014 20:20:11] Demonic Striker has logged in.
+[08/08/2014 20:20:15] Mlk Lokoo has logged in.
+[08/08/2014 20:21:21] Pally Do Kpta has logged in.
+[08/08/2014 20:22:16] Legal Fera has logged in.
+[08/08/2014 20:22:55] Down has logged in.
+[08/08/2014 20:23:09] Down has logged out.
+[08/08/2014 20:23:10] Down has logged in.
+[08/08/2014 20:23:10] Catatal has logged out.
+[08/08/2014 20:23:11] Down has logged out.
+[08/08/2014 20:23:12] Catatal has logged in.
+[08/08/2014 20:23:17] Manager has logged in.
+[08/08/2014 20:23:32] Lord Biiel has logged out.
+[08/08/2014 20:23:34] Lord Biiel has logged in.
+[08/08/2014 20:23:38] Catatal has logged out.
+[08/08/2014 20:23:40] Catatal has logged in.
+[08/08/2014 20:23:42] Legal Fera has logged out.
+[08/08/2014 20:23:45] Legal Fera has logged in.
+[08/08/2014 20:26:18] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[08/08/2014 20:26:31] Lord Biiel has logged out.
+[08/08/2014 20:26:33] Lord Biiel has logged in.
+[08/08/2014 20:26:58] Fanta-banana has logged in.
+[08/08/2014 20:27:19] Epic Exori has logged in.
+[08/08/2014 20:27:40] Honda has logged out.
+[08/08/2014 20:27:44] Honda has logged in.
+[08/08/2014 20:27:46] Honda has logged out.
+[08/08/2014 20:27:54] Lallana has logged in.
+[08/08/2014 20:28:01] Epic Exori has logged out.
+[08/08/2014 20:28:02] Lallana has logged out.
+[08/08/2014 20:28:03] Epic Exori has logged in.
+[08/08/2014 20:28:04] Demonic has logged in.
+[08/08/2014 20:28:12] Epic Exori has logged out.
+[08/08/2014 20:28:17] Demonic has logged out.
+[08/08/2014 20:28:17] Epic Exori has logged in.
+[08/08/2014 20:28:18] Epic Exori has logged out.
+[08/08/2014 20:28:19] Lallana has logged in.
+[08/08/2014 20:28:33] Epic Exori has logged in.
+[08/08/2014 20:28:34] Epic Exori has logged out.
+[08/08/2014 20:29:14] Epic Exori has logged in.
+[08/08/2014 20:29:24] Lallana has logged out.
+[08/08/2014 20:29:27] Epic Exori has logged out.
+[08/08/2014 20:29:29] Epic Exori has logged in.
+[08/08/2014 20:29:31] Catatal has logged out.
+[08/08/2014 20:29:35] Legal Fera has logged out.
+[08/08/2014 20:29:36] Honda has logged in.
+[08/08/2014 20:29:41] Duff Maluko has logged in.
+[08/08/2014 20:29:52] Epic Exori has logged out.
+[08/08/2014 20:29:52] Duff Maluko has logged out.
+[08/08/2014 20:29:53] Epic Exori has logged in.
+[08/08/2014 20:29:58] Legal Fera has logged in.
+[08/08/2014 20:30:00] Honda has logged out.
+[08/08/2014 20:30:02] Honda has logged in.
+[08/08/2014 20:30:05] Epic Exori has logged out.
+[08/08/2014 20:30:07] Epic Exori has logged in.
+[08/08/2014 20:30:55] Anjo pk has logged in.
+[08/08/2014 20:31:41] Epic Exori has logged out.
+[08/08/2014 20:31:42] Epic Exori has logged in.
+[08/08/2014 20:31:51] Epic Exori has logged out.
+[08/08/2014 20:31:53] Epic Exori has logged in.
+[08/08/2014 20:32:02] Epic Exori has logged out.
+[08/08/2014 20:32:04] Epic Exori has logged in.
+[08/08/2014 20:32:13] Anjo pk has logged out.
+[08/08/2014 20:32:14] Epic Exori has logged out.
+[08/08/2014 20:32:16] Legal Fera has logged out.
+[08/08/2014 20:32:22] Epic Exori has logged in.
+[08/08/2014 20:32:45] Epic Exori has logged out.
+[08/08/2014 20:32:48] Epic Exori has logged in.
+[08/08/2014 20:32:56] Pally Do Kpta has logged out.
+[08/08/2014 20:32:58] Pally Do Kpta has logged in.
+[08/08/2014 20:32:58] Epic Exori has logged out.
+[08/08/2014 20:32:59] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/08/2014 20:33:11] Pally Do Kpta has logged out.
+[08/08/2014 20:33:12] Pally Do Kpta has logged in.
+[08/08/2014 20:33:16] Epic Exori has logged in.
+[08/08/2014 20:33:19] Legal Fera has logged in.
+[08/08/2014 20:33:39] Pally Do Kpta has logged out.
+[08/08/2014 20:33:40] Epic Exori has logged out.
+[08/08/2014 20:33:41] Pally Do Kpta has logged in.
+[08/08/2014 20:34:05] Pally Do Kpta has logged out.
+[08/08/2014 20:34:07] Pally Do Kpta has logged in.
+[08/08/2014 20:34:31] Legal Fera has logged out.
+[08/08/2014 20:34:33] Nbzim has logged in.
+[08/08/2014 20:34:45] Honda has logged out.
+[08/08/2014 20:34:47] Honda has logged in.
+[08/08/2014 20:34:48] Anjo pk has logged in.
+[08/08/2014 20:34:54] Epic Exori has logged in.
+[08/08/2014 20:35:02] Honda has logged out.
+[08/08/2014 20:35:03] Honda has logged in.
+[08/08/2014 20:35:26] Honda has logged out.
+[08/08/2014 20:35:28] Honda has logged in.
+[08/08/2014 20:35:46] Epic Exori has logged out.
+[08/08/2014 20:35:50] Honda has logged out.
+[08/08/2014 20:35:52] Honda has logged in.
+[08/08/2014 20:35:59] Nbzim has logged out.
+[08/08/2014 20:36:00] Legal Fera has logged in.
+[08/08/2014 20:36:02] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 20:36:07] Honda has logged out.
+[08/08/2014 20:36:09] Honda has logged in.
+[08/08/2014 20:36:21] Honda has logged out.
+[08/08/2014 20:36:32] Lallana has logged in.
+[08/08/2014 20:36:33] > CLEAN: Removed 2755 items from 1172 tiles in 0.582 seconds.
+[08/08/2014 20:36:33] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 20:36:34] Epic Exori has logged in.
+[08/08/2014 20:36:44] Epic Exori has logged out.
+[08/08/2014 20:36:46] Epic Exori has logged in.
+[08/08/2014 20:36:56] Epic Exori has logged out.
+[08/08/2014 20:36:57] Epic Exori has logged in.
+[08/08/2014 20:37:06] Anjo pk has logged out.
+[08/08/2014 20:37:06] Epic Exori has logged out.
+[08/08/2014 20:37:10] Anjo pk has logged in.
+[08/08/2014 20:37:20] Epic Exori has logged in.
+[08/08/2014 20:37:46] Epic Exori has logged out.
+[08/08/2014 20:37:50] Lallana has logged out.
+[08/08/2014 20:37:52] Lallana has logged in.
+[08/08/2014 20:38:37] Epic Exori has logged in.
+[08/08/2014 20:38:42] Lucas has logged out.
+[08/08/2014 20:38:44] Lucas has logged in.
+[08/08/2014 20:38:46] Epic Exori has logged out.
+[08/08/2014 20:38:53] Epic Exori has logged in.
+[08/08/2014 20:39:21] Pally Do Kpta has logged out.
+[08/08/2014 20:39:23] Pally Do Kpta has logged in.
+[08/08/2014 20:39:40] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[08/08/2014 20:39:43] Black Jose has logged in.
+[08/08/2014 20:40:12] Pally Do Kpta has logged out.
+[08/08/2014 20:40:13] Manager has logged out.
+[08/08/2014 20:40:14] Pally Do Kpta has logged in.
+[08/08/2014 20:40:18] Mlk Lokoo has logged out.
+[08/08/2014 20:40:20] Mlk Lokoo has logged in.
+[08/08/2014 20:40:38] Microbiio I has logged out.
+[08/08/2014 20:40:39] Microbiio I has logged in.
+[08/08/2014 20:40:40] Microbiio I has logged out.
+[08/08/2014 20:40:56] Mlk Lokoo has logged out.
+[08/08/2014 20:40:57] Mlk Lokoo has logged in.
+[08/08/2014 20:41:07] Epic Exori has logged out.
+[08/08/2014 20:42:39] Legal Fera has logged out.
+[08/08/2014 20:42:41] Legal Fera has logged in.
+[08/08/2014 20:42:48] Lucas has logged out.
+[08/08/2014 20:42:50] Lucas has logged in.
+[08/08/2014 20:44:27] Demonic Striker has logged out.
+[08/08/2014 20:44:30] Demonic Striker has logged in.
+[08/08/2014 20:44:55] Legal Fera has logged out.
+[08/08/2014 20:46:21] > Broadcasted message: "Para comprar bless digite !bless".
+[08/08/2014 20:52:15] Mlk Lokoo has logged out.
+[08/08/2014 20:52:16] Mlk Lokoo has logged in.
+[08/08/2014 20:52:17] Mlk Lokoo has logged out.
+[08/08/2014 20:52:24] Microbiio I has logged in.
+[08/08/2014 20:52:39] > Saving server...
+[08/08/2014 20:52:42] > SAVE: Complete in 2.776 seconds using relational house storage.
+[08/08/2014 20:52:43] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 20:53:02] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/08/2014 20:53:13] > CLEAN: Removed 4184 items from 2452 tiles in 0.25 seconds.
+[08/08/2014 20:53:14] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 20:53:30] Anjo pk has logged out.
+[08/08/2014 20:53:36] Black Jose has logged out.
+[08/08/2014 20:53:37] Black Jose has logged in.
+[08/08/2014 20:53:57] Pally Do Kpta has logged out.
+[08/08/2014 20:53:59] Pally Do Kpta has logged in.
+[08/08/2014 20:55:28] Black Jose has logged out.
+[08/08/2014 20:55:29] Black Jose has logged in.
+[08/08/2014 20:58:45] Black Jose has logged out.
+[08/08/2014 20:58:46] Black Jose has logged in.
+[08/08/2014 20:59:23] Silvio Santos has logged in.
+[08/08/2014 20:59:31] Lucas has logged out.
+[08/08/2014 20:59:43] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[08/08/2014 21:00:21] Black Jose has logged out.
+[08/08/2014 21:00:23] Black Jose has logged in.
+[08/08/2014 21:00:36] Microbiio I has logged out.
+[08/08/2014 21:00:38] Microbiio I has logged in.
+[08/08/2014 21:00:57] Demonic Striker has logged out.
+[08/08/2014 21:02:31] Black Jose has logged out.
+[08/08/2014 21:02:33] Black Jose has logged in.
+[08/08/2014 21:02:42] Pally Do Kpta has logged out.
+[08/08/2014 21:02:43] Pally Do Kpta has logged in.
+[08/08/2014 21:03:29] Black Jose has logged out.
+[08/08/2014 21:03:30] Black Jose has logged in.
+[08/08/2014 21:03:45] Pally Do Kpta has logged out.
+[08/08/2014 21:03:47] Pally Do Kpta has logged in.
+[08/08/2014 21:04:31] Demonic Striker has logged in.
+[08/08/2014 21:04:50] Pally Do Kpta has logged out.
+[08/08/2014 21:04:52] Pally Do Kpta has logged in.
+[08/08/2014 21:05:17] Lucas has logged in.
+[08/08/2014 21:06:08] Pally Do Kpta has logged out.
+[08/08/2014 21:06:09] Pally Do Kpta has logged in.
+[08/08/2014 21:06:24] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/08/2014 21:07:18] Pally Do Kpta has logged out.
+[08/08/2014 21:07:19] Pally Do Kpta has logged in.
+[08/08/2014 21:07:37] Silvio Santos has logged out.
+[08/08/2014 21:07:58] Silvio Santos has logged in.
+[08/08/2014 21:08:22] Pally Do Kpta has logged out.
+[08/08/2014 21:08:25] Pally Do Kpta has logged in.
+[08/08/2014 21:08:37] Silvio Santos has logged out.
+[08/08/2014 21:08:48] Lucas has logged out.
+[08/08/2014 21:08:49] Lucas has logged in.
+[08/08/2014 21:08:59] Silvio Santos has logged in.
+[08/08/2014 21:09:24] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 21:09:54] > CLEAN: Removed 2822 items from 2179 tiles in 0.263 seconds.
+[08/08/2014 21:09:55] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 21:10:11] Lucas has logged out.
+[08/08/2014 21:10:12] Account Manager has logged in.
+[08/08/2014 21:10:13] Lucas has logged in.
+[08/08/2014 21:10:23] Pally Do Kpta has logged out.
+[08/08/2014 21:10:25] Pally Do Kpta has logged in.
+[08/08/2014 21:10:33] Account Manager has logged out.
+[08/08/2014 21:10:36] Account Manager has logged in.
+[08/08/2014 21:11:06] Microbiio I has logged out.
+[08/08/2014 21:11:08] Microbiio I has logged in.
+[08/08/2014 21:11:08] Microbiio I has logged out.
+[08/08/2014 21:11:16] Mlk Lokoo has logged in.
+[08/08/2014 21:11:16] Account Manager has logged out.
+[08/08/2014 21:11:20] Lallana has logged out.
+[08/08/2014 21:11:23] Lallana has logged in.
+[08/08/2014 21:11:34] Account Manager has logged in.
+[08/08/2014 21:11:51] Mlk Lokoo has logged out.
+[08/08/2014 21:11:52] Mlk Lokoo has logged in.
+[08/08/2014 21:12:06] Account Manager has logged out.
+[08/08/2014 21:12:17] Burst has logged in.
+[08/08/2014 21:13:05] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/08/2014 21:13:26] Demonic Striker has logged out.
+[08/08/2014 21:13:27] Demonic Striker has logged in.
+[08/08/2014 21:16:36] Pally Do Kpta has logged out.
+[08/08/2014 21:16:41] Epic Exori has logged in.
+[08/08/2014 21:16:50] Fanta-banana has logged out.
+[08/08/2014 21:17:32] Epic Exori has logged out.
+[08/08/2014 21:17:38] Pally Do Kpta has logged in.
+[08/08/2014 21:19:46] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/08/2014 21:20:00] Silvio Santos has logged out.
+[08/08/2014 21:20:19] Burst has logged out.
+[08/08/2014 21:20:24] Burst has logged in.
+[08/08/2014 21:20:44] Account Manager has logged in.
+[08/08/2014 21:20:46] Account Manager has logged out.
+[08/08/2014 21:20:49] Silvio Santos has logged in.
+[08/08/2014 21:21:41] Mlk Lokoo has logged out.
+[08/08/2014 21:21:43] Mlk Lokoo has logged in.
+[08/08/2014 21:22:34] Black Jose has logged out.
+[08/08/2014 21:22:36] Black Jose has logged in.
+[08/08/2014 21:23:31] Black Jose has logged out.
+[08/08/2014 21:23:32] Black Jose has logged in.
+[08/08/2014 21:25:45] Demonic Striker has logged out.
+[08/08/2014 21:25:54] Demonic Striker has logged in.
+[08/08/2014 21:26:00] > Saving server...
+[08/08/2014 21:26:03] > SAVE: Complete in 2.851 seconds using relational house storage.
+[08/08/2014 21:26:05] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 21:26:27] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[08/08/2014 21:26:35] > CLEAN: Removed 5705 items from 3357 tiles in 0.272 seconds.
+[08/08/2014 21:26:36] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 21:27:05] Silvio Santos has logged out.
+[08/08/2014 21:27:06] Silvio Santos has logged in.
+[08/08/2014 21:32:16] Lord Biiel has logged out.
+[08/08/2014 21:32:18] Lord Biiel has logged in.
+[08/08/2014 21:33:08] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[08/08/2014 21:33:40] Black Jose has logged out.
+[08/08/2014 21:33:41] Black Jose has logged in.
+[08/08/2014 21:33:43] Lucas has logged out.
+[08/08/2014 21:33:44] Lucas has logged in.
+[08/08/2014 21:34:03] Lord Biiel has logged out.
+[08/08/2014 21:34:05] Lord Biiel has logged in.
+[08/08/2014 21:36:19] Black Jose has logged out.
+[08/08/2014 21:36:21] Black Jose has logged in.
+[08/08/2014 21:39:49] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[08/08/2014 21:42:15] Duff Maluko has logged in.
+[08/08/2014 21:42:46] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 21:43:16] > CLEAN: Removed 3608 items from 2139 tiles in 0.255 seconds.
+[08/08/2014 21:43:16] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 21:44:15] Pally Do Kpta has logged out.
+[08/08/2014 21:44:17] Pally Do Kpta has logged in.
+[08/08/2014 21:44:47] Lord Biiel has logged out.
+[08/08/2014 21:44:49] Lord Biiel has logged in.
+[08/08/2014 21:45:19] Mlk Lokoo has logged out.
+[08/08/2014 21:45:27] Mlk Lokoo has logged in.
+[08/08/2014 21:46:30] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[08/08/2014 21:46:36] Pally Do Kpta has logged out.
+[08/08/2014 21:46:38] Pally Do Kpta has logged in.
+[08/08/2014 21:47:19] Lord Biiel has logged out.
+[08/08/2014 21:47:21] Lord Biiel has logged in.
+[08/08/2014 21:47:27] Pally Do Kpta has logged out.
+[08/08/2014 21:47:28] Pally Do Kpta has logged in.
+[08/08/2014 21:49:09] Pally Do Kpta has logged out.
+[08/08/2014 21:49:10] Pally Do Kpta has logged in.
+[08/08/2014 21:50:59] Silvio Santos has logged out.
+[08/08/2014 21:51:02] Silvio Santos has logged in.
+[08/08/2014 21:51:37] Demonic Striker has logged out.
+[08/08/2014 21:52:02] Duff Maluko has logged out.
+[08/08/2014 21:52:07] Druidd has logged in.
+[08/08/2014 21:53:11] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/08/2014 21:53:54] Kina Of Death has logged in.
+[08/08/2014 21:54:11] Kina Of Death has logged out.
+[08/08/2014 21:54:31] Knight Storm has logged in.
+[08/08/2014 21:55:02] Knight Storm has logged out.
+[08/08/2014 21:55:07] Pally Rush has logged in.
+[08/08/2014 21:55:30] Silvio Santos has logged out.
+[08/08/2014 21:55:34] Account Manager has logged in.
+[08/08/2014 21:56:16] Account Manager has logged out.
+[08/08/2014 21:56:26] Varus has logged in.
+[08/08/2014 21:56:30] Black Jose has logged out.
+[08/08/2014 21:56:33] Account Manager has logged in.
+[08/08/2014 21:56:45] Account Manager has logged out.
+[08/08/2014 21:56:50] Account Manager has logged in.
+[08/08/2014 21:57:18] Account Manager has logged out.
+[08/08/2014 21:57:44] Pally Rush has logged out.
+[08/08/2014 21:57:45] Pally Rush has logged in.
+[08/08/2014 21:57:54] Black Jose has logged in.
+[08/08/2014 21:59:14] Burst has logged out.
+[08/08/2014 21:59:21] > Saving server...
+[08/08/2014 21:59:24] > SAVE: Complete in 2.777 seconds using relational house storage.
+[08/08/2014 21:59:27] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 21:59:52] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[08/08/2014 21:59:57] > CLEAN: Removed 3876 items from 2338 tiles in 0.187 seconds.
+[08/08/2014 21:59:58] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 22:02:56] Varus has logged out.
+[08/08/2014 22:03:02] Pally Rush has logged out.
+[08/08/2014 22:04:15] Mc Magrinho has logged in.
+[08/08/2014 22:04:51] Lallana has logged out.
+[08/08/2014 22:05:40] Druid Nikito has logged in.
+[08/08/2014 22:06:22] Pally Rush has logged in.
+[08/08/2014 22:06:33] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[08/08/2014 22:06:42] Pally Rush has logged out.
+[08/08/2014 22:06:46] Pally Rush has logged in.
+[08/08/2014 22:06:53] Black Jose has logged out.
+[08/08/2014 22:06:55] Black Jose has logged in.
+[08/08/2014 22:07:13] Black Jose has logged out.
+[08/08/2014 22:07:49] Knight Storm has logged in.
+[08/08/2014 22:07:52] Account Manager has logged in.
+[08/08/2014 22:08:07] Account Manager has logged out.
+[08/08/2014 22:08:11] Account Manager has logged in.
+[08/08/2014 22:08:22] Mlk Lokoo has logged out.
+[08/08/2014 22:08:24] Knight Storm has logged out.
+[08/08/2014 22:08:25] Knight Storm has logged in.
+[08/08/2014 22:08:40] Account Manager has logged in.
+[08/08/2014 22:08:48] Account Manager has logged out.
+[08/08/2014 22:08:56] Account Manager has logged out.
+[08/08/2014 22:09:11] Striiker Da Xurupita has logged in.
+[08/08/2014 22:10:46] Pally Rush has logged out.
+[08/08/2014 22:10:50] Pally Rush has logged in.
+[08/08/2014 22:11:53] Lucas has logged out.
+[08/08/2014 22:11:55] Lucas has logged in.
+[08/08/2014 22:11:56] Fanta-banana has logged in.
+[08/08/2014 22:12:03] Black Jose has logged in.
+[08/08/2014 22:12:15] Black Jose has logged out.
+[08/08/2014 22:13:14] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/08/2014 22:13:54] Lallana has logged in.
+[08/08/2014 22:14:22] Mlk Lokoo has logged in.
+[08/08/2014 22:15:41] Lord Biiel has logged out.
+[08/08/2014 22:15:43] Lord Biiel has logged in.
+[08/08/2014 22:16:08] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 22:16:38] > CLEAN: Removed 4304 items from 2673 tiles in 0.218 seconds.
+[08/08/2014 22:16:38] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 22:16:41] Lallana has logged out.
+[08/08/2014 22:16:43] Lallana has logged in.
+[08/08/2014 22:16:50] Manager has logged in.
+[08/08/2014 22:17:45] Mc Magrinho has logged out.
+[08/08/2014 22:17:48] GM Macabro has logged in.
+[08/08/2014 22:17:56] Black Jose has logged in.
+[08/08/2014 22:19:55] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[08/08/2014 22:21:15] [Hoster] Jean has logged in.
+[08/08/2014 22:22:04] Lord Biiel has logged out.
+[08/08/2014 22:22:06] Lord Biiel has logged in.
+[08/08/2014 22:22:49] Black Jose has logged out.
+[08/08/2014 22:23:12] Lord Biiel has logged out.
+[08/08/2014 22:23:14] Lord Biiel has logged in.
+[08/08/2014 22:24:43] Striiker Da Xurupita has logged out.
+[08/08/2014 22:24:46] Striiker Da Xurupita has logged in.
+[08/08/2014 22:25:14] Lucas has logged out.
+[08/08/2014 22:25:15] Lucas has logged in.
+[08/08/2014 22:25:36] Druidd has logged out.
+[08/08/2014 22:25:38] Druidd has logged in.
+[08/08/2014 22:26:36] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[08/08/2014 22:28:06] Striiker Da Xurupita has logged out.
+[08/08/2014 22:28:12] Account Manager has logged in.
+[08/08/2014 22:28:32] Account Manager has logged out.
+[08/08/2014 22:28:32] Mlk Lokoo has logged out.
+[08/08/2014 22:28:35] Druidd has logged out.
+[08/08/2014 22:28:36] Druidd has logged in.
+[08/08/2014 22:28:37] Skise Da Xurupita has logged in.
+[08/08/2014 22:28:43] Account Manager has logged in.
+[08/08/2014 22:28:44] Account Manager has logged out.
+[08/08/2014 22:28:45] Account Manager has logged in.
+[08/08/2014 22:28:49] Account Manager has logged out.
+[08/08/2014 22:28:49] Account Manager has logged in.
+[08/08/2014 22:28:50] Account Manager has logged out.
+[08/08/2014 22:28:51] Mlk Lokoo has logged in.
+[08/08/2014 22:29:00] Black Jose has logged in.
+[08/08/2014 22:29:22] Pally Rush has logged out.
+[08/08/2014 22:29:23] Pally Rush has logged in.
+[08/08/2014 22:31:12] Pally Do Kpta has logged out.
+[08/08/2014 22:31:18] Epic Exori has logged in.
+[08/08/2014 22:31:28] > Broadcasted message: "New record: 16 players are logged in.".
+[08/08/2014 22:31:29] Duff Maluko has logged in.
+[08/08/2014 22:31:55] Druidd has logged out.
+[08/08/2014 22:31:56] Druidd has logged in.
+[08/08/2014 22:32:00] Pally Rush has logged out.
+[08/08/2014 22:32:18] Epic Exori has logged out.
+[08/08/2014 22:32:19] Epic Exori has logged in.
+[08/08/2014 22:32:23] Pally Rush has logged in.
+[08/08/2014 22:32:36] Epic Exori has logged out.
+[08/08/2014 22:32:37] Epic Exori has logged in.
+[08/08/2014 22:32:42] > Saving server...
+[08/08/2014 22:32:46] > SAVE: Complete in 3.76 seconds using relational house storage.
+[08/08/2014 22:32:48] Epic Exori has logged out.
+[08/08/2014 22:32:49] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 22:32:50] Epic Exori has logged in.
+[08/08/2014 22:32:59] Epic Exori has logged out.
+[08/08/2014 22:33:00] Epic Exori has logged in.
+[08/08/2014 22:33:14] Epic Exori has logged out.
+[08/08/2014 22:33:15] Epic Exori has logged in.
+[08/08/2014 22:33:17] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[08/08/2014 22:33:19] > CLEAN: Removed 3380 items from 1903 tiles in 0.234 seconds.
+[08/08/2014 22:33:20] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 22:33:21] Skise Da Xurupita has logged out.
+[08/08/2014 22:33:23] Skise Da Xurupita has logged in.
+[08/08/2014 22:33:34] Epic Exori has logged out.
+[08/08/2014 22:33:36] Epic Exori has logged in.
+[08/08/2014 22:33:45] Epic Exori has logged out.
+[08/08/2014 22:33:46] Epic Exori has logged in.
+[08/08/2014 22:34:07] Epic Exori has logged out.
+[08/08/2014 22:34:08] Epic Exori has logged in.
+[08/08/2014 22:34:24] Epic Exori has logged out.
+[08/08/2014 22:34:26] Epic Exori has logged in.
+[08/08/2014 22:34:40] Epic Exori has logged out.
+[08/08/2014 22:34:42] Epic Exori has logged in.
+[08/08/2014 22:34:53] Epic Exori has logged out.
+[08/08/2014 22:34:55] Epic Exori has logged in.
+[08/08/2014 22:35:10] Epic Exori has logged out.
+[08/08/2014 22:35:11] Epic Exori has logged in.
+[08/08/2014 22:35:13] Knight Storm has logged out.
+[08/08/2014 22:35:23] Epic Exori has logged out.
+[08/08/2014 22:35:25] Epic Exori has logged in.
+[08/08/2014 22:35:36] Account Manager has logged in.
+[08/08/2014 22:35:39] Epic Exori has logged out.
+[08/08/2014 22:35:40] Epic Exori has logged in.
+[08/08/2014 22:35:41] Account Manager has logged out.
+[08/08/2014 22:35:42] Druidd has logged out.
+[08/08/2014 22:35:44] Druidd has logged in.
+[08/08/2014 22:35:47] Pally Rush has logged out.
+[08/08/2014 22:35:48] Pally Rush has logged in.
+[08/08/2014 22:35:53] Epic Exori has logged out.
+[08/08/2014 22:35:57] Epic Exori has logged in.
+[08/08/2014 22:36:03] Menina Galaxy has logged in.
+[08/08/2014 22:36:20] Epic Exori has logged out.
+[08/08/2014 22:36:20] Menina Galaxy has logged out.
+[08/08/2014 22:36:21] Epic Exori has logged in.
+[08/08/2014 22:36:22] Galaxy Knight has logged in.
+[08/08/2014 22:36:38] Lucas has logged out.
+[08/08/2014 22:36:40] Lucas has logged in.
+[08/08/2014 22:36:48] Duff Maluko has logged out.
+[08/08/2014 22:36:49] Duff Maluko has logged in.
+[08/08/2014 22:36:57] Epic Exori has logged out.
+[08/08/2014 22:36:59] Epic Exori has logged in.
+[08/08/2014 22:37:15] Epic Exori has logged out.
+[08/08/2014 22:37:17] Epic Exori has logged in.
+[08/08/2014 22:37:27] Epic Exori has logged out.
+[08/08/2014 22:37:29] Epic Exori has logged in.
+[08/08/2014 22:37:38] Epic Exori has logged out.
+[08/08/2014 22:37:40] Epic Exori has logged in.
+[08/08/2014 22:37:48] Epic Exori has logged out.
+[08/08/2014 22:37:49] Epic Exori has logged in.
+[08/08/2014 22:37:57] Epic Exori has logged out.
+[08/08/2014 22:37:59] Epic Exori has logged in.
+[08/08/2014 22:38:08] Epic Exori has logged out.
+[08/08/2014 22:38:09] Epic Exori has logged in.
+[08/08/2014 22:38:20] Epic Exori has logged out.
+[08/08/2014 22:38:21] Epic Exori has logged in.
+[08/08/2014 22:38:32] Epic Exori has logged out.
+[08/08/2014 22:38:34] Epic Exori has logged in.
+[08/08/2014 22:38:45] Epic Exori has logged out.
+[08/08/2014 22:38:47] Epic Exori has logged in.
+[08/08/2014 22:39:01] Epic Exori has logged out.
+[08/08/2014 22:39:03] Epic Exori has logged in.
+[08/08/2014 22:39:10] Duff Maluko has logged out.
+[08/08/2014 22:39:13] Duff Maluko has logged in.
+[08/08/2014 22:39:20] Epic Exori has logged out.
+[08/08/2014 22:39:30] Microbio I has logged in.
+[08/08/2014 22:39:47] Microbio I has logged out.
+[08/08/2014 22:39:49] Microbio I has logged in.
+[08/08/2014 22:39:58] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/08/2014 22:40:02] Microbio I has logged out.
+[08/08/2014 22:40:03] Microbio I has logged in.
+[08/08/2014 22:40:04] Microbio I has logged out.
+[08/08/2014 22:40:08] Pally Do Kpta has logged in.
+[08/08/2014 22:40:20] Fanta-banana has logged out.
+[08/08/2014 22:40:21] Pally Do Kpta has logged out.
+[08/08/2014 22:40:23] Pally Do Kpta has logged in.
+[08/08/2014 22:40:23] Fanta-banana has logged in.
+[08/08/2014 22:40:27] Druidd has logged out.
+[08/08/2014 22:40:38] Pally Do Kpta has logged out.
+[08/08/2014 22:40:51] Pally Do Kpta has logged in.
+[08/08/2014 22:41:10] Druidd has logged in.
+[08/08/2014 22:42:33] Skise Da Xurupita has logged out.
+[08/08/2014 22:42:36] Skise Da Xurupita has logged in.
+[08/08/2014 22:43:08] Black Jose has logged out.
+[08/08/2014 22:43:39] Pally Do Kpta has logged out.
+[08/08/2014 22:43:50] Pally Do Kpta has logged in.
+[08/08/2014 22:44:08] Duff Maluko has logged out.
+[08/08/2014 22:44:10] Duff Maluko has logged in.
+[08/08/2014 22:45:32] Lucas has logged out.
+[08/08/2014 22:45:33] Lucas has logged in.
+[08/08/2014 22:45:33] GM Macabro has logged out.
+[08/08/2014 22:45:38] Pally Do Kpta has logged out.
+[08/08/2014 22:45:39] Fanta-banana has logged out.
+[08/08/2014 22:45:40] Pally Do Kpta has logged in.
+[08/08/2014 22:45:42] Fanta-banana has logged in.
+[08/08/2014 22:45:46] Fanta-banana has logged out.
+[08/08/2014 22:46:39] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[08/08/2014 22:46:44] [Hoster] Jean has logged out.
+[08/08/2014 22:46:46] Demonic Striker has logged in.
+[08/08/2014 22:47:03] Duff Maluko has logged out.
+[08/08/2014 22:47:05] Duff Maluko has logged in.
+[08/08/2014 22:47:14] Demonic Striker has logged out.
+[08/08/2014 22:47:16] Raito Yagami has logged in.
+[08/08/2014 22:47:20] Black Jose has logged in.
+[08/08/2014 22:48:52] Druid Nikito has logged out.
+[08/08/2014 22:48:58] Druid Nikito has logged in.
+[08/08/2014 22:49:30] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 22:49:36] Fanta-banana has logged in.
+[08/08/2014 22:50:00] > CLEAN: Removed 3350 items from 2568 tiles in 0.265 seconds.
+[08/08/2014 22:50:00] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 22:50:20] Mlk Lokoo has logged out.
+[08/08/2014 22:50:23] Raito Yagami has logged out.
+[08/08/2014 22:50:25] [Hoster] Jean has logged in.
+[08/08/2014 22:50:32] Mlk Lokoo has logged in.
+[08/08/2014 22:51:21] Lord Biiel has logged out.
+[08/08/2014 22:51:44] Druid Nikito has logged out.
+[08/08/2014 22:51:46] Druid Nikito has logged in.
+[08/08/2014 22:52:23] Druidd has logged out.
+[08/08/2014 22:53:01] Druidd has logged in.
+[08/08/2014 22:53:20] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[08/08/2014 22:53:42] [Hoster] Jean has logged out.
+[08/08/2014 22:53:47] > Saving server...
+[08/08/2014 22:53:50] > SAVE: Complete in 3.307 seconds using relational house storage.
+[08/08/2014 22:54:14] Duff Maluko has logged out.
+[08/08/2014 22:55:08] Pally Rush has logged out.
+[08/08/2014 22:55:14] Pally Rush has logged in.
+[08/08/2014 22:55:47] Account Manager has logged in.
+[08/08/2014 22:56:17] Account Manager has logged out.
+[08/08/2014 22:56:19] Account Manager has logged in.
+[08/08/2014 22:56:41] Account Manager has logged out.
+[08/08/2014 22:56:49] Account Manager has logged in.
+[08/08/2014 22:56:53] Lallana has logged out.
+[08/08/2014 22:56:55] Lallana has logged in.
+[08/08/2014 22:57:17] Account Manager has logged out.
+[08/08/2014 22:57:25] Full Metal has logged in.
+[08/08/2014 22:58:40] Full Metal has logged out.
+[08/08/2014 22:58:42] Full Metal has logged in.
+[08/08/2014 22:58:42] Manager has logged out.
+[08/08/2014 22:59:11] Manager has logged in.
+[08/08/2014 23:00:01] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/08/2014 23:00:12] Pally Do Kpta has logged out.
+[08/08/2014 23:00:22] Pally Do Kpta has logged in.
+[08/08/2014 23:00:56] Lord Biiel has logged in.
+[08/08/2014 23:01:12] Pally Rush has logged out.
+[08/08/2014 23:01:14] Pally Rush has logged in.
+[08/08/2014 23:02:39] Full Metal has logged out.
+[08/08/2014 23:02:40] Druidd has logged out.
+[08/08/2014 23:02:43] Pally Rush has logged out.
+[08/08/2014 23:02:44] Full Metal has logged in.
+[08/08/2014 23:03:18] Full Metal has logged out.
+[08/08/2014 23:03:18] Lallana has logged out.
+[08/08/2014 23:03:20] Full Metal has logged in.
+[08/08/2014 23:03:21] Lallana has logged in.
+[08/08/2014 23:03:44] Lallana has logged out.
+[08/08/2014 23:03:46] Lallana has logged in.
+[08/08/2014 23:04:34] Full Metal has logged out.
+[08/08/2014 23:04:36] Full Metal has logged in.
+[08/08/2014 23:04:47] Lord Biiel has logged out.
+[08/08/2014 23:05:00] Lord Biiel has logged in.
+[08/08/2014 23:05:14] Mlk Lokoo has logged out.
+[08/08/2014 23:05:15] Mlk Lokoo has logged in.
+[08/08/2014 23:05:42] Mlk Lokoo has logged out.
+[08/08/2014 23:05:43] Fanta-banana has logged out.
+[08/08/2014 23:05:45] Meele Pally has logged in.
+[08/08/2014 23:05:46] Mlk Lokoo has logged in.
+[08/08/2014 23:05:47] Fanta-banana has logged in.
+[08/08/2014 23:05:50] Full Metal has logged out.
+[08/08/2014 23:05:52] Full Metal has logged in.
+[08/08/2014 23:06:03] > Saving server...
+[08/08/2014 23:06:07] > SAVE: Complete in 3.79 seconds using relational house storage.
+[08/08/2014 23:06:11] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 23:06:16] Meele Pally has logged out.
+[08/08/2014 23:06:22] Full Metal has logged out.
+[08/08/2014 23:06:24] Full Metal has logged in.
+[08/08/2014 23:06:30] Full Metal has logged out.
+[08/08/2014 23:06:40] Meele Pally has logged in.
+[08/08/2014 23:06:42] > CLEAN: Removed 4919 items from 3149 tiles in 0.266 seconds.
+[08/08/2014 23:06:42] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 23:06:43] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[08/08/2014 23:06:59] Meele Pally has logged out.
+[08/08/2014 23:07:15] Pally Brisado has logged in.
+[08/08/2014 23:08:26] Lallana has logged out.
+[08/08/2014 23:08:29] Demonic has logged in.
+[08/08/2014 23:08:51] Demonic has logged out.
+[08/08/2014 23:08:57] Demonic has logged in.
+[08/08/2014 23:09:17] Fanta-banana has logged out.
+[08/08/2014 23:09:19] Fanta-banana has logged in.
+[08/08/2014 23:10:26] Black Jose has logged out.
+[08/08/2014 23:10:28] Black Jose has logged in.
+[08/08/2014 23:10:32] Demonic has logged out.
+[08/08/2014 23:10:42] Honda has logged in.
+[08/08/2014 23:10:53] Fanta-banana has logged out.
+[08/08/2014 23:10:57] Fanta-banana has logged in.
+[08/08/2014 23:11:23] Fanta-banana has logged out.
+[08/08/2014 23:11:24] Fanta-banana has logged in.
+[08/08/2014 23:12:10] Galaxy Knight has logged out.
+[08/08/2014 23:12:36] Lucas has logged out.
+[08/08/2014 23:12:38] Lucas has logged in.
+[08/08/2014 23:12:55] Black Jose has logged out.
+[08/08/2014 23:12:57] Black Jose has logged in.
+[08/08/2014 23:13:24] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[08/08/2014 23:13:32] Galaxy Knight has logged in.
+[08/08/2014 23:14:11] Honda has logged out.
+[08/08/2014 23:14:20] Lallana has logged in.
+[08/08/2014 23:14:29] Lucas has logged out.
+[08/08/2014 23:14:31] Lucas has logged in.
+[08/08/2014 23:15:58] Black Jose has logged out.
+[08/08/2014 23:16:15] Black Jose has logged in.
+[08/08/2014 23:17:28] Skise Da Xurupita has logged out.
+[08/08/2014 23:18:00] Black Jose has logged out.
+[08/08/2014 23:18:01] Black Jose has logged in.
+[08/08/2014 23:20:05] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/08/2014 23:20:41] Galaxy Knight has logged out.
+[08/08/2014 23:20:44] Galaxy Knight has logged in.
+[08/08/2014 23:21:07] Pally Do Kpta has logged out.
+[08/08/2014 23:21:09] Pally Do Kpta has logged in.
+[08/08/2014 23:22:40] Black Jose has logged out.
+[08/08/2014 23:22:42] Black Jose has logged in.
+[08/08/2014 23:22:52] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 23:23:22] > CLEAN: Removed 1811 items from 1297 tiles in 0.234 seconds.
+[08/08/2014 23:23:23] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 23:24:51] Pally Do Kpta has logged out.
+[08/08/2014 23:24:52] Pally Do Kpta has logged in.
+[08/08/2014 23:25:37] Pally Do Kpta has logged out.
+[08/08/2014 23:25:39] Pally Do Kpta has logged in.
+[08/08/2014 23:26:18] Lallana has logged out.
+[08/08/2014 23:26:22] Demonic has logged in.
+[08/08/2014 23:26:38] Galaxy Knight has logged out.
+[08/08/2014 23:26:40] Galaxy Knight has logged in.
+[08/08/2014 23:26:46] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[08/08/2014 23:27:43] Demonic has logged out.
+[08/08/2014 23:27:46] Lallana has logged in.
+[08/08/2014 23:28:23] Anjo pk has logged in.
+[08/08/2014 23:28:54] Anjo pk has logged out.
+[08/08/2014 23:28:56] Anjo pk has logged in.
+[08/08/2014 23:29:15] Manager has logged out.
+[08/08/2014 23:29:25] Manager has logged in.
+[08/08/2014 23:29:59] Anjo pk has logged out.
+[08/08/2014 23:30:42] Lallana has logged out.
+[08/08/2014 23:30:45] Lallana has logged in.
+[08/08/2014 23:30:46] Anjo pk has logged in.
+[08/08/2014 23:31:24] Account Manager has logged in.
+[08/08/2014 23:31:28] Account Manager has logged out.
+[08/08/2014 23:32:05] Anjo pk has logged out.
+[08/08/2014 23:32:07] Anjo pk has logged in.
+[08/08/2014 23:33:10] Anjo pk has logged out.
+[08/08/2014 23:33:27] Anjo pk has logged in.
+[08/08/2014 23:33:27] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[08/08/2014 23:33:45] Yakuza has logged in.
+[08/08/2014 23:35:27] Pally Brisado has logged out.
+[08/08/2014 23:35:31] Anjo pk has logged out.
+[08/08/2014 23:35:34] Anjo pk has logged in.
+[08/08/2014 23:35:51] Black Jose has logged out.
+[08/08/2014 23:35:53] Black Jose has logged in.
+[08/08/2014 23:39:24] > Saving server...
+[08/08/2014 23:39:27] > SAVE: Complete in 3.301 seconds using relational house storage.
+[08/08/2014 23:39:33] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 23:40:03] > CLEAN: Removed 3300 items from 2182 tiles in 0.253 seconds.
+[08/08/2014 23:40:04] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 23:40:08] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[08/08/2014 23:40:38] Anjo pk has logged out.
+[08/08/2014 23:40:40] Anjo pk has logged in.
+[08/08/2014 23:40:40] Yakuza has logged out.
+[08/08/2014 23:40:42] Yakuza has logged in.
+[08/08/2014 23:40:54] Skise Da Xurupita has logged in.
+[08/08/2014 23:41:38] Yakuza has logged out.
+[08/08/2014 23:42:49] Skise Da Xurupita has logged out.
+[08/08/2014 23:44:36] Lallana has logged out.
+[08/08/2014 23:44:40] Black Jose has logged out.
+[08/08/2014 23:44:55] Demonic has logged in.
+[08/08/2014 23:45:19] Demonic has logged out.
+[08/08/2014 23:45:42] Lallana has logged in.
+[08/08/2014 23:45:46] Account Manager has logged in.
+[08/08/2014 23:46:27] Account Manager has logged out.
+[08/08/2014 23:46:34] Account Manager has logged in.
+[08/08/2014 23:46:49] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[08/08/2014 23:47:19] Account Manager has logged out.
+[08/08/2014 23:47:31] Persop Elmax has logged in.
+[08/08/2014 23:47:42] Skise Da Xurupita has logged in.
+[08/08/2014 23:48:46] Lallana has logged out.
+[08/08/2014 23:48:51] Demonic has logged in.
+[08/08/2014 23:49:53] Demonic has logged out.
+[08/08/2014 23:49:56] Lallana has logged in.
+[08/08/2014 23:53:03] Lord Biiel has logged out.
+[08/08/2014 23:53:08] Lord Biiel has logged in.
+[08/08/2014 23:53:28] Lord Biiel has logged out.
+[08/08/2014 23:53:30] Lord Biiel has logged in.
+[08/08/2014 23:53:31] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[08/08/2014 23:55:35] Persop Elmax has logged out.
+[08/08/2014 23:55:37] Persop Elmax has logged in.
+[08/08/2014 23:56:07] Druid Nikito has logged out.
+[08/08/2014 23:56:09] GM Gabriel has logged in.
+[08/08/2014 23:56:14] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/08/2014 23:56:45] > CLEAN: Removed 4236 items from 2610 tiles in 0.252 seconds.
+[08/08/2014 23:56:45] > Broadcasted message: "Map Cleaned.".
+[08/08/2014 23:58:41] Fanta-banana has logged out.

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<npc name="Treiner Manager" script="data/npc/scripts/boat_mystic.lua" access="3" walkinterval="0" floorchange="0">
+ 	<look type="266" head="20" body="30" legs="40" feet="50"/>
+<parameters>
+      <parameter key="module_travel" value="1"/>
+		<parameter key="message_greet" value="Blz |PLAYERNAME|. Quer ir para onde os Treiner, Treiners, Treinar?"/>
+        <parameter key="travel_destinations" value="treiner,152,43,6,100;treiners,152,43,6,100;treinar,152,43,6,100"/>
+</parameters>
+</npc>

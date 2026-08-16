@@ -1,0 +1,394 @@
+[11/09/2014 13:02:04] The Forgo[11/09/2014 13:02:04] Ttten Serverh, verse For 0.t.4n  Servyin, Daversnio
+n[11/09/2014 13:02:04] S ve0r3.r4 (C Pori g lamsson)
+ [11/09/2014 13:02:05] Se Comeriadao.P
+o[11/09/2014 13:02:05] PubAilissoe: wCwmsoishra.b
+l[11/09/2014 13:02:05] Poblicoitdadem <ww<s otsTrd. slogse o.com <-
+ [11/09/2014 13:02:05] B<m <ogo!!do
+s[11/09/2014 13:02:05] 
+o[11/09/2014 13:02:05] >>rD obusgiv.
+ [11/09/2014 13:02:05] Bnmthiog.
+![11/09/2014 13:02:05] >!
+C[11/09/2014 13:02:05] 
+h[11/09/2014 13:02:05] >> kenuggofg: retveng.o
+n[11/09/2014 13:02:05] >..Checking software version... failefa led kingk- g - malformede.
+l[11/09/2014 13:02:06] 
+e[11/09/2014 13:02:06] >.
+Lo[11/09/2014 13:02:06] 
+a[11/09/2014 13:02:06] >diLgacinf co(cogf(g.luig.
+lua11/09/2014 13:02:06] > )
+i[11/09/2014 13:02:06] 
+ng[11/09/2014 13:02:06] > ElROR: exothas wnrda
+c[11/09/2014 13:02:06] >e  Lo Tin  RSgotte
+ [11/09/2014 13:02:06] >Servar isgalrLadonnuctiog 
+w[11/09/2014 13:02:06] >>i h nnhn samt wosedIa.
+g[11/09/2014 13:02:06] Ir
+you want to run multiple servers, please change the worldId in configuration file.
+[11/09/2014 13:02:07] > Optimized database.
+[11/09/2014 13:02:07] >> Loading items
+[11/09/2014 13:02:08] >> Loading groups
+[11/09/2014 13:02:08] >> Loading vocations
+[11/09/2014 13:02:08] >> Loading script systems
+[11/09/2014 13:02:10] >> Loading chat channels
+[11/09/2014 13:02:10] >> Loading outfits
+[11/09/2014 13:02:10] >> Loading experience stages
+[11/09/2014 13:02:10] >> Loading monsters
+[11/09/2014 13:02:12] >> Loading map and spawns...
+[11/09/2014 13:02:13] > Map size: 65000x65000.
+[11/09/2014 13:02:13] > Map descriptions: 
+[11/09/2014 13:02:13] Saved with Remere's Map Editor 2.2
+[11/09/2014 13:02:13] No map description available.
+[11/09/2014 13:02:14] Duplicate uniqueId 2407
+[11/09/2014 13:02:17] > Map loading time: 5.116 seconds.
+[11/09/2014 13:02:18] > Data loading time: 0.889 seconds.
+[11/09/2014 13:02:18] > Unserialization time for houses: 0.031 seconds.
+[11/09/2014 13:02:40] > Unserialization time for map: 21.435 seconds.
+[11/09/2014 13:02:40] >> Checking world type... PvP
+[11/09/2014 13:02:40] >> Initializing game state modules and registering services...
+[11/09/2014 13:02:41] > Global address: deathpvp.no-ip.info
+[11/09/2014 13:02:41] > Local ports:
+[11/09/2014 13:02:41] 7171	7172	
+[11/09/2014 13:02:41] >> All modules were loaded, server starting up...
+[11/09/2014 13:02:41] >> OT Death server Online!
+[11/09/2014 13:02:42] 
+[11/09/2014 13:06:36] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[11/09/2014 13:06:37] Jean has logged in.
+[11/09/2014 13:07:00] Jean has logged out.
+[11/09/2014 13:08:51] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[11/09/2014 13:10:24] Magezinha Safadinha has logged in.
+[11/09/2014 13:14:48] Nadador Arqueiro has logged in.
+[11/09/2014 13:15:32] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[11/09/2014 13:18:51] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 13:19:21] > CLEAN: Removed 206 items from 214 tiles in 0.156 seconds.
+[11/09/2014 13:19:22] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 13:22:13] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[11/09/2014 13:28:54] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[11/09/2014 13:31:48] Magezinha Safadinha has logged out.
+[11/09/2014 13:33:36] Nadador Arqueiro has logged out.
+[11/09/2014 13:33:38] Nadador Arqueiro has logged in.
+[11/09/2014 13:35:32] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 13:35:35] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[11/09/2014 13:35:36] > Saving server...
+[11/09/2014 13:35:38] > SAVE: Complete in 1.591 seconds using relational house storage.
+[11/09/2014 13:36:03] > CLEAN: Removed 274 items from 259 tiles in 0.172 seconds.
+[11/09/2014 13:36:03] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 13:40:44] Haddadi has logged in.
+[11/09/2014 13:42:16] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[11/09/2014 13:48:57] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[11/09/2014 13:52:13] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 13:52:43] > CLEAN: Removed 15 items from 30 tiles in 0.156 seconds.
+[11/09/2014 13:52:43] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 13:55:38] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[11/09/2014 14:02:19] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[11/09/2014 14:07:11] Haddadi has logged out.
+[11/09/2014 14:08:54] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 14:08:57] > Saving server...
+[11/09/2014 14:08:59] > SAVE: Complete in 1.56 seconds using relational house storage.
+[11/09/2014 14:09:00] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[11/09/2014 14:09:24] > CLEAN: Removed 0 items from 2 tiles in 0.156 seconds.
+[11/09/2014 14:09:25] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 14:14:45] Haddadi has logged in.
+[11/09/2014 14:15:41] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[11/09/2014 14:22:11] Haddadi has logged out.
+[11/09/2014 14:22:13] Haddadi has logged in.
+[11/09/2014 14:22:22] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[11/09/2014 14:23:04] Nadador Arqueiro has logged out.
+[11/09/2014 14:23:08] Nadador Arqueiro has logged in.
+[11/09/2014 14:25:32] Nadador Arqueiro has logged out.
+[11/09/2014 14:25:35] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 14:25:35] Nadador Arqueiro has logged in.
+[11/09/2014 14:25:54] Haddadi has logged out.
+[11/09/2014 14:25:55] Haddadi has logged in.
+[11/09/2014 14:26:05] > CLEAN: Removed 4 items from 8 tiles in 0.156 seconds.
+[11/09/2014 14:26:05] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 14:29:03] > Broadcasted message: "Para comprar bless digite !bless".
+[11/09/2014 14:35:44] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[11/09/2014 14:42:16] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 14:42:18] > Saving server...
+[11/09/2014 14:42:20] > SAVE: Complete in 1.622 seconds using relational house storage.
+[11/09/2014 14:42:25] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[11/09/2014 14:42:47] > CLEAN: Removed 0 items from 1 tile in 0.156 seconds.
+[11/09/2014 14:42:47] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 14:47:25] Haddadi has logged out.
+[11/09/2014 14:49:06] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[11/09/2014 14:55:47] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[11/09/2014 14:57:51] Haddadi has logged in.
+[11/09/2014 14:58:57] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 14:59:27] > CLEAN: Removed 0 items from 1 tile in 0.156 seconds.
+[11/09/2014 14:59:27] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 15:02:28] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[11/09/2014 15:04:48] Nadador Arqueiro has logged out.
+[11/09/2014 15:09:09] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[11/09/2014 15:15:38] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 15:15:39] > Saving server...
+[11/09/2014 15:15:41] > SAVE: Complete in 1.513 seconds using relational house storage.
+[11/09/2014 15:15:50] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[11/09/2014 15:16:09] > CLEAN: Removed 0 items from 1 tile in 0.156 seconds.
+[11/09/2014 15:16:09] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 15:18:10] Haddadi has logged out.
+[11/09/2014 15:21:03] Haddadi has logged in.
+[11/09/2014 15:21:10] Druid Avassalador has logged in.
+[11/09/2014 15:22:31] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[11/09/2014 15:23:43] Magezinha Safadinha has logged in.
+[11/09/2014 15:25:12] Druid Rullex has logged in.
+[11/09/2014 15:25:59] Druid Rullex has logged out.
+[11/09/2014 15:29:12] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[11/09/2014 15:32:19] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 15:32:50] > CLEAN: Removed 9 items from 10 tiles in 0.156 seconds.
+[11/09/2014 15:32:50] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 15:35:53] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[11/09/2014 15:36:39] Haddadi has logged out.
+[11/09/2014 15:37:35] Account Manager has logged in.
+[11/09/2014 15:37:36] Account Manager has logged out.
+[11/09/2014 15:42:34] > Broadcasted message: "Para comprar bless digite !bless".
+[11/09/2014 15:43:02] Druid Avassalador has logged out.
+[11/09/2014 15:43:07] Druid Avassalador has logged in.
+[11/09/2014 15:43:58] Druid Avassalador has logged out.
+[11/09/2014 15:44:35] Magezinha Safadinha has logged out.
+[11/09/2014 15:44:55] Magezinha Safadinha has logged in.
+[11/09/2014 15:49:00] > Saving server...
+[11/09/2014 15:49:02] > SAVE: Complete in 1.529 seconds using relational house storage.
+[11/09/2014 15:49:02] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 15:49:15] > Broadcasted message: "Para comprar bless digite !bless".
+[11/09/2014 15:49:33] > CLEAN: Removed 1 item from 23 tiles in 0.156 seconds.
+[11/09/2014 15:49:33] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 15:50:04] Account Manager has logged in.
+[11/09/2014 15:50:05] Account Manager has logged out.
+[11/09/2014 15:50:17] Haddadi has logged in.
+[11/09/2014 15:51:07] Magezinha Safadinha has logged out.
+[11/09/2014 15:55:56] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[11/09/2014 15:59:35] Jean has logged in.
+[11/09/2014 15:59:57] Jean has logged out.
+[11/09/2014 16:00:06] Haddadi has logged out.
+[11/09/2014 16:02:37] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[11/09/2014 16:05:43] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 16:06:14] > CLEAN: Removed 0 items from 1 tile in 0.156 seconds.
+[11/09/2014 16:06:14] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 16:09:18] > Broadcasted message: "Para ver as noticias fale !notice".
+[11/09/2014 16:15:59] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[11/09/2014 16:22:21] > Saving server...
+[11/09/2014 16:22:25] > SAVE: Complete in 3.388 seconds using relational house storage.
+[11/09/2014 16:22:25] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 16:22:40] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[11/09/2014 16:22:56] > CLEAN: Removed 0 items from 0 tiles in 0.187 seconds.
+[11/09/2014 16:22:56] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 16:29:21] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[11/09/2014 16:36:02] > Broadcasted message: "Para ver as noticias fale !notice".
+[11/09/2014 16:39:06] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 16:39:37] > CLEAN: Removed 0 items from 0 tiles in 0.156 seconds.
+[11/09/2014 16:39:37] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 16:42:43] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[11/09/2014 16:49:24] > Broadcasted message: "Para comprar bless digite !bless".
+[11/09/2014 16:55:42] > Saving server...
+[11/09/2014 16:55:43] > SAVE: Complete in 1.482 seconds using relational house storage.
+[11/09/2014 16:55:47] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 16:56:05] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[11/09/2014 16:56:17] > CLEAN: Removed 0 items from 0 tiles in 0.156 seconds.
+[11/09/2014 16:56:17] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 17:02:46] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[11/09/2014 17:05:41] Lucas has logged in.
+[11/09/2014 17:08:01] Lucas has logged out.
+[11/09/2014 17:08:12] Lucas has logged in.
+[11/09/2014 17:09:27] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[11/09/2014 17:09:32] Druid Avassalador has logged in.
+[11/09/2014 17:12:28] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 17:12:59] > CLEAN: Removed 0 items from 2 tiles in 0.166 seconds.
+[11/09/2014 17:12:59] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 17:16:08] > Broadcasted message: "Para ver as noticias fale !notice".
+[11/09/2014 17:22:49] > Broadcasted message: "Para comprar bless digite !bless".
+[11/09/2014 17:24:07] Druid Avassalador has logged out.
+[11/09/2014 17:28:32] Lucas has logged out.
+[11/09/2014 17:29:03] > Saving server...
+[11/09/2014 17:29:05] > SAVE: Complete in 1.358 seconds using relational house storage.
+[11/09/2014 17:29:09] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 17:29:30] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[11/09/2014 17:29:39] > CLEAN: Removed 61 items from 57 tiles in 0.188 seconds.
+[11/09/2014 17:29:40] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 17:36:11] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[11/09/2014 17:42:23] Garoto Nestle has logged in.
+[11/09/2014 17:42:41] Garoto Nestle has logged out.
+[11/09/2014 17:42:52] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[11/09/2014 17:45:50] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 17:46:21] > CLEAN: Removed 0 items from 0 tiles in 0.192 seconds.
+[11/09/2014 17:46:21] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 17:49:33] > Broadcasted message: "Para comprar bless digite !bless".
+[11/09/2014 17:56:14] > Broadcasted message: "Para comprar bless digite !bless".
+[11/09/2014 18:02:24] > Saving server...
+[11/09/2014 18:02:25] > SAVE: Complete in 1.309 seconds using relational house storage.
+[11/09/2014 18:02:31] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 18:02:55] > Broadcasted message: "Para ver as noticias fale !notice".
+[11/09/2014 18:03:01] > CLEAN: Removed 0 items from 0 tiles in 0.172 seconds.
+[11/09/2014 18:03:01] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 18:04:04] Boss-sykes has logged in.
+[11/09/2014 18:04:12] Boss-sykes has logged out.
+[11/09/2014 18:09:36] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[11/09/2014 18:16:17] > Broadcasted message: "Para ver as noticias fale !notice".
+[11/09/2014 18:19:12] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 18:19:43] > CLEAN: Removed 0 items from 0 tiles in 0.527 seconds.
+[11/09/2014 18:19:43] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 18:21:52] Druid Avassalador has logged in.
+[11/09/2014 18:22:58] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[11/09/2014 18:29:39] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[11/09/2014 18:35:45] > Saving server...
+[11/09/2014 18:35:47] > SAVE: Complete in 1.389 seconds using relational house storage.
+[11/09/2014 18:35:53] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 18:36:20] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[11/09/2014 18:36:23] > CLEAN: Removed 0 items from 1 tile in 0.167 seconds.
+[11/09/2014 18:36:24] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 18:38:34] Haddadi has logged in.
+[11/09/2014 18:40:30] Druid Avassalador has logged out.
+[11/09/2014 18:43:01] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[11/09/2014 18:49:42] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[11/09/2014 18:52:34] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 18:53:04] > CLEAN: Removed 9 items from 3 tiles in 0.173 seconds.
+[11/09/2014 18:53:05] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 18:55:27] Haddadi has logged out.
+[11/09/2014 18:56:23] > Broadcasted message: "Para comprar bless digite !bless".
+[11/09/2014 19:03:04] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[11/09/2014 19:09:06] > Saving server...
+[11/09/2014 19:09:08] > SAVE: Complete in 1.767 seconds using relational house storage.
+[11/09/2014 19:09:15] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 19:09:45] > CLEAN: Removed 0 items from 0 tiles in 0.201 seconds.
+[11/09/2014 19:09:46] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 19:09:46] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[11/09/2014 19:16:27] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[11/09/2014 19:23:08] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[11/09/2014 19:25:56] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 19:26:26] > CLEAN: Removed 0 items from 0 tiles in 0.209 seconds.
+[11/09/2014 19:26:27] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 19:29:49] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[11/09/2014 19:30:23] Account Manager has logged in.
+[11/09/2014 19:30:24] Account Manager has logged out.
+[11/09/2014 19:30:27] Mc Livinho has logged in.
+[11/09/2014 19:33:47] Druid Avassalador has logged in.
+[11/09/2014 19:36:30] > Broadcasted message: "Para ver as noticias fale !notice".
+[11/09/2014 19:39:06] Druid Avassalador has logged out.
+[11/09/2014 19:39:25] Kina Rullex has logged in.
+[11/09/2014 19:41:57] Druid Nikito has logged in.
+[11/09/2014 19:42:27] > Saving server...
+[11/09/2014 19:42:29] > SAVE: Complete in 1.878 seconds using relational house storage.
+[11/09/2014 19:42:37] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 19:42:45] Druid Nikito has logged out.
+[11/09/2014 19:43:08] > CLEAN: Removed 1 item from 5 tiles in 0.175 seconds.
+[11/09/2014 19:43:08] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 19:43:11] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[11/09/2014 19:43:28] Druid Avassalador has logged in.
+[11/09/2014 19:48:33] Mc Livinho has logged out.
+[11/09/2014 19:49:52] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[11/09/2014 19:56:11] Druid Avassalador has logged out.
+[11/09/2014 19:56:15] Druid Avassalador has logged in.
+[11/09/2014 19:56:33] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[11/09/2014 19:56:45] Kina Rullex has logged out.
+[11/09/2014 19:59:18] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 19:59:24] Druid Avassalador has logged out.
+[11/09/2014 19:59:49] > CLEAN: Removed 16 items from 16 tiles in 0.235 seconds.
+[11/09/2014 19:59:50] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 19:59:52] Druid Avassalador has logged in.
+[11/09/2014 20:03:14] > Broadcasted message: "Para ver as noticias fale !notice".
+[11/09/2014 20:05:50] Druid Avassalador has logged out.
+[11/09/2014 20:09:55] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[11/09/2014 20:10:54] Lucas has logged in.
+[11/09/2014 20:15:48] > Saving server...
+[11/09/2014 20:15:51] > SAVE: Complete in 2.434 seconds using relational house storage.
+[11/09/2014 20:15:59] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 20:16:29] > CLEAN: Removed 1 item from 4 tiles in 0.254 seconds.
+[11/09/2014 20:16:30] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 20:16:36] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[11/09/2014 20:23:17] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[11/09/2014 20:27:03] Lucas has logged out.
+[11/09/2014 20:29:58] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[11/09/2014 20:32:40] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 20:33:11] > CLEAN: Removed 0 items from 1 tile in 0.195 seconds.
+[11/09/2014 20:33:11] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 20:36:39] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[11/09/2014 20:39:54] Haddadi has logged in.
+[11/09/2014 20:40:33] Haddadi has logged out.
+[11/09/2014 20:40:36] Dzagoev has logged in.
+[11/09/2014 20:40:47] Dzagoev has logged out.
+[11/09/2014 20:43:20] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[11/09/2014 20:49:09] > Saving server...
+[11/09/2014 20:49:10] > SAVE: Complete in 1.371 seconds using relational house storage.
+[11/09/2014 20:49:21] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 20:49:51] > CLEAN: Removed 0 items from 1 tile in 0.25 seconds.
+[11/09/2014 20:49:51] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 20:50:01] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[11/09/2014 20:56:42] > Broadcasted message: "Para ver as noticias fale !notice".
+[11/09/2014 21:03:23] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[11/09/2014 21:06:02] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 21:06:32] > CLEAN: Removed 0 items from 0 tiles in 0.205 seconds.
+[11/09/2014 21:06:33] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 21:10:04] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[11/09/2014 21:16:45] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[11/09/2014 21:22:30] > Saving server...
+[11/09/2014 21:22:32] > SAVE: Complete in 1.565 seconds using relational house storage.
+[11/09/2014 21:22:43] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 21:23:14] > CLEAN: Removed 0 items from 0 tiles in 0.19 seconds.
+[11/09/2014 21:23:14] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 21:23:26] > Broadcasted message: "Para comprar bless digite !bless".
+[11/09/2014 21:30:07] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[11/09/2014 21:36:48] > Broadcasted message: "Para ver as noticias fale !notice".
+[11/09/2014 21:39:24] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 21:39:55] > CLEAN: Removed 0 items from 0 tiles in 0.156 seconds.
+[11/09/2014 21:39:55] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 21:43:29] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[11/09/2014 21:50:10] > Broadcasted message: "Para ver as noticias fale !notice".
+[11/09/2014 21:55:51] > Saving server...
+[11/09/2014 21:55:53] > SAVE: Complete in 1.497 seconds using relational house storage.
+[11/09/2014 21:56:05] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 21:56:36] > CLEAN: Removed 0 items from 0 tiles in 0.172 seconds.
+[11/09/2014 21:56:36] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 21:56:51] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[11/09/2014 22:03:32] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[11/09/2014 22:10:13] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[11/09/2014 22:12:46] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 22:13:16] > CLEAN: Removed 0 items from 0 tiles in 0.167 seconds.
+[11/09/2014 22:13:17] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 22:16:54] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[11/09/2014 22:23:35] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[11/09/2014 22:26:00] Account Manager has logged in.
+[11/09/2014 22:26:12] Account Manager has logged out.
+[11/09/2014 22:26:24] Veigar has logged in.
+[11/09/2014 22:27:07] Veigar has logged out.
+[11/09/2014 22:27:09] Mal jinx has logged in.
+[11/09/2014 22:29:12] > Saving server...
+[11/09/2014 22:29:14] > SAVE: Complete in 1.615 seconds using relational house storage.
+[11/09/2014 22:29:18] Mal jinx has logged out.
+[11/09/2014 22:29:20] Leigue Of Draven has logged in.
+[11/09/2014 22:29:27] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 22:29:57] > CLEAN: Removed 2 items from 10 tiles in 0.206 seconds.
+[11/09/2014 22:29:58] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 22:30:02] Leigue Of Draven has logged out.
+[11/09/2014 22:30:16] > Broadcasted message: "Para comprar bless digite !bless".
+[11/09/2014 22:36:57] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[11/09/2014 22:43:39] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[11/09/2014 22:46:08] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 22:46:38] > CLEAN: Removed 0 items from 1 tile in 0.156 seconds.
+[11/09/2014 22:46:39] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 22:49:03] Druid Avassalador has logged in.
+[11/09/2014 22:50:20] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[11/09/2014 22:50:45] Druid Avassalador has logged out.
+[11/09/2014 22:57:01] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[11/09/2014 23:02:33] > Saving server...
+[11/09/2014 23:02:35] > SAVE: Complete in 1.326 seconds using relational house storage.
+[11/09/2014 23:02:49] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 23:03:20] > CLEAN: Removed 0 items from 1 tile in 0.14 seconds.
+[11/09/2014 23:03:20] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 23:03:42] > Broadcasted message: "Para ver as noticias fale !notice".
+[11/09/2014 23:10:23] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[11/09/2014 23:17:04] > Broadcasted message: "Para ver as noticias fale !notice".
+[11/09/2014 23:19:30] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 23:20:01] > CLEAN: Removed 0 items from 0 tiles in 0.156 seconds.
+[11/09/2014 23:20:01] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 23:23:45] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[11/09/2014 23:30:26] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[11/09/2014 23:35:54] > Saving server...
+[11/09/2014 23:35:56] > SAVE: Complete in 1.295 seconds using relational house storage.
+[11/09/2014 23:36:11] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 23:36:41] > CLEAN: Removed 0 items from 0 tiles in 0.156 seconds.
+[11/09/2014 23:36:42] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 23:37:07] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[11/09/2014 23:43:48] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[11/09/2014 23:50:29] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[11/09/2014 23:52:52] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[11/09/2014 23:53:23] > CLEAN: Removed 0 items from 0 tiles in 0.156 seconds.
+[11/09/2014 23:53:23] > Broadcasted message: "Map Cleaned.".
+[11/09/2014 23:57:10] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".

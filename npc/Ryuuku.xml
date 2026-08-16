@@ -1,0 +1,9 @@
+<?xml version="1.0"?> 
+<npc name="Ryuuku" script="data/npc/scripts/ryuuku.lua" walkinterval="5000" floorchange="0"> 
+	<health now="100" max="100"/> 
+	<look type="320" corpse="3058"/>
+<parameters>
+      <parameter key="module_travel" value="1"/>
+		<parameter key="message_greet" value="oi |PLAYERNAME|. Quer virar Shinigami ?"/>
+</parameters>
+</npc>

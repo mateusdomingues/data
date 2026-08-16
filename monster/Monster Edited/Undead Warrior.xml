@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<monster name="Undead Warrior" nameDescription="Undead Warrior" experience="50000" speed="500" race="Blood">
+  <health now="1000000" max="1000000"/>
+  <look type="306" body="114" legs="94" feet="94" addons="3" corpse="9824"/>
+  <strategy attack="720" defense="450"/>
+  <targetchange speed="10" chance="75"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="1"/>
+    <flag targetdistance="1"/>
+  </flags>
+  <attacks>
+    <attack name="physical" interval="400" chance="100" min="-1000" max="-3000" range="1">
+      <attribute key="areaEffect" value="smallclouds"/>
+    </attack>
+    <attack name="physical" interval="1000" chance="50" min="-1000" max="-3000"/>
+    <attack name="physical" interval="1000" chance="50" min="-1000" max="-3000"/>
+    <attack name="physical" interval="1000" chance="50" min="-1000" max="-3000"/>
+    <attack name="physical" interval="1000" chance="50" min="-1000" max="-3000"/>
+    <attack name="physical" interval="1000" chance="50" min="-1000" max="-3000"/>
+  </attacks>
+  <defenses defense="20" armor="20"/>
+  <immunities>
+    <immunity name="outfit"/>
+    <immunity name="invisible"/>
+    <immunity name="poison"/>
+  </immunities>
+  <loot/>
+</monster>

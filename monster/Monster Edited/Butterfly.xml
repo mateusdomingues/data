@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="butterfly" nameDescription="a butterfly" race="venom" experience="2500000" speed="300" manacost="0">
+  <health now="500000" max="500000"/>
+  <look type="228" head="20" body="30" legs="40" feet="50" corpse="4313"/>
+  <strategy attack="10000" defense="500"/>
+  <targetchange speed="10" chance="100"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="100"/>
+    <flag targetdistance="1"/>
+    <flag skull="0"/>
+
+  </flags>
+  <attacks>
+    <attack name="Poison" interval="400" chance="100" min="-500" max="-1300" range="1">
+    </attack>
+  </attacks>
+  <defenses defense="45" armor="10"/>
+  <immunities>
+    <immunity name="outfit"/>
+    <immunity name="invisible"/>
+    <immunity name="poison"/>
+  </immunities>
+  <loot/>
+</monster>

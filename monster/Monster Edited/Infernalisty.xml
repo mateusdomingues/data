@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<monster name="Infernalisty" nameDescription="infernalisty" experience="5000000" speed="9999" race="blood">
+  <health now="300500000" max="300500000"/>
+  <look type="130" head="79" body="114" legs="94" addons="3" corpse="3058"/>
+  <strategy attack="10000" defense="500"/>
+  <targetchange speed="10" chance="100"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="100"/>
+    <flag targetdistance="1"/>
+  </flags>
+  <attacks>
+    <attack name="Hells Core" interval="1000" chance="100" min="-140000" max="-200000" range="10">
+    </attack>
+    <attack name="Raios" interval="1000" chance="50" min="-500000" max="-500000"/>
+    <attack name="Fire Exori" interval="8000" chance="100" min="-2000000" max="-2000000" range="10">
+      <attribute key="areaEffect" value="explosion"/>
+      <attribute key="shootEffect" value="fire"/>
+    </attack>
+  </attacks>
+  <defenses armor="0" defense="0"> 
+  <defense name="healing" interval="9000" chance="100" min="10000000" max="10000000"/> 
+</defenses>
+  <immunities>
+    <immunity name="earth"/>
+    <immunity name="energy"/>
+    <immunity name="death"/>
+    <immunity name="physical"/>
+    <immunity name="lifedrain"/>
+    <immunity name="outfit"/>
+    <immunity name="ice"/>
+    <immunity name="holy"/>
+    <immunity name="paralyze"/>
+    <immunity name="invisible"/>
+    <immunity name="drown"/>
+    <immunity name="drunk"/>
+    <immunity name="poison"/>
+  </immunities>
+  <loot>
+    <item id="2157" countmax="20" chance="9999"/>
+  </loot>
+</monster>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Near" nameDescription="Near" race="fire" experience="5000000" speed="99999" manacost="0">
+  <health now="950000000" max="950000000"/>
+  <look type="134" corpse="3058"/>
+  <targetchange interval="5000" chance="20"/>
+  <strategy attack="65" defense="5"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="10"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+    <attack name="X Vis" interval="2500" chance="100" min="-4000000" max="-6000000" range="10">
+    </attack>
+    <attack name="Poison Explosion" interval="9000" chance="100" min="-7000000" max="-7000000" range="10">
+    </attack>
+    <attack name="Hells Core" interval="20000" chance="100" min="-9500000" max="-9500000" range="10">
+      <attribute key="areaEffect" value="fire"/>
+      <attribute key="shootEffect" value="fire"/>
+    </attack>
+  </attacks>
+  <defenses armor="188" defense="145">
+    <defense name="healing" interval="9000" chance="100" min="80000000" max="80000000">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+  </defenses>
+  <immunities>
+    <immunity name="lifedrain"/>
+    <immunity name="outfit"/>
+    <immunity name="paralyze"/>
+    <immunity name="invisible"/>
+    <immunity name="drown"/>
+    <immunity name="drunk"/>
+    <immunity name="death"/>
+  </immunities>
+  <voices interval="2000" chance="10">
+    <voice sentence="VAAAI CORINTHIANS!" yell="1"/>
+    <voice sentence="SEEEUS NOOBS!" yell="1"/>
+    <voice sentence="HAHAHAHAHAHA VAAAI MORRER!" yell="1"/>
+    <voice sentence="SEEEUS PUNHETEROS!" yell="1"/>
+  </voices>
+</monster>

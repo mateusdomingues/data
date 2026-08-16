@@ -1,0 +1,6 @@
+<raids>
+<!-- Raids: -->
+<raid name="Demon Lord" file="Demon Lord.xml" interval2="50" margin="0" enabled="false"/>
+<raid name="Ice Lord" file="Ice Lord.xml" interval2="100" margin="0" enabled="false"/>
+<raid name="Mestre dos Magos" file="Mestre dos Magos.xml" interval2="100" margin="0" enabled="false"/>
+</raids>

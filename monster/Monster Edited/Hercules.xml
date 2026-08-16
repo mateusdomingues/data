@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<monster name="Hercules" nameDescription="Hercules" experience="785500000" speed="600" race="blood">
+  <health now="6500000" max="6500000"/>
+  <look type="144" body="116" legs="114" feet="114" addons="3" corpse="3058"/>
+  <strategy attack="10000" defense="500"/>
+  <targetchange speed="10" chance="100"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="100"/>
+    <flag targetdistance="1"/>
+  </flags>
+  <attacks>
+    <attack name="physical" interval="1500" chance="100" min="-10000" max="-13000" range="1">
+    </attack>
+    <attack name="death" interval="900" chance="100" min="-15000" max="-25000" range="2">
+      <attribute key="areaEffect" value="blackspark"/>
+      <attribute key="shootEffect" value="largerock"/>
+    </attack>
+  </attacks>
+  <defenses defense="45" armor="10"/>
+  <immunities>
+    <immunity name="outfit"/>
+    <immunity name="invisible"/>
+    <immunity name="poison"/>
+    <immunity name="death"/>
+    <immunity name="fire"/>
+  </immunities>
+  <loot>
+    <item id="7342" countmax="1" chance="99999999999"/>
+    <item id="8932" countmax="1" chance="99999999999"/>
+    <item id="2195" countmax="1" chance="99999999999"/>
+  </loot>
+</monster>

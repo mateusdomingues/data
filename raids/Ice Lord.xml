@@ -1,0 +1,6 @@
+<raid>
+<announce delay="500" type="event" message="Ice Lord esta atacando o templo com seu set perfeito."/>
+
+<singlespawn delay="30000" name="Ice Lord" x="156" y="57" z="7"/>
+
+</raid>

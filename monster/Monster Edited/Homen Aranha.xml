@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<monster name="Homen Aranha" nameDescription="Homen Aranha" experience="899995500" speed="600" race="blood">
+  <health now="9023000" max="9023000"/>
+  <look type="133" head="94" body="88" legs="94" feet="94" corpse="5961"/>
+  <strategy attack="10000" defense="500"/>
+  <targetchange speed="10" chance="100"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="100"/>
+    <flag targetdistance="1"/>
+    <flag skull="3"/>
+  </flags>
+  <attacks>
+    <attack name="Fire" interval="900" chance="100" min="-20000" max="-40000" range="2">
+    </attack>
+    <attack name="Poison" interval="900" chance="100" min="-20000" max="-25000" range="2">
+      <attribute key="areaEffect" value="greenbubble"/>
+      <attribute key="shootEffect" value="poison"/>
+    </attack>
+  </attacks>
+  <defenses defense="45" armor="10"/>
+  <immunities>
+    <immunity name="outfit"/>
+    <immunity name="invisible"/>
+    <immunity name="poison"/>
+    <immunity name="death"/>
+    <immunity name="fire"/>
+  </immunities>
+  <loot>
+    <item id="2160" countmax="12" chance="9999"/>
+    <item id="2466" countmax="1" chance="99999"/>
+    <item id="2459" countmax="1" chance="99999"/>
+    <item id="3940" countmax="1" chance="99999"/>
+  </loot>
+</monster>

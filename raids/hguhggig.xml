@@ -1,0 +1,6 @@
+<raid>
+<announce delay="0" type="event" message="Demon lord minions are working on his return to the World. LEAVE at once, mortals." />
+<announce delay="50" type="event" message="Demon Lord is about to make his way into the mortal realm. Run for your lives!." />
+<announce delay="70" type="event" message="Demon Lord has been summoned from hell to plague the lands of mortals once again." />
+<singlespawn delay="100" name="Demon Lord" x="156" y="57" z="7" />
+</raid>

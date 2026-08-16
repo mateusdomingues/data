@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<monster name="Dryad" nameDescription="Dryad" experience="639999950" speed="420" race="Blood">
+  <health now="4440000" max="4440000"/>
+  <look type="137" head="114" body="120" legs="120" feet="114" addons="3" corpse="3065"/>
+  <strategy attack="10000" defense="500"/>
+  <targetchange speed="10" chance="100"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="100"/>
+    <flag targetdistance="1"/>
+  </flags>
+  <attacks>
+    <attack name="poison" interval="1000" chance="100" min="-10000" max="-15000" range="1">
+      <attribute key="shootEffect" value="earth"/>
+      <attribute key="areaEffect" value="smallplants"/>
+    </attack>
+    <attack name="poison" interval="1000" chance="50" min="-10000" max="-15000"/>
+      <attribute key="shootEffect" value="earth"/>
+      <attribute key="areaEffect" value="smallplants"/>
+  </attacks>
+  <defenses defense="45" armor="10"/>
+  <immunities>
+    <immunity name="outfit"/>
+    <immunity name="invisible"/>
+    <immunity name="poison"/>
+    <immunity name="death"/>
+    <immunity name="fire"/>
+  </immunities>
+  <loot/>
+</monster>

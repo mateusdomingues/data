@@ -1,0 +1,9 @@
+<?xml version="1.0"?> 
+<npc name="Queen Eloise" script="data/npc/scripts/queen eloise.lua" walkinterval="5000" floorchange="0"> 
+	<health now="100" max="100"/> 
+	<look type="138" head="94" body="94" legs="79" feet="94" addons="0"/> 
+<parameters>
+      <parameter key="module_travel" value="1"/>
+		<parameter key="message_greet" value="oi |PLAYERNAME|. Quer virar Epic ?"/>
+</parameters>
+</npc>

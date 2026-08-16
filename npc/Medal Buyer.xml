@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Medal Buyer" script="data/npc/scripts/medal buyer.lua" walkinterval="2000" floorchange="0">
+    <health now="200" max="200"/>
+    <look type="73" head="20" body="30" legs="40" feet="50" addons="3"/>
+    <parameters> 
+        <parameter key="module_shop" value="1"/> 
+		<parameter key="message_greet" value="Eu compro a Medal of Honour, preciso dela para recuperar minha honra se possui diga {trade} eu irei compra-la por {20kk}. {Compre um bp antes para nao derrubar o dinheiro no chao.}"/>
+        <parameter key="shop_buyable" value="backpack,1988,1"/> 
+    </parameters> 
+</npc> 

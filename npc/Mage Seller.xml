@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Mage Seller" script="data/npc/scripts/runes.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="145" head="94" body="114" legs="94" feet="94" addons="3"/>
+	<parameters>
+		<parameter key="message_greet" value="Ola |PLAYERNAME|. Eu vendo runes, potions e etc. Diga {trade}."/>
+		<parameter key="message_decline" value="Is |TOTALCOST| gold coins too much for you? Get out of here!"/>
+	</parameters>
+</npc>

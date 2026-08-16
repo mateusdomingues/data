@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quests>
+	<quest name="Ghoul Quest" startstorageid="30031" startstoragevalue="1">
+		<mission name="O Inicio" storageid="1001" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabéns Você entrou na porta e agora tra novas missoes!"/>
+			<missionstate id="2" description="Mate os Monstros e Abra o Bau!"/>
+		</mission>
+		<mission name="Final" storageid="1001" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabéns Você fez essa quest agora faça outras!"/>
+		</mission>
+	</quest>
+</quests>

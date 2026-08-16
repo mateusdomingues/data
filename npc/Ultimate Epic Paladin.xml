@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Ultimate Epic Paladin" script="data/npc/scripts/Ultimate Epic Paladin.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="128" head="114" body="114" legs="200" feet="114" addons="3"/>
+<parameters>
+<parameter key="message_greet" value="Para mudar de profissao custa 10 Especial Coins, Deseja virar {sorcerer} , {druid} , {paladin} ou {knight}."/>
+</parameters>
+</npc>

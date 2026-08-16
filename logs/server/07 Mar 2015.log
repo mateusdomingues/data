@@ -1,0 +1,2461 @@
+[07/03/2015 15:51:35] The Forgotten Server, version 0.3.4 (Crying Damson)
+[07/03/2015 15:51:36] Sever Criado Por Alissow e Comedinha.
+[07/03/2015 15:51:36] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[07/03/2015 15:51:36] Bom Jogo!!!
+[07/03/2015 15:51:36] 
+[07/03/2015 15:51:36] >> Debugging: nothing.
+[07/03/2015 15:51:36] >> Checking software version... failed checking - malformed file.
+[07/03/2015 15:51:37] 
+[07/03/2015 15:51:37] >> Loading config (config.lua)
+[07/03/2015 15:51:38] > Using plaintext passwords
+[07/03/2015 15:51:38] >> Loading RSA key
+[07/03/2015 15:51:38] >> Starting SQL connection
+[07/03/2015 15:51:38] >> Running Database Manager
+[07/03/2015 15:51:39] > Optimized database.
+[07/03/2015 15:51:39] >> Loading items
+[07/03/2015 15:51:39] >> Loading groups
+[07/03/2015 15:51:39] >> Loading vocations
+[07/03/2015 15:51:39] >> Loading script systems
+[07/03/2015 15:51:41] >> Loading chat channels
+[07/03/2015 15:51:41] >> Loading outfits
+[07/03/2015 15:51:42] >> Loading experience stages
+[07/03/2015 15:51:42] >> Loading monsters
+[07/03/2015 15:51:45] >> Loading map and spawns...
+[07/03/2015 15:51:46] > Map size: 65000x65000.
+[07/03/2015 15:51:46] > Map descriptions: 
+[07/03/2015 15:51:46] Saved with Remere's Map Editor 2.2
+[07/03/2015 15:51:46] No map description available.
+[07/03/2015 15:51:47] Duplicate uniqueId 2407
+[07/03/2015 15:51:50] > Map loading time: 5.398 seconds.
+[07/03/2015 15:51:53] > Data loading time: 2.246 seconds.
+[07/03/2015 15:51:53] > Unserialization time for houses: 0.016 seconds.
+[07/03/2015 15:52:19] > Unserialization time for map: 25.022 seconds.
+[07/03/2015 15:52:19] >> Checking world type... PvP
+[07/03/2015 15:52:20] >> Initializing game state modules and registering services...
+[07/03/2015 15:52:20] > Global address: deathpvp.no-ip.biz
+[07/03/2015 15:52:21] > Local ports:
+[07/03/2015 15:52:21] 7171	7172	
+[07/03/2015 15:52:21] >> All modules were loaded, server starting up...
+[07/03/2015 15:52:21] >> OT Death server Online!
+[07/03/2015 15:52:21] 
+[07/03/2015 15:52:22] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[07/03/2015 15:55:37] Anjo pk has logged in.
+[07/03/2015 15:56:23] Pala Nas Sombras has logged in.
+[07/03/2015 15:56:59] Account Manager has logged in.
+[07/03/2015 15:57:00] Account Manager has logged out.
+[07/03/2015 15:57:05] Lks Mormaii has logged in.
+[07/03/2015 15:58:36] Brimm-bromm has logged in.
+[07/03/2015 15:59:14] Lks Mormaii has logged out.
+[07/03/2015 15:59:15] Lks Mormaii has logged in.
+[07/03/2015 15:59:30] Lks Mormaii has logged out.
+[07/03/2015 15:59:31] Lks Mormaii has logged in.
+[07/03/2015 15:59:53] Lady girl has logged in.
+[07/03/2015 16:00:02] > Broadcasted message: "Para comprar bless digite !bless".
+[07/03/2015 16:00:56] Lks Mormaii has logged out.
+[07/03/2015 16:00:57] Lks Mormaii has logged in.
+[07/03/2015 16:02:45] Lady girl has logged out.
+[07/03/2015 16:03:03] Lady girl has logged in.
+[07/03/2015 16:03:07] Kurosaki Ichigo has logged in.
+[07/03/2015 16:03:15] Kurosaki Ichigo has logged out.
+[07/03/2015 16:03:17] Account Manager has logged in.
+[07/03/2015 16:03:17] Lady girl has logged out.
+[07/03/2015 16:03:21] Brimm-bromm has logged out.
+[07/03/2015 16:03:41] Account Manager has logged out.
+[07/03/2015 16:03:48] Kurosaki Ichigo has logged in.
+[07/03/2015 16:03:59] Lks Mormaii has logged out.
+[07/03/2015 16:06:32] Lks Mormaii has logged in.
+[07/03/2015 16:06:56] Merlin Scort has logged in.
+[07/03/2015 16:08:22] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 16:08:23] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[07/03/2015 16:08:46] Slc Cachorrera has logged in.
+[07/03/2015 16:08:52] > CLEAN: Removed 3 items from 37 tiles in 0.281 seconds.
+[07/03/2015 16:08:53] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 16:14:44] Account Manager has logged in.
+[07/03/2015 16:15:07] > Saving server...
+[07/03/2015 16:15:10] > SAVE: Complete in 2.169 seconds using relational house storage.
+[07/03/2015 16:15:22] Account Manager has logged out.
+[07/03/2015 16:15:30] Sasuke Uchiha has logged in.
+[07/03/2015 16:16:34] Pala Nas Sombras has logged out.
+[07/03/2015 16:16:44] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[07/03/2015 16:21:21] Merlin Scort has logged out.
+[07/03/2015 16:22:13] Lordd master has logged in.
+[07/03/2015 16:23:58] Kurosaki Ichigo has logged out.
+[07/03/2015 16:25:03] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 16:25:05] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[07/03/2015 16:25:33] > CLEAN: Removed 2760 items from 1792 tiles in 0.187 seconds.
+[07/03/2015 16:25:34] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 16:25:39] Account Manager has logged in.
+[07/03/2015 16:25:41] Account Manager has logged out.
+[07/03/2015 16:25:42] Felipe Ret has logged in.
+[07/03/2015 16:27:49] Lady girl has logged in.
+[07/03/2015 16:32:23] Lady girl has logged out.
+[07/03/2015 16:32:45] Felipe Ret has logged out.
+[07/03/2015 16:32:53] Hensh has logged in.
+[07/03/2015 16:33:26] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[07/03/2015 16:34:56] Marcao Camelodromo has logged in.
+[07/03/2015 16:35:16] Marcao Camelodromo has logged out.
+[07/03/2015 16:35:42] Sasuke Uchiha has logged out.
+[07/03/2015 16:36:16] Lady girl has logged in.
+[07/03/2015 16:36:36] Druidzerah Mythus has logged in.
+[07/03/2015 16:37:12] Account Manager has logged in.
+[07/03/2015 16:37:24] Mage Ziika has logged in.
+[07/03/2015 16:37:31] Account Manager has logged out.
+[07/03/2015 16:37:36] Account Manager has logged in.
+[07/03/2015 16:37:55] Account Manager has logged out.
+[07/03/2015 16:38:00] Kina Insane has logged in.
+[07/03/2015 16:38:28] > Saving server...
+[07/03/2015 16:38:31] > SAVE: Complete in 2.714 seconds using relational house storage.
+[07/03/2015 16:38:50] Slc Cachorrera has logged out.
+[07/03/2015 16:40:30] Lordd master has logged out.
+[07/03/2015 16:40:32] Lordd master has logged in.
+[07/03/2015 16:40:59] Lks Mormaii has logged out.
+[07/03/2015 16:41:16] Hiroshi has logged in.
+[07/03/2015 16:41:44] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 16:41:47] > Broadcasted message: "Para comprar bless digite !bless".
+[07/03/2015 16:42:14] > CLEAN: Removed 2966 items from 2304 tiles in 0.187 seconds.
+[07/03/2015 16:42:15] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 16:42:37] Anjo pk has logged out.
+[07/03/2015 16:42:39] Anjo pk has logged in.
+[07/03/2015 16:42:59] Account Manager has logged in.
+[07/03/2015 16:43:02] Account Manager has logged out.
+[07/03/2015 16:43:03] Demonic Striker has logged in.
+[07/03/2015 16:45:59] Hensh has logged out.
+[07/03/2015 16:46:10] Hensh has logged in.
+[07/03/2015 16:50:08] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[07/03/2015 16:51:16] Lordd master has logged out.
+[07/03/2015 16:51:42] Demonic Striker has logged out.
+[07/03/2015 16:51:43] Demonic Striker has logged in.
+[07/03/2015 16:52:02] Demonic Striker has logged out.
+[07/03/2015 16:52:03] Demonic Striker has logged in.
+[07/03/2015 16:53:45] Anjo pk has logged out.
+[07/03/2015 16:53:47] Anjo pk has logged in.
+[07/03/2015 16:55:48] Anjo pk has logged out.
+[07/03/2015 16:55:49] Anjo pk has logged in.
+[07/03/2015 16:57:16] Kurosaki Ichigo has logged in.
+[07/03/2015 16:57:21] Knight Dos Crias has logged in.
+[07/03/2015 16:58:25] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 16:58:29] > Broadcasted message: "Para comprar bless digite !bless".
+[07/03/2015 16:58:55] > CLEAN: Removed 13153 items from 7102 tiles in 0.312 seconds.
+[07/03/2015 16:58:55] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 16:59:47] Slc Cachorrera has logged in.
+[07/03/2015 17:00:15] Brimm-bromm has logged in.
+[07/03/2015 17:00:39] Pala Nas Sombras has logged in.
+[07/03/2015 17:01:30] Slc Cachorrera has logged out.
+[07/03/2015 17:01:31] Lady girl has logged out.
+[07/03/2015 17:01:31] Slc Cachorrera has logged in.
+[07/03/2015 17:01:33] Lady girl has logged in.
+[07/03/2015 17:01:49] > Saving server...
+[07/03/2015 17:01:52] > SAVE: Complete in 2.543 seconds using relational house storage.
+[07/03/2015 17:02:08] Kina Insane has logged out.
+[07/03/2015 17:03:42] Slc Cachorrera has logged out.
+[07/03/2015 17:03:43] Slc Cachorrera has logged in.
+[07/03/2015 17:03:57] Demonic Striker has logged out.
+[07/03/2015 17:03:59] Demonic Striker has logged in.
+[07/03/2015 17:04:00] Brimm-bromm has logged out.
+[07/03/2015 17:04:01] Brimm-bromm has logged in.
+[07/03/2015 17:04:18] Knight Dos Crias has logged out.
+[07/03/2015 17:04:20] Knight Dos Crias has logged in.
+[07/03/2015 17:04:47] Knight Dos Crias has logged out.
+[07/03/2015 17:04:47] Kina Insane has logged in.
+[07/03/2015 17:04:48] Knight Dos Crias has logged in.
+[07/03/2015 17:06:01] Slc Cachorrera has logged out.
+[07/03/2015 17:06:02] Slc Cachorrera has logged in.
+[07/03/2015 17:06:26] Brimm-bromm has logged out.
+[07/03/2015 17:06:27] Brimm-bromm has logged in.
+[07/03/2015 17:06:28] Demonic Striker has logged out.
+[07/03/2015 17:06:29] Demonic Striker has logged in.
+[07/03/2015 17:06:50] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[07/03/2015 17:07:12] Knight Dos Crias has logged out.
+[07/03/2015 17:07:16] Brimm-bromm has logged out.
+[07/03/2015 17:07:17] Demonic Striker has logged out.
+[07/03/2015 17:07:17] Brimm-bromm has logged in.
+[07/03/2015 17:07:18] Demonic Striker has logged in.
+[07/03/2015 17:07:30] Master has logged in.
+[07/03/2015 17:07:32] Master has logged out.
+[07/03/2015 17:07:32] Kaiozin has logged in.
+[07/03/2015 17:07:38] Kaiozin has logged out.
+[07/03/2015 17:07:39] Kaiozin has logged in.
+[07/03/2015 17:07:45] Kaiozin has logged out.
+[07/03/2015 17:08:12] Master has logged in.
+[07/03/2015 17:08:17] Master has logged out.
+[07/03/2015 17:08:18] Master has logged in.
+[07/03/2015 17:08:21] Master has logged out.
+[07/03/2015 17:08:22] Pally Tenebroso has logged in.
+[07/03/2015 17:08:33] Pally Tenebroso has logged out.
+[07/03/2015 17:08:39] Pally Tenebroso has logged in.
+[07/03/2015 17:08:43] Pally Tenebroso has logged out.
+[07/03/2015 17:09:08] Pally Tenebroso has logged in.
+[07/03/2015 17:09:26] Demonic Striker has logged out.
+[07/03/2015 17:09:28] Demonic Striker has logged in.
+[07/03/2015 17:09:30] Pally Tenebroso has logged out.
+[07/03/2015 17:09:30] Kaiozin has logged in.
+[07/03/2015 17:09:33] Kaiozin has logged out.
+[07/03/2015 17:09:34] Pally Tenebroso has logged in.
+[07/03/2015 17:09:41] Pally Tenebroso has logged out.
+[07/03/2015 17:09:42] Kaiozin has logged in.
+[07/03/2015 17:09:47] Kaiozin has logged out.
+[07/03/2015 17:09:48] Kaiozin has logged in.
+[07/03/2015 17:09:53] Kaiozin has logged out.
+[07/03/2015 17:09:54] Kaiozin has logged in.
+[07/03/2015 17:09:57] Kaiozin has logged out.
+[07/03/2015 17:10:02] Kaiozin has logged in.
+[07/03/2015 17:10:04] Kaiozin has logged out.
+[07/03/2015 17:10:14] Brimm-bromm has logged out.
+[07/03/2015 17:10:15] Brimm-bromm has logged in.
+[07/03/2015 17:10:19] Knight Dos Crias has logged in.
+[07/03/2015 17:11:09] Demonic Striker has logged out.
+[07/03/2015 17:11:11] Demonic Striker has logged in.
+[07/03/2015 17:11:38] Demonic Striker has logged out.
+[07/03/2015 17:11:39] Demonic Striker has logged in.
+[07/03/2015 17:11:44] Anjo pk has logged out.
+[07/03/2015 17:11:45] Anjo pk has logged in.
+[07/03/2015 17:11:55] Demonic Striker has logged out.
+[07/03/2015 17:11:56] Demonic Striker has logged in.
+[07/03/2015 17:12:05] Kina Insane has logged out.
+[07/03/2015 17:12:06] Kina Insane has logged in.
+[07/03/2015 17:12:27] Kina Insane has logged out.
+[07/03/2015 17:12:29] Kina Insane has logged in.
+[07/03/2015 17:12:55] Demonic Striker has logged out.
+[07/03/2015 17:12:56] Brimm-bromm has logged out.
+[07/03/2015 17:12:57] Brimm-bromm has logged in.
+[07/03/2015 17:12:58] Demonic Striker has logged in.
+[07/03/2015 17:13:39] Brimm-bromm has logged out.
+[07/03/2015 17:13:41] Brimm-bromm has logged in.
+[07/03/2015 17:14:19] Demonic Striker has logged out.
+[07/03/2015 17:14:20] Demonic Striker has logged in.
+[07/03/2015 17:15:06] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 17:15:11] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[07/03/2015 17:15:37] > CLEAN: Removed 13900 items from 7131 tiles in 0.312 seconds.
+[07/03/2015 17:15:37] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 17:19:03] Demonic Striker has logged out.
+[07/03/2015 17:19:04] Demonic Striker has logged in.
+[07/03/2015 17:19:21] Demonic Striker has logged out.
+[07/03/2015 17:19:23] Demonic Striker has logged in.
+[07/03/2015 17:19:27] Hensh has logged out.
+[07/03/2015 17:19:30] Hensh has logged in.
+[07/03/2015 17:20:27] Brimm-bromm has logged out.
+[07/03/2015 17:20:28] Brimm-bromm has logged in.
+[07/03/2015 17:20:42] Kina Insane has logged out.
+[07/03/2015 17:20:44] Kina Insane has logged in.
+[07/03/2015 17:21:48] Anjo pk has logged out.
+[07/03/2015 17:22:00] Anjo pk has logged in.
+[07/03/2015 17:22:10] Pala Nas Sombras has logged out.
+[07/03/2015 17:23:01] Anjo pk has logged out.
+[07/03/2015 17:23:28] Demonic Striker has logged out.
+[07/03/2015 17:23:29] Demonic Striker has logged in.
+[07/03/2015 17:23:32] > Broadcasted message: "Para ver as noticias fale !notice".
+[07/03/2015 17:24:16] Eu Gosto De Buceta has logged in.
+[07/03/2015 17:24:27] Slc Cachorrera has logged out.
+[07/03/2015 17:24:27] Anjo pk has logged in.
+[07/03/2015 17:24:28] Slc Cachorrera has logged in.
+[07/03/2015 17:25:10] > Saving server...
+[07/03/2015 17:25:13] > SAVE: Complete in 2.558 seconds using relational house storage.
+[07/03/2015 17:26:22] 
+[07/03/2015 17:26:22] Lua Script Error: [TalkAction Interface] 
+[07/03/2015 17:26:22] data/talkactions/scripts/deathlist.lua:onSay
+[07/03/2015 17:26:22] 
+[07/03/2015 17:26:22] luaGetPlayerNameByGUID(). Player not found
+[07/03/2015 17:26:23] 
+[07/03/2015 17:26:23] Lua Script Error: [TalkAction Interface] 
+[07/03/2015 17:26:23] data/talkactions/scripts/deathlist.lua:onSay
+[07/03/2015 17:26:23] 
+[07/03/2015 17:26:23] data/talkactions/scripts/deathlist.lua:41: attempt to concatenate a nil value
+[07/03/2015 17:26:23] stack traceback:
+[07/03/2015 17:26:23] 	data/talkactions/scripts/deathlist.lua:41: in function <data/talkactions/scripts/deathlist.lua:5>
+[07/03/2015 17:28:44] Anjo pk has logged out.
+[07/03/2015 17:28:45] Anjo pk has logged in.
+[07/03/2015 17:28:46] Kina Insane has logged out.
+[07/03/2015 17:28:47] Kina Insane has logged in.
+[07/03/2015 17:29:04] Knight Dos Crias has logged out.
+[07/03/2015 17:29:14] Master has logged in.
+[07/03/2015 17:29:17] Master has logged out.
+[07/03/2015 17:29:18] Kaiozin has logged in.
+[07/03/2015 17:29:18] Lks Mormaii has logged in.
+[07/03/2015 17:29:26] Kaiozin has logged out.
+[07/03/2015 17:29:27] Kaiozin has logged in.
+[07/03/2015 17:29:32] Kaiozin has logged out.
+[07/03/2015 17:29:33] Kaiozin has logged in.
+[07/03/2015 17:29:47] Kaiozin has logged out.
+[07/03/2015 17:29:48] Kaiozin has logged in.
+[07/03/2015 17:29:53] Kaiozin has logged out.
+[07/03/2015 17:29:55] Kaiozin has logged in.
+[07/03/2015 17:29:58] Kaiozin has logged out.
+[07/03/2015 17:29:59] Anjo pk has logged out.
+[07/03/2015 17:29:59] Kaiozin has logged in.
+[07/03/2015 17:30:05] Kaiozin has logged out.
+[07/03/2015 17:30:06] Kaiozin has logged in.
+[07/03/2015 17:30:11] Kaiozin has logged out.
+[07/03/2015 17:30:12] Kaiozin has logged in.
+[07/03/2015 17:30:15] Lks Mormaii has logged out.
+[07/03/2015 17:30:16] Lks Mormaii has logged in.
+[07/03/2015 17:30:20] Account Manager has logged in.
+[07/03/2015 17:30:22] Kaiozin has logged out.
+[07/03/2015 17:30:24] Kaiozin has logged in.
+[07/03/2015 17:30:29] Kaiozin has logged out.
+[07/03/2015 17:30:30] Kaiozin has logged in.
+[07/03/2015 17:30:35] Kaiozin has logged out.
+[07/03/2015 17:30:36] Kaiozin has logged in.
+[07/03/2015 17:30:38] Kaiozin has logged out.
+[07/03/2015 17:30:44] Knight Dos Crias has logged in.
+[07/03/2015 17:31:02] Anjo pk has logged in.
+[07/03/2015 17:31:23] Lks Mormaii has logged out.
+[07/03/2015 17:31:23] Account Manager has logged out.
+[07/03/2015 17:31:24] Brimm-bromm has logged out.
+[07/03/2015 17:31:25] Lks Mormaii has logged in.
+[07/03/2015 17:31:25] Brimm-bromm has logged in.
+[07/03/2015 17:31:42] Demonic Striker has logged out.
+[07/03/2015 17:31:43] Demonic Striker has logged in.
+[07/03/2015 17:31:46] Account Manager has logged in.
+[07/03/2015 17:31:47] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 17:31:53] > Broadcasted message: "Para comprar bless digite !bless".
+[07/03/2015 17:32:05] Lks Mormaii has logged out.
+[07/03/2015 17:32:06] Slc Cachorrera has logged out.
+[07/03/2015 17:32:07] Lks Mormaii has logged in.
+[07/03/2015 17:32:08] Slc Cachorrera has logged in.
+[07/03/2015 17:32:17] > CLEAN: Removed 12318 items from 6783 tiles in 0.296 seconds.
+[07/03/2015 17:32:18] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 17:32:36] Demonic Striker has logged out.
+[07/03/2015 17:32:38] Demonic Striker has logged in.
+[07/03/2015 17:32:49] Lks Mormaii has logged out.
+[07/03/2015 17:32:50] Lks Mormaii has logged in.
+[07/03/2015 17:32:54] Account Manager has logged out.
+[07/03/2015 17:33:12] Lks Mormaii has logged out.
+[07/03/2015 17:33:13] Lks Mormaii has logged in.
+[07/03/2015 17:33:58] Lks Mormaii has logged out.
+[07/03/2015 17:34:00] Lks Mormaii has logged in.
+[07/03/2015 17:34:18] Lks Mormaii has logged out.
+[07/03/2015 17:34:19] Lks Mormaii has logged in.
+[07/03/2015 17:34:45] Lks Mormaii has logged out.
+[07/03/2015 17:34:47] Lks Mormaii has logged in.
+[07/03/2015 17:35:20] Knight Dos Crias has logged out.
+[07/03/2015 17:35:21] Knight Dos Crias has logged in.
+[07/03/2015 17:35:30] Lks Mormaii has logged out.
+[07/03/2015 17:35:31] Lks Mormaii has logged in.
+[07/03/2015 17:36:34] Brimm-bromm has logged out.
+[07/03/2015 17:36:36] Brimm-bromm has logged in.
+[07/03/2015 17:36:37] Anjo pk has logged out.
+[07/03/2015 17:36:39] Anjo pk has logged in.
+[07/03/2015 17:37:30] Brimm-bromm has logged out.
+[07/03/2015 17:37:31] Brimm-bromm has logged in.
+[07/03/2015 17:38:16] Anjo pk has logged out.
+[07/03/2015 17:38:18] Anjo pk has logged in.
+[07/03/2015 17:38:52] Anjo pk has logged out.
+[07/03/2015 17:38:56] Anjo pk has logged in.
+[07/03/2015 17:39:03] Knight Dos Crias has logged out.
+[07/03/2015 17:39:04] Knight Dos Crias has logged in.
+[07/03/2015 17:39:46] Anjo pk has logged out.
+[07/03/2015 17:39:47] Anjo pk has logged in.
+[07/03/2015 17:39:51] Knight Dos Crias has logged out.
+[07/03/2015 17:39:53] Knight Dos Crias has logged in.
+[07/03/2015 17:40:08] Slc Cachorrera has logged out.
+[07/03/2015 17:40:10] Slc Cachorrera has logged in.
+[07/03/2015 17:40:14] > Broadcasted message: "Para comprar bless digite !bless".
+[07/03/2015 17:40:20] Knight Dos Crias has logged out.
+[07/03/2015 17:40:20] Account Manager has logged in.
+[07/03/2015 17:40:21] Knight Dos Crias has logged in.
+[07/03/2015 17:40:41] Brimm-bromm has logged out.
+[07/03/2015 17:40:41] Lks Mormaii has logged out.
+[07/03/2015 17:40:42] Lks Mormaii has logged in.
+[07/03/2015 17:40:43] Brimm-bromm has logged in.
+[07/03/2015 17:40:50] Account Manager has logged out.
+[07/03/2015 17:40:58] Hashi has logged in.
+[07/03/2015 17:40:58] Lady girl has logged out.
+[07/03/2015 17:40:59] Brimm-bromm has logged out.
+[07/03/2015 17:41:00] Lady girl has logged in.
+[07/03/2015 17:41:00] Brimm-bromm has logged in.
+[07/03/2015 17:41:19] Lks Mormaii has logged out.
+[07/03/2015 17:41:20] Lks Mormaii has logged in.
+[07/03/2015 17:41:23] Mr Thug has logged in.
+[07/03/2015 17:41:31] Lks Mormaii has logged out.
+[07/03/2015 17:41:32] Lks Mormaii has logged in.
+[07/03/2015 17:41:57] Brimm-bromm has logged out.
+[07/03/2015 17:41:59] Brimm-bromm has logged in.
+[07/03/2015 17:42:17] Knight Dos Crias has logged out.
+[07/03/2015 17:42:18] Knight Dos Crias has logged in.
+[07/03/2015 17:42:25] Anjo pk has logged out.
+[07/03/2015 17:42:26] Anjo pk has logged in.
+[07/03/2015 17:42:48] Hashi has logged out.
+[07/03/2015 17:42:59] Slc Cachorrera has logged out.
+[07/03/2015 17:43:01] Slc Cachorrera has logged in.
+[07/03/2015 17:43:02] Lks Mormaii has logged out.
+[07/03/2015 17:43:04] Lks Mormaii has logged in.
+[07/03/2015 17:43:47] Brimm-bromm has logged out.
+[07/03/2015 17:43:49] Brimm-bromm has logged in.
+[07/03/2015 17:43:51] Lks Mormaii has logged out.
+[07/03/2015 17:43:52] Lks Mormaii has logged in.
+[07/03/2015 17:44:26] Lks Mormaii has logged out.
+[07/03/2015 17:44:27] Lks Mormaii has logged in.
+[07/03/2015 17:45:03] Demonic Striker has logged out.
+[07/03/2015 17:45:07] Demonic Striker has logged in.
+[07/03/2015 17:45:36] Anjo pk has logged out.
+[07/03/2015 17:45:38] Anjo pk has logged in.
+[07/03/2015 17:45:45] Anjo pk has logged out.
+[07/03/2015 17:45:46] Anjo pk has logged in.
+[07/03/2015 17:45:47] Lks Mormaii has logged out.
+[07/03/2015 17:45:48] Lks Mormaii has logged in.
+[07/03/2015 17:45:56] Account Manager has logged in.
+[07/03/2015 17:46:19] Anjo pk has logged out.
+[07/03/2015 17:46:20] Lucas has logged in.
+[07/03/2015 17:46:26] Account Manager has logged out.
+[07/03/2015 17:46:34] Account Manager has logged in.
+[07/03/2015 17:46:35] Account Manager has logged out.
+[07/03/2015 17:46:38] Demonic Striker has logged out.
+[07/03/2015 17:46:39] Demonic Striker has logged in.
+[07/03/2015 17:46:47] Hashi has logged in.
+[07/03/2015 17:46:49] Brimm-bromm has logged out.
+[07/03/2015 17:46:50] Slc Cachorrera has logged out.
+[07/03/2015 17:46:51] Brimm-bromm has logged in.
+[07/03/2015 17:46:52] Slc Cachorrera has logged in.
+[07/03/2015 17:46:52] Mage Ziika has logged out.
+[07/03/2015 17:47:06] Slc Cachorrera has logged out.
+[07/03/2015 17:47:08] Slc Cachorrera has logged in.
+[07/03/2015 17:47:15] Knight Dos Crias has logged out.
+[07/03/2015 17:47:17] Knight Dos Crias has logged in.
+[07/03/2015 17:47:22] Lks Mormaii has logged out.
+[07/03/2015 17:47:23] Lks Mormaii has logged in.
+[07/03/2015 17:47:23] Mr Thug has logged out.
+[07/03/2015 17:47:25] Mr Thug has logged in.
+[07/03/2015 17:47:37] Mr Thug has logged out.
+[07/03/2015 17:47:38] Mr Thug has logged in.
+[07/03/2015 17:48:17] Lucas has logged out.
+[07/03/2015 17:48:28] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 17:48:31] > Saving server...
+[07/03/2015 17:48:34] > SAVE: Complete in 2.87 seconds using relational house storage.
+[07/03/2015 17:48:35] > Broadcasted message: "Para comprar bless digite !bless".
+[07/03/2015 17:48:54] Hiroshi has logged out.
+[07/03/2015 17:48:56] Hiroshi has logged in.
+[07/03/2015 17:48:59] > CLEAN: Removed 8846 items from 5687 tiles in 0.265 seconds.
+[07/03/2015 17:48:59] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 17:49:24] Mr Thug has logged out.
+[07/03/2015 17:49:28] Vem Monstro has logged in.
+[07/03/2015 17:49:54] Vem Monstro has logged out.
+[07/03/2015 17:49:57] Druid Da Viber has logged in.
+[07/03/2015 17:50:19] Demonic Striker has logged out.
+[07/03/2015 17:50:20] Hiroshi has logged out.
+[07/03/2015 17:50:21] Demonic Striker has logged in.
+[07/03/2015 17:50:22] Hiroshi has logged in.
+[07/03/2015 17:50:52] Hiroshi has logged out.
+[07/03/2015 17:50:52] Hiroshi has logged in.
+[07/03/2015 17:51:00] Anjo pk has logged in.
+[07/03/2015 17:51:02] Anjo pk has logged out.
+[07/03/2015 17:51:03] Lucas has logged in.
+[07/03/2015 17:51:26] Lucas has logged out.
+[07/03/2015 17:51:27] Lucas has logged in.
+[07/03/2015 17:51:35] Demonic Striker has logged out.
+[07/03/2015 17:51:36] Demonic Striker has logged in.
+[07/03/2015 17:52:04] Lucas has logged out.
+[07/03/2015 17:52:05] Anjo pk has logged in.
+[07/03/2015 17:52:07] Lks Mormaii has logged out.
+[07/03/2015 17:52:08] Lks Mormaii has logged in.
+[07/03/2015 17:52:15] Druid Da Viber has logged out.
+[07/03/2015 17:52:17] Mr Thug has logged in.
+[07/03/2015 17:52:34] Brimm-bromm has logged out.
+[07/03/2015 17:52:35] Anjo pk has logged out.
+[07/03/2015 17:52:36] Brimm-bromm has logged in.
+[07/03/2015 17:52:37] Anjo pk has logged in.
+[07/03/2015 17:52:39] Mr Thug has logged out.
+[07/03/2015 17:52:42] Druid Da Viber has logged in.
+[07/03/2015 17:53:14] Demonic Striker has logged out.
+[07/03/2015 17:53:16] Demonic Striker has logged in.
+[07/03/2015 17:53:37] Brimm-bromm has logged out.
+[07/03/2015 17:53:38] Brimm-bromm has logged in.
+[07/03/2015 17:54:10] Brimm-bromm has logged out.
+[07/03/2015 17:54:11] Brimm-bromm has logged in.
+[07/03/2015 17:54:26] Druid Da Viber has logged out.
+[07/03/2015 17:54:28] Mr Thug has logged in.
+[07/03/2015 17:54:48] Demonic Striker has logged out.
+[07/03/2015 17:54:49] Demonic Striker has logged in.
+[07/03/2015 17:54:52] Demonic Striker has logged out.
+[07/03/2015 17:54:53] Demonic Striker has logged in.
+[07/03/2015 17:55:03] Lks Mormaii has logged out.
+[07/03/2015 17:55:04] Lks Mormaii has logged in.
+[07/03/2015 17:55:30] Lks Mormaii has logged out.
+[07/03/2015 17:55:32] Lks Mormaii has logged in.
+[07/03/2015 17:55:34] Demonic Striker has logged out.
+[07/03/2015 17:55:36] Demonic Striker has logged in.
+[07/03/2015 17:55:45] Mr Thug has logged out.
+[07/03/2015 17:55:47] Mr Thug has logged in.
+[07/03/2015 17:55:58] Mr Thug has logged out.
+[07/03/2015 17:56:00] Druid Da Viber has logged in.
+[07/03/2015 17:56:05] Demonic Striker has logged out.
+[07/03/2015 17:56:06] Demonic Striker has logged in.
+[07/03/2015 17:56:23] Druid Da Viber has logged out.
+[07/03/2015 17:56:24] Druid Da Viber has logged in.
+[07/03/2015 17:56:30] Brimm-bromm has logged out.
+[07/03/2015 17:56:32] Brimm-bromm has logged in.
+[07/03/2015 17:56:37] Druid Da Viber has logged out.
+[07/03/2015 17:56:39] Druid Da Viber has logged in.
+[07/03/2015 17:56:40] Lks Mormaii has logged out.
+[07/03/2015 17:56:45] Lks Mormaii has logged in.
+[07/03/2015 17:56:51] Druid Da Viber has logged out.
+[07/03/2015 17:56:54] Druid Da Viber has logged in.
+[07/03/2015 17:56:56] > Broadcasted message: "Para ver as noticias fale !notice".
+[07/03/2015 17:57:01] Druid Da Viber has logged out.
+[07/03/2015 17:57:02] Druid Da Viber has logged in.
+[07/03/2015 17:57:19] Druid Da Viber has logged out.
+[07/03/2015 17:57:21] Druid Da Viber has logged in.
+[07/03/2015 17:57:21] Demonic Striker has logged out.
+[07/03/2015 17:57:23] Demonic Striker has logged in.
+[07/03/2015 17:57:35] Druid Da Viber has logged out.
+[07/03/2015 17:57:36] Druid Da Viber has logged in.
+[07/03/2015 17:57:54] Knight Dos Crias has logged out.
+[07/03/2015 17:58:01] Slc Cachorrera has logged out.
+[07/03/2015 17:58:21] Lks Mormaii has logged out.
+[07/03/2015 17:58:22] Lks Mormaii has logged in.
+[07/03/2015 17:58:44] Anjo pk has logged out.
+[07/03/2015 17:58:45] Anjo pk has logged in.
+[07/03/2015 17:59:48] Lks Mormaii has logged out.
+[07/03/2015 17:59:50] Lks Mormaii has logged in.
+[07/03/2015 18:00:15] Kurosaki Ichigo has logged out.
+[07/03/2015 18:00:30] Slc Cachorrera has logged in.
+[07/03/2015 18:00:50] Druid Da Viber has logged out.
+[07/03/2015 18:00:52] Druid Da Viber has logged in.
+[07/03/2015 18:01:04] Anjo pk has logged out.
+[07/03/2015 18:01:07] Anjo pk has logged in.
+[07/03/2015 18:01:50] Account Manager has logged in.
+[07/03/2015 18:02:31] Lks Mormaii has logged out.
+[07/03/2015 18:02:32] Brimm-bromm has logged out.
+[07/03/2015 18:02:35] Lks Mormaii has logged in.
+[07/03/2015 18:02:38] Brimm-bromm has logged in.
+[07/03/2015 18:02:56] Lks Mormaii has logged out.
+[07/03/2015 18:02:57] Brimm-bromm has logged out.
+[07/03/2015 18:02:59] Lks Mormaii has logged in.
+[07/03/2015 18:03:11] Brimm-bromm has logged in.
+[07/03/2015 18:03:16] Account Manager has logged out.
+[07/03/2015 18:04:03] Druidzerah Mythus has logged out.
+[07/03/2015 18:04:21] Druidzerah Mythus has logged in.
+[07/03/2015 18:04:48] Kurosaki Ichigo has logged in.
+[07/03/2015 18:05:09] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 18:05:17] Druid Da Viber has logged out.
+[07/03/2015 18:05:18] > Broadcasted message: "Para ver as noticias fale !notice".
+[07/03/2015 18:05:19] Druid Da Viber has logged in.
+[07/03/2015 18:05:40] > CLEAN: Removed 8256 items from 5287 tiles in 1.012 seconds.
+[07/03/2015 18:05:41] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 18:05:47] Druid Da Viber has logged out.
+[07/03/2015 18:05:49] Druid Da Viber has logged in.
+[07/03/2015 18:07:38] Druid Da Viber has logged out.
+[07/03/2015 18:07:39] Druid Da Viber has logged in.
+[07/03/2015 18:10:10] Druid Da Viber has logged out.
+[07/03/2015 18:10:12] Druid Da Viber has logged in.
+[07/03/2015 18:10:13] Lks Mormaii has logged out.
+[07/03/2015 18:10:13] Lks Mormaii has logged in.
+[07/03/2015 18:10:35] Hashi has logged out.
+[07/03/2015 18:10:36] Hashi has logged in.
+[07/03/2015 18:10:37] Hashi has logged out.
+[07/03/2015 18:10:37] 
+[07/03/2015 18:10:37] Lua Script Error: [CreatureScript Interface] 
+[07/03/2015 18:10:38] in a timer event called from: 
+[07/03/2015 18:10:38] data/creaturescripts/scripts/antimc.lua:onLogin
+[07/03/2015 18:10:38] 
+[07/03/2015 18:10:38] luaDoRemoveCreature(). Creature not found
+[07/03/2015 18:10:45] Knight Dos Crias has logged in.
+[07/03/2015 18:10:47] Honda has logged in.
+[07/03/2015 18:10:49] Druidzerah Mythus has logged out.
+[07/03/2015 18:10:52] Druidzerah Mythus has logged in.
+[07/03/2015 18:11:05] Druid Da Viber has logged out.
+[07/03/2015 18:11:06] Druid Da Viber has logged in.
+[07/03/2015 18:11:13] Lks Mormaii has logged out.
+[07/03/2015 18:11:15] Lks Mormaii has logged in.
+[07/03/2015 18:11:19] Druid Da Viber has logged out.
+[07/03/2015 18:11:21] Druid Da Viber has logged in.
+[07/03/2015 18:11:52] > Saving server...
+[07/03/2015 18:11:56] > SAVE: Complete in 3.37 seconds using relational house storage.
+[07/03/2015 18:12:52] Demonic Striker has logged out.
+[07/03/2015 18:12:53] Kina da zueira has logged in.
+[07/03/2015 18:13:02] Kina da zueira has logged out.
+[07/03/2015 18:13:02] Demolidor Striker has logged in.
+[07/03/2015 18:13:34] Demolidor Striker has logged out.
+[07/03/2015 18:13:35] Demolidor Striker has logged in.
+[07/03/2015 18:13:39] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[07/03/2015 18:13:40] Demolidor Striker has logged out.
+[07/03/2015 18:13:41] Kina da zueira has logged in.
+[07/03/2015 18:13:48] Kina da zueira has logged out.
+[07/03/2015 18:13:49] Account Manager has logged in.
+[07/03/2015 18:14:22] Account Manager has logged out.
+[07/03/2015 18:14:22] Kina Insane has logged out.
+[07/03/2015 18:14:26] Druid Da Viber has logged out.
+[07/03/2015 18:14:26] Kina Insane has logged in.
+[07/03/2015 18:14:29] Druid Da Viber has logged in.
+[07/03/2015 18:14:33] Kina da zueira has logged in.
+[07/03/2015 18:14:34] Druid Da Viber has logged out.
+[07/03/2015 18:14:36] Shake That Ass has logged in.
+[07/03/2015 18:14:36] Kina da zueira has logged out.
+[07/03/2015 18:14:37] Ladrao has logged in.
+[07/03/2015 18:14:38] Shake That Ass has logged out.
+[07/03/2015 18:14:41] Vem Monstro has logged in.
+[07/03/2015 18:14:45] Ladrao has logged out.
+[07/03/2015 18:14:45] Kina da zueira has logged in.
+[07/03/2015 18:14:56] Kina da zueira has logged out.
+[07/03/2015 18:14:56] Ladrao has logged in.
+[07/03/2015 18:15:17] Kina Insane has logged out.
+[07/03/2015 18:15:19] Kina Insane has logged in.
+[07/03/2015 18:15:27] Ladrao has logged out.
+[07/03/2015 18:15:28] Ladrao has logged in.
+[07/03/2015 18:15:31] Ladrao has logged out.
+[07/03/2015 18:15:31] Kina da zueira has logged in.
+[07/03/2015 18:15:41] Kina Insane has logged out.
+[07/03/2015 18:15:43] Kina Insane has logged in.
+[07/03/2015 18:15:57] Kina da zueira has logged out.
+[07/03/2015 18:15:57] Kina da zueira has logged in.
+[07/03/2015 18:16:02] Kina da zueira has logged out.
+[07/03/2015 18:16:02] Demonic Striker has logged in.
+[07/03/2015 18:17:04] Demonic Striker has logged out.
+[07/03/2015 18:17:10] Demonic Striker has logged in.
+[07/03/2015 18:17:34] Hiroshi has logged out.
+[07/03/2015 18:17:36] Hiroshi has logged in.
+[07/03/2015 18:18:19] Kina Insane has logged out.
+[07/03/2015 18:18:21] Kina Insane has logged in.
+[07/03/2015 18:19:26] Knight Dos Crias has logged out.
+[07/03/2015 18:19:30] Eu Gosto De Buceta has logged out.
+[07/03/2015 18:19:37] Honda has logged out.
+[07/03/2015 18:19:44] Hashi has logged in.
+[07/03/2015 18:20:23] Anjo pk has logged out.
+[07/03/2015 18:20:33] Vem Monstro has logged out.
+[07/03/2015 18:20:35] Mr Thug has logged in.
+[07/03/2015 18:20:37] Mr Thug has logged out.
+[07/03/2015 18:20:39] Knightzerah Mythus has logged in.
+[07/03/2015 18:20:39] Vem Monstro has logged in.
+[07/03/2015 18:21:14] Lady girl has logged out.
+[07/03/2015 18:21:16] Lady girl has logged in.
+[07/03/2015 18:21:36] Vem Monstro has logged out.
+[07/03/2015 18:21:37] Vem Monstro has logged in.
+[07/03/2015 18:21:46] Hensh has logged out.
+[07/03/2015 18:21:50] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 18:22:00] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[07/03/2015 18:22:15] Kina Insane has logged out.
+[07/03/2015 18:22:20] Kina Insane has logged in.
+[07/03/2015 18:22:21] > CLEAN: Removed 5679 items from 4009 tiles in 0.281 seconds.
+[07/03/2015 18:22:22] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 18:22:29] Brimm-bromm has logged out.
+[07/03/2015 18:22:42] Vem Monstro has logged out.
+[07/03/2015 18:22:44] Vem Monstro has logged in.
+[07/03/2015 18:22:48] Kina Insane has logged out.
+[07/03/2015 18:22:51] Kina Insane has logged in.
+[07/03/2015 18:23:01] Vem Monstro has logged out.
+[07/03/2015 18:23:04] Vem Monstro has logged in.
+[07/03/2015 18:24:00] Kina Insane has logged out.
+[07/03/2015 18:24:01] Kina Insane has logged in.
+[07/03/2015 18:24:29] Vem Monstro has logged out.
+[07/03/2015 18:24:31] Vem Monstro has logged in.
+[07/03/2015 18:27:32] Demonic Striker has logged out.
+[07/03/2015 18:27:33] Kina da zueira has logged in.
+[07/03/2015 18:27:38] Kina da zueira has logged out.
+[07/03/2015 18:27:39] Ladrao has logged in.
+[07/03/2015 18:27:44] Kina Insane has logged out.
+[07/03/2015 18:27:45] Kina Insane has logged in.
+[07/03/2015 18:27:47] Ladrao has logged out.
+[07/03/2015 18:27:47] Knight Dos Crias has logged in.
+[07/03/2015 18:27:47] Demonic Striker has logged in.
+[07/03/2015 18:30:21] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[07/03/2015 18:30:24] Lks Mormaii has logged out.
+[07/03/2015 18:30:27] Demonic Striker has logged out.
+[07/03/2015 18:30:28] Account Manager has logged in.
+[07/03/2015 18:30:52] Account Manager has logged out.
+[07/03/2015 18:30:54] Kina Insane has logged out.
+[07/03/2015 18:30:56] Kina Insane has logged in.
+[07/03/2015 18:31:01] Ladrao I has logged in.
+[07/03/2015 18:31:10] Ladrao I has logged out.
+[07/03/2015 18:31:11] Demonic Striker has logged in.
+[07/03/2015 18:31:19] Demonic Striker has logged out.
+[07/03/2015 18:31:25] Ladrao I has logged in.
+[07/03/2015 18:31:55] Kina Insane has logged out.
+[07/03/2015 18:31:59] Kina Insane has logged in.
+[07/03/2015 18:33:32] Ladrao I has logged out.
+[07/03/2015 18:33:34] Ladrao I has logged in.
+[07/03/2015 18:33:39] Hiroshi has logged out.
+[07/03/2015 18:33:40] Account Manager has logged in.
+[07/03/2015 18:34:09] Account Manager has logged out.
+[07/03/2015 18:34:16] Account Manager has logged in.
+[07/03/2015 18:34:41] Account Manager has logged out.
+[07/03/2015 18:34:47] Ladrao I has logged out.
+[07/03/2015 18:34:49] Demonic Striker has logged in.
+[07/03/2015 18:34:53] Hiroshi has logged in.
+[07/03/2015 18:35:13] > Saving server...
+[07/03/2015 18:35:17] > SAVE: Complete in 3.842 seconds using relational house storage.
+[07/03/2015 18:38:31] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 18:38:42] > Broadcasted message: "Para comprar bless digite !bless".
+[07/03/2015 18:39:01] > CLEAN: Removed 6279 items from 4055 tiles in 0.371 seconds.
+[07/03/2015 18:39:01] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 18:39:25] Demonic Striker has logged out.
+[07/03/2015 18:39:26] Demonic Striker has logged in.
+[07/03/2015 18:39:57] Knightzerah Mythus has logged out.
+[07/03/2015 18:39:58] Knightzerah Mythus has logged in.
+[07/03/2015 18:41:12] Demonic Striker has logged out.
+[07/03/2015 18:41:14] Demonic Striker has logged in.
+[07/03/2015 18:44:06] Hashi has logged out.
+[07/03/2015 18:44:08] Hashi has logged in.
+[07/03/2015 18:44:08] Hashi has logged out.
+[07/03/2015 18:44:29] Honda has logged in.
+[07/03/2015 18:44:38] Honda has logged out.
+[07/03/2015 18:44:49] Account Manager has logged in.
+[07/03/2015 18:45:56] Account Manager has logged out.
+[07/03/2015 18:45:59] Honda has logged in.
+[07/03/2015 18:46:05] Honda has logged out.
+[07/03/2015 18:46:15] Hashi has logged in.
+[07/03/2015 18:47:03] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[07/03/2015 18:47:06] Knight Dos Crias has logged out.
+[07/03/2015 18:47:07] Hiroshi has logged out.
+[07/03/2015 18:47:12] Vem Monstro has logged out.
+[07/03/2015 18:47:24] Hiroshi has logged in.
+[07/03/2015 18:48:55] Demonic Striker has logged out.
+[07/03/2015 18:48:56] Slc Cachorrera has logged out.
+[07/03/2015 18:48:57] Demonic Striker has logged in.
+[07/03/2015 18:48:58] Slc Cachorrera has logged in.
+[07/03/2015 18:50:02] Vem Monstro has logged in.
+[07/03/2015 18:50:42] Hiroshi has logged out.
+[07/03/2015 18:50:47] Hiroshi has logged in.
+[07/03/2015 18:51:49] Hashi has logged out.
+[07/03/2015 18:51:50] Hashi has logged in.
+[07/03/2015 18:52:56] Hashi has logged out.
+[07/03/2015 18:52:58] Hashi has logged in.
+[07/03/2015 18:53:44] Hiroshi has logged out.
+[07/03/2015 18:54:06] 
+[07/03/2015 18:54:06] Lua Script Error: [TalkAction Interface] 
+[07/03/2015 18:54:06] data/talkactions/scripts/deathlist.lua:onSay
+[07/03/2015 18:54:06] 
+[07/03/2015 18:54:06] luaGetPlayerNameByGUID(). Player not found
+[07/03/2015 18:54:06] 
+[07/03/2015 18:54:06] Lua Script Error: [TalkAction Interface] 
+[07/03/2015 18:54:07] data/talkactions/scripts/deathlist.lua:onSay
+[07/03/2015 18:54:07] 
+[07/03/2015 18:54:07] data/talkactions/scripts/deathlist.lua:47: attempt to concatenate local 'killed' (a nil value)
+[07/03/2015 18:54:07] stack traceback:
+[07/03/2015 18:54:07] 	data/talkactions/scripts/deathlist.lua:47: in function <data/talkactions/scripts/deathlist.lua:5>
+[07/03/2015 18:55:08] Demonic Striker has logged out.
+[07/03/2015 18:55:10] Demonic Striker has logged in.
+[07/03/2015 18:55:12] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 18:55:15] Nadador Arqueiro has logged in.
+[07/03/2015 18:55:24] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[07/03/2015 18:55:36] Hiroshi has logged in.
+[07/03/2015 18:55:41] Demonic Striker has logged out.
+[07/03/2015 18:55:43] > CLEAN: Removed 7676 items from 4864 tiles in 0.437 seconds.
+[07/03/2015 18:55:43] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 18:55:44] Demonic Striker has logged in.
+[07/03/2015 18:55:46] Vem Monstro has logged out.
+[07/03/2015 18:55:47] Vem Monstro has logged in.
+[07/03/2015 18:56:33] Demonic Striker has logged out.
+[07/03/2015 18:56:34] Demonic Striker has logged in.
+[07/03/2015 18:56:36] Nadador Arqueiro has logged out.
+[07/03/2015 18:56:39] Nadador Arqueiro has logged in.
+[07/03/2015 18:56:50] Nadador Arqueiro has logged out.
+[07/03/2015 18:56:51] Nadador Arqueiro has logged in.
+[07/03/2015 18:57:14] Demonic Striker has logged out.
+[07/03/2015 18:57:15] Demonic Striker has logged in.
+[07/03/2015 18:57:21] Vem Monstro has logged out.
+[07/03/2015 18:57:22] Vem Monstro has logged in.
+[07/03/2015 18:58:13] Vem Monstro has logged out.
+[07/03/2015 18:58:14] Vem Monstro has logged in.
+[07/03/2015 18:58:19] Demonic Striker has logged out.
+[07/03/2015 18:58:21] Demonic Striker has logged in.
+[07/03/2015 18:58:25] Nadador Arqueiro has logged out.
+[07/03/2015 18:58:34] > Saving server...
+[07/03/2015 18:58:37] > SAVE: Complete in 2.335 seconds using relational house storage.
+[07/03/2015 18:58:38] Nadador Arqueiro has logged in.
+[07/03/2015 18:58:39] Nadador Arqueiro has logged out.
+[07/03/2015 18:58:50] Nadador Arqueiro has logged in.
+[07/03/2015 18:58:58] Nadador Arqueiro has logged out.
+[07/03/2015 18:59:06] Nadador Knight has logged in.
+[07/03/2015 18:59:09] Vem Monstro has logged out.
+[07/03/2015 18:59:09] Demonic Striker has logged out.
+[07/03/2015 18:59:10] Vem Monstro has logged in.
+[07/03/2015 18:59:11] Demonic Striker has logged in.
+[07/03/2015 18:59:44] Demonic Striker has logged out.
+[07/03/2015 18:59:45] Demonic Striker has logged in.
+[07/03/2015 18:59:58] Demonic Striker has logged out.
+[07/03/2015 19:00:00] Demonic Striker has logged in.
+[07/03/2015 19:00:01] Vem Monstro has logged out.
+[07/03/2015 19:00:02] Vem Monstro has logged in.
+[07/03/2015 19:00:14] Hashi has logged out.
+[07/03/2015 19:00:15] Hashi has logged in.
+[07/03/2015 19:00:39] Demonic Striker has logged out.
+[07/03/2015 19:00:40] Demonic Striker has logged in.
+[07/03/2015 19:00:42] Nadador Knight has logged out.
+[07/03/2015 19:00:44] Nadador Knight has logged in.
+[07/03/2015 19:00:49] Mage Ziika has logged in.
+[07/03/2015 19:01:37] Demonic Striker has logged out.
+[07/03/2015 19:01:38] Demonic Striker has logged in.
+[07/03/2015 19:02:29] Hashi has logged out.
+[07/03/2015 19:02:30] Hashi has logged in.
+[07/03/2015 19:02:40] Demonic Striker has logged out.
+[07/03/2015 19:02:41] Demonic Striker has logged in.
+[07/03/2015 19:02:57] Demonic Striker has logged out.
+[07/03/2015 19:02:58] Demonic Striker has logged in.
+[07/03/2015 19:03:45] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[07/03/2015 19:03:47] Demonic Striker has logged out.
+[07/03/2015 19:03:49] Demonic Striker has logged in.
+[07/03/2015 19:04:46] Demonic Striker has logged out.
+[07/03/2015 19:04:48] Demonic Striker has logged in.
+[07/03/2015 19:05:07] Demonic Striker has logged out.
+[07/03/2015 19:05:08] Demonic Striker has logged in.
+[07/03/2015 19:05:29] Demonic Striker has logged out.
+[07/03/2015 19:05:30] Demonic Striker has logged in.
+[07/03/2015 19:05:30] Vem Monstro has logged out.
+[07/03/2015 19:05:32] Vem Monstro has logged in.
+[07/03/2015 19:05:38] Lady girl has logged out.
+[07/03/2015 19:05:39] Vem Monstro has logged out.
+[07/03/2015 19:05:40] Vem Monstro has logged in.
+[07/03/2015 19:05:40] Lady girl has logged in.
+[07/03/2015 19:05:57] Demonic Striker has logged out.
+[07/03/2015 19:06:00] Demonic Striker has logged in.
+[07/03/2015 19:06:16] Vem Monstro has logged out.
+[07/03/2015 19:06:17] Vem Monstro has logged in.
+[07/03/2015 19:06:33] Vem Monstro has logged out.
+[07/03/2015 19:06:34] Vem Monstro has logged in.
+[07/03/2015 19:06:43] Demonic Striker has logged out.
+[07/03/2015 19:06:45] Vem Monstro has logged out.
+[07/03/2015 19:06:46] Demonic Striker has logged in.
+[07/03/2015 19:06:47] Vem Monstro has logged in.
+[07/03/2015 19:07:04] Demonic Striker has logged out.
+[07/03/2015 19:07:05] Demonic Striker has logged in.
+[07/03/2015 19:07:59] Vem Monstro has logged out.
+[07/03/2015 19:08:00] Vem Monstro has logged in.
+[07/03/2015 19:08:07] Vem Monstro has logged out.
+[07/03/2015 19:08:08] Long Viber has logged in.
+[07/03/2015 19:08:09] Long Viber has logged out.
+[07/03/2015 19:08:11] Vem Monstro has logged in.
+[07/03/2015 19:08:31] Vem Monstro has logged out.
+[07/03/2015 19:08:32] Vem Monstro has logged in.
+[07/03/2015 19:08:52] Vem Monstro has logged out.
+[07/03/2015 19:08:53] Vem Monstro has logged in.
+[07/03/2015 19:09:01] Demonic Striker has logged out.
+[07/03/2015 19:09:01] Vem Monstro has logged out.
+[07/03/2015 19:09:02] Demonic Striker has logged in.
+[07/03/2015 19:09:03] Vem Monstro has logged in.
+[07/03/2015 19:09:09] Vem Monstro has logged out.
+[07/03/2015 19:09:10] Vem Monstro has logged in.
+[07/03/2015 19:09:13] Demonic Striker has logged out.
+[07/03/2015 19:09:14] Demonic Striker has logged in.
+[07/03/2015 19:09:59] Nadador Knight has logged out.
+[07/03/2015 19:10:01] Nadador Knight has logged in.
+[07/03/2015 19:10:04] Nadador Knight has logged out.
+[07/03/2015 19:10:10] Nadador Arqueiro has logged in.
+[07/03/2015 19:10:28] Demonic Striker has logged out.
+[07/03/2015 19:10:29] Demonic Striker has logged in.
+[07/03/2015 19:10:36] Knightzerah Mythus has logged out.
+[07/03/2015 19:10:38] Knightzerah Mythus has logged in.
+[07/03/2015 19:11:46] Knightzerah Mythus has logged out.
+[07/03/2015 19:11:47] Knightzerah Mythus has logged in.
+[07/03/2015 19:11:53] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 19:12:06] > Broadcasted message: "Para comprar bless digite !bless".
+[07/03/2015 19:12:11] Demonic Striker has logged out.
+[07/03/2015 19:12:13] Demonic Striker has logged in.
+[07/03/2015 19:12:21] Lady girl has logged out.
+[07/03/2015 19:12:22] Lady girl has logged in.
+[07/03/2015 19:12:24] > CLEAN: Removed 7544 items from 5094 tiles in 0.296 seconds.
+[07/03/2015 19:12:24] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 19:12:31] Demonic Striker has logged out.
+[07/03/2015 19:12:33] Demonic Striker has logged in.
+[07/03/2015 19:12:41] Vem Monstro has logged out.
+[07/03/2015 19:12:42] Vem Monstro has logged in.
+[07/03/2015 19:12:46] Demonic Striker has logged out.
+[07/03/2015 19:12:48] Demonic Striker has logged in.
+[07/03/2015 19:12:58] Nadador Arqueiro has logged out.
+[07/03/2015 19:13:00] Nadador Arqueiro has logged in.
+[07/03/2015 19:13:04] Nadador Arqueiro has logged out.
+[07/03/2015 19:13:05] Nadador Arqueiro has logged in.
+[07/03/2015 19:13:44] Demonic Striker has logged out.
+[07/03/2015 19:13:46] Demonic Striker has logged in.
+[07/03/2015 19:15:10] Demonic Striker has logged out.
+[07/03/2015 19:15:10] Hashi has logged out.
+[07/03/2015 19:15:12] Demonic Striker has logged in.
+[07/03/2015 19:15:19] Vem Monstro has logged out.
+[07/03/2015 19:15:20] Vem Monstro has logged in.
+[07/03/2015 19:15:32] Demonic Striker has logged out.
+[07/03/2015 19:15:34] Hashi has logged in.
+[07/03/2015 19:15:34] Demonic Striker has logged in.
+[07/03/2015 19:16:13] Mage Ziika has logged out.
+[07/03/2015 19:16:14] Mage Ziika has logged in.
+[07/03/2015 19:16:29] Vem Monstro has logged out.
+[07/03/2015 19:16:31] Vem Monstro has logged in.
+[07/03/2015 19:16:32] Demonic Striker has logged out.
+[07/03/2015 19:16:33] Demonic Striker has logged in.
+[07/03/2015 19:16:43] Vem Monstro has logged out.
+[07/03/2015 19:16:43] Lady girl has logged out.
+[07/03/2015 19:16:44] Lady girl has logged in.
+[07/03/2015 19:16:45] Vem Monstro has logged in.
+[07/03/2015 19:16:46] Demonic Striker has logged out.
+[07/03/2015 19:16:47] Demonic Striker has logged in.
+[07/03/2015 19:17:04] Demonic Striker has logged out.
+[07/03/2015 19:17:05] Vem Monstro has logged out.
+[07/03/2015 19:17:06] Demonic Striker has logged in.
+[07/03/2015 19:17:06] Vem Monstro has logged in.
+[07/03/2015 19:17:32] Demonic Striker has logged out.
+[07/03/2015 19:17:34] Demonic Striker has logged in.
+[07/03/2015 19:17:47] Demonic Striker has logged out.
+[07/03/2015 19:17:49] Demonic Striker has logged in.
+[07/03/2015 19:18:49] Demonic Striker has logged out.
+[07/03/2015 19:18:54] Vem Monstro has logged out.
+[07/03/2015 19:18:55] Vem Monstro has logged in.
+[07/03/2015 19:19:01] Demonic Striker has logged in.
+[07/03/2015 19:19:16] Demonic Striker has logged out.
+[07/03/2015 19:19:17] Demonic Striker has logged in.
+[07/03/2015 19:19:23] Nadador Arqueiro has logged out.
+[07/03/2015 19:19:25] Nadador Arqueiro has logged in.
+[07/03/2015 19:19:26] Kina Insane has logged out.
+[07/03/2015 19:19:27] Knightzerah Mythus has logged out.
+[07/03/2015 19:19:28] Kina Insane has logged in.
+[07/03/2015 19:19:37] Knightzerah Mythus has logged in.
+[07/03/2015 19:19:41] Demonic Striker has logged out.
+[07/03/2015 19:19:42] Demonic Striker has logged in.
+[07/03/2015 19:20:27] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[07/03/2015 19:21:18] Vem Monstro has logged out.
+[07/03/2015 19:21:40] Demonic Striker has logged out.
+[07/03/2015 19:21:42] Demonic Striker has logged in.
+[07/03/2015 19:21:55] > Saving server...
+[07/03/2015 19:21:58] > SAVE: Complete in 2.493 seconds using relational house storage.
+[07/03/2015 19:22:00] Nadador Arqueiro has logged out.
+[07/03/2015 19:22:01] Nadador Arqueiro has logged in.
+[07/03/2015 19:22:07] Knightzerah Mythus has logged out.
+[07/03/2015 19:22:09] Knightzerah Mythus has logged in.
+[07/03/2015 19:22:19] Account Manager has logged in.
+[07/03/2015 19:23:14] Account Manager has logged out.
+[07/03/2015 19:23:19] Knightzerah Mythus has logged out.
+[07/03/2015 19:23:20] Account Manager has logged in.
+[07/03/2015 19:23:20] Knightzerah Mythus has logged in.
+[07/03/2015 19:23:32] Account Manager has logged out.
+[07/03/2015 19:23:37] Mariana has logged in.
+[07/03/2015 19:23:42] Demonic Striker has logged out.
+[07/03/2015 19:23:43] Druidzerah Mythus has logged out.
+[07/03/2015 19:23:44] Mariana has logged out.
+[07/03/2015 19:23:44] Account Manager has logged in.
+[07/03/2015 19:23:45] Demonic Striker has logged in.
+[07/03/2015 19:24:05] Account Manager has logged out.
+[07/03/2015 19:24:10] Mariana Knight has logged in.
+[07/03/2015 19:26:33] Slc Cachorrera has logged out.
+[07/03/2015 19:26:55] Pally Tenebroso has logged in.
+[07/03/2015 19:27:25] Pally Tenebroso has logged out.
+[07/03/2015 19:27:33] Pally Tenebroso has logged in.
+[07/03/2015 19:27:40] Knightzerah Mythus has logged out.
+[07/03/2015 19:27:40] Nadador Arqueiro has logged out.
+[07/03/2015 19:27:42] Knightzerah Mythus has logged in.
+[07/03/2015 19:27:42] Pally Tenebroso has logged out.
+[07/03/2015 19:27:44] Nadador Arqueiro has logged in.
+[07/03/2015 19:27:49] Pally Tenebroso has logged in.
+[07/03/2015 19:28:00] Druidzerah Mythus has logged in.
+[07/03/2015 19:28:01] Hashi has logged out.
+[07/03/2015 19:28:02] Hashi has logged in.
+[07/03/2015 19:28:34] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 19:28:40] Pally Tenebroso has logged out.
+[07/03/2015 19:28:48] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[07/03/2015 19:29:04] > CLEAN: Removed 6689 items from 4578 tiles in 0.265 seconds.
+[07/03/2015 19:29:05] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 19:29:06] Slc Chachorrera has logged in.
+[07/03/2015 19:29:08] Slc Chachorrera has logged out.
+[07/03/2015 19:29:09] Slc Cachorrera has logged in.
+[07/03/2015 19:30:24] Kina Insane has logged out.
+[07/03/2015 19:30:25] Kina Insane has logged in.
+[07/03/2015 19:31:42] Knightzerah Mythus has logged out.
+[07/03/2015 19:31:43] Nadador Arqueiro has logged out.
+[07/03/2015 19:31:45] Nadador Arqueiro has logged in.
+[07/03/2015 19:31:48] Knightzerah Mythus has logged in.
+[07/03/2015 19:33:56] Mage Ziika has logged out.
+[07/03/2015 19:33:57] Mage Ziika has logged in.
+[07/03/2015 19:35:38] Knightzerah Mythus has logged out.
+[07/03/2015 19:35:40] Knightzerah Mythus has logged in.
+[07/03/2015 19:35:42] Nadador Arqueiro has logged out.
+[07/03/2015 19:35:45] Nadador Arqueiro has logged in.
+[07/03/2015 19:37:09] > Broadcasted message: "Para comprar bless digite !bless".
+[07/03/2015 19:37:24] Nadador Arqueiro has logged out.
+[07/03/2015 19:37:27] Nadador Arqueiro has logged in.
+[07/03/2015 19:38:57] Lady girl has logged out.
+[07/03/2015 19:41:33] Druidzerah Mythus has logged out.
+[07/03/2015 19:41:43] Knightzerah Mythus has logged out.
+[07/03/2015 19:41:44] Knightzerah Mythus has logged in.
+[07/03/2015 19:41:58] Druidzerah Mythus has logged in.
+[07/03/2015 19:43:12] Mariana Knight has logged out.
+[07/03/2015 19:43:20] Knight Dos Crias has logged in.
+[07/03/2015 19:43:36] Knightzerah Mythus has logged out.
+[07/03/2015 19:43:38] Knightzerah Mythus has logged in.
+[07/03/2015 19:44:09] Mage Ziika has logged out.
+[07/03/2015 19:44:11] Mage Ziika has logged in.
+[07/03/2015 19:45:04] Knightzerah Mythus has logged out.
+[07/03/2015 19:45:05] Knightzerah Mythus has logged in.
+[07/03/2015 19:45:15] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 19:45:16] > Saving server...
+[07/03/2015 19:45:18] > SAVE: Complete in 2.404 seconds using relational house storage.
+[07/03/2015 19:45:30] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[07/03/2015 19:45:45] > CLEAN: Removed 7194 items from 4963 tiles in 0.271 seconds.
+[07/03/2015 19:45:45] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 19:46:09] Knightzerah Mythus has logged out.
+[07/03/2015 19:46:11] Knightzerah Mythus has logged in.
+[07/03/2015 19:46:57] Hashi has logged out.
+[07/03/2015 19:46:58] Hashi has logged in.
+[07/03/2015 19:46:59] Hashi has logged out.
+[07/03/2015 19:47:05] Honda has logged in.
+[07/03/2015 19:47:18] Knightzerah Mythus has logged out.
+[07/03/2015 19:47:19] Knightzerah Mythus has logged in.
+[07/03/2015 19:49:21] Honda has logged out.
+[07/03/2015 19:49:22] Honda has logged in.
+[07/03/2015 19:49:22] Honda has logged out.
+[07/03/2015 19:49:30] Knightzerah Mythus has logged out.
+[07/03/2015 19:49:33] Knightzerah Mythus has logged in.
+[07/03/2015 19:49:34] Hashi has logged in.
+[07/03/2015 19:50:44] Knightzerah Mythus has logged out.
+[07/03/2015 19:50:45] Knightzerah Mythus has logged in.
+[07/03/2015 19:52:06] Pala Nas Sombras has logged in.
+[07/03/2015 19:52:06] Demonic Striker has logged out.
+[07/03/2015 19:52:10] Demonic Striker has logged in.
+[07/03/2015 19:52:42] Kina Insane has logged out.
+[07/03/2015 19:52:44] Kina Insane has logged in.
+[07/03/2015 19:52:44] Fakedoi has logged in.
+[07/03/2015 19:53:32] Knightzerah Mythus has logged out.
+[07/03/2015 19:53:34] Knightzerah Mythus has logged in.
+[07/03/2015 19:53:51] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[07/03/2015 19:55:04] Knight Dos Crias has logged out.
+[07/03/2015 19:55:06] Knight Dos Crias has logged in.
+[07/03/2015 19:55:21] Mateus has logged in.
+[07/03/2015 19:55:43] > Broadcasted message: "tirem mc vo bani".
+[07/03/2015 19:55:46] Demonic Striker has logged out.
+[07/03/2015 19:55:49] Demonic Striker has logged in.
+[07/03/2015 19:55:52] Knightzerah Mythus has logged out.
+[07/03/2015 19:55:59] Mage Ziika has logged out.
+[07/03/2015 19:56:20] Druidzerah Mythus has logged out.
+[07/03/2015 19:56:30] Knightzerah Mythus has logged in.
+[07/03/2015 19:56:49] Mateus has logged out.
+[07/03/2015 19:57:00] Account Manager has logged in.
+[07/03/2015 19:57:03] Knightzerah Mythus has logged out.
+[07/03/2015 19:57:03] Account Manager has logged out.
+[07/03/2015 19:57:04] Account Manager has logged in.
+[07/03/2015 19:57:04] Knightzerah Mythus has logged in.
+[07/03/2015 19:57:05] Account Manager has logged out.
+[07/03/2015 19:57:13] Druidzerah Mythus has logged in.
+[07/03/2015 19:57:15] Knightzerah Mythus has logged out.
+[07/03/2015 19:57:22] Dextrose has logged in.
+[07/03/2015 19:57:23] Hiroshi has logged out.
+[07/03/2015 19:57:44] Knight Dos Crias has logged out.
+[07/03/2015 19:57:46] Knight Dos Crias has logged in.
+[07/03/2015 19:57:47] Fakedoi has logged out.
+[07/03/2015 19:57:48] Fakedoi has logged in.
+[07/03/2015 19:57:49] Nadador Arqueiro has logged out.
+[07/03/2015 19:58:06] Kina Insane has logged out.
+[07/03/2015 19:58:08] Kina Insane has logged in.
+[07/03/2015 19:58:34] Demonic Striker has logged out.
+[07/03/2015 19:58:37] Demonic Striker has logged in.
+[07/03/2015 20:00:50] Druidzerah Mythus has logged out.
+[07/03/2015 20:01:05] Druidzerah Mythus has logged in.
+[07/03/2015 20:01:16] Hiroshi has logged in.
+[07/03/2015 20:01:37] Slc Cachorrera has logged out.
+[07/03/2015 20:01:53] Slc Cachorrera has logged in.
+[07/03/2015 20:01:56] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 20:02:12] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[07/03/2015 20:02:26] > CLEAN: Removed 9546 items from 6004 tiles in 0.65 seconds.
+[07/03/2015 20:02:27] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 20:03:38] Kina Insane has logged out.
+[07/03/2015 20:03:40] Knight Dos Crias has logged out.
+[07/03/2015 20:04:03] Demonic Striker has logged out.
+[07/03/2015 20:04:19] Demonic Striker has logged in.
+[07/03/2015 20:04:47] Dextrose has logged out.
+[07/03/2015 20:04:51] Knight Dos Crias has logged in.
+[07/03/2015 20:05:37] Druidzerah Mythus has logged out.
+[07/03/2015 20:05:37] Hiroshi has logged out.
+[07/03/2015 20:05:39] Slc Cachorrera has logged out.
+[07/03/2015 20:06:31] Demonic Striker has logged out.
+[07/03/2015 20:07:02] Kurosaki Ichigo has logged out.
+[07/03/2015 20:07:07] Knight Dos Crias has logged out.
+[07/03/2015 20:08:37] > Saving server...
+[07/03/2015 20:08:39] > SAVE: Complete in 1.482 seconds using relational house storage.
+[07/03/2015 20:09:03] Pala Nas Sombras has logged out.
+[07/03/2015 20:10:33] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[07/03/2015 20:16:12] Fakedoi has logged out.
+[07/03/2015 20:16:48] > Saving server...
+[07/03/2015 20:16:49] > SAVE: Complete in 1.442 seconds using relational house storage.
+[07/03/2015 20:17:16] Hashi has logged out.
+[07/03/2015 20:17:17] > Saving server...
+[07/03/2015 20:17:18] > SAVE: Complete in 1.232 seconds using relational house storage.
+[07/03/2015 20:17:18] Preparing to shutdown server..
+[07/03/2015 20:17:19] .
+[07/03/2015 20:17:19] Exiting
+[07/03/2015 20:17:39] The Forgotten Server, version 0.3.4 (Crying Damson)
+[07/03/2015 20:17:39] Sever Criado Por Alissow e Comedinha.
+[07/03/2015 20:17:40] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[07/03/2015 20:17:40] Bom Jogo!!!
+[07/03/2015 20:17:40] 
+[07/03/2015 20:17:40] >> Debugging: nothing.
+[07/03/2015 20:17:40] >> Checking software version... failed checking - malformed file.
+[07/03/2015 20:17:48] 
+[07/03/2015 20:17:48] >> Loading config (config.lua)
+[07/03/2015 20:17:48] > Using plaintext passwords
+[07/03/2015 20:17:48] >> Loading RSA key
+[07/03/2015 20:17:48] >> Starting SQL connection
+[07/03/2015 20:17:49] >> Running Database Manager
+[07/03/2015 20:17:49] > Optimized database.
+[07/03/2015 20:17:50] >> Loading items
+[07/03/2015 20:17:50] >> Loading groups
+[07/03/2015 20:17:50] >> Loading vocations
+[07/03/2015 20:17:50] >> Loading script systems
+[07/03/2015 20:17:53] >> Loading chat channels
+[07/03/2015 20:17:53] >> Loading outfits
+[07/03/2015 20:17:54] >> Loading experience stages
+[07/03/2015 20:17:54] >> Loading monsters
+[07/03/2015 20:18:02] >> Loading map and spawns...
+[07/03/2015 20:18:05] > Map size: 65000x65000.
+[07/03/2015 20:18:05] > Map descriptions: 
+[07/03/2015 20:18:05] Saved with Remere's Map Editor 2.2
+[07/03/2015 20:18:05] No map description available.
+[07/03/2015 20:18:06] Duplicate uniqueId 2407
+[07/03/2015 20:18:10] > Map loading time: 7.706 seconds.
+[07/03/2015 20:18:11] > Data loading time: 1.435 seconds.
+[07/03/2015 20:18:12] > Unserialization time for houses: 0.015 seconds.
+[07/03/2015 20:18:40] > Unserialization time for map: 28.111 seconds.
+[07/03/2015 20:18:40] >> Checking world type... PvP
+[07/03/2015 20:18:40] >> Initializing game state modules and registering services...
+[07/03/2015 20:18:41] > Global address: deathpvp.no-ip.biz
+[07/03/2015 20:18:41] > Local ports:
+[07/03/2015 20:18:41] 7171	7172	
+[07/03/2015 20:18:42] >> All modules were loaded, server starting up...
+[07/03/2015 20:18:42] >> OT Death server Online!
+[07/03/2015 20:18:42] 
+[07/03/2015 20:19:00] > Saving server...
+[07/03/2015 20:19:01] > SAVE: Complete in 1.138 seconds using relational house storage.
+[07/03/2015 20:19:01] Preparing to shutdown server..
+[07/03/2015 20:19:01] .
+[07/03/2015 20:19:01] Exiting
+[07/03/2015 20:19:05] The Forgotten Server, version 0.3.4 (Crying Damson)
+[07/03/2015 20:19:05] Sever Criado Por Alissow e Comedinha.
+[07/03/2015 20:19:06] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[07/03/2015 20:19:06] Bom Jogo!!!
+[07/03/2015 20:19:06] 
+[07/03/2015 20:19:06] >> Debugging: nothing.
+[07/03/2015 20:19:06] >> Checking software version... failed checking - malformed file.
+[07/03/2015 20:19:07] 
+[07/03/2015 20:19:07] >> Loading config (config.lua)
+[07/03/2015 20:19:07] > Using plaintext passwords
+[07/03/2015 20:19:07] >> Loading RSA key
+[07/03/2015 20:19:07] >> Starting SQL connection
+[07/03/2015 20:19:07] >> Running Database Manager
+[07/03/2015 20:19:08] > Optimized database.
+[07/03/2015 20:19:08] >> Loading items
+[07/03/2015 20:19:08] >> Loading groups
+[07/03/2015 20:19:08] >> Loading vocations
+[07/03/2015 20:19:08] >> Loading script systems
+[07/03/2015 20:19:09] >> Loading chat channels
+[07/03/2015 20:19:09] >> Loading outfits
+[07/03/2015 20:19:09] >> Loading experience stages
+[07/03/2015 20:19:09] >> Loading monsters
+[07/03/2015 20:19:10] >> Loading map and spawns...
+[07/03/2015 20:19:11] > Map size: 65000x65000.
+[07/03/2015 20:19:11] > Map descriptions: 
+[07/03/2015 20:19:11] Saved with Remere's Map Editor 2.2
+[07/03/2015 20:19:11] No map description available.
+[07/03/2015 20:19:11] Duplicate uniqueId 2407
+[07/03/2015 20:19:15] > Map loading time: 4.851 seconds.
+[07/03/2015 20:19:15] > Data loading time: 0.28 seconds.
+[07/03/2015 20:19:15] > Unserialization time for houses: 0.015 seconds.
+[07/03/2015 20:19:40] > Unserialization time for map: 24.149 seconds.
+[07/03/2015 20:19:40] >> Checking world type... PvP
+[07/03/2015 20:19:40] >> Initializing game state modules and registering services...
+[07/03/2015 20:19:40] > Global address: deathpvp.no-ip.biz
+[07/03/2015 20:19:41] > Local ports:
+[07/03/2015 20:19:41] 7171	7172	
+[07/03/2015 20:19:41] >> All modules were loaded, server starting up...
+[07/03/2015 20:19:41] >> OT Death server Online!
+[07/03/2015 20:19:41] 
+[07/03/2015 20:20:08] > Saving server...
+[07/03/2015 20:20:10] > SAVE: Complete in 1.155 seconds using relational house storage.
+[07/03/2015 20:20:10] Preparing to shutdown server..
+[07/03/2015 20:20:10] .
+[07/03/2015 20:20:10] Exiting
+[07/03/2015 20:20:32] The Forgotten Server, version 0.3.4 (Crying Damson)
+[07/03/2015 20:20:32] Sever Criado Por Alissow e Comedinha.
+[07/03/2015 20:20:33] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[07/03/2015 20:20:33] Bom Jogo!!!
+[07/03/2015 20:20:33] 
+[07/03/2015 20:20:33] >> Debugging: nothing.
+[07/03/2015 20:20:33] >> Checking software version... failed checking - malformed file.
+[07/03/2015 20:20:34] 
+[07/03/2015 20:20:34] >> Loading config (config.lua)
+[07/03/2015 20:20:34] > Using plaintext passwords
+[07/03/2015 20:20:34] >> Loading RSA key
+[07/03/2015 20:20:34] >> Starting SQL connection
+[07/03/2015 20:20:35] >> Running Database Manager
+[07/03/2015 20:20:35] > Optimized database.
+[07/03/2015 20:20:35] >> Loading items
+[07/03/2015 20:20:35] >> Loading groups
+[07/03/2015 20:20:35] >> Loading vocations
+[07/03/2015 20:20:36] >> Loading script systems
+[07/03/2015 20:20:36] >> Loading chat channels
+[07/03/2015 20:20:36] >> Loading outfits
+[07/03/2015 20:20:36] >> Loading experience stages
+[07/03/2015 20:20:36] >> Loading monsters
+[07/03/2015 20:20:37] >> Loading map and spawns...
+[07/03/2015 20:20:38] > Map size: 65000x65000.
+[07/03/2015 20:20:38] > Map descriptions: 
+[07/03/2015 20:20:38] Saved with Remere's Map Editor 2.2
+[07/03/2015 20:20:38] No map description available.
+[07/03/2015 20:20:39] Duplicate uniqueId 2407
+[07/03/2015 20:20:42] > Map loading time: 4.883 seconds.
+[07/03/2015 20:20:42] > Data loading time: 0.281 seconds.
+[07/03/2015 20:20:43] > Unserialization time for houses: 0.016 seconds.
+[07/03/2015 20:21:06] > Unserialization time for map: 23.478 seconds.
+[07/03/2015 20:21:06] >> Checking world type... PvP
+[07/03/2015 20:21:07] >> Initializing game state modules and registering services...
+[07/03/2015 20:21:07] > Global address: deathpvp.no-ip.biz
+[07/03/2015 20:21:07] > Local ports:
+[07/03/2015 20:21:07] 7171	7172	
+[07/03/2015 20:21:07] >> All modules were loaded, server starting up...
+[07/03/2015 20:21:08] >> OT Death server Online!
+[07/03/2015 20:21:08] 
+[07/03/2015 20:22:19] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[07/03/2015 20:23:20] > Saving server...
+[07/03/2015 20:23:22] > SAVE: Complete in 1.108 seconds using relational house storage.
+[07/03/2015 20:23:22] Preparing to shutdown server..
+[07/03/2015 20:23:22] .
+[07/03/2015 20:23:22] Exiting
+[07/03/2015 20:24:21] The Forgotten Server, version 0.3.4 (Crying Damson)
+[07/03/2015 20:24:21] Sever Criado Por Alissow e Comedinha.
+[07/03/2015 20:24:21] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[07/03/2015 20:24:22] Bom Jogo!!!
+[07/03/2015 20:24:22] 
+[07/03/2015 20:24:22] >> Debugging: nothing.
+[07/03/2015 20:24:22] >> Checking software version... failed checking - malformed file.
+[07/03/2015 20:24:23] 
+[07/03/2015 20:24:23] >> Loading config (config.lua)
+[07/03/2015 20:24:23] > Using plaintext passwords
+[07/03/2015 20:24:23] >> Loading RSA key
+[07/03/2015 20:24:23] >> Starting SQL connection
+[07/03/2015 20:24:23] >> Running Database Manager
+[07/03/2015 20:24:24] > Optimized database.
+[07/03/2015 20:24:24] >> Loading items
+[07/03/2015 20:24:24] >> Loading groups
+[07/03/2015 20:24:25] >> Loading vocations
+[07/03/2015 20:24:25] >> Loading script systems
+[07/03/2015 20:24:26] >> Loading chat channels
+[07/03/2015 20:24:26] >> Loading outfits
+[07/03/2015 20:24:26] >> Loading experience stages
+[07/03/2015 20:24:26] >> Loading monsters
+[07/03/2015 20:24:27] >> Loading map and spawns...
+[07/03/2015 20:24:28] > Map size: 65000x65000.
+[07/03/2015 20:24:28] > Map descriptions: 
+[07/03/2015 20:24:28] Saved with Remere's Map Editor 2.2
+[07/03/2015 20:24:28] No map description available.
+[07/03/2015 20:24:29] Duplicate uniqueId 2407
+[07/03/2015 20:24:32] > Map loading time: 4.93 seconds.
+[07/03/2015 20:24:32] > Data loading time: 0.281 seconds.
+[07/03/2015 20:24:33] > Unserialization time for houses: 0.015 seconds.
+[07/03/2015 20:24:57] > Unserialization time for map: 24.133 seconds.
+[07/03/2015 20:24:57] >> Checking world type... PvP
+[07/03/2015 20:24:57] >> Initializing game state modules and registering services...
+[07/03/2015 20:24:58] > Global address: deathpvp.no-ip.biz
+[07/03/2015 20:24:58] > Local ports:
+[07/03/2015 20:24:58] 7171	7172	
+[07/03/2015 20:24:58] >> All modules were loaded, server starting up...
+[07/03/2015 20:24:58] >> OT Death server Online!
+[07/03/2015 20:24:59] 
+[07/03/2015 20:25:00] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[07/03/2015 20:25:03] Account Manager has logged in.
+[07/03/2015 20:25:06] Account Manager has logged out.
+[07/03/2015 20:25:10] Account Manager has logged in.
+[07/03/2015 20:25:12] Account Manager has logged out.
+[07/03/2015 20:25:16] Ultimate Archer has logged in.
+[07/03/2015 20:25:17] Kina Insane has logged in.
+[07/03/2015 20:25:30] Fakedoi has logged in.
+[07/03/2015 20:28:01] Account Manager has logged in.
+[07/03/2015 20:28:19] Account Manager has logged out.
+[07/03/2015 20:28:20] Account Manager has logged in.
+[07/03/2015 20:28:21] Account Manager has logged out.
+[07/03/2015 20:28:28] Hashi has logged in.
+[07/03/2015 20:29:04] Hashi has logged out.
+[07/03/2015 20:29:10] Hashi has logged in.
+[07/03/2015 20:29:12] Hiroshi has logged in.
+[07/03/2015 20:29:12] Account Manager has logged in.
+[07/03/2015 20:29:17] Account Manager has logged out.
+[07/03/2015 20:29:38] Ultimate Archer has logged out.
+[07/03/2015 20:29:39] Druidzerah Mythus has logged in.
+[07/03/2015 20:29:44] Account Manager has logged in.
+[07/03/2015 20:29:45] Account Manager has logged out.
+[07/03/2015 20:29:46] Ultimate Archer has logged in.
+[07/03/2015 20:30:01] Lks Mormaii has logged in.
+[07/03/2015 20:32:47] > Broadcasted message: "Para comprar bless digite !bless".
+[07/03/2015 20:34:56] Maligno has logged in.
+[07/03/2015 20:35:16] Kina Insane has logged out.
+[07/03/2015 20:35:22] Kina Insane has logged in.
+[07/03/2015 20:35:49] Kurosaki Ichigo has logged in.
+[07/03/2015 20:38:27] Lks Mormaii has logged out.
+[07/03/2015 20:38:30] Lks Mormaii has logged in.
+[07/03/2015 20:39:05] Maligno has logged out.
+[07/03/2015 20:39:15] Account Manager has logged in.
+[07/03/2015 20:39:46] Lks Mormaii has logged out.
+[07/03/2015 20:39:47] Account Manager has logged out.
+[07/03/2015 20:39:48] Lks Mormaii has logged in.
+[07/03/2015 20:40:01] Account Manager has logged in.
+[07/03/2015 20:40:50] Account Manager has logged out.
+[07/03/2015 20:40:56] Lks Mormaii has logged out.
+[07/03/2015 20:40:57] Ultimate Archer has logged out.
+[07/03/2015 20:40:59] Lks Mormaii has logged in.
+[07/03/2015 20:40:59] Ultimate Archer has logged in.
+[07/03/2015 20:41:01] Violetta has logged in.
+[07/03/2015 20:41:07] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 20:41:11] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[07/03/2015 20:41:40] > CLEAN: Removed 8255 items from 4055 tiles in 0.507 seconds.
+[07/03/2015 20:41:41] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 20:42:22] Fakedoi has logged out.
+[07/03/2015 20:42:27] Fakedoi has logged in.
+[07/03/2015 20:44:06] Violetta has logged out.
+[07/03/2015 20:44:13] Violetta has logged in.
+[07/03/2015 20:44:35] Violetta has logged out.
+[07/03/2015 20:44:38] Violetta has logged in.
+[07/03/2015 20:47:02] Lks Mormaii has logged out.
+[07/03/2015 20:47:03] Lks Mormaii has logged in.
+[07/03/2015 20:47:19] Lks Mormaii has logged out.
+[07/03/2015 20:47:21] Lks Mormaii has logged in.
+[07/03/2015 20:47:51] Violetta has logged out.
+[07/03/2015 20:47:52] > Saving server...
+[07/03/2015 20:47:55] > SAVE: Complete in 2.896 seconds using relational house storage.
+[07/03/2015 20:47:58] Violetta has logged in.
+[07/03/2015 20:48:59] Lks Mormaii has logged out.
+[07/03/2015 20:49:00] Lks Mormaii has logged in.
+[07/03/2015 20:49:32] > Broadcasted message: "Para comprar bless digite !bless".
+[07/03/2015 20:49:47] Lks Mormaii has logged out.
+[07/03/2015 20:49:49] Lks Mormaii has logged in.
+[07/03/2015 20:50:02] Violetta has logged out.
+[07/03/2015 20:50:05] Violetta has logged in.
+[07/03/2015 20:51:29] Slc Cachorrera has logged in.
+[07/03/2015 20:51:39] Anjo pk has logged in.
+[07/03/2015 20:52:02] Knight Dos Crias has logged in.
+[07/03/2015 20:52:14] Hiroshi has logged out.
+[07/03/2015 20:52:16] Hiroshi has logged in.
+[07/03/2015 20:52:42] Hiroshi has logged out.
+[07/03/2015 20:52:44] Hiroshi has logged in.
+[07/03/2015 20:53:06] Kurosaki Ichigo has logged out.
+[07/03/2015 20:53:39] Hashi has logged out.
+[07/03/2015 20:53:40] Hashi has logged in.
+[07/03/2015 20:53:52] Anjo pk has logged out.
+[07/03/2015 20:53:54] Anjo pk has logged in.
+[07/03/2015 20:55:23] Slc Cachorrera has logged out.
+[07/03/2015 20:55:26] Slc Cachorrera has logged in.
+[07/03/2015 20:57:48] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 20:57:53] > Broadcasted message: "Para ver as noticias fale !notice".
+[07/03/2015 20:58:19] > CLEAN: Removed 7495 items from 5102 tiles in 0.385 seconds.
+[07/03/2015 20:58:19] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 20:59:52] Violetta has logged out.
+[07/03/2015 21:00:05] Ultimate Archer has logged out.
+[07/03/2015 21:00:07] Ultimate Archer has logged in.
+[07/03/2015 21:00:48] Violetta has logged in.
+[07/03/2015 21:01:22] Kina Insane has logged out.
+[07/03/2015 21:01:26] Kina Insane has logged in.
+[07/03/2015 21:01:28] Mage Ziika has logged in.
+[07/03/2015 21:01:53] Brimm-bromm has logged in.
+[07/03/2015 21:02:25] Fakedoi has logged out.
+[07/03/2015 21:02:50] Brimm-bromm has logged out.
+[07/03/2015 21:02:55] Fakedoi has logged in.
+[07/03/2015 21:03:11] Brimm-bromm has logged in.
+[07/03/2015 21:03:16] 
+[07/03/2015 21:03:16] Lua Script Error: [TalkAction Interface] 
+[07/03/2015 21:03:16] data/talkactions/scripts/deathlist.lua:onSay
+[07/03/2015 21:03:17] 
+[07/03/2015 21:03:17] luaGetPlayerNameByGUID(). Player not found
+[07/03/2015 21:03:17] 
+[07/03/2015 21:03:17] Lua Script Error: [TalkAction Interface] 
+[07/03/2015 21:03:17] data/talkactions/scripts/deathlist.lua:onSay
+[07/03/2015 21:03:18] 
+[07/03/2015 21:03:18] data/talkactions/scripts/deathlist.lua:47: attempt to concatenate local 'killed' (a nil value)
+[07/03/2015 21:03:18] stack traceback:
+[07/03/2015 21:03:19] 	data/talkactions/scripts/deathlist.lua:47: in function <data/talkactions/scripts/deathlist.lua:5>
+[07/03/2015 21:03:25] 
+[07/03/2015 21:03:25] Lua Script Error: [TalkAction Interface] 
+[07/03/2015 21:03:25] data/talkactions/scripts/deathlist.lua:onSay
+[07/03/2015 21:03:25] 
+[07/03/2015 21:03:25] luaGetPlayerNameByGUID(). Player not found
+[07/03/2015 21:03:26] 
+[07/03/2015 21:03:26] Lua Script Error: [TalkAction Interface] 
+[07/03/2015 21:03:26] data/talkactions/scripts/deathlist.lua:onSay
+[07/03/2015 21:03:26] 
+[07/03/2015 21:03:26] data/talkactions/scripts/deathlist.lua:47: attempt to concatenate local 'killed' (a nil value)
+[07/03/2015 21:03:27] stack traceback:
+[07/03/2015 21:03:27] 	data/talkactions/scripts/deathlist.lua:47: in function <data/talkactions/scripts/deathlist.lua:5>
+[07/03/2015 21:03:39] 
+[07/03/2015 21:03:39] Lua Script Error: [TalkAction Interface] 
+[07/03/2015 21:03:39] data/talkactions/scripts/deathlist.lua:onSay
+[07/03/2015 21:03:39] 
+[07/03/2015 21:03:39] luaGetPlayerNameByGUID(). Player not found
+[07/03/2015 21:03:40] 
+[07/03/2015 21:03:40] Lua Script Error: [TalkAction Interface] 
+[07/03/2015 21:03:40] data/talkactions/scripts/deathlist.lua:onSay
+[07/03/2015 21:03:40] 
+[07/03/2015 21:03:40] data/talkactions/scripts/deathlist.lua:47: attempt to concatenate local 'killed' (a nil value)
+[07/03/2015 21:03:41] stack traceback:
+[07/03/2015 21:03:41] 	data/talkactions/scripts/deathlist.lua:47: in function <data/talkactions/scripts/deathlist.lua:5>
+[07/03/2015 21:05:36] Brimm-bromm has logged out.
+[07/03/2015 21:05:40] Brimm-bromm has logged in.
+[07/03/2015 21:06:14] > Broadcasted message: "Para comprar bless digite !bless".
+[07/03/2015 21:09:35] Violetta has logged out.
+[07/03/2015 21:09:42] Violetta has logged in.
+[07/03/2015 21:09:55] Violetta has logged out.
+[07/03/2015 21:10:00] Violetta has logged in.
+[07/03/2015 21:10:34] Brimm-bromm has logged out.
+[07/03/2015 21:10:36] Lks Mormaii has logged out.
+[07/03/2015 21:10:36] Brimm-bromm has logged in.
+[07/03/2015 21:10:38] Lks Mormaii has logged in.
+[07/03/2015 21:10:45] Mage Ziika has logged out.
+[07/03/2015 21:11:13] > Saving server...
+[07/03/2015 21:11:16] > SAVE: Complete in 2.866 seconds using relational house storage.
+[07/03/2015 21:12:16] Brimm-bromm has logged out.
+[07/03/2015 21:12:18] Brimm-bromm has logged in.
+[07/03/2015 21:12:19] 
+[07/03/2015 21:12:19] Lua Script Error: [TalkAction Interface] 
+[07/03/2015 21:12:20] data/talkactions/scripts/deathlist.lua:onSay
+[07/03/2015 21:12:20] 
+[07/03/2015 21:12:20] luaGetPlayerNameByGUID(). Player not found
+[07/03/2015 21:12:22] 
+[07/03/2015 21:12:22] Lua Script Error: [TalkAction Interface] 
+[07/03/2015 21:12:22] data/talkactions/scripts/deathlist.lua:onSay
+[07/03/2015 21:12:23] 
+[07/03/2015 21:12:23] data/talkactions/scripts/deathlist.lua:47: attempt to concatenate local 'killed' (a nil value)
+[07/03/2015 21:12:23] stack traceback:
+[07/03/2015 21:12:24] 	data/talkactions/scripts/deathlist.lua:47: in function <data/talkactions/scripts/deathlist.lua:5>
+[07/03/2015 21:13:44] Violetta has logged out.
+[07/03/2015 21:13:57] Mariana Knight has logged in.
+[07/03/2015 21:14:29] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 21:14:35] > Broadcasted message: "Para comprar bless digite !bless".
+[07/03/2015 21:15:00] > CLEAN: Removed 14689 items from 8851 tiles in 0.504 seconds.
+[07/03/2015 21:15:00] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 21:15:17] Demonic Striker has logged in.
+[07/03/2015 21:15:34] Demonic Striker has logged out.
+[07/03/2015 21:15:37] Demonic Striker has logged in.
+[07/03/2015 21:15:42] Knight Dos Crias has logged out.
+[07/03/2015 21:15:43] Anjo pk has logged out.
+[07/03/2015 21:15:44] Knight Dos Crias has logged in.
+[07/03/2015 21:15:45] Anjo pk has logged in.
+[07/03/2015 21:15:48] Slc Cachorrera has logged out.
+[07/03/2015 21:15:50] Slc Cachorrera has logged in.
+[07/03/2015 21:17:06] Knight Dos Crias has logged out.
+[07/03/2015 21:17:07] Knight Dos Crias has logged in.
+[07/03/2015 21:17:47] Fakedoi has logged out.
+[07/03/2015 21:17:48] Fakedoi has logged in.
+[07/03/2015 21:18:11] Ultimate Archer has logged out.
+[07/03/2015 21:19:01] Anjo pk has logged out.
+[07/03/2015 21:19:03] Anjo pk has logged in.
+[07/03/2015 21:19:22] Slc Cachorrera has logged out.
+[07/03/2015 21:19:24] Slc Cachorrera has logged in.
+[07/03/2015 21:20:00] Kurosaki Ichigo has logged in.
+[07/03/2015 21:20:54] Hiroshi has logged out.
+[07/03/2015 21:21:31] Mage Ziika has logged in.
+[07/03/2015 21:21:52] Mage Ziika has logged out.
+[07/03/2015 21:22:08] Hiroshi has logged in.
+[07/03/2015 21:22:31] Fakedoi has logged out.
+[07/03/2015 21:22:34] Fakedoi has logged in.
+[07/03/2015 21:22:56] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[07/03/2015 21:22:58] Mariana Knight has logged out.
+[07/03/2015 21:23:02] Mariana Knight has logged in.
+[07/03/2015 21:23:13] Druidzerah Mythus has logged out.
+[07/03/2015 21:23:38] Mariana Knight has logged out.
+[07/03/2015 21:24:00] Maligno has logged in.
+[07/03/2015 21:24:06] Lks Mormaii has logged out.
+[07/03/2015 21:24:09] Lks Mormaii has logged in.
+[07/03/2015 21:24:25] Maligno has logged out.
+[07/03/2015 21:24:36] Druidzerah Mythus has logged in.
+[07/03/2015 21:24:42] Violetta has logged in.
+[07/03/2015 21:25:20] Lks Mormaii has logged out.
+[07/03/2015 21:25:22] Lks Mormaii has logged in.
+[07/03/2015 21:25:25] Violetta has logged out.
+[07/03/2015 21:25:27] Violetta has logged in.
+[07/03/2015 21:25:28] Demonic Striker has logged out.
+[07/03/2015 21:25:29] 
+[07/03/2015 21:25:29] Lua Script Error: [CreatureScript Interface] 
+[07/03/2015 21:25:31] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[07/03/2015 21:25:31] 
+[07/03/2015 21:25:32] luaGetCreatureName(). Creature not found
+[07/03/2015 21:25:33] 
+[07/03/2015 21:25:33] Lua Script Error: [CreatureScript Interface] 
+[07/03/2015 21:25:33] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[07/03/2015 21:25:33] 
+[07/03/2015 21:25:33] luaGetCreatureName(). Creature not found
+[07/03/2015 21:25:34] Anjo pk has logged out.
+[07/03/2015 21:25:36] Demonic Striker has logged in.
+[07/03/2015 21:25:36] Anjo pk has logged in.
+[07/03/2015 21:25:48] Anjo pk has logged out.
+[07/03/2015 21:25:50] Anjo pk has logged in.
+[07/03/2015 21:25:53] Brimm-bromm has logged out.
+[07/03/2015 21:25:55] Kurosaki Ichigo has logged out.
+[07/03/2015 21:25:57] Brimm-bromm has logged in.
+[07/03/2015 21:25:58] Anjo pk has logged out.
+[07/03/2015 21:26:01] Kurosaki Ichigo has logged in.
+[07/03/2015 21:26:02] Anjo pk has logged in.
+[07/03/2015 21:26:15] Hashi has logged out.
+[07/03/2015 21:26:38] Anjo pk has logged out.
+[07/03/2015 21:26:40] Demonic Striker has logged out.
+[07/03/2015 21:26:40] Anjo pk has logged in.
+[07/03/2015 21:26:43] Demonic Striker has logged in.
+[07/03/2015 21:26:46] Hashi has logged in.
+[07/03/2015 21:26:59] Kurosaki Ichigo has logged out.
+[07/03/2015 21:27:02] Kurosaki Ichigo has logged in.
+[07/03/2015 21:27:21] Slc Cachorrera has logged out.
+[07/03/2015 21:27:23] Slc Cachorrera has logged in.
+[07/03/2015 21:27:35] Lks Mormaii has logged out.
+[07/03/2015 21:27:38] Lks Mormaii has logged in.
+[07/03/2015 21:28:07] Hiroshi has logged out.
+[07/03/2015 21:28:09] Hiroshi has logged in.
+[07/03/2015 21:28:14] Violetta has logged out.
+[07/03/2015 21:28:37] Mariana Knight has logged in.
+[07/03/2015 21:29:21] Hashi has logged out.
+[07/03/2015 21:29:43] Mariana Knight has logged out.
+[07/03/2015 21:29:49] Account Manager has logged in.
+[07/03/2015 21:30:03] Account Manager has logged out.
+[07/03/2015 21:30:21] Druidzerah Mythus has logged out.
+[07/03/2015 21:30:22] Violetta has logged in.
+[07/03/2015 21:30:36] Demonic Striker has logged out.
+[07/03/2015 21:30:41] Demonic Striker has logged in.
+[07/03/2015 21:30:55] Violetta has logged out.
+[07/03/2015 21:30:56] Demonic Striker has logged out.
+[07/03/2015 21:30:58] Demonic Striker has logged in.
+[07/03/2015 21:31:10] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 21:31:17] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[07/03/2015 21:31:19] Violetta has logged in.
+[07/03/2015 21:31:41] > CLEAN: Removed 10972 items from 6395 tiles in 0.456 seconds.
+[07/03/2015 21:31:42] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 21:32:07] Druidzerah Mythus has logged in.
+[07/03/2015 21:32:13] Account Manager has logged in.
+[07/03/2015 21:32:29] Violetta has logged out.
+[07/03/2015 21:32:31] Account Manager has logged out.
+[07/03/2015 21:32:40] Pala Nas Sombras has logged in.
+[07/03/2015 21:32:46] Hashi has logged in.
+[07/03/2015 21:32:48] Mariana Knight has logged in.
+[07/03/2015 21:33:01] Account Manager has logged in.
+[07/03/2015 21:33:14] Account Manager has logged out.
+[07/03/2015 21:33:36] Account Manager has logged in.
+[07/03/2015 21:34:12] Account Manager has logged out.
+[07/03/2015 21:34:34] > Saving server...
+[07/03/2015 21:34:37] > SAVE: Complete in 3.101 seconds using relational house storage.
+[07/03/2015 21:34:38] Mariana Knight has logged out.
+[07/03/2015 21:34:44] Mariana has logged in.
+[07/03/2015 21:34:50] Knight Master has logged in.
+[07/03/2015 21:35:00] Hashi has logged out.
+[07/03/2015 21:35:30] Mariana has logged out.
+[07/03/2015 21:35:32] Mariana Knight has logged in.
+[07/03/2015 21:36:08] Lks Mormaii has logged out.
+[07/03/2015 21:36:11] Lks Mormaii has logged in.
+[07/03/2015 21:36:19] Mariana Knight has logged out.
+[07/03/2015 21:36:31] Lks Mormaii has logged out.
+[07/03/2015 21:36:34] Lks Mormaii has logged in.
+[07/03/2015 21:36:37] Violetta has logged in.
+[07/03/2015 21:36:50] Lks Mormaii has logged out.
+[07/03/2015 21:36:51] Knight Dos Crias has logged out.
+[07/03/2015 21:36:54] Knight Dos Crias has logged in.
+[07/03/2015 21:36:54] Lks Mormaii has logged in.
+[07/03/2015 21:37:23] Honda has logged in.
+[07/03/2015 21:39:35] Violetta has logged out.
+[07/03/2015 21:39:38] > Broadcasted message: "Para ver as noticias fale !notice".
+[07/03/2015 21:39:48] Violetta has logged in.
+[07/03/2015 21:40:30] Violetta has logged out.
+[07/03/2015 21:40:34] Violetta has logged in.
+[07/03/2015 21:40:53] Hiroshi has logged out.
+[07/03/2015 21:40:55] Hiroshi has logged in.
+[07/03/2015 21:41:49] Slc Cachorrera has logged out.
+[07/03/2015 21:41:51] Slc Cachorrera has logged in.
+[07/03/2015 21:42:57] Honda has logged out.
+[07/03/2015 21:42:59] Honda has logged in.
+[07/03/2015 21:43:08] Knight Master has logged out.
+[07/03/2015 21:43:28] Knight Master has logged in.
+[07/03/2015 21:43:37] Account Manager has logged in.
+[07/03/2015 21:44:06] Account Manager has logged out.
+[07/03/2015 21:44:20] Hashi has logged in.
+[07/03/2015 21:44:33] Hashi has logged out.
+[07/03/2015 21:45:39] Violetta has logged out.
+[07/03/2015 21:45:40] Slc Cachorrera has logged out.
+[07/03/2015 21:45:42] Slc Cachorrera has logged in.
+[07/03/2015 21:45:42] Account Manager has logged in.
+[07/03/2015 21:45:43] Violetta has logged in.
+[07/03/2015 21:45:54] Violetta has logged out.
+[07/03/2015 21:45:58] Account Manager has logged in.
+[07/03/2015 21:45:59] Demonic Striker has logged out.
+[07/03/2015 21:46:03] Account Manager has logged out.
+[07/03/2015 21:46:06] Demonic Striker has logged in.
+[07/03/2015 21:46:18] Hashi has logged in.
+[07/03/2015 21:46:40] Account Manager has logged out.
+[07/03/2015 21:46:50] Violetta has logged in.
+[07/03/2015 21:46:56] Anjo pk has logged out.
+[07/03/2015 21:46:58] Anjo pk has logged in.
+[07/03/2015 21:47:04] Fakedoi has logged out.
+[07/03/2015 21:47:06] Kurosaki Ichigo has logged out.
+[07/03/2015 21:47:08] Kurosaki Ichigo has logged in.
+[07/03/2015 21:47:08] > Saving server...
+[07/03/2015 21:47:12] > SAVE: Complete in 3.386 seconds using relational house storage.
+[07/03/2015 21:47:25] Hashi has logged out.
+[07/03/2015 21:47:46] Violetta has logged out.
+[07/03/2015 21:47:48] Lodovica has logged in.
+[07/03/2015 21:47:49] Hashi has logged in.
+[07/03/2015 21:47:51] Kina Insane has logged out.
+[07/03/2015 21:47:51] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 21:47:52] Lodovica has logged out.
+[07/03/2015 21:47:53] Kina Insane has logged in.
+[07/03/2015 21:47:56] Violetta has logged in.
+[07/03/2015 21:47:59] > Broadcasted message: "Para comprar bless digite !bless".
+[07/03/2015 21:48:09] Violetta has logged out.
+[07/03/2015 21:48:13] Lodovica has logged in.
+[07/03/2015 21:48:22] > CLEAN: Removed 10833 items from 4798 tiles in 0.281 seconds.
+[07/03/2015 21:48:22] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 21:48:26] Kina Insane has logged out.
+[07/03/2015 21:48:36] Account Manager has logged in.
+[07/03/2015 21:48:49] Account Manager has logged out.
+[07/03/2015 21:48:54] Account Manager has logged in.
+[07/03/2015 21:49:21] Account Manager has logged out.
+[07/03/2015 21:49:36] Pally Destrocty has logged in.
+[07/03/2015 21:49:56] Pally Destrocty has logged out.
+[07/03/2015 21:50:00] Pala Nas Sombras has logged out.
+[07/03/2015 21:50:01] Lodovica has logged out.
+[07/03/2015 21:50:02] Kina Insane has logged in.
+[07/03/2015 21:50:05] Violetta has logged in.
+[07/03/2015 21:50:14] Violetta has logged out.
+[07/03/2015 21:50:16] Lodovica has logged in.
+[07/03/2015 21:50:25] Kina Insane has logged out.
+[07/03/2015 21:50:28] Brimm-bromm has logged out.
+[07/03/2015 21:50:30] Brimm-bromm has logged in.
+[07/03/2015 21:50:36] Pally Destrocty has logged in.
+[07/03/2015 21:50:44] Knight Dos Crias has logged out.
+[07/03/2015 21:50:45] Knight Dos Crias has logged in.
+[07/03/2015 21:51:08] Pally Destrocty has logged out.
+[07/03/2015 21:51:13] Kurosaki Ichigo has logged out.
+[07/03/2015 21:51:14] Kina Insane has logged in.
+[07/03/2015 21:51:14] Kurosaki Ichigo has logged in.
+[07/03/2015 21:51:27] Pally Destrocty has logged in.
+[07/03/2015 21:51:54] Slc Cachorrera has logged out.
+[07/03/2015 21:51:55] Slc Cachorrera has logged in.
+[07/03/2015 21:51:56] Brimm-bromm has logged out.
+[07/03/2015 21:51:57] Brimm-bromm has logged in.
+[07/03/2015 21:52:05] Knight Dos Crias has logged out.
+[07/03/2015 21:52:06] Knight Dos Crias has logged in.
+[07/03/2015 21:52:14] Brimm-bromm has logged out.
+[07/03/2015 21:52:16] Brimm-bromm has logged in.
+[07/03/2015 21:52:17] Anjo pk has logged out.
+[07/03/2015 21:52:19] Anjo pk has logged in.
+[07/03/2015 21:52:25] Slc Cachorrera has logged out.
+[07/03/2015 21:52:26] Slc Cachorrera has logged in.
+[07/03/2015 21:52:40] Knight Master has logged out.
+[07/03/2015 21:52:41] Account Manager has logged in.
+[07/03/2015 21:52:48] Lks Mormaii has logged out.
+[07/03/2015 21:52:50] Brimm-bromm has logged out.
+[07/03/2015 21:52:50] Lks Mormaii has logged in.
+[07/03/2015 21:52:52] Brimm-bromm has logged in.
+[07/03/2015 21:53:01] Account Manager has logged out.
+[07/03/2015 21:53:08] Lodovica has logged out.
+[07/03/2015 21:53:09] Druid Master has logged in.
+[07/03/2015 21:53:13] Lodovica has logged in.
+[07/03/2015 21:53:32] Druid Master has logged out.
+[07/03/2015 21:53:33] Druid Master has logged in.
+[07/03/2015 21:53:43] Kurosaki Ichigo has logged out.
+[07/03/2015 21:53:45] Kurosaki Ichigo has logged in.
+[07/03/2015 21:54:25] Demonic Striker has logged out.
+[07/03/2015 21:54:27] Demonic Striker has logged in.
+[07/03/2015 21:54:36] Demonic Striker has logged out.
+[07/03/2015 21:54:37] Knight Dos Crias has logged out.
+[07/03/2015 21:54:38] Demonic Striker has logged in.
+[07/03/2015 21:54:38] Knight Dos Crias has logged in.
+[07/03/2015 21:55:07] Kurosaki Ichigo has logged out.
+[07/03/2015 21:55:08] Kurosaki Ichigo has logged in.
+[07/03/2015 21:55:18] Lks Mormaii has logged out.
+[07/03/2015 21:55:19] 
+[07/03/2015 21:55:19] Lua Script Error: [CreatureScript Interface] 
+[07/03/2015 21:55:19] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[07/03/2015 21:55:20] 
+[07/03/2015 21:55:20] luaGetCreatureName(). Creature not found
+[07/03/2015 21:55:20] Knight Dos Crias has logged out.
+[07/03/2015 21:55:21] Lks Mormaii has logged in.
+[07/03/2015 21:55:21] Knight Dos Crias has logged in.
+[07/03/2015 21:55:38] Druid Master has logged out.
+[07/03/2015 21:55:40] Knight Dos Crias has logged out.
+[07/03/2015 21:55:41] Knight Dos Crias has logged in.
+[07/03/2015 21:56:12] Kurosaki Ichigo has logged out.
+[07/03/2015 21:56:12] Demonic Striker has logged out.
+[07/03/2015 21:56:13] Kurosaki Ichigo has logged in.
+[07/03/2015 21:56:14] Demonic Striker has logged in.
+[07/03/2015 21:56:19] Anjo pk has logged out.
+[07/03/2015 21:56:20] Anjo pk has logged in.
+[07/03/2015 21:56:20] > Broadcasted message: "Para comprar bless digite !bless".
+[07/03/2015 21:56:39] Lodovica has logged out.
+[07/03/2015 21:56:43] Lodovica has logged in.
+[07/03/2015 21:56:44] Lks Mormaii has logged out.
+[07/03/2015 21:56:46] Lks Mormaii has logged in.
+[07/03/2015 21:56:47] Lodovica has logged out.
+[07/03/2015 21:57:17] Mariana has logged in.
+[07/03/2015 21:57:55] > Saving server...
+[07/03/2015 21:57:58] > SAVE: Complete in 3.052 seconds using relational house storage.
+[07/03/2015 21:58:38] Knight Dos Crias has logged out.
+[07/03/2015 21:58:39] Mariana has logged out.
+[07/03/2015 21:58:40] Knight Dos Crias has logged in.
+[07/03/2015 21:58:42] Mariana has logged in.
+[07/03/2015 21:58:52] Kina Insane has logged out.
+[07/03/2015 21:59:23] Lks Mormaii has logged out.
+[07/03/2015 21:59:25] Lks Mormaii has logged in.
+[07/03/2015 22:00:22] Mariana has logged out.
+[07/03/2015 22:00:24] Brimm-bromm has logged out.
+[07/03/2015 22:00:25] Brimm-bromm has logged in.
+[07/03/2015 22:00:42] Demonic Striker has logged out.
+[07/03/2015 22:00:50] Lodovica has logged in.
+[07/03/2015 22:01:01] Demonic Striker has logged in.
+[07/03/2015 22:01:53] Hiroshi has logged out.
+[07/03/2015 22:01:54] Lodovica has logged out.
+[07/03/2015 22:01:57] Violetta has logged in.
+[07/03/2015 22:03:41] Kurosaki Ichigo has logged out.
+[07/03/2015 22:03:42] Demonic Striker has logged out.
+[07/03/2015 22:03:43] Kurosaki Ichigo has logged in.
+[07/03/2015 22:03:43] Demonic Striker has logged in.
+[07/03/2015 22:03:55] Lks Mormaii has logged out.
+[07/03/2015 22:03:57] Lks Mormaii has logged in.
+[07/03/2015 22:04:19] Lks Mormaii has logged out.
+[07/03/2015 22:04:21] Lks Mormaii has logged in.
+[07/03/2015 22:04:32] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 22:04:37] Lks Mormaii has logged out.
+[07/03/2015 22:04:38] Demonic Striker has logged out.
+[07/03/2015 22:04:39] Lks Mormaii has logged in.
+[07/03/2015 22:04:40] Demonic Striker has logged in.
+[07/03/2015 22:04:41] > Broadcasted message: "Para comprar bless digite !bless".
+[07/03/2015 22:05:02] > CLEAN: Removed 5361 items from 3329 tiles in 0.319 seconds.
+[07/03/2015 22:05:03] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 22:05:45] Brimm-bromm has logged out.
+[07/03/2015 22:05:46] Brimm-bromm has logged in.
+[07/03/2015 22:06:01] Hashi has logged out.
+[07/03/2015 22:06:02] Hashi has logged in.
+[07/03/2015 22:06:29] Brimm-bromm has logged out.
+[07/03/2015 22:06:31] Brimm-bromm has logged in.
+[07/03/2015 22:06:50] Slc Cachorrera has logged out.
+[07/03/2015 22:06:56] Slc Cachorrera has logged in.
+[07/03/2015 22:07:27] Brimm-bromm has logged out.
+[07/03/2015 22:07:29] Brimm-bromm has logged in.
+[07/03/2015 22:07:48] Demonic Striker has logged out.
+[07/03/2015 22:07:51] Demonic Striker has logged in.
+[07/03/2015 22:08:05] Knight Dos Crias has logged out.
+[07/03/2015 22:08:07] Knight Dos Crias has logged in.
+[07/03/2015 22:08:19] Pally Destrocty has logged out.
+[07/03/2015 22:08:28] Kina Insane has logged in.
+[07/03/2015 22:08:46] Kina Insane has logged out.
+[07/03/2015 22:08:56] Pally Destrocty has logged in.
+[07/03/2015 22:09:12] Eu Gosto De Buceta has logged in.
+[07/03/2015 22:09:23] Violetta has logged out.
+[07/03/2015 22:09:24] Vem Monstro has logged in.
+[07/03/2015 22:09:28] Lks Mormaii has logged out.
+[07/03/2015 22:09:30] Lks Mormaii has logged in.
+[07/03/2015 22:09:32] Hiroshi has logged in.
+[07/03/2015 22:10:04] Demonic Striker has logged out.
+[07/03/2015 22:10:19] Demonic Striker has logged in.
+[07/03/2015 22:10:50] Hiroshi has logged out.
+[07/03/2015 22:10:54] Pally Destrocty has logged out.
+[07/03/2015 22:10:58] Pally Destrocty has logged in.
+[07/03/2015 22:11:14] Demonic Striker has logged out.
+[07/03/2015 22:11:15] Pally Destrocty has logged out.
+[07/03/2015 22:11:17] Demonic Striker has logged in.
+[07/03/2015 22:11:17] Pally Destrocty has logged in.
+[07/03/2015 22:11:20] Vem Monstro has logged out.
+[07/03/2015 22:11:22] Mr Thug has logged in.
+[07/03/2015 22:11:34] Hiroshi has logged in.
+[07/03/2015 22:11:37] Pally Destrocty has logged out.
+[07/03/2015 22:11:39] Pally Destrocty has logged in.
+[07/03/2015 22:12:13] Pally Destrocty has logged out.
+[07/03/2015 22:12:21] Kina Insane has logged in.
+[07/03/2015 22:12:45] Lady girl has logged in.
+[07/03/2015 22:12:53] Pally Destrocty has logged in.
+[07/03/2015 22:12:55] Lks Mormaii has logged out.
+[07/03/2015 22:12:58] Lks Mormaii has logged in.
+[07/03/2015 22:12:58] Demonic Striker has logged out.
+[07/03/2015 22:13:00] Kurosaki Ichigo has logged out.
+[07/03/2015 22:13:00] Demonic Striker has logged in.
+[07/03/2015 22:13:00] Hiroshi has logged out.
+[07/03/2015 22:13:02] Kurosaki Ichigo has logged in.
+[07/03/2015 22:13:02] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[07/03/2015 22:13:04] Hiroshi has logged in.
+[07/03/2015 22:13:06] Anjo pk has logged out.
+[07/03/2015 22:13:10] Anjo pk has logged in.
+[07/03/2015 22:13:12] Kurosaki Ichigo has logged out.
+[07/03/2015 22:13:14] Slc Cachorrera has logged out.
+[07/03/2015 22:13:14] Kurosaki Ichigo has logged in.
+[07/03/2015 22:13:16] Slc Cachorrera has logged in.
+[07/03/2015 22:13:21] Demonic Striker has logged out.
+[07/03/2015 22:13:24] Demonic Striker has logged in.
+[07/03/2015 22:13:44] Lks Mormaii has logged out.
+[07/03/2015 22:13:47] Lks Mormaii has logged in.
+[07/03/2015 22:13:49] Hiroshi has logged out.
+[07/03/2015 22:13:57] Mage Ziika has logged in.
+[07/03/2015 22:13:59] Kina Insane has logged out.
+[07/03/2015 22:14:04] Lks Mormaii has logged out.
+[07/03/2015 22:14:06] Lks Mormaii has logged in.
+[07/03/2015 22:14:33] Pally Destrocty has logged out.
+[07/03/2015 22:14:45] Demonic Striker has logged out.
+[07/03/2015 22:14:45] Kina Insane has logged in.
+[07/03/2015 22:14:47] Demonic Striker has logged in.
+[07/03/2015 22:15:23] Pally Destrocty has logged in.
+[07/03/2015 22:15:40] Kina Insane has logged out.
+[07/03/2015 22:15:58] Kurosaki Ichigo has logged out.
+[07/03/2015 22:15:59] Lks Mormaii has logged out.
+[07/03/2015 22:16:00] Kurosaki Ichigo has logged in.
+[07/03/2015 22:16:01] Lks Mormaii has logged in.
+[07/03/2015 22:16:02] Pally Destrocty has logged out.
+[07/03/2015 22:16:13] Kina Insane has logged in.
+[07/03/2015 22:16:46] Pally Destrocty has logged in.
+[07/03/2015 22:16:57] Kurosaki Ichigo has logged out.
+[07/03/2015 22:16:59] Kurosaki Ichigo has logged in.
+[07/03/2015 22:17:04] Kina Insane has logged out.
+[07/03/2015 22:17:11] Pally Destrocty has logged out.
+[07/03/2015 22:17:17] Brimm-bromm has logged out.
+[07/03/2015 22:17:19] Brimm-bromm has logged in.
+[07/03/2015 22:17:21] Kina Insane has logged in.
+[07/03/2015 22:17:49] Eu Gosto De Buceta has logged out.
+[07/03/2015 22:17:50] Lks Mormaii has logged out.
+[07/03/2015 22:17:51] Eu Gosto De Buceta has logged in.
+[07/03/2015 22:17:51] Brimm-bromm has logged out.
+[07/03/2015 22:17:52] Lks Mormaii has logged in.
+[07/03/2015 22:17:53] Brimm-bromm has logged in.
+[07/03/2015 22:18:07] Pally Destrocty has logged in.
+[07/03/2015 22:18:10] Slc Cachorrera has logged out.
+[07/03/2015 22:18:11] Slc Cachorrera has logged in.
+[07/03/2015 22:18:18] Brimm-bromm has logged out.
+[07/03/2015 22:18:19] Brimm-bromm has logged in.
+[07/03/2015 22:18:22] Kina Insane has logged out.
+[07/03/2015 22:18:49] Lks Mormaii has logged out.
+[07/03/2015 22:18:51] Lks Mormaii has logged in.
+[07/03/2015 22:18:57] Lks Mormaii has logged out.
+[07/03/2015 22:18:58] Brimm-bromm has logged out.
+[07/03/2015 22:18:59] Lks Mormaii has logged in.
+[07/03/2015 22:18:59] Brimm-bromm has logged in.
+[07/03/2015 22:19:03] Account Manager has logged in.
+[07/03/2015 22:19:07] Account Manager has logged out.
+[07/03/2015 22:19:46] Demonic Striker has logged out.
+[07/03/2015 22:19:48] Demonic Striker has logged in.
+[07/03/2015 22:19:51] Lks Mormaii has logged out.
+[07/03/2015 22:19:52] Brimm-bromm has logged out.
+[07/03/2015 22:19:54] Brimm-bromm has logged in.
+[07/03/2015 22:19:54] Lks Mormaii has logged in.
+[07/03/2015 22:20:01] Lks Mormaii has logged out.
+[07/03/2015 22:20:02] Lks Mormaii has logged in.
+[07/03/2015 22:20:06] Lks Mormaii has logged out.
+[07/03/2015 22:20:08] Lks Mormaii has logged in.
+[07/03/2015 22:20:13] Anjo pk has logged out.
+[07/03/2015 22:20:14] Mr Thug has logged out.
+[07/03/2015 22:20:15] Anjo pk has logged in.
+[07/03/2015 22:20:17] Mr Thug has logged in.
+[07/03/2015 22:20:22] Kurosaki Ichigo has logged out.
+[07/03/2015 22:20:24] Kurosaki Ichigo has logged in.
+[07/03/2015 22:20:32] Knight Dos Crias has logged out.
+[07/03/2015 22:20:33] Mr Thug has logged out.
+[07/03/2015 22:20:33] Pally Destrocty has logged out.
+[07/03/2015 22:20:34] Knight Dos Crias has logged in.
+[07/03/2015 22:20:35] Mr Thug has logged in.
+[07/03/2015 22:20:37] Honda has logged out.
+[07/03/2015 22:20:39] Kina Insane has logged in.
+[07/03/2015 22:20:40] Honda has logged in.
+[07/03/2015 22:21:13] Brimm-bromm has logged out.
+[07/03/2015 22:21:13] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 22:21:14] Brimm-bromm has logged in.
+[07/03/2015 22:21:16] > Saving server...
+[07/03/2015 22:21:19] > SAVE: Complete in 3.08 seconds using relational house storage.
+[07/03/2015 22:21:23] > Broadcasted message: "Para ver as noticias fale !notice".
+[07/03/2015 22:21:26] Kina Insane has logged out.
+[07/03/2015 22:21:32] Pally Destrocty has logged in.
+[07/03/2015 22:21:37] Demonic Striker has logged out.
+[07/03/2015 22:21:38] Demonic Striker has logged in.
+[07/03/2015 22:21:44] > CLEAN: Removed 5469 items from 3414 tiles in 0.364 seconds.
+[07/03/2015 22:21:44] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 22:21:45] Kurosaki Ichigo has logged out.
+[07/03/2015 22:21:47] Kurosaki Ichigo has logged in.
+[07/03/2015 22:22:03] Demonic Striker has logged out.
+[07/03/2015 22:22:04] Demonic Striker has logged in.
+[07/03/2015 22:22:07] Pally Destrocty has logged out.
+[07/03/2015 22:22:18] Knight Dos Crias has logged out.
+[07/03/2015 22:22:20] Knight Dos Crias has logged in.
+[07/03/2015 22:22:26] Kina Insane has logged in.
+[07/03/2015 22:22:34] Kina Insane has logged out.
+[07/03/2015 22:22:41] Pally Destrocty has logged in.
+[07/03/2015 22:23:37] Mr Thug has logged out.
+[07/03/2015 22:23:39] Mr Thug has logged in.
+[07/03/2015 22:24:09] Brimm-bromm has logged out.
+[07/03/2015 22:24:10] Kurosaki Ichigo has logged out.
+[07/03/2015 22:24:11] Brimm-bromm has logged in.
+[07/03/2015 22:24:11] Kurosaki Ichigo has logged in.
+[07/03/2015 22:24:13] Lks Mormaii has logged out.
+[07/03/2015 22:24:15] Lks Mormaii has logged in.
+[07/03/2015 22:24:21] Demonic Striker has logged out.
+[07/03/2015 22:24:29] Eu Gosto De Buceta has logged out.
+[07/03/2015 22:24:31] Eu Gosto De Buceta has logged in.
+[07/03/2015 22:24:43] Lks Mormaii has logged out.
+[07/03/2015 22:24:44] Lks Mormaii has logged in.
+[07/03/2015 22:25:06] Kina da zueira has logged in.
+[07/03/2015 22:25:10] Kina da zueira has logged out.
+[07/03/2015 22:25:11] Demonic Striker has logged in.
+[07/03/2015 22:25:20] Honda has logged out.
+[07/03/2015 22:25:22] Honda has logged in.
+[07/03/2015 22:25:41] Kurosaki Ichigo has logged out.
+[07/03/2015 22:25:43] Kurosaki Ichigo has logged in.
+[07/03/2015 22:25:53] Anjo pk has logged out.
+[07/03/2015 22:25:54] Kurosaki Ichigo has logged out.
+[07/03/2015 22:25:55] Anjo pk has logged in.
+[07/03/2015 22:25:56] Kurosaki Ichigo has logged in.
+[07/03/2015 22:26:07] Demonic Striker has logged out.
+[07/03/2015 22:26:08] Demonic Striker has logged in.
+[07/03/2015 22:26:17] Slc Cachorrera has logged out.
+[07/03/2015 22:26:19] Slc Cachorrera has logged in.
+[07/03/2015 22:26:51] Lks Mormaii has logged out.
+[07/03/2015 22:26:53] Lks Mormaii has logged in.
+[07/03/2015 22:26:57] Demonic Striker has logged out.
+[07/03/2015 22:26:58] Kurosaki Ichigo has logged out.
+[07/03/2015 22:26:59] Demonic Striker has logged in.
+[07/03/2015 22:27:00] Kurosaki Ichigo has logged in.
+[07/03/2015 22:27:10] Lks Mormaii has logged out.
+[07/03/2015 22:27:12] Lks Mormaii has logged in.
+[07/03/2015 22:27:33] Demonic Striker has logged out.
+[07/03/2015 22:27:34] Demonic Striker has logged in.
+[07/03/2015 22:27:39] Lks Mormaii has logged out.
+[07/03/2015 22:27:40] Brimm-bromm has logged out.
+[07/03/2015 22:27:41] Honda has logged out.
+[07/03/2015 22:27:41] Lks Mormaii has logged in.
+[07/03/2015 22:27:42] Brimm-bromm has logged in.
+[07/03/2015 22:27:43] Honda has logged in.
+[07/03/2015 22:27:47] Pally Destrocty has logged out.
+[07/03/2015 22:27:49] Pally Destrocty has logged in.
+[07/03/2015 22:27:49] Lks Mormaii has logged out.
+[07/03/2015 22:27:51] Lks Mormaii has logged in.
+[07/03/2015 22:28:03] Lks Mormaii has logged out.
+[07/03/2015 22:28:04] Lks Mormaii has logged in.
+[07/03/2015 22:28:11] Demonic Striker has logged out.
+[07/03/2015 22:28:13] Anjo pk has logged out.
+[07/03/2015 22:28:13] Demonic Striker has logged in.
+[07/03/2015 22:28:14] Anjo pk has logged in.
+[07/03/2015 22:28:21] Lks Mormaii has logged out.
+[07/03/2015 22:28:23] Lks Mormaii has logged in.
+[07/03/2015 22:28:32] Pally Destrocty has logged out.
+[07/03/2015 22:28:34] Pally Destrocty has logged in.
+[07/03/2015 22:28:44] Brimm-bromm has logged out.
+[07/03/2015 22:28:45] Brimm-bromm has logged in.
+[07/03/2015 22:28:48] Demonic Striker has logged out.
+[07/03/2015 22:28:50] Knight Dos Crias has logged out.
+[07/03/2015 22:28:51] Demonic Striker has logged in.
+[07/03/2015 22:28:52] Knight Dos Crias has logged in.
+[07/03/2015 22:29:09] Brimm-bromm has logged out.
+[07/03/2015 22:29:10] Anjo pk has logged out.
+[07/03/2015 22:29:11] Knight Dos Crias has logged out.
+[07/03/2015 22:29:12] Brimm-bromm has logged in.
+[07/03/2015 22:29:12] Anjo pk has logged in.
+[07/03/2015 22:29:13] Knight Dos Crias has logged in.
+[07/03/2015 22:29:14] Eu Gosto De Buceta has logged out.
+[07/03/2015 22:29:17] Eu Gosto De Buceta has logged in.
+[07/03/2015 22:29:44] > Broadcasted message: "Para comprar bless digite !bless".
+[07/03/2015 22:29:53] Brimm-bromm has logged out.
+[07/03/2015 22:29:56] Lks Mormaii has logged out.
+[07/03/2015 22:29:56] Brimm-bromm has logged in.
+[07/03/2015 22:29:58] Lks Mormaii has logged in.
+[07/03/2015 22:30:01] Demonic Striker has logged out.
+[07/03/2015 22:30:03] Demonic Striker has logged in.
+[07/03/2015 22:30:18] Honda has logged out.
+[07/03/2015 22:30:20] Honda has logged in.
+[07/03/2015 22:30:40] Pally Destrocty has logged out.
+[07/03/2015 22:30:43] Pally Destrocty has logged in.
+[07/03/2015 22:31:38] Lks Mormaii has logged out.
+[07/03/2015 22:31:38] Menino Mal has logged in.
+[07/03/2015 22:31:48] Menino Mal has logged out.
+[07/03/2015 22:31:49] Lks Mormaii has logged in.
+[07/03/2015 22:32:23] Demonic Striker has logged out.
+[07/03/2015 22:32:24] Demonic Striker has logged in.
+[07/03/2015 22:32:53] Pally Destrocty has logged out.
+[07/03/2015 22:32:55] Pally Destrocty has logged in.
+[07/03/2015 22:32:57] Lks Mormaii has logged out.
+[07/03/2015 22:32:58] Lks Mormaii has logged in.
+[07/03/2015 22:32:59] Lady girl has logged out.
+[07/03/2015 22:33:00] Lady girl has logged in.
+[07/03/2015 22:33:36] Kurosaki Ichigo has logged out.
+[07/03/2015 22:33:36] Slc Cachorrera has logged out.
+[07/03/2015 22:33:38] Kurosaki Ichigo has logged in.
+[07/03/2015 22:33:38] Slc Cachorrera has logged in.
+[07/03/2015 22:33:58] Demonic Striker has logged out.
+[07/03/2015 22:34:00] Demonic Striker has logged in.
+[07/03/2015 22:34:04] Pally Destrocty has logged out.
+[07/03/2015 22:34:05] Mr Thug has logged out.
+[07/03/2015 22:34:06] Kurosaki Ichigo has logged out.
+[07/03/2015 22:34:07] Mr Thug has logged in.
+[07/03/2015 22:34:08] Kurosaki Ichigo has logged in.
+[07/03/2015 22:34:11] Kina Insane has logged in.
+[07/03/2015 22:34:13] Kurosaki Ichigo has logged out.
+[07/03/2015 22:34:15] Kurosaki Ichigo has logged in.
+[07/03/2015 22:34:52] Lks Mormaii has logged out.
+[07/03/2015 22:34:54] Lks Mormaii has logged in.
+[07/03/2015 22:35:15] Lks Mormaii has logged out.
+[07/03/2015 22:35:17] Lks Mormaii has logged in.
+[07/03/2015 22:35:41] Knight Dos Crias has logged out.
+[07/03/2015 22:35:43] Knight Dos Crias has logged in.
+[07/03/2015 22:35:44] Kina Insane has logged out.
+[07/03/2015 22:35:45] Kina Insane has logged in.
+[07/03/2015 22:36:46] Kina Insane has logged out.
+[07/03/2015 22:36:48] Kina Insane has logged in.
+[07/03/2015 22:37:35] Honda has logged out.
+[07/03/2015 22:37:54] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 22:37:57] Slc Cachorrera has logged out.
+[07/03/2015 22:37:58] Slc Cachorrera has logged in.
+[07/03/2015 22:38:02] Anjo pk has logged out.
+[07/03/2015 22:38:03] Honda has logged in.
+[07/03/2015 22:38:04] Anjo pk has logged in.
+[07/03/2015 22:38:05] > Broadcasted message: "Para comprar bless digite !bless".
+[07/03/2015 22:38:17] Mr Thug has logged out.
+[07/03/2015 22:38:19] Mr Thug has logged in.
+[07/03/2015 22:38:25] > CLEAN: Removed 5470 items from 3515 tiles in 0.332 seconds.
+[07/03/2015 22:38:25] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 22:38:44] Knight Dos Crias has logged out.
+[07/03/2015 22:38:45] Knight Dos Crias has logged in.
+[07/03/2015 22:39:33] Slc Cachorrera has logged out.
+[07/03/2015 22:39:35] Slc Cachorrera has logged in.
+[07/03/2015 22:40:22] Kina Insane has logged out.
+[07/03/2015 22:40:24] Kina Insane has logged in.
+[07/03/2015 22:40:41] Eu Gosto De Buceta has logged out.
+[07/03/2015 22:40:42] Brimm-bromm has logged out.
+[07/03/2015 22:40:43] Lks Mormaii has logged out.
+[07/03/2015 22:40:43] Eu Gosto De Buceta has logged in.
+[07/03/2015 22:40:44] Brimm-bromm has logged in.
+[07/03/2015 22:40:45] Lks Mormaii has logged in.
+[07/03/2015 22:40:53] Demonic Striker has logged out.
+[07/03/2015 22:40:55] Demonic Striker has logged in.
+[07/03/2015 22:40:56] Kurosaki Ichigo has logged out.
+[07/03/2015 22:40:58] Kurosaki Ichigo has logged in.
+[07/03/2015 22:41:01] Lks Mormaii has logged out.
+[07/03/2015 22:41:06] Lks Mormaii has logged in.
+[07/03/2015 22:41:41] Demonic Striker has logged out.
+[07/03/2015 22:41:44] Demonic Striker has logged in.
+[07/03/2015 22:41:57] Eu Gosto De Buceta has logged out.
+[07/03/2015 22:41:59] Jureminha Paladin has logged in.
+[07/03/2015 22:42:00] Demonic Striker has logged out.
+[07/03/2015 22:42:02] Demonic Striker has logged in.
+[07/03/2015 22:42:18] Jureminha Paladin has logged out.
+[07/03/2015 22:42:19] Eu Gosto De Buceta has logged in.
+[07/03/2015 22:42:25] Eu Gosto De Buceta has logged out.
+[07/03/2015 22:42:27] Jureminha Paladin has logged in.
+[07/03/2015 22:43:02] Kurosaki Ichigo has logged out.
+[07/03/2015 22:43:04] Kurosaki Ichigo has logged in.
+[07/03/2015 22:43:09] Account Manager has logged in.
+[07/03/2015 22:43:28] Account Manager has logged out.
+[07/03/2015 22:43:35] Account Manager has logged in.
+[07/03/2015 22:44:11] Account Manager has logged out.
+[07/03/2015 22:44:13] Brimm-bromm has logged out.
+[07/03/2015 22:44:15] Brimm-bromm has logged in.
+[07/03/2015 22:44:18] Druid Crazy has logged in.
+[07/03/2015 22:44:37] > Saving server...
+[07/03/2015 22:44:40] > SAVE: Complete in 3.11 seconds using relational house storage.
+[07/03/2015 22:45:06] Lks Mormaii has logged out.
+[07/03/2015 22:45:08] Lks Mormaii has logged in.
+[07/03/2015 22:45:22] Demonic Striker has logged out.
+[07/03/2015 22:45:23] Kurosaki Ichigo has logged out.
+[07/03/2015 22:45:25] Demonic Striker has logged in.
+[07/03/2015 22:45:25] Kurosaki Ichigo has logged in.
+[07/03/2015 22:45:41] Demonic Striker has logged out.
+[07/03/2015 22:45:43] Demonic Striker has logged in.
+[07/03/2015 22:45:48] Anjo pk has logged out.
+[07/03/2015 22:45:51] Anjo pk has logged in.
+[07/03/2015 22:46:10] Kurosaki Ichigo has logged out.
+[07/03/2015 22:46:11] Kurosaki Ichigo has logged in.
+[07/03/2015 22:46:26] > Broadcasted message: "Para ver as noticias fale !notice".
+[07/03/2015 22:46:28] Lks Mormaii has logged out.
+[07/03/2015 22:46:30] Lks Mormaii has logged in.
+[07/03/2015 22:46:50] Brimm-bromm has logged out.
+[07/03/2015 22:46:52] Brimm-bromm has logged in.
+[07/03/2015 22:47:22] Jureminha Paladin has logged out.
+[07/03/2015 22:47:25] Jureminha Paladin has logged in.
+[07/03/2015 22:47:47] Jureminha Paladin has logged out.
+[07/03/2015 22:47:49] Jureminha Paladin has logged in.
+[07/03/2015 22:48:07] Mr Thug has logged out.
+[07/03/2015 22:48:10] Mr Thug has logged in.
+[07/03/2015 22:48:35] Demonic Striker has logged out.
+[07/03/2015 22:48:36] Jureminha Paladin has logged out.
+[07/03/2015 22:48:37] Demonic Striker has logged in.
+[07/03/2015 22:48:46] Brimm-bromm has logged out.
+[07/03/2015 22:48:48] Brimm-bromm has logged in.
+[07/03/2015 22:49:53] Lks Mormaii has logged out.
+[07/03/2015 22:49:54] Anjo pk has logged out.
+[07/03/2015 22:49:55] Lks Mormaii has logged in.
+[07/03/2015 22:49:56] Anjo pk has logged in.
+[07/03/2015 22:50:47] Lks Mormaii has logged out.
+[07/03/2015 22:50:48] Lks Mormaii has logged in.
+[07/03/2015 22:51:04] Lks Mormaii has logged out.
+[07/03/2015 22:51:05] Lks Mormaii has logged in.
+[07/03/2015 22:51:16] Mr Thug has logged out.
+[07/03/2015 22:51:18] Mr Thug has logged in.
+[07/03/2015 22:51:28] Demonic Striker has logged out.
+[07/03/2015 22:51:30] Lks Mormaii has logged out.
+[07/03/2015 22:51:32] Lks Mormaii has logged in.
+[07/03/2015 22:51:41] Demonic Striker has logged in.
+[07/03/2015 22:52:47] Lks Mormaii has logged out.
+[07/03/2015 22:52:49] Lks Mormaii has logged in.
+[07/03/2015 22:53:04] Kurosaki Ichigo has logged out.
+[07/03/2015 22:53:06] Kurosaki Ichigo has logged in.
+[07/03/2015 22:53:07] Mr Thug has logged out.
+[07/03/2015 22:53:09] Mr Thug has logged in.
+[07/03/2015 22:54:35] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 22:54:47] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[07/03/2015 22:55:06] > CLEAN: Removed 7062 items from 4570 tiles in 0.292 seconds.
+[07/03/2015 22:55:06] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 22:55:15] Kurosaki Ichigo has logged out.
+[07/03/2015 22:55:16] Kurosaki Ichigo has logged in.
+[07/03/2015 22:55:26] Demonic Striker has logged out.
+[07/03/2015 22:55:27] Demonic Striker has logged in.
+[07/03/2015 22:55:56] Lks Mormaii has logged out.
+[07/03/2015 22:55:58] Lks Mormaii has logged in.
+[07/03/2015 22:56:40] Brimm-bromm has logged out.
+[07/03/2015 22:56:42] Brimm-bromm has logged in.
+[07/03/2015 22:57:05] Kurosaki Ichigo has logged out.
+[07/03/2015 22:57:07] Kurosaki Ichigo has logged in.
+[07/03/2015 22:57:09] Kina Insane has logged out.
+[07/03/2015 22:57:23] Anjo pk has logged out.
+[07/03/2015 22:57:24] Kurosaki Ichigo has logged out.
+[07/03/2015 22:57:25] Anjo pk has logged in.
+[07/03/2015 22:57:25] Kurosaki Ichigo has logged in.
+[07/03/2015 22:58:10] Lady girl has logged out.
+[07/03/2015 22:58:11] Lady girl has logged in.
+[07/03/2015 22:59:38] Hashi has logged out.
+[07/03/2015 23:00:23] Mage Ziika has logged out.
+[07/03/2015 23:00:32] Hiroshi has logged in.
+[07/03/2015 23:00:57] Hiroshi has logged out.
+[07/03/2015 23:00:59] Hiroshi has logged in.
+[07/03/2015 23:01:24] Hiroshi has logged out.
+[07/03/2015 23:01:26] Hiroshi has logged in.
+[07/03/2015 23:01:38] Kurosaki Ichigo has logged out.
+[07/03/2015 23:01:39] Kurosaki Ichigo has logged in.
+[07/03/2015 23:01:53] Kurosaki Ichigo has logged out.
+[07/03/2015 23:01:54] Demonic Striker has logged out.
+[07/03/2015 23:01:55] Kurosaki Ichigo has logged in.
+[07/03/2015 23:01:55] Demonic Striker has logged in.
+[07/03/2015 23:01:59] Knight Dos Crias has logged out.
+[07/03/2015 23:02:00] Knight Dos Crias has logged in.
+[07/03/2015 23:02:09] Hiroshi has logged out.
+[07/03/2015 23:02:11] Hiroshi has logged in.
+[07/03/2015 23:02:41] Hiroshi has logged out.
+[07/03/2015 23:02:42] Hiroshi has logged in.
+[07/03/2015 23:02:55] Brimm-bromm has logged out.
+[07/03/2015 23:02:56] Knight Dos Crias has logged out.
+[07/03/2015 23:02:58] Knight Dos Crias has logged in.
+[07/03/2015 23:02:59] Brimm-bromm has logged in.
+[07/03/2015 23:03:07] Hiroshi has logged out.
+[07/03/2015 23:03:08] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[07/03/2015 23:03:11] Hiroshi has logged in.
+[07/03/2015 23:03:18] Mr Thug has logged out.
+[07/03/2015 23:03:19] Mr Thug has logged in.
+[07/03/2015 23:03:24] Hiroshi has logged out.
+[07/03/2015 23:03:26] Hiroshi has logged in.
+[07/03/2015 23:03:27] Hiroshi has logged out.
+[07/03/2015 23:03:32] Hiroshi has logged in.
+[07/03/2015 23:03:40] Demonic Striker has logged out.
+[07/03/2015 23:03:42] Kurosaki Ichigo has logged out.
+[07/03/2015 23:03:42] Lks Mormaii has logged out.
+[07/03/2015 23:03:43] Hiroshi has logged out.
+[07/03/2015 23:03:43] Kurosaki Ichigo has logged in.
+[07/03/2015 23:03:44] Lks Mormaii has logged in.
+[07/03/2015 23:03:45] Hiroshi has logged in.
+[07/03/2015 23:03:50] Kurosaki Ichigo has logged out.
+[07/03/2015 23:03:51] Knight Dos Crias has logged out.
+[07/03/2015 23:03:52] Kurosaki Ichigo has logged in.
+[07/03/2015 23:03:53] Knight Dos Crias has logged in.
+[07/03/2015 23:04:08] Kurosaki Ichigo has logged out.
+[07/03/2015 23:04:09] Kurosaki Ichigo has logged in.
+[07/03/2015 23:04:16] Hiroshi has logged out.
+[07/03/2015 23:04:17] Demonic Striker has logged in.
+[07/03/2015 23:04:18] Hiroshi has logged in.
+[07/03/2015 23:04:30] Kurosaki Ichigo has logged out.
+[07/03/2015 23:04:32] Kurosaki Ichigo has logged in.
+[07/03/2015 23:04:43] Slc Cachorrera has logged out.
+[07/03/2015 23:04:45] Slc Cachorrera has logged in.
+[07/03/2015 23:04:52] Hiroshi has logged out.
+[07/03/2015 23:04:54] Hiroshi has logged in.
+[07/03/2015 23:05:02] Knight Dos Crias has logged out.
+[07/03/2015 23:05:04] Knight Dos Crias has logged in.
+[07/03/2015 23:05:06] Hiroshi has logged out.
+[07/03/2015 23:05:07] Slc Cachorrera has logged out.
+[07/03/2015 23:05:08] Slc Cachorrera has logged in.
+[07/03/2015 23:05:09] Hiroshi has logged in.
+[07/03/2015 23:05:28] Druid Crazy has logged out.
+[07/03/2015 23:05:40] Hiroshi has logged out.
+[07/03/2015 23:05:42] Lks Mormaii has logged out.
+[07/03/2015 23:05:42] Hiroshi has logged in.
+[07/03/2015 23:05:42] 
+[07/03/2015 23:05:42] Lua Script Error: [CreatureScript Interface] 
+[07/03/2015 23:05:43] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[07/03/2015 23:05:43] 
+[07/03/2015 23:05:43] luaGetCreatureName(). Creature not found
+[07/03/2015 23:05:43] 
+[07/03/2015 23:05:43] Lua Script Error: [CreatureScript Interface] 
+[07/03/2015 23:05:43] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[07/03/2015 23:05:44] 
+[07/03/2015 23:05:44] luaGetCreatureName(). Creature not found
+[07/03/2015 23:05:44] Demonic Striker has logged out.
+[07/03/2015 23:05:45] Lks Mormaii has logged in.
+[07/03/2015 23:05:46] Demonic Striker has logged in.
+[07/03/2015 23:05:53] Hiroshi has logged out.
+[07/03/2015 23:05:54] Lks Mormaii has logged out.
+[07/03/2015 23:05:55] Demonic Striker has logged out.
+[07/03/2015 23:05:55] Hiroshi has logged in.
+[07/03/2015 23:05:56] Lks Mormaii has logged in.
+[07/03/2015 23:05:57] Demonic Striker has logged in.
+[07/03/2015 23:06:34] Knight Dos Crias has logged out.
+[07/03/2015 23:06:36] Knight Dos Crias has logged in.
+[07/03/2015 23:06:46] Hiroshi has logged out.
+[07/03/2015 23:06:47] Hiroshi has logged in.
+[07/03/2015 23:07:19] Demonic Striker has logged out.
+[07/03/2015 23:07:20] Demonic Striker has logged in.
+[07/03/2015 23:07:42] Slc Cachorrera has logged out.
+[07/03/2015 23:07:42] Hiroshi has logged out.
+[07/03/2015 23:07:45] Slc Cachorrera has logged in.
+[07/03/2015 23:07:46] Hiroshi has logged in.
+[07/03/2015 23:07:47] Brimm-bromm has logged out.
+[07/03/2015 23:07:49] Demonic Striker has logged out.
+[07/03/2015 23:07:51] Brimm-bromm has logged in.
+[07/03/2015 23:07:51] Demonic Striker has logged in.
+[07/03/2015 23:07:58] > Saving server...
+[07/03/2015 23:08:01] > SAVE: Complete in 2.774 seconds using relational house storage.
+[07/03/2015 23:08:09] Hiroshi has logged out.
+[07/03/2015 23:08:14] Druidzerah Mythus has logged out.
+[07/03/2015 23:08:17] Druidzerah Mythus has logged in.
+[07/03/2015 23:08:17] Mage Ziika has logged in.
+[07/03/2015 23:08:56] Brimm-bromm has logged out.
+[07/03/2015 23:08:58] Brimm-bromm has logged in.
+[07/03/2015 23:09:04] Lks Mormaii has logged out.
+[07/03/2015 23:09:06] Lks Mormaii has logged in.
+[07/03/2015 23:09:13] Lks Mormaii has logged out.
+[07/03/2015 23:09:15] Lks Mormaii has logged in.
+[07/03/2015 23:09:16] Brimm-bromm has logged out.
+[07/03/2015 23:09:16] Mage Ziika has logged out.
+[07/03/2015 23:09:18] Brimm-bromm has logged in.
+[07/03/2015 23:09:19] Mage Ziika has logged in.
+[07/03/2015 23:09:26] Slc Cachorrera has logged out.
+[07/03/2015 23:09:27] Lks Mormaii has logged out.
+[07/03/2015 23:09:28] Slc Cachorrera has logged in.
+[07/03/2015 23:09:29] Demonic Striker has logged out.
+[07/03/2015 23:09:29] Lks Mormaii has logged in.
+[07/03/2015 23:09:31] Demonic Striker has logged in.
+[07/03/2015 23:09:35] Brimm-bromm has logged out.
+[07/03/2015 23:09:37] Kurosaki Ichigo has logged out.
+[07/03/2015 23:09:38] Brimm-bromm has logged in.
+[07/03/2015 23:09:41] Demonic Striker has logged out.
+[07/03/2015 23:09:42] Lks Mormaii has logged out.
+[07/03/2015 23:09:43] Kurosaki Ichigo has logged in.
+[07/03/2015 23:09:44] Lks Mormaii has logged in.
+[07/03/2015 23:09:45] Demonic Striker has logged in.
+[07/03/2015 23:10:07] Lks Mormaii has logged out.
+[07/03/2015 23:10:08] Lks Mormaii has logged in.
+[07/03/2015 23:10:20] Demonic Striker has logged out.
+[07/03/2015 23:10:22] Demonic Striker has logged in.
+[07/03/2015 23:10:30] Demonic Striker has logged out.
+[07/03/2015 23:10:32] Demonic Striker has logged in.
+[07/03/2015 23:11:16] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 23:11:29] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[07/03/2015 23:11:38] Hashi has logged in.
+[07/03/2015 23:11:46] > CLEAN: Removed 7043 items from 3686 tiles in 0.351 seconds.
+[07/03/2015 23:11:47] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 23:14:42] Demonic Striker has logged out.
+[07/03/2015 23:14:44] Demonic Striker has logged in.
+[07/03/2015 23:17:27] Account Manager has logged in.
+[07/03/2015 23:17:43] Hashi has logged out.
+[07/03/2015 23:17:44] Account Manager has logged out.
+[07/03/2015 23:18:05] Account Manager has logged in.
+[07/03/2015 23:18:19] Account Manager has logged out.
+[07/03/2015 23:18:27] Hijo has logged in.
+[07/03/2015 23:18:40] Hashi has logged in.
+[07/03/2015 23:19:50] > Broadcasted message: "Para ver as noticias fale !notice".
+[07/03/2015 23:20:27] Mage Ziika has logged out.
+[07/03/2015 23:21:02] Mage Ziika has logged in.
+[07/03/2015 23:21:42] Knight Dos Crias has logged out.
+[07/03/2015 23:21:44] Knight Dos Crias has logged in.
+[07/03/2015 23:21:58] Demonic Striker has logged out.
+[07/03/2015 23:21:59] Demonic Striker has logged in.
+[07/03/2015 23:22:00] Kanguru Jack has logged in.
+[07/03/2015 23:22:49] Demonic Striker has logged out.
+[07/03/2015 23:22:50] Kurosaki Ichigo has logged out.
+[07/03/2015 23:22:51] Demonic Striker has logged in.
+[07/03/2015 23:22:52] Kurosaki Ichigo has logged in.
+[07/03/2015 23:23:14] Slc Cachorrera has logged out.
+[07/03/2015 23:23:19] Slc Cachorrera has logged in.
+[07/03/2015 23:23:45] Kanguru Jack has logged out.
+[07/03/2015 23:23:48] Kanguru Jack has logged in.
+[07/03/2015 23:24:03] Lady girl has logged out.
+[07/03/2015 23:24:05] Lady girl has logged in.
+[07/03/2015 23:24:25] Knight Dos Crias has logged out.
+[07/03/2015 23:24:27] Knight Dos Crias has logged in.
+[07/03/2015 23:25:09] Hijo has logged out.
+[07/03/2015 23:25:14] Slc Cachorrera has logged out.
+[07/03/2015 23:25:16] Slc Cachorrera has logged in.
+[07/03/2015 23:25:22] Hijo has logged in.
+[07/03/2015 23:25:55] Knight Dos Crias has logged out.
+[07/03/2015 23:25:57] Knight Dos Crias has logged in.
+[07/03/2015 23:25:59] Hijo has logged out.
+[07/03/2015 23:26:02] Hijo has logged in.
+[07/03/2015 23:26:03] Slc Cachorrera has logged out.
+[07/03/2015 23:26:04] Slc Cachorrera has logged in.
+[07/03/2015 23:26:14] Hashi has logged out.
+[07/03/2015 23:26:16] Hashi has logged in.
+[07/03/2015 23:26:47] Slc Cachorrera has logged out.
+[07/03/2015 23:26:49] Slc Cachorrera has logged in.
+[07/03/2015 23:26:53] Mr Thug has logged out.
+[07/03/2015 23:26:55] Mr Thug has logged in.
+[07/03/2015 23:27:03] Brimm-bromm has logged out.
+[07/03/2015 23:27:04] Brimm-bromm has logged in.
+[07/03/2015 23:27:15] Mateus has logged in.
+[07/03/2015 23:27:33] Hashi has logged out.
+[07/03/2015 23:27:35] Mateus has logged out.
+[07/03/2015 23:27:38] Account Manager has logged in.
+[07/03/2015 23:27:46] Mr Thug has logged out.
+[07/03/2015 23:27:48] Demonic Striker has logged out.
+[07/03/2015 23:27:48] Mr Thug has logged in.
+[07/03/2015 23:27:49] Demonic Striker has logged in.
+[07/03/2015 23:27:57] Account Manager has logged out.
+[07/03/2015 23:27:57] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 23:28:03] Account Manager has logged in.
+[07/03/2015 23:28:09] Brimm-bromm has logged out.
+[07/03/2015 23:28:11] Brimm-bromm has logged in.
+[07/03/2015 23:28:11] > Broadcasted message: "Para comprar bless digite !bless".
+[07/03/2015 23:28:21] Slc Cachorrera has logged out.
+[07/03/2015 23:28:22] Slc Cachorrera has logged in.
+[07/03/2015 23:28:25] Mr Thug has logged out.
+[07/03/2015 23:28:27] Mr Thug has logged in.
+[07/03/2015 23:28:28] > CLEAN: Removed 7598 items from 5282 tiles in 0.468 seconds.
+[07/03/2015 23:28:28] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 23:28:45] Mr Thug has logged out.
+[07/03/2015 23:28:46] Mr Thug has logged in.
+[07/03/2015 23:28:47] Account Manager has logged out.
+[07/03/2015 23:28:48] Account Manager has logged in.
+[07/03/2015 23:28:50] Account Manager has logged in.
+[07/03/2015 23:29:06] Account Manager has logged out.
+[07/03/2015 23:29:16] Account Manager has logged out.
+[07/03/2015 23:29:17] Slc Cachorrera has logged out.
+[07/03/2015 23:29:19] Hashi has logged in.
+[07/03/2015 23:29:19] Slc Cachorrera has logged in.
+[07/03/2015 23:29:23] Knight Dos Crias has logged out.
+[07/03/2015 23:29:24] Mulambo has logged in.
+[07/03/2015 23:29:25] Knight Dos Crias has logged in.
+[07/03/2015 23:29:33] > Broadcasted message: "New record: 17 players are logged in.".
+[07/03/2015 23:29:33] Mateus has logged in.
+[07/03/2015 23:29:45] Mr Thug has logged out.
+[07/03/2015 23:29:48] Vem Monstro has logged in.
+[07/03/2015 23:29:59] Brimm-bromm has logged out.
+[07/03/2015 23:30:00] Brimm-bromm has logged in.
+[07/03/2015 23:30:13] Demonic Striker has logged out.
+[07/03/2015 23:30:20] Demonic Striker has logged in.
+[07/03/2015 23:30:28] Vem Monstro has logged out.
+[07/03/2015 23:30:36] Druid Da Viber has logged in.
+[07/03/2015 23:31:07] Hijo has logged out.
+[07/03/2015 23:31:12] Hijo has logged in.
+[07/03/2015 23:31:19] > Saving server...
+[07/03/2015 23:31:22] sqlite3_step(): SQLITE ERROR: unable to open database file
+[07/03/2015 23:31:31] sqlite3_step(): SQLITE ERROR: unable to open database file
+[07/03/2015 23:31:35] > SAVE: Complete in 15.21 seconds using relational house storage.
+[07/03/2015 23:32:38] Honda has logged out.
+[07/03/2015 23:32:42] Honda has logged in.
+[07/03/2015 23:32:49] Druid Da Viber has logged out.
+[07/03/2015 23:32:56] Account Manager has logged in.
+[07/03/2015 23:33:06] Brimm-bromm has logged out.
+[07/03/2015 23:33:12] Brimm-bromm has logged in.
+[07/03/2015 23:33:25] Demonic Striker has logged out.
+[07/03/2015 23:33:31] Demonic Striker has logged in.
+[07/03/2015 23:33:35] Account Manager has logged out.
+[07/03/2015 23:35:13] Brimm-bromm has logged out.
+[07/03/2015 23:35:16] Brimm-bromm has logged in.
+[07/03/2015 23:35:49] Brimm-bromm has logged out.
+[07/03/2015 23:35:52] Brimm-bromm has logged in.
+[07/03/2015 23:36:25] Knight Dos Crias has logged out.
+[07/03/2015 23:36:30] Knight Dos Crias has logged in.
+[07/03/2015 23:36:33] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[07/03/2015 23:36:54] Demonic Striker has logged out.
+[07/03/2015 23:36:57] Account Manager has logged in.
+[07/03/2015 23:36:59] Demonic Striker has logged in.
+[07/03/2015 23:37:21] Account Manager has logged out.
+[07/03/2015 23:38:12] Demonic Striker has logged out.
+[07/03/2015 23:38:24] Demonic Striker has logged in.
+[07/03/2015 23:38:37] Mateus has logged out.
+[07/03/2015 23:38:42] Druid Da Viber has logged in.
+[07/03/2015 23:38:45] Mateus has logged in.
+[07/03/2015 23:39:08] Druid Da Viber has logged out.
+[07/03/2015 23:39:12] Vem Monstro has logged in.
+[07/03/2015 23:39:26] Knight Dos Crias has logged out.
+[07/03/2015 23:39:30] Knight Dos Crias has logged in.
+[07/03/2015 23:39:56] Mulambo has logged out.
+[07/03/2015 23:39:58] Mulambo has logged in.
+[07/03/2015 23:40:01] Brimm-bromm has logged out.
+[07/03/2015 23:40:03] Brimm-bromm has logged in.
+[07/03/2015 23:40:18] Demonic Striker has logged out.
+[07/03/2015 23:40:22] Demonic Striker has logged in.
+[07/03/2015 23:40:25] > Broadcasted message: "New record: 18 players are logged in.".
+[07/03/2015 23:40:27] Kanguru Pally has logged in.
+[07/03/2015 23:40:58] Vem Monstro has logged out.
+[07/03/2015 23:41:00] Vem Monstro has logged in.
+[07/03/2015 23:41:07] Knight Dos Crias has logged out.
+[07/03/2015 23:41:10] Lks Mormaii has logged out.
+[07/03/2015 23:41:11] Knight Dos Crias has logged in.
+[07/03/2015 23:41:15] Lks Mormaii has logged in.
+[07/03/2015 23:41:17] > Broadcasted message: "New record: 19 players are logged in.".
+[07/03/2015 23:41:20] Jhonnie Walker has logged in.
+[07/03/2015 23:41:27] Mulambo has logged out.
+[07/03/2015 23:41:28] Knight Dos Crias has logged out.
+[07/03/2015 23:41:29] Lks Mormaii has logged out.
+[07/03/2015 23:41:30] Lks Mormaii has logged in.
+[07/03/2015 23:41:31] Knight Dos Crias has logged in.
+[07/03/2015 23:41:44] Mateus has logged out.
+[07/03/2015 23:42:09] Demonic Striker has logged out.
+[07/03/2015 23:42:11] Kurosaki Ichigo has logged out.
+[07/03/2015 23:42:11] Demonic Striker has logged in.
+[07/03/2015 23:42:13] Kurosaki Ichigo has logged in.
+[07/03/2015 23:42:48] Demonic Striker has logged out.
+[07/03/2015 23:42:49] Kurosaki Ichigo has logged out.
+[07/03/2015 23:42:51] Demonic Striker has logged in.
+[07/03/2015 23:42:51] Kurosaki Ichigo has logged in.
+[07/03/2015 23:42:57] Slc Cachorrera has logged out.
+[07/03/2015 23:43:04] Slc Cachorrera has logged in.
+[07/03/2015 23:43:12] Vem Monstro has logged out.
+[07/03/2015 23:43:14] Druid Da Viber has logged in.
+[07/03/2015 23:44:20] Knight Dos Crias has logged out.
+[07/03/2015 23:44:21] Druid Da Viber has logged out.
+[07/03/2015 23:44:22] Knight Dos Crias has logged in.
+[07/03/2015 23:44:23] Long Viber has logged in.
+[07/03/2015 23:44:30] Long Viber has logged out.
+[07/03/2015 23:44:34] Shake That Ass has logged in.
+[07/03/2015 23:44:38] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/03/2015 23:44:54] > Broadcasted message: "Para ver as noticias fale !notice".
+[07/03/2015 23:45:03] Shake That Ass has logged out.
+[07/03/2015 23:45:05] Mr Thug has logged in.
+[07/03/2015 23:45:09] > CLEAN: Removed 8915 items from 6323 tiles in 0.266 seconds.
+[07/03/2015 23:45:09] > Broadcasted message: "Map Cleaned.".
+[07/03/2015 23:45:52] Mage Ziika has logged out.
+[07/03/2015 23:46:24] Knight Dos Crias has logged out.
+[07/03/2015 23:46:26] Knight Dos Crias has logged in.
+[07/03/2015 23:46:56] Mage Ziika has logged in.
+[07/03/2015 23:48:41] Jean has logged in.
+[07/03/2015 23:50:43] Jhonnie Walker has logged out.
+[07/03/2015 23:50:45] Jhonnie Walker has logged in.
+[07/03/2015 23:51:20] > Saving server...
+[07/03/2015 23:51:23] > SAVE: Complete in 3.073 seconds using relational house storage.
+[07/03/2015 23:51:23] Hijo has logged out.
+[07/03/2015 23:51:24] Jean has logged out.
+[07/03/2015 23:52:17] Slc Cachorrera has logged out.
+[07/03/2015 23:52:17] 
+[07/03/2015 23:52:17] Lua Script Error: [CreatureScript Interface] 
+[07/03/2015 23:52:18] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[07/03/2015 23:52:18] 
+[07/03/2015 23:52:18] luaGetCreatureName(). Creature not found
+[07/03/2015 23:52:18] 
+[07/03/2015 23:52:18] Lua Script Error: [CreatureScript Interface] 
+[07/03/2015 23:52:18] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[07/03/2015 23:52:18] 
+[07/03/2015 23:52:18] luaGetCreatureName(). Creature not found
+[07/03/2015 23:52:19] Anjo pk has logged out.
+[07/03/2015 23:52:20] Slc Cachorrera has logged in.
+[07/03/2015 23:52:46] Anjo pk has logged in.
+[07/03/2015 23:53:02] Lks Mormaii has logged out.
+[07/03/2015 23:53:03] Menino Mal has logged in.
+[07/03/2015 23:53:15] > Broadcasted message: "Para ver as noticias fale !notice".
+[07/03/2015 23:53:18] Demonic Striker has logged out.
+[07/03/2015 23:53:35] Demonic Striker has logged in.
+[07/03/2015 23:54:12] Account Manager has logged in.
+[07/03/2015 23:54:15] Account Manager has logged out.
+[07/03/2015 23:54:23] Fakedoi has logged in.
+[07/03/2015 23:54:27] Menino Mal has logged out.
+[07/03/2015 23:54:29] Menino Mal has logged in.
+[07/03/2015 23:54:40] > Saving server...
+[07/03/2015 23:54:43] > SAVE: Complete in 3.245 seconds using relational house storage.
+[07/03/2015 23:56:01] Anjo pk has logged out.
+[07/03/2015 23:56:03] Anjo pk has logged in.
+[07/03/2015 23:56:07] Menino Mal has logged out.
+[07/03/2015 23:56:09] Menino Mal has logged in.
+[07/03/2015 23:56:19] Brimm-bromm has logged out.
+[07/03/2015 23:56:22] Brimm-bromm has logged in.
+[07/03/2015 23:57:34] Menino Mal has logged out.
+[07/03/2015 23:57:36] Brimm-bromm has logged out.
+[07/03/2015 23:57:36] Menino Mal has logged in.
+[07/03/2015 23:57:37] Brimm-bromm has logged in.
+[07/03/2015 23:57:39] Menino Mal has logged out.
+[07/03/2015 23:57:41] Lks Mormaii has logged in.
+[07/03/2015 23:58:08] Brimm-bromm has logged out.
+[07/03/2015 23:58:14] Brimm-bromm has logged in.
+[07/03/2015 23:58:36] Jhonnie Walker has logged out.
+[07/03/2015 23:59:01] Slc Cachorrera has logged out.
+[07/03/2015 23:59:03] Slc Cachorrera has logged in.
+[07/03/2015 23:59:04] Anjo pk has logged out.
+[07/03/2015 23:59:05] Anjo pk has logged in.
+[07/03/2015 23:59:41] Jhonnie Walker has logged in.
+[07/03/2015 23:59:43] Jhonnie Walker has logged out.

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<monster name="Lord'Paulistinha" nameDescription="Lord'Paulistinha" experience="899995500" speed="700" race="blood">
+  <health now="9823000" max="9823000"/>
+  <look type="152" body="94" legs="114" feet="132" addons="3" corpse="3058"/>
+  <strategy attack="10000" defense="500"/>
+  <targetchange speed="10" chance="100"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="100"/>
+    <flag targetdistance="1"/>
+    <flag skull="4"/>
+  </flags>
+  <attacks>
+    <attack name="Epic Exori" interval="1000" chance="100" min="-35000" max="-45000" range="1">
+    </attack>
+    <attack name="Fire" interval="1000" chance="50" min="-10000" max="-20000"/>
+    <attack name="Death" interval="1000" chance="50" min="-10000" max="-20000"/>
+    <attack name="Physical" interval="1000" chance="50" min="-10000" max="-20000"/>
+  </attacks>
+  <defenses defense="45" armor="10"/>
+  <immunities>
+    <immunity name="outfit"/>
+    <immunity name="invisible"/>
+    <immunity name="poison"/>
+    <immunity name="death"/>
+    <immunity name="fire"/>
+  </immunities>
+  <loot>
+    <item id="5926" countmax="21" chance="99999"/>
+    <item id="2466" countmax="1" chance="99999"/>
+    <item id="2160" countmax="14" chance="9999"/>
+    <item id="2459" countmax="21" chance="99999"/>
+  </loot>
+</monster>

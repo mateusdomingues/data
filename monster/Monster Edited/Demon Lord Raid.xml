@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<monster name="Demon Lord" nameDescription="Demon Lord2" experience="5000000" speed="400" race="blood">
+  <health now="99500000" max="99500000"/>
+  <look type="12" corpse="3058"/>
+  <strategy attack="10000" defense="500"/>
+  <targetchange speed="10" chance="100"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="100"/>
+    <flag targetdistance="1"/>
+  </flags>
+  <attacks>
+    <attack name="Fire" interval="1000" chance="100" min="-300000" max="-450000" range="1">
+    </attack>
+    <attack name="Rage of the Skies" interval="5000" chance="50" min="-5000000" max="-5000000"/>
+    <attack name="physical" interval="500" chance="50" min="-1000000" max="-1500000"/>
+    <attack name="Hells Core" interval="3000" chance="100" min="-4000000" max="-4000000" range="1">
+      <attribute key="areaEffect" value="fire"/>
+      <attribute key="shootEffect" value="fire"/>
+    </attack>
+  </attacks>
+  <defenses armor="0" defense="0"> 
+  <defense name="healing" interval="5000" chance="100" min="200" max="500"/> 
+</defenses>
+  <immunities>
+    <immunity name="outfit"/>
+    <immunity name="invisible"/>
+    <immunity name="poison"/>
+    <immunity name="death"/>
+  </immunities>
+ <loot>
+    <item id="9778" countmax="1" chance1="999999999" chancemax="9999999999"/>
+    <item id="9776" countmax="1" chance1="999999999" chancemax="9999999999"/>
+    <item id="9777" countmax="1" chance1="999999999" chancemax="9999999999"/>
+    <item id="2407" countmax="1" chance1="999999999" chancemax="9999999999"/>
+    <item id="6391" countmax="1" chance1="999999999" chancemax="9999999999"/>
+    <item id="9932" countmax="1" chance1="999999999" chancemax="9999999999"/>
+    <item id="8976" countmax="1" chance1="999999999" chancemax="9999999999"/>
+    <item id="5785" countmax="1" chance1="999999999" chancemax="9999999999"/> 
+    <item id="9774" countmax="1" chance1="999999999" chancemax="9999999999"/>
+  </loot>
+</monster>

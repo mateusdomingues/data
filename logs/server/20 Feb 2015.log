@@ -1,0 +1,47 @@
+[20/02/2015 19:57:52] The Forgotten Server, version 0.3.4 (Crying Damson)
+[20/02/2015 19:57:52] Sever Criado Por Alissow e Comedinha.
+[20/02/2015 19:57:52] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[20/02/2015 19:57:53] Bom Jogo!!!
+[20/02/2015 19:57:53] 
+[20/02/2015 19:57:53] >> Debugging: nothing.
+[20/02/2015 19:57:53] >> Checking software version... failed checking - malformed file.
+[20/02/2015 19:57:55] 
+[20/02/2015 19:57:55] >> Loading config (config.lua)
+[20/02/2015 19:57:55] > Using plaintext passwords
+[20/02/2015 19:57:56] >> Loading RSA key
+[20/02/2015 19:57:56] >> Starting SQL connection
+[20/02/2015 19:57:56] >> Running Database Manager
+[20/02/2015 19:57:57] > Optimized database.
+[20/02/2015 19:57:57] >> Loading items
+[20/02/2015 19:57:58] >> Loading groups
+[20/02/2015 19:57:58] >> Loading vocations
+[20/02/2015 19:57:58] >> Loading script systems
+[20/02/2015 19:58:03] [Warning - Event::loadScript] Cannot load script (data/globalevents/scripts/mensagem.lua)
+[20/02/2015 19:58:04] data/globalevents/scripts/mensagem.lua:19: unexpected symbol near '<'
+[20/02/2015 19:58:04] >> Loading chat channels
+[20/02/2015 19:58:04] >> Loading outfits
+[20/02/2015 19:58:05] >> Loading experience stages
+[20/02/2015 19:58:05] >> Loading monsters
+[20/02/2015 19:58:11] >> Loading map and spawns...
+[20/02/2015 19:58:12] > Map size: 65000x65000.
+[20/02/2015 19:58:12] > Map descriptions: 
+[20/02/2015 19:58:12] Saved with Remere's Map Editor 2.2
+[20/02/2015 19:58:13] No map description available.
+[20/02/2015 19:58:13] Duplicate uniqueId 2407
+[20/02/2015 19:58:17] > Map loading time: 6.022 seconds.
+[20/02/2015 19:58:18] > Data loading time: 0.88 seconds.
+[20/02/2015 19:58:18] > Unserialization time for houses: 0.04 seconds.
+[20/02/2015 19:58:46] > Unserialization time for map: 27.28 seconds.
+[20/02/2015 19:58:46] >> Checking world type... PvP
+[20/02/2015 19:58:46] >> Initializing game state modules and registering services...
+[20/02/2015 19:58:47] > Global address: 127.0.0.1
+[20/02/2015 19:58:47] > Local ports:
+[20/02/2015 19:58:47] 7171	7172	
+[20/02/2015 19:58:48] >> All modules were loaded, server starting up...
+[20/02/2015 19:58:48] >> OT Death server Online!
+[20/02/2015 19:58:48] 
+[20/02/2015 19:59:41] > Saving server...
+[20/02/2015 19:59:43] > SAVE: Complete in 1.342 seconds using relational house storage.
+[20/02/2015 19:59:43] Preparing to shutdown server..
+[20/02/2015 19:59:43] .
+[20/02/2015 19:59:43] Exiting

@@ -1,0 +1,78 @@
+[27/05/2021 20:33:08] The Forgotten Server, version 0.3.4 (Crying Damson)
+[27/05/2021 20:33:08] Sever Criado Por Alissow e Comedinha.
+[27/05/2021 20:33:08] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[27/05/2021 20:33:08] Bom Jogo!!!
+[27/05/2021 20:33:08] 
+[27/05/2021 20:33:08] >> Debugging: nothing.
+[27/05/2021 20:33:08] >> Checking software version... failed - could not parse remote file (are you connected to the internet?)
+[27/05/2021 20:33:20] 
+[27/05/2021 20:33:20] >> Loading config (config.lua)
+[27/05/2021 20:33:20] > Using plaintext passwords
+[27/05/2021 20:33:20] >> Loading RSA key
+[27/05/2021 20:33:20] >> Starting SQL connection
+[27/05/2021 20:33:20] >> Running Database Manager
+[27/05/2021 20:33:20] > Optimized database.
+[27/05/2021 20:33:20] >> Loading items
+[27/05/2021 20:33:20] >> Loading groups
+[27/05/2021 20:33:20] >> Loading vocations
+[27/05/2021 20:33:20] >> Loading script systems
+[27/05/2021 20:33:23] >> Loading chat channels
+[27/05/2021 20:33:23] >> Loading outfits
+[27/05/2021 20:33:23] >> Loading experience stages
+[27/05/2021 20:33:23] >> Loading monsters
+[27/05/2021 20:33:27] >> Loading map and spawns...
+[27/05/2021 20:33:28] > Map size: 65000x65000.
+[27/05/2021 20:33:28] > Map descriptions: 
+[27/05/2021 20:33:28] Saved with Remere's Map Editor 2.2
+[27/05/2021 20:33:28] No map description available.
+[27/05/2021 20:33:28] Duplicate uniqueId 2407
+[27/05/2021 20:33:31] > Map loading time: 3.35 seconds.
+[27/05/2021 20:33:33] > Data loading time: 2.341 seconds.
+[27/05/2021 20:33:33] > Unserialization time for houses: 0.022 seconds.
+[27/05/2021 20:33:53] > Unserialization time for map: 20.207 seconds.
+[27/05/2021 20:33:53] >> Checking world type... PvP
+[27/05/2021 20:33:53] >> Initializing game state modules and registering services...
+[27/05/2021 20:33:54] > Global address: deathpvp.servegame.com
+[27/05/2021 20:33:54] > Local ports:
+[27/05/2021 20:33:54] 7171	7172	
+[27/05/2021 20:33:54] >> All modules were loaded, server starting up...
+[27/05/2021 20:33:54] >> OT Death server Online!
+[27/05/2021 20:33:54] 
+[27/05/2021 20:35:31] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[27/05/2021 20:35:31] Account Manager has logged in.
+[27/05/2021 20:35:35] Account Manager has logged out.
+[27/05/2021 20:35:44] Account Manager has logged in.
+[27/05/2021 20:35:45] Account Manager has logged out.
+[27/05/2021 20:35:46] Mateus has logged in.
+[27/05/2021 20:41:44] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[27/05/2021 20:50:04] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[27/05/2021 20:50:05] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[27/05/2021 20:50:34] > CLEAN: Removed 0 items from 59 tiles in 0.024 seconds.
+[27/05/2021 20:50:34] > Broadcasted message: "Map Cleaned.".
+[27/05/2021 20:56:49] > Saving server...
+[27/05/2021 20:56:51] > SAVE: Complete in 1.193 seconds using relational house storage.
+[27/05/2021 20:58:26] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[27/05/2021 21:06:45] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[27/05/2021 21:06:47] > Broadcasted message: "Para comprar bless digite !bless".
+[27/05/2021 21:07:16] > CLEAN: Removed 0 items from 0 tiles in 0.02 seconds.
+[27/05/2021 21:07:16] > Broadcasted message: "Map Cleaned.".
+[27/05/2021 21:15:08] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[27/05/2021 21:20:10] > Saving server...
+[27/05/2021 21:20:11] > SAVE: Complete in 1.421 seconds using relational house storage.
+[27/05/2021 21:23:26] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[27/05/2021 21:23:29] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[27/05/2021 21:23:56] > CLEAN: Removed 0 items from 0 tiles in 0.015 seconds.
+[27/05/2021 21:23:56] > Broadcasted message: "Map Cleaned.".
+[27/05/2021 21:31:50] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[27/05/2021 21:40:07] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[27/05/2021 21:40:11] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[27/05/2021 21:40:37] > CLEAN: Removed 0 items from 0 tiles in 0.037 seconds.
+[27/05/2021 21:40:37] > Broadcasted message: "Map Cleaned.".
+[27/05/2021 21:43:31] > Saving server...
+[27/05/2021 21:43:33] > SAVE: Complete in 1.263 seconds using relational house storage.
+[27/05/2021 21:47:50] Mateus has logged out.
+[27/05/2021 21:47:50] > Saving server...
+[27/05/2021 21:47:51] > SAVE: Complete in 0.812 seconds using relational house storage.
+[27/05/2021 21:47:51] Preparing to shutdown server..
+[27/05/2021 21:47:51] .
+[27/05/2021 21:47:51] Exiting

@@ -1,0 +1,1011 @@
+[05/09/2014 14:08:01] The Forgotten Server, version 0.3.4 (Crying Damson)
+[05/09/2014 14:08:01] Sever Criado Por Alissow e Comedinha.
+[05/09/2014 14:08:01] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[05/09/2014 14:08:02] Bom Jogo!!!
+[05/09/2014 14:08:02] 
+[05/09/2014 14:08:02] >> Debugging: nothing.
+[05/09/2014 14:08:02] >> Checking software version... failed checking - malformed file.
+[05/09/2014 14:08:03] 
+[05/09/2014 14:08:03] >> Loading config (config.lua)
+[05/09/2014 14:08:03] > Using plaintext passwords
+[05/09/2014 14:08:03] >> Loading RSA key
+[05/09/2014 14:08:03] >> Starting SQL connection
+[05/09/2014 14:08:03] >> Running Database Manager
+[05/09/2014 14:08:04] > Optimized database.
+[05/09/2014 14:08:04] >> Loading items
+[05/09/2014 14:08:04] >> Loading groups
+[05/09/2014 14:08:04] >> Loading vocations
+[05/09/2014 14:08:04] >> Loading script systems
+[05/09/2014 14:08:09] >> Loading chat channels
+[05/09/2014 14:08:09] >> Loading outfits
+[05/09/2014 14:08:09] >> Loading experience stages
+[05/09/2014 14:08:09] >> Loading monsters
+[05/09/2014 14:08:13] >> Loading map and spawns...
+[05/09/2014 14:08:14] > Map size: 65000x65000.
+[05/09/2014 14:08:14] > Map descriptions: 
+[05/09/2014 14:08:14] Saved with Remere's Map Editor 2.2
+[05/09/2014 14:08:14] No map description available.
+[05/09/2014 14:08:15] Duplicate uniqueId 2407
+[05/09/2014 14:08:18] > Map loading time: 4.867 seconds.
+[05/09/2014 14:08:19] > Data loading time: 0.78 seconds.
+[05/09/2014 14:08:19] > Unserialization time for houses: 0.032 seconds.
+[05/09/2014 14:08:41] > Unserialization time for map: 21.684 seconds.
+[05/09/2014 14:08:41] >> Checking world type... PvP
+[05/09/2014 14:08:41] >> Initializing game state modules and registering services...
+[05/09/2014 14:08:42] > Global address: deathpvp.no-ip.info
+[05/09/2014 14:08:42] > Local ports:
+[05/09/2014 14:08:42] 7171	7172	
+[05/09/2014 14:08:42] >> All modules were loaded, server starting up...
+[05/09/2014 14:08:42] >> OT Death server Online!
+[05/09/2014 14:08:42] 
+[05/09/2014 14:08:50] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[05/09/2014 14:09:42] Hegazy has logged in.
+[05/09/2014 14:10:14] Hegazy has logged out.
+[05/09/2014 14:10:22] Magez-linda has logged in.
+[05/09/2014 14:10:30] Honda has logged in.
+[05/09/2014 14:10:49] Honda has logged out.
+[05/09/2014 14:10:57] Hegazy has logged in.
+[05/09/2014 14:13:57] Account Manager has logged in.
+[05/09/2014 14:13:58] Account Manager has logged out.
+[05/09/2014 14:14:23] To De Boa has logged in.
+[05/09/2014 14:14:38] To De Boa has logged out.
+[05/09/2014 14:14:50] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[05/09/2014 14:15:12] Hegazy has logged out.
+[05/09/2014 14:15:14] Hegazy has logged in.
+[05/09/2014 14:15:53] To De Boa has logged in.
+[05/09/2014 14:15:55] To De Boa has logged out.
+[05/09/2014 14:15:58] Magezinha Safadinha has logged in.
+[05/09/2014 14:16:00] Magezinha Safadinha has logged out.
+[05/09/2014 14:16:03] Magezinha Safadinha has logged in.
+[05/09/2014 14:17:01] Magezinha Safadinha has logged out.
+[05/09/2014 14:17:03] To De Boa has logged in.
+[05/09/2014 14:17:36] To De Boa has logged out.
+[05/09/2014 14:17:38] Magezinha Safadinha has logged in.
+[05/09/2014 14:17:47] Magez-linda has logged out.
+[05/09/2014 14:17:49] Magez-linda has logged in.
+[05/09/2014 14:19:10] Honda has logged in.
+[05/09/2014 14:19:34] Honda has logged out.
+[05/09/2014 14:19:41] Honda has logged in.
+[05/09/2014 14:19:53] Hegazy has logged out.
+[05/09/2014 14:20:00] Hegazy has logged in.
+[05/09/2014 14:20:57] Magez-linda has logged out.
+[05/09/2014 14:21:00] Magez-linda has logged in.
+[05/09/2014 14:21:18] Honda has logged out.
+[05/09/2014 14:21:23] Honda has logged in.
+[05/09/2014 14:21:31] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[05/09/2014 14:21:37] Hegazy has logged out.
+[05/09/2014 14:21:45] Mc Livinho has logged in.
+[05/09/2014 14:21:52] Magez-linda has logged out.
+[05/09/2014 14:21:52] Hegazy has logged in.
+[05/09/2014 14:21:53] Magez-linda has logged in.
+[05/09/2014 14:22:27] Magez-linda has logged out.
+[05/09/2014 14:22:28] Magez-linda has logged in.
+[05/09/2014 14:23:05] Hegazy has logged out.
+[05/09/2014 14:23:07] Hegazy has logged in.
+[05/09/2014 14:23:18] Mc Livinho has logged out.
+[05/09/2014 14:23:19] Hegazy has logged out.
+[05/09/2014 14:23:20] Mc Livinho has logged in.
+[05/09/2014 14:23:21] Hegazy has logged in.
+[05/09/2014 14:24:50] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 14:25:04] Hegazy has logged out.
+[05/09/2014 14:25:06] Hegazy has logged in.
+[05/09/2014 14:25:20] > CLEAN: Removed 105 items from 227 tiles in 0.161 seconds.
+[05/09/2014 14:25:20] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 14:25:25] Mc Livinho has logged out.
+[05/09/2014 14:25:44] Mc Livinho has logged in.
+[05/09/2014 14:26:53] Magez-linda has logged out.
+[05/09/2014 14:26:55] Magez-linda has logged in.
+[05/09/2014 14:27:26] Honda has logged out.
+[05/09/2014 14:27:36] Honda has logged in.
+[05/09/2014 14:28:12] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[05/09/2014 14:28:20] Account Manager has logged in.
+[05/09/2014 14:28:27] Honda has logged out.
+[05/09/2014 14:28:45] Mc Livinho has logged out.
+[05/09/2014 14:28:46] Mc Livinho has logged in.
+[05/09/2014 14:29:09] Honda has logged in.
+[05/09/2014 14:29:14] Account Manager has logged out.
+[05/09/2014 14:29:21] Account Manager has logged in.
+[05/09/2014 14:30:09] Honda has logged out.
+[05/09/2014 14:30:23] Account Manager has logged out.
+[05/09/2014 14:30:31] Account Manager has logged in.
+[05/09/2014 14:30:33] Account Manager has logged out.
+[05/09/2014 14:30:34] Chefe Master has logged in.
+[05/09/2014 14:30:58] Honda has logged in.
+[05/09/2014 14:31:34] Hegazy has logged out.
+[05/09/2014 14:31:38] Hegazy has logged in.
+[05/09/2014 14:34:32] Mc Livinho has logged out.
+[05/09/2014 14:34:33] Mc Livinho has logged in.
+[05/09/2014 14:34:51] Mc Livinho has logged out.
+[05/09/2014 14:34:52] Mc Livinho has logged in.
+[05/09/2014 14:34:53] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[05/09/2014 14:35:58] Magezinha Safadinha has logged out.
+[05/09/2014 14:36:01] Magezinha Safadinha has logged in.
+[05/09/2014 14:38:38] Mc Livinho has logged out.
+[05/09/2014 14:38:41] Mc Livinho has logged in.
+[05/09/2014 14:40:31] Hegazy has logged out.
+[05/09/2014 14:40:37] Hegazy has logged in.
+[05/09/2014 14:41:13] Magez-linda has logged out.
+[05/09/2014 14:41:17] Magez-linda has logged in.
+[05/09/2014 14:41:31] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 14:41:34] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[05/09/2014 14:41:35] > Saving server...
+[05/09/2014 14:41:38] > SAVE: Complete in 2.926 seconds using relational house storage.
+[05/09/2014 14:42:02] > CLEAN: Removed 371 items from 584 tiles in 0.158 seconds.
+[05/09/2014 14:42:02] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 14:42:55] Magez-linda has logged out.
+[05/09/2014 14:42:57] Magez-linda has logged in.
+[05/09/2014 14:42:59] Mc Livinho has logged out.
+[05/09/2014 14:43:01] Mc Livinho has logged in.
+[05/09/2014 14:43:35] Mc Livinho has logged out.
+[05/09/2014 14:43:37] Mc Livinho has logged in.
+[05/09/2014 14:43:51] Honda has logged out.
+[05/09/2014 14:44:03] Honda has logged in.
+[05/09/2014 14:44:41] Hegazy has logged out.
+[05/09/2014 14:44:46] Hegazy has logged in.
+[05/09/2014 14:47:37] Magezinha Safadinha has logged out.
+[05/09/2014 14:47:39] Magezinha Safadinha has logged in.
+[05/09/2014 14:48:15] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[05/09/2014 14:48:24] Mc Livinho has logged out.
+[05/09/2014 14:48:25] Mc Livinho has logged in.
+[05/09/2014 14:49:34] Hegazy has logged out.
+[05/09/2014 14:49:39] Hegazy has logged in.
+[05/09/2014 14:49:47] Mc Livinho has logged out.
+[05/09/2014 14:49:49] Mc Livinho has logged in.
+[05/09/2014 14:51:34] Magez-linda has logged out.
+[05/09/2014 14:51:36] Magez-linda has logged in.
+[05/09/2014 14:52:02] Honda has logged out.
+[05/09/2014 14:52:07] Honda has logged in.
+[05/09/2014 14:52:20] Hegazy has logged out.
+[05/09/2014 14:52:28] Hegazy has logged in.
+[05/09/2014 14:52:45] Magez-linda has logged out.
+[05/09/2014 14:52:47] Magez-linda has logged in.
+[05/09/2014 14:53:00] Magezinha Safadinha has logged out.
+[05/09/2014 14:53:03] Honda has logged out.
+[05/09/2014 14:53:08] Honda has logged in.
+[05/09/2014 14:53:27] Hegazy has logged out.
+[05/09/2014 14:53:31] Hegazy has logged in.
+[05/09/2014 14:53:51] Magez-linda has logged out.
+[05/09/2014 14:53:52] Magez-linda has logged in.
+[05/09/2014 14:54:07] Honda has logged out.
+[05/09/2014 14:54:11] Honda has logged in.
+[05/09/2014 14:54:25] To De Boa has logged in.
+[05/09/2014 14:54:27] Hegazy has logged out.
+[05/09/2014 14:54:30] Hegazy has logged in.
+[05/09/2014 14:54:32] To De Boa has logged out.
+[05/09/2014 14:54:32] Mc Livinho has logged out.
+[05/09/2014 14:54:33] Magezinha Safadinha has logged in.
+[05/09/2014 14:54:34] Mc Livinho has logged in.
+[05/09/2014 14:54:49] Magez-linda has logged out.
+[05/09/2014 14:54:51] Magez-linda has logged in.
+[05/09/2014 14:54:56] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[05/09/2014 14:55:22] Mc Livinho has logged out.
+[05/09/2014 14:55:24] Mc Livinho has logged in.
+[05/09/2014 14:55:46] Garoto Nestle has logged in.
+[05/09/2014 14:56:11] Chefe Master has logged out.
+[05/09/2014 14:56:13] Chefe Master has logged in.
+[05/09/2014 14:56:23] Honda has logged out.
+[05/09/2014 14:56:37] Mc Livinho has logged out.
+[05/09/2014 14:56:39] Mc Livinho has logged in.
+[05/09/2014 14:56:57] Magez-linda has logged out.
+[05/09/2014 14:58:12] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 14:58:18] Mc Livinho has logged out.
+[05/09/2014 14:58:20] Mc Livinho has logged in.
+[05/09/2014 14:58:42] > CLEAN: Removed 557 items from 506 tiles in 0.23 seconds.
+[05/09/2014 14:58:43] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 15:01:37] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/09/2014 15:01:58] Mc Livinho has logged out.
+[05/09/2014 15:01:58] 
+[05/09/2014 15:01:58] Lua Script Error: [Spell Interface] 
+[05/09/2014 15:01:58] in a timer event called from: 
+[05/09/2014 15:01:59] data/spells/scripts/max power rune.lua:onCastSpell
+[05/09/2014 15:01:59] 
+[05/09/2014 15:01:59] luaDoCombat(). Creature not found
+[05/09/2014 15:01:59] 
+[05/09/2014 15:01:59] Lua Script Error: [Spell Interface] 
+[05/09/2014 15:01:59] in a timer event called from: 
+[05/09/2014 15:01:59] data/spells/scripts/max power rune.lua:onCastSpell
+[05/09/2014 15:01:59] 
+[05/09/2014 15:01:59] luaDoCombat(). Creature not found
+[05/09/2014 15:02:00] 
+[05/09/2014 15:02:00] Lua Script Error: [Spell Interface] 
+[05/09/2014 15:02:00] in a timer event called from: 
+[05/09/2014 15:02:00] data/spells/scripts/max power rune.lua:onCastSpell
+[05/09/2014 15:02:00] 
+[05/09/2014 15:02:00] luaDoCombat(). Creature not found
+[05/09/2014 15:02:00] 
+[05/09/2014 15:02:00] Lua Script Error: [Spell Interface] 
+[05/09/2014 15:02:00] in a timer event called from: 
+[05/09/2014 15:02:00] data/spells/scripts/max power rune.lua:onCastSpell
+[05/09/2014 15:02:01] 
+[05/09/2014 15:02:01] luaDoCombat(). Creature not found
+[05/09/2014 15:02:02] Mc Livinho has logged in.
+[05/09/2014 15:02:12] Magezinha Safadinha has logged out.
+[05/09/2014 15:02:14] Magezinha Safadinha has logged in.
+[05/09/2014 15:05:17] Hegazy has logged out.
+[05/09/2014 15:05:20] Garoto Nestle has logged out.
+[05/09/2014 15:05:20] Hegazy has logged in.
+[05/09/2014 15:05:58] Mc Livinho has logged out.
+[05/09/2014 15:05:59] Mc Livinho has logged in.
+[05/09/2014 15:08:12] Tedd has logged in.
+[05/09/2014 15:08:18] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[05/09/2014 15:08:54] Tedd has logged out.
+[05/09/2014 15:08:57] Tedd has logged in.
+[05/09/2014 15:09:59] Tedd has logged out.
+[05/09/2014 15:10:01] Tedd has logged in.
+[05/09/2014 15:10:34] Tedd has logged out.
+[05/09/2014 15:10:38] Tedd has logged in.
+[05/09/2014 15:11:39] Tedd has logged out.
+[05/09/2014 15:11:44] Tedd has logged in.
+[05/09/2014 15:14:43] Tedd has logged out.
+[05/09/2014 15:14:50] Tedd has logged in.
+[05/09/2014 15:14:53] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 15:14:56] > Saving server...
+[05/09/2014 15:14:59] > SAVE: Complete in 2.304 seconds using relational house storage.
+[05/09/2014 15:14:59] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[05/09/2014 15:15:24] > CLEAN: Removed 157 items from 193 tiles in 0.193 seconds.
+[05/09/2014 15:15:24] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 15:16:40] Chefe Master has logged out.
+[05/09/2014 15:16:42] Chefe Master has logged in.
+[05/09/2014 15:17:27] Tedd has logged out.
+[05/09/2014 15:17:35] Honda has logged in.
+[05/09/2014 15:19:07] Hegazy has logged out.
+[05/09/2014 15:19:14] Honda has logged out.
+[05/09/2014 15:19:27] Honda has logged in.
+[05/09/2014 15:21:40] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[05/09/2014 15:23:31] Mc Livinho has logged out.
+[05/09/2014 15:23:42] Mc Livinho has logged in.
+[05/09/2014 15:28:21] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/09/2014 15:28:31] Magezinha Safadinha has logged out.
+[05/09/2014 15:31:34] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 15:32:05] > CLEAN: Removed 244 items from 250 tiles in 0.218 seconds.
+[05/09/2014 15:32:05] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 15:35:02] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/09/2014 15:36:03] Chefe Master has logged out.
+[05/09/2014 15:36:05] Honda has logged out.
+[05/09/2014 15:36:08] Chefe Master has logged in.
+[05/09/2014 15:36:12] Honda has logged in.
+[05/09/2014 15:36:57] Honda has logged out.
+[05/09/2014 15:38:47] Hegazy has logged in.
+[05/09/2014 15:39:03] Honda has logged in.
+[05/09/2014 15:40:16] Mc Livinho has logged out.
+[05/09/2014 15:40:40] Hegazy has logged out.
+[05/09/2014 15:40:49] Hegazy has logged in.
+[05/09/2014 15:41:26] Honda has logged out.
+[05/09/2014 15:41:33] Honda has logged in.
+[05/09/2014 15:41:43] > Broadcasted message: "Para comprar bless digite !bless".
+[05/09/2014 15:41:48] Hegazy has logged out.
+[05/09/2014 15:41:53] Hegazy has logged in.
+[05/09/2014 15:42:10] Honda has logged out.
+[05/09/2014 15:42:20] Honda has logged in.
+[05/09/2014 15:42:35] Honda has logged out.
+[05/09/2014 15:42:42] Honda has logged in.
+[05/09/2014 15:42:58] Hegazy has logged out.
+[05/09/2014 15:43:05] Hegazy has logged in.
+[05/09/2014 15:43:42] Hegazy has logged out.
+[05/09/2014 15:43:46] Hegazy has logged in.
+[05/09/2014 15:44:02] Honda has logged out.
+[05/09/2014 15:44:06] Honda has logged in.
+[05/09/2014 15:44:15] Honda has logged out.
+[05/09/2014 15:44:19] Honda has logged in.
+[05/09/2014 15:44:26] Honda has logged out.
+[05/09/2014 15:44:31] Honda has logged in.
+[05/09/2014 15:44:44] Hegazy has logged out.
+[05/09/2014 15:44:53] Hegazy has logged in.
+[05/09/2014 15:45:26] Hegazy has logged out.
+[05/09/2014 15:45:32] Hegazy has logged in.
+[05/09/2014 15:46:14] Honda has logged out.
+[05/09/2014 15:46:21] Honda has logged in.
+[05/09/2014 15:46:24] Honda has logged out.
+[05/09/2014 15:46:32] Honda has logged in.
+[05/09/2014 15:47:13] Hegazy has logged out.
+[05/09/2014 15:47:20] Hegazy has logged in.
+[05/09/2014 15:47:39] Honda has logged out.
+[05/09/2014 15:47:43] Honda has logged in.
+[05/09/2014 15:48:01] Hegazy has logged out.
+[05/09/2014 15:48:07] Hegazy has logged in.
+[05/09/2014 15:48:08] Kina Rullex has logged in.
+[05/09/2014 15:48:15] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 15:48:17] > Saving server...
+[05/09/2014 15:48:18] > SAVE: Complete in 1.88 seconds using relational house storage.
+[05/09/2014 15:48:24] > Broadcasted message: "Para comprar bless digite !bless".
+[05/09/2014 15:48:45] > CLEAN: Removed 45 items from 23 tiles in 0.191 seconds.
+[05/09/2014 15:48:45] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 15:50:07] Honda has logged out.
+[05/09/2014 15:50:14] Honda has logged in.
+[05/09/2014 15:50:28] Honda has logged out.
+[05/09/2014 15:50:34] Honda has logged in.
+[05/09/2014 15:50:53] Honda has logged out.
+[05/09/2014 15:52:12] Kina Rullex has logged out.
+[05/09/2014 15:52:14] Kina Rullex has logged in.
+[05/09/2014 15:54:07] Kina Rullex has logged out.
+[05/09/2014 15:54:09] Kina Rullex has logged in.
+[05/09/2014 15:55:05] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/09/2014 16:01:18] Chefe Master has logged out.
+[05/09/2014 16:01:20] Chefe Master has logged in.
+[05/09/2014 16:01:20] Garoto Nestle has logged in.
+[05/09/2014 16:01:46] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[05/09/2014 16:03:10] Garoto Nestle has logged out.
+[05/09/2014 16:03:12] Garoto Nestle has logged in.
+[05/09/2014 16:04:56] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 16:05:27] > CLEAN: Removed 45 items from 34 tiles in 0.158 seconds.
+[05/09/2014 16:05:27] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 16:05:32] Garoto Nestle has logged out.
+[05/09/2014 16:07:03] Hegazy has logged out.
+[05/09/2014 16:07:24] Tedd has logged in.
+[05/09/2014 16:07:38] Tedd has logged out.
+[05/09/2014 16:07:46] Hegazy has logged in.
+[05/09/2014 16:08:27] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[05/09/2014 16:12:34] Chefe Master has logged out.
+[05/09/2014 16:12:35] Chefe Master has logged in.
+[05/09/2014 16:15:08] > Broadcasted message: "Para comprar bless digite !bless".
+[05/09/2014 16:21:37] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 16:21:38] > Saving server...
+[05/09/2014 16:21:40] > SAVE: Complete in 1.935 seconds using relational house storage.
+[05/09/2014 16:21:49] > Broadcasted message: "Para comprar bless digite !bless".
+[05/09/2014 16:22:08] > CLEAN: Removed 17 items from 32 tiles in 0.14 seconds.
+[05/09/2014 16:22:08] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 16:28:30] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[05/09/2014 16:28:47] Hegazy has logged out.
+[05/09/2014 16:28:49] Hegazy has logged in.
+[05/09/2014 16:33:37] Kina Rullex has logged out.
+[05/09/2014 16:33:39] Kina Rullex has logged in.
+[05/09/2014 16:35:11] > Broadcasted message: "Para comprar bless digite !bless".
+[05/09/2014 16:35:31] Kina Rullex has logged out.
+[05/09/2014 16:35:32] Kina Rullex has logged in.
+[05/09/2014 16:38:18] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 16:38:34] Hegazy has logged out.
+[05/09/2014 16:38:49] > CLEAN: Removed 137 items from 159 tiles in 0.156 seconds.
+[05/09/2014 16:38:49] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 16:38:54] Hegazy has logged in.
+[05/09/2014 16:40:19] Honda has logged in.
+[05/09/2014 16:40:27] Honda has logged out.
+[05/09/2014 16:40:30] Honda has logged in.
+[05/09/2014 16:40:47] Hegazy has logged out.
+[05/09/2014 16:40:52] Hegazy has logged in.
+[05/09/2014 16:41:14] Chefe Master has logged out.
+[05/09/2014 16:41:15] Kina Rullex has logged out.
+[05/09/2014 16:41:17] Chefe Master has logged in.
+[05/09/2014 16:41:17] Kina Rullex has logged in.
+[05/09/2014 16:41:26] Honda has logged out.
+[05/09/2014 16:41:31] Honda has logged in.
+[05/09/2014 16:41:52] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[05/09/2014 16:41:59] Honda has logged out.
+[05/09/2014 16:44:15] Magez-linda has logged in.
+[05/09/2014 16:45:07] Magez-linda has logged out.
+[05/09/2014 16:45:37] Magez-linda has logged in.
+[05/09/2014 16:45:42] Honda has logged in.
+[05/09/2014 16:47:21] Magez-linda has logged out.
+[05/09/2014 16:47:23] Magez-linda has logged in.
+[05/09/2014 16:47:40] Honda has logged out.
+[05/09/2014 16:47:44] Honda has logged in.
+[05/09/2014 16:48:12] Hegazy has logged out.
+[05/09/2014 16:48:20] Hegazy has logged in.
+[05/09/2014 16:48:33] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[05/09/2014 16:48:53] Magez-linda has logged out.
+[05/09/2014 16:48:55] Magez-linda has logged in.
+[05/09/2014 16:49:25] Honda has logged out.
+[05/09/2014 16:49:31] Honda has logged in.
+[05/09/2014 16:49:54] Hegazy has logged out.
+[05/09/2014 16:50:05] Hegazy has logged in.
+[05/09/2014 16:50:39] Magez-linda has logged out.
+[05/09/2014 16:50:41] Magez-linda has logged in.
+[05/09/2014 16:50:59] Honda has logged out.
+[05/09/2014 16:51:05] Honda has logged in.
+[05/09/2014 16:51:17] Hegazy has logged out.
+[05/09/2014 16:51:23] Hegazy has logged in.
+[05/09/2014 16:52:29] Magez-linda has logged out.
+[05/09/2014 16:52:32] Magez-linda has logged in.
+[05/09/2014 16:52:42] Honda has logged out.
+[05/09/2014 16:52:57] Honda has logged in.
+[05/09/2014 16:53:16] Hegazy has logged out.
+[05/09/2014 16:53:24] Hegazy has logged in.
+[05/09/2014 16:53:40] Honda has logged out.
+[05/09/2014 16:54:22] Magez-linda has logged out.
+[05/09/2014 16:54:24] Magez-linda has logged in.
+[05/09/2014 16:54:43] Honda has logged in.
+[05/09/2014 16:54:58] Honda has logged out.
+[05/09/2014 16:54:59] > Saving server...
+[05/09/2014 16:55:01] > SAVE: Complete in 1.841 seconds using relational house storage.
+[05/09/2014 16:55:02] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 16:55:14] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/09/2014 16:55:24] Kina Rullex has logged out.
+[05/09/2014 16:55:25] Kina Rullex has logged in.
+[05/09/2014 16:55:32] > CLEAN: Removed 2024 items from 1088 tiles in 0.265 seconds.
+[05/09/2014 16:55:32] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 16:56:00] Magez-linda has logged out.
+[05/09/2014 16:56:07] Menina Mal has logged in.
+[05/09/2014 16:57:28] Menina Mal has logged out.
+[05/09/2014 16:57:36] Magez-linda has logged in.
+[05/09/2014 16:57:57] Magez-linda has logged out.
+[05/09/2014 16:58:21] Menina Mal has logged in.
+[05/09/2014 17:00:46] Hegazy has logged out.
+[05/09/2014 17:00:52] Hegazy has logged in.
+[05/09/2014 17:01:55] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[05/09/2014 17:04:17] Chefe Master has logged out.
+[05/09/2014 17:04:17] 
+[05/09/2014 17:04:17] Lua Script Error: [Spell Interface] 
+[05/09/2014 17:04:18] in a timer event called from: 
+[05/09/2014 17:04:18] data/spells/scripts/max power rune.lua:onCastSpell
+[05/09/2014 17:04:18] 
+[05/09/2014 17:04:18] luaDoCombat(). Creature not found
+[05/09/2014 17:04:18] 
+[05/09/2014 17:04:18] Lua Script Error: [Spell Interface] 
+[05/09/2014 17:04:18] in a timer event called from: 
+[05/09/2014 17:04:19] data/spells/scripts/max power rune.lua:onCastSpell
+[05/09/2014 17:04:19] 
+[05/09/2014 17:04:19] luaDoCombat(). Creature not found
+[05/09/2014 17:04:19] 
+[05/09/2014 17:04:19] Lua Script Error: [Spell Interface] 
+[05/09/2014 17:04:19] in a timer event called from: 
+[05/09/2014 17:04:20] data/spells/scripts/max power rune.lua:onCastSpell
+[05/09/2014 17:04:20] 
+[05/09/2014 17:04:20] luaDoCombat(). Creature not found
+[05/09/2014 17:04:20] 
+[05/09/2014 17:04:20] Lua Script Error: [Spell Interface] 
+[05/09/2014 17:04:20] in a timer event called from: 
+[05/09/2014 17:04:20] data/spells/scripts/max power rune.lua:onCastSpell
+[05/09/2014 17:04:21] 
+[05/09/2014 17:04:21] luaDoCombat(). Creature not found
+[05/09/2014 17:04:21] Chefe Master has logged in.
+[05/09/2014 17:04:56] Menina Mal has logged out.
+[05/09/2014 17:05:02] Menina Mal has logged in.
+[05/09/2014 17:05:40] Menina Mal has logged out.
+[05/09/2014 17:05:41] Chefe Master has logged out.
+[05/09/2014 17:05:42] Chefe Master has logged in.
+[05/09/2014 17:05:43] Menina Mal has logged in.
+[05/09/2014 17:06:14] Hegazy has logged out.
+[05/09/2014 17:06:16] Hegazy has logged in.
+[05/09/2014 17:06:26] Hegazy has logged out.
+[05/09/2014 17:06:29] Hegazy has logged in.
+[05/09/2014 17:06:59] Menina Mal has logged out.
+[05/09/2014 17:07:03] Menina Mal has logged in.
+[05/09/2014 17:08:23] Menina Mal has logged out.
+[05/09/2014 17:08:32] Magez-linda has logged in.
+[05/09/2014 17:08:36] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/09/2014 17:09:35] Hegazy has logged out.
+[05/09/2014 17:09:38] Hegazy has logged in.
+[05/09/2014 17:11:42] Honda has logged in.
+[05/09/2014 17:11:43] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 17:11:50] Kina Rullex has logged out.
+[05/09/2014 17:11:51] Kina Rullex has logged in.
+[05/09/2014 17:12:13] > CLEAN: Removed 15 items from 35 tiles in 0.319 seconds.
+[05/09/2014 17:12:13] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 17:12:15] Hegazy has logged out.
+[05/09/2014 17:12:25] Hegazy has logged in.
+[05/09/2014 17:12:52] Magez-linda has logged out.
+[05/09/2014 17:12:54] Magez-linda has logged in.
+[05/09/2014 17:13:21] Honda has logged out.
+[05/09/2014 17:13:22] Chefe Master has logged out.
+[05/09/2014 17:13:24] Chefe Master has logged in.
+[05/09/2014 17:13:45] Honda has logged in.
+[05/09/2014 17:14:24] Chefe Master has logged out.
+[05/09/2014 17:14:25] Hegazy has logged out.
+[05/09/2014 17:14:25] Chefe Master has logged in.
+[05/09/2014 17:14:36] Hegazy has logged in.
+[05/09/2014 17:15:12] Honda has logged out.
+[05/09/2014 17:15:13] Magez-linda has logged out.
+[05/09/2014 17:15:15] Magez-linda has logged in.
+[05/09/2014 17:15:17] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[05/09/2014 17:15:41] Honda has logged in.
+[05/09/2014 17:16:31] Hegazy has logged out.
+[05/09/2014 17:16:36] Hegazy has logged in.
+[05/09/2014 17:17:23] Honda has logged out.
+[05/09/2014 17:17:28] Honda has logged in.
+[05/09/2014 17:18:05] Magez-linda has logged out.
+[05/09/2014 17:18:06] Magez-linda has logged in.
+[05/09/2014 17:18:33] Honda has logged out.
+[05/09/2014 17:18:40] Honda has logged in.
+[05/09/2014 17:18:57] Hegazy has logged out.
+[05/09/2014 17:19:02] Kina Rullex has logged out.
+[05/09/2014 17:19:04] Hegazy has logged in.
+[05/09/2014 17:19:29] Magez-linda has logged out.
+[05/09/2014 17:19:29] Honda has logged out.
+[05/09/2014 17:19:31] Magez-linda has logged in.
+[05/09/2014 17:19:49] Honda has logged in.
+[05/09/2014 17:20:02] Druiid of Cauz has logged in.
+[05/09/2014 17:20:10] Druiid of Cauz has logged out.
+[05/09/2014 17:20:17] Honda has logged out.
+[05/09/2014 17:20:19] Meele Pally has logged in.
+[05/09/2014 17:20:22] Honda has logged in.
+[05/09/2014 17:20:31] Honda has logged out.
+[05/09/2014 17:21:52] Meele Pally has logged out.
+[05/09/2014 17:21:54] Meele Pally has logged in.
+[05/09/2014 17:21:58] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[05/09/2014 17:22:03] Meele Pally has logged out.
+[05/09/2014 17:24:47] Chefe Master has logged out.
+[05/09/2014 17:28:20] > Saving server...
+[05/09/2014 17:28:22] > SAVE: Complete in 1.84 seconds using relational house storage.
+[05/09/2014 17:28:24] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 17:28:39] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[05/09/2014 17:28:55] > CLEAN: Removed 1635 items from 761 tiles in 0.23 seconds.
+[05/09/2014 17:28:55] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 17:35:20] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[05/09/2014 17:42:01] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[05/09/2014 17:45:05] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 17:45:35] > CLEAN: Removed 609 items from 311 tiles in 0.23 seconds.
+[05/09/2014 17:45:35] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 17:48:42] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[05/09/2014 17:49:28] Magez-linda has logged out.
+[05/09/2014 17:55:23] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/09/2014 18:01:41] > Saving server...
+[05/09/2014 18:01:43] > SAVE: Complete in 1.612 seconds using relational house storage.
+[05/09/2014 18:01:46] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 18:02:04] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[05/09/2014 18:02:16] > CLEAN: Removed 0 items from 1 tile in 0.166 seconds.
+[05/09/2014 18:02:17] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 18:02:31] Hegazy has logged out.
+[05/09/2014 18:02:47] Honda has logged in.
+[05/09/2014 18:07:20] Loss Pally has logged in.
+[05/09/2014 18:07:43] Honda has logged out.
+[05/09/2014 18:07:51] Hegazy has logged in.
+[05/09/2014 18:08:45] > Broadcasted message: "Para comprar bless digite !bless".
+[05/09/2014 18:09:29] Loss Pally has logged out.
+[05/09/2014 18:09:31] Loss Pally has logged in.
+[05/09/2014 18:15:26] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/09/2014 18:18:07] Loss Pally has logged out.
+[05/09/2014 18:18:08] Loss Pally has logged in.
+[05/09/2014 18:18:27] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 18:18:58] > CLEAN: Removed 0 items from 13 tiles in 0.161 seconds.
+[05/09/2014 18:18:58] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 18:22:07] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[05/09/2014 18:28:48] > Broadcasted message: "Para comprar bless digite !bless".
+[05/09/2014 18:28:49] Hegazy has logged out.
+[05/09/2014 18:28:51] Hegazy has logged in.
+[05/09/2014 18:30:10] Account Manager has logged in.
+[05/09/2014 18:30:14] Account Manager has logged out.
+[05/09/2014 18:30:16] Tedd has logged in.
+[05/09/2014 18:33:02] Tedd has logged out.
+[05/09/2014 18:33:09] Tedd has logged in.
+[05/09/2014 18:35:02] > Saving server...
+[05/09/2014 18:35:04] > SAVE: Complete in 2.002 seconds using relational house storage.
+[05/09/2014 18:35:08] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 18:35:29] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[05/09/2014 18:35:38] > CLEAN: Removed 10 items from 52 tiles in 0.159 seconds.
+[05/09/2014 18:35:39] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 18:36:56] Tedd has logged out.
+[05/09/2014 18:38:50] Tedd has logged in.
+[05/09/2014 18:38:54] Tedd has logged out.
+[05/09/2014 18:42:10] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/09/2014 18:42:26] Account Manager has logged in.
+[05/09/2014 18:42:33] Account Manager has logged out.
+[05/09/2014 18:44:52] Blackgt has logged in.
+[05/09/2014 18:48:51] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[05/09/2014 18:49:36] Kina Rullex has logged in.
+[05/09/2014 18:51:07] Kina Rullex has logged out.
+[05/09/2014 18:51:32] Blackgt has logged out.
+[05/09/2014 18:51:34] Blackgt has logged in.
+[05/09/2014 18:51:49] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 18:52:20] > CLEAN: Removed 90 items from 86 tiles in 0.161 seconds.
+[05/09/2014 18:52:20] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 18:54:25] Loss Pally has logged out.
+[05/09/2014 18:54:27] Loss Pally has logged in.
+[05/09/2014 18:55:32] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[05/09/2014 18:57:06] Foxkinha has logged in.
+[05/09/2014 18:59:05] Haddadi has logged in.
+[05/09/2014 19:02:13] > Broadcasted message: "Para comprar bless digite !bless".
+[05/09/2014 19:05:09] Foxkinha has logged out.
+[05/09/2014 19:08:23] > Saving server...
+[05/09/2014 19:08:25] > SAVE: Complete in 1.988 seconds using relational house storage.
+[05/09/2014 19:08:30] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 19:08:54] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[05/09/2014 19:09:01] > CLEAN: Removed 843 items from 919 tiles in 0.167 seconds.
+[05/09/2014 19:09:01] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 19:10:04] Blackgt has logged out.
+[05/09/2014 19:10:06] Blackgt has logged in.
+[05/09/2014 19:11:14] Hegazy has logged out.
+[05/09/2014 19:11:16] Hegazy has logged in.
+[05/09/2014 19:15:35] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[05/09/2014 19:15:50] Blackgt has logged out.
+[05/09/2014 19:15:51] Blackgt has logged in.
+[05/09/2014 19:22:16] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[05/09/2014 19:22:19] Kaiozinho has logged in.
+[05/09/2014 19:23:34] Blackgt has logged out.
+[05/09/2014 19:23:36] Blackgt has logged in.
+[05/09/2014 19:25:11] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 19:25:42] > CLEAN: Removed 16 items from 179 tiles in 0.16 seconds.
+[05/09/2014 19:25:42] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 19:26:37] Loss Pally has logged out.
+[05/09/2014 19:26:39] Blackgt has logged out.
+[05/09/2014 19:26:39] Loss Pally has logged in.
+[05/09/2014 19:26:40] Blackgt has logged in.
+[05/09/2014 19:27:30] Loss Pally has logged out.
+[05/09/2014 19:27:32] Loss Pally has logged in.
+[05/09/2014 19:28:57] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[05/09/2014 19:29:58] Hegazy has logged out.
+[05/09/2014 19:30:17] Kaiozinho has logged out.
+[05/09/2014 19:30:23] Haddadi has logged out.
+[05/09/2014 19:30:25] Haddadi has logged in.
+[05/09/2014 19:31:11] Hegazy has logged in.
+[05/09/2014 19:35:38] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[05/09/2014 19:41:44] > Saving server...
+[05/09/2014 19:41:46] > SAVE: Complete in 1.94 seconds using relational house storage.
+[05/09/2014 19:41:52] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 19:42:19] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[05/09/2014 19:42:22] > CLEAN: Removed 957 items from 1108 tiles in 0.176 seconds.
+[05/09/2014 19:42:22] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 19:42:52] Hegazy has logged out.
+[05/09/2014 19:42:53] Hegazy has logged in.
+[05/09/2014 19:43:03] Hegazy has logged out.
+[05/09/2014 19:43:05] Hegazy has logged in.
+[05/09/2014 19:43:06] > Saving server...
+[05/09/2014 19:43:09] > SAVE: Complete in 2.688 seconds using relational house storage.
+[05/09/2014 19:48:40] Hegazy has logged out.
+[05/09/2014 19:48:42] Hegazy has logged in.
+[05/09/2014 19:48:44] Loss Pally has logged out.
+[05/09/2014 19:48:45] Loss Pally has logged in.
+[05/09/2014 19:49:00] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[05/09/2014 19:52:48] Loss Pally has logged out.
+[05/09/2014 19:52:50] Loss Pally has logged in.
+[05/09/2014 19:53:46] Blackgt has logged out.
+[05/09/2014 19:53:47] Blackgt has logged in.
+[05/09/2014 19:53:48] Hegazy has logged out.
+[05/09/2014 19:53:51] Hegazy has logged in.
+[05/09/2014 19:55:41] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/09/2014 19:55:44] Blackgt has logged out.
+[05/09/2014 19:55:44] 
+[05/09/2014 19:55:44] Lua Script Error: [CreatureScript Interface] 
+[05/09/2014 19:55:44] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[05/09/2014 19:55:45] 
+[05/09/2014 19:55:45] luaGetCreatureName(). Creature not found
+[05/09/2014 19:55:45] 
+[05/09/2014 19:55:45] Lua Script Error: [CreatureScript Interface] 
+[05/09/2014 19:55:45] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[05/09/2014 19:55:45] 
+[05/09/2014 19:55:45] luaGetCreatureName(). Creature not found
+[05/09/2014 19:55:45] Hegazy has logged out.
+[05/09/2014 19:55:46] Blackgt has logged in.
+[05/09/2014 19:55:49] Hegazy has logged in.
+[05/09/2014 19:56:08] Hegazy has logged out.
+[05/09/2014 19:56:09] Hegazy has logged in.
+[05/09/2014 19:56:43] Hegazy has logged out.
+[05/09/2014 19:57:06] Honda has logged in.
+[05/09/2014 19:58:02] Honda has logged out.
+[05/09/2014 19:58:10] Hegazy has logged in.
+[05/09/2014 19:58:25] Hegazy has logged out.
+[05/09/2014 19:58:33] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 19:58:35] Honda has logged in.
+[05/09/2014 19:59:03] > CLEAN: Removed 241 items from 367 tiles in 0.156 seconds.
+[05/09/2014 19:59:04] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 19:59:36] Haddadi has logged out.
+[05/09/2014 19:59:36] Honda has logged out.
+[05/09/2014 19:59:38] Haddadi has logged in.
+[05/09/2014 19:59:39] Honda has logged in.
+[05/09/2014 20:00:02] Honda has logged out.
+[05/09/2014 20:00:20] Blackgt has logged out.
+[05/09/2014 20:00:21] Blackgt has logged in.
+[05/09/2014 20:00:29] Hegazy has logged in.
+[05/09/2014 20:01:09] Blackgt has logged out.
+[05/09/2014 20:01:11] Blackgt has logged in.
+[05/09/2014 20:02:13] Blackgt has logged out.
+[05/09/2014 20:02:15] Blackgt has logged in.
+[05/09/2014 20:02:22] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[05/09/2014 20:02:51] Hegazy has logged out.
+[05/09/2014 20:02:53] Hegazy has logged in.
+[05/09/2014 20:03:19] Blackgt has logged out.
+[05/09/2014 20:03:22] Blackgt has logged in.
+[05/09/2014 20:04:07] Blackgt has logged out.
+[05/09/2014 20:04:08] Loss Pally has logged out.
+[05/09/2014 20:04:09] Blackgt has logged in.
+[05/09/2014 20:04:10] Loss Pally has logged in.
+[05/09/2014 20:05:21] Blackgt has logged out.
+[05/09/2014 20:05:24] Blackgt has logged in.
+[05/09/2014 20:05:25] Hegazy has logged out.
+[05/09/2014 20:05:27] Hegazy has logged in.
+[05/09/2014 20:06:01] Blackgt has logged out.
+[05/09/2014 20:06:03] Blackgt has logged in.
+[05/09/2014 20:09:03] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[05/09/2014 20:10:03] Blackgt has logged out.
+[05/09/2014 20:10:05] Blackgt has logged in.
+[05/09/2014 20:10:51] Blackgt has logged out.
+[05/09/2014 20:10:53] Blackgt has logged in.
+[05/09/2014 20:12:09] Hegazy has logged out.
+[05/09/2014 20:12:12] Hegazy has logged in.
+[05/09/2014 20:13:08] Loss Pally has logged out.
+[05/09/2014 20:13:10] Loss Pally has logged in.
+[05/09/2014 20:13:47] Honda has logged in.
+[05/09/2014 20:14:01] Honda has logged out.
+[05/09/2014 20:14:12] Honda has logged in.
+[05/09/2014 20:15:05] > Saving server...
+[05/09/2014 20:15:07] > SAVE: Complete in 2.495 seconds using relational house storage.
+[05/09/2014 20:15:14] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 20:15:44] > CLEAN: Removed 36 items from 56 tiles in 0.237 seconds.
+[05/09/2014 20:15:45] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 20:15:45] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[05/09/2014 20:17:03] Honda has logged out.
+[05/09/2014 20:17:20] Honda has logged in.
+[05/09/2014 20:18:36] Blackgt has logged out.
+[05/09/2014 20:18:38] Blackgt has logged in.
+[05/09/2014 20:18:41] Haddadi has logged out.
+[05/09/2014 20:18:43] Haddadi has logged in.
+[05/09/2014 20:19:02] Hegazy has logged out.
+[05/09/2014 20:19:06] Blackgt has logged out.
+[05/09/2014 20:19:07] Hegazy has logged in.
+[05/09/2014 20:19:11] Blackgt has logged in.
+[05/09/2014 20:20:08] Blackgt has logged out.
+[05/09/2014 20:20:10] Blackgt has logged in.
+[05/09/2014 20:20:16] Haddadi has logged out.
+[05/09/2014 20:20:21] Haddadi has logged in.
+[05/09/2014 20:20:47] Blackgt has logged out.
+[05/09/2014 20:20:49] Blackgt has logged in.
+[05/09/2014 20:21:03] Blackgt has logged out.
+[05/09/2014 20:21:06] Blackgt has logged in.
+[05/09/2014 20:21:24] Hegazy has logged out.
+[05/09/2014 20:21:27] Blackgt has logged out.
+[05/09/2014 20:21:27] Hegazy has logged in.
+[05/09/2014 20:21:28] Blackgt has logged in.
+[05/09/2014 20:21:41] Hegazy has logged out.
+[05/09/2014 20:21:57] Hegazy has logged in.
+[05/09/2014 20:22:22] Honda has logged out.
+[05/09/2014 20:22:25] Honda has logged in.
+[05/09/2014 20:22:26] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/09/2014 20:22:49] Haddadi has logged out.
+[05/09/2014 20:22:55] Haddadi has logged in.
+[05/09/2014 20:22:57] Blackgt has logged out.
+[05/09/2014 20:22:59] Blackgt has logged in.
+[05/09/2014 20:23:18] Hegazy has logged out.
+[05/09/2014 20:23:31] Hegazy has logged in.
+[05/09/2014 20:24:18] Honda has logged out.
+[05/09/2014 20:24:23] Honda has logged in.
+[05/09/2014 20:25:20] Haddadi has logged out.
+[05/09/2014 20:25:22] Haddadi has logged in.
+[05/09/2014 20:25:45] Hegazy has logged out.
+[05/09/2014 20:25:49] Hegazy has logged in.
+[05/09/2014 20:26:36] Haddadi has logged out.
+[05/09/2014 20:26:40] Haddadi has logged in.
+[05/09/2014 20:27:05] Honda has logged out.
+[05/09/2014 20:27:08] Honda has logged in.
+[05/09/2014 20:27:22] Hegazy has logged out.
+[05/09/2014 20:27:26] Hegazy has logged in.
+[05/09/2014 20:27:40] Blackgt has logged out.
+[05/09/2014 20:27:42] Blackgt has logged in.
+[05/09/2014 20:27:54] Haddadi has logged out.
+[05/09/2014 20:27:56] Haddadi has logged in.
+[05/09/2014 20:28:19] Blackgt has logged out.
+[05/09/2014 20:28:21] Blackgt has logged in.
+[05/09/2014 20:28:37] Honda has logged out.
+[05/09/2014 20:28:44] Honda has logged in.
+[05/09/2014 20:28:58] Hegazy has logged out.
+[05/09/2014 20:29:03] Hegazy has logged in.
+[05/09/2014 20:29:07] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[05/09/2014 20:29:26] Blackgt has logged out.
+[05/09/2014 20:29:27] Blackgt has logged in.
+[05/09/2014 20:29:31] Haddadi has logged out.
+[05/09/2014 20:29:32] Haddadi has logged in.
+[05/09/2014 20:29:52] Honda has logged out.
+[05/09/2014 20:30:46] Honda has logged in.
+[05/09/2014 20:30:48] Loss Pally has logged out.
+[05/09/2014 20:30:49] Loss Pally has logged in.
+[05/09/2014 20:31:48] Haddadi has logged out.
+[05/09/2014 20:31:50] Haddadi has logged in.
+[05/09/2014 20:31:55] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 20:32:09] Hegazy has logged out.
+[05/09/2014 20:32:13] Hegazy has logged in.
+[05/09/2014 20:32:25] > CLEAN: Removed 56 items from 47 tiles in 0.165 seconds.
+[05/09/2014 20:32:26] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 20:32:36] Honda has logged out.
+[05/09/2014 20:32:40] Honda has logged in.
+[05/09/2014 20:33:05] Haddadi has logged out.
+[05/09/2014 20:33:06] Haddadi has logged in.
+[05/09/2014 20:33:23] Hegazy has logged out.
+[05/09/2014 20:33:26] Hegazy has logged in.
+[05/09/2014 20:33:46] Honda has logged out.
+[05/09/2014 20:33:49] Honda has logged in.
+[05/09/2014 20:34:10] Haddadi has logged out.
+[05/09/2014 20:34:11] Haddadi has logged in.
+[05/09/2014 20:34:29] Hegazy has logged out.
+[05/09/2014 20:34:32] Hegazy has logged in.
+[05/09/2014 20:34:45] Honda has logged out.
+[05/09/2014 20:34:51] Honda has logged in.
+[05/09/2014 20:34:55] Blackgt has logged out.
+[05/09/2014 20:34:57] Blackgt has logged in.
+[05/09/2014 20:35:27] Haddadi has logged out.
+[05/09/2014 20:35:29] Haddadi has logged in.
+[05/09/2014 20:35:48] Hegazy has logged out.
+[05/09/2014 20:35:48] > Broadcasted message: "Para comprar bless digite !bless".
+[05/09/2014 20:36:20] Hegazy has logged in.
+[05/09/2014 20:36:44] Haddadi has logged out.
+[05/09/2014 20:36:49] Haddadi has logged in.
+[05/09/2014 20:37:06] Honda has logged out.
+[05/09/2014 20:37:10] Honda has logged in.
+[05/09/2014 20:37:24] Hegazy has logged out.
+[05/09/2014 20:37:25] Blackgt has logged out.
+[05/09/2014 20:37:27] Blackgt has logged in.
+[05/09/2014 20:37:27] Hegazy has logged in.
+[05/09/2014 20:38:44] Blackgt has logged out.
+[05/09/2014 20:38:46] Blackgt has logged in.
+[05/09/2014 20:42:00] Honda has logged out.
+[05/09/2014 20:42:29] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/09/2014 20:43:18] Blackgt has logged out.
+[05/09/2014 20:43:20] Blackgt has logged in.
+[05/09/2014 20:44:21] Blackgt has logged out.
+[05/09/2014 20:44:23] Blackgt has logged in.
+[05/09/2014 20:44:32] Blackgt has logged out.
+[05/09/2014 20:44:34] Blackgt has logged in.
+[05/09/2014 20:48:26] > Saving server...
+[05/09/2014 20:48:29] > SAVE: Complete in 2.122 seconds using relational house storage.
+[05/09/2014 20:48:36] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 20:49:07] > CLEAN: Removed 37 items from 45 tiles in 0.225 seconds.
+[05/09/2014 20:49:07] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 20:49:10] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/09/2014 20:50:44] Loss Pally has logged out.
+[05/09/2014 20:50:46] Loss Pally has logged in.
+[05/09/2014 20:51:34] Loss Pally has logged out.
+[05/09/2014 20:51:36] Loss Pally has logged in.
+[05/09/2014 20:54:16] Haddadi has logged out.
+[05/09/2014 20:54:46] Blackgt has logged out.
+[05/09/2014 20:54:48] Blackgt has logged in.
+[05/09/2014 20:55:51] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/09/2014 21:02:09] Blackgt has logged out.
+[05/09/2014 21:02:11] Blackgt has logged in.
+[05/09/2014 21:02:32] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[05/09/2014 21:03:39] Haddadi has logged in.
+[05/09/2014 21:03:46] Blackgt has logged out.
+[05/09/2014 21:03:48] Blackgt has logged in.
+[05/09/2014 21:03:56] Blackgt has logged out.
+[05/09/2014 21:05:17] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 21:05:48] > CLEAN: Removed 56 items from 55 tiles in 0.163 seconds.
+[05/09/2014 21:05:48] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 21:07:24] Veigar has logged in.
+[05/09/2014 21:09:13] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[05/09/2014 21:09:34] Veigar has logged out.
+[05/09/2014 21:10:25] Blackgt has logged in.
+[05/09/2014 21:15:54] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[05/09/2014 21:16:23] Blackgt has logged out.
+[05/09/2014 21:16:25] Blackgt has logged in.
+[05/09/2014 21:17:36] Blackgt has logged out.
+[05/09/2014 21:17:38] Blackgt has logged in.
+[05/09/2014 21:21:38] Haddadi has logged out.
+[05/09/2014 21:21:39] Haddadi has logged in.
+[05/09/2014 21:21:46] Veigar has logged in.
+[05/09/2014 21:21:47] > Saving server...
+[05/09/2014 21:21:49] > SAVE: Complete in 2.272 seconds using relational house storage.
+[05/09/2014 21:21:58] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 21:22:29] > CLEAN: Removed 2 items from 15 tiles in 0.176 seconds.
+[05/09/2014 21:22:29] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 21:22:35] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[05/09/2014 21:23:35] Haddadi has logged out.
+[05/09/2014 21:23:36] Haddadi has logged in.
+[05/09/2014 21:23:47] Blackgt has logged out.
+[05/09/2014 21:23:49] Blackgt has logged in.
+[05/09/2014 21:24:32] Veigar has logged out.
+[05/09/2014 21:24:35] Leigue Of Draven has logged in.
+[05/09/2014 21:24:43] Leigue Of Draven has logged out.
+[05/09/2014 21:24:47] Mal jinx has logged in.
+[05/09/2014 21:25:17] Mal jinx has logged out.
+[05/09/2014 21:25:23] Mal jinx has logged in.
+[05/09/2014 21:27:44] Loss Pally has logged out.
+[05/09/2014 21:27:59] Haddadi has logged out.
+[05/09/2014 21:28:00] Haddadi has logged in.
+[05/09/2014 21:28:01] Haddadi has logged out.
+[05/09/2014 21:28:03] Loss Pally has logged in.
+[05/09/2014 21:28:07] Honda has logged in.
+[05/09/2014 21:29:07] Hegazy has logged out.
+[05/09/2014 21:29:10] Hegazy has logged in.
+[05/09/2014 21:29:16] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[05/09/2014 21:32:59] Hegazy has logged out.
+[05/09/2014 21:33:20] Kina Rullex has logged in.
+[05/09/2014 21:35:46] Kina Rullex has logged out.
+[05/09/2014 21:35:48] Kina Rullex has logged in.
+[05/09/2014 21:35:57] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[05/09/2014 21:37:47] Mal jinx has logged out.
+[05/09/2014 21:38:39] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 21:39:10] > CLEAN: Removed 357 items from 237 tiles in 0.217 seconds.
+[05/09/2014 21:39:10] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 21:42:38] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[05/09/2014 21:43:34] Blackgt has logged out.
+[05/09/2014 21:46:12] Honda has logged out.
+[05/09/2014 21:46:30] Kina Rullex has logged out.
+[05/09/2014 21:46:34] Druiid of Cauz has logged in.
+[05/09/2014 21:48:30] Magezinho Sapeca has logged in.
+[05/09/2014 21:49:19] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[05/09/2014 21:49:40] Loss Pally has logged out.
+[05/09/2014 21:49:43] Loss Pally has logged in.
+[05/09/2014 21:52:01] Loss Pally has logged out.
+[05/09/2014 21:52:03] Loss Pally has logged in.
+[05/09/2014 21:54:50] Druiid of Cauz has logged out.
+[05/09/2014 21:55:08] > Saving server...
+[05/09/2014 21:55:10] > SAVE: Complete in 1.831 seconds using relational house storage.
+[05/09/2014 21:55:20] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 21:55:33] Magezinho Sapeca has logged out.
+[05/09/2014 21:55:38] Magezinho Sapeca has logged in.
+[05/09/2014 21:55:50] > CLEAN: Removed 272 items from 307 tiles in 0.205 seconds.
+[05/09/2014 21:55:51] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 21:56:00] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[05/09/2014 21:57:37] Sorczinho Sapeca has logged in.
+[05/09/2014 21:58:18] Sorczinho Sapeca has logged out.
+[05/09/2014 21:58:24] Sorczinho Sapeca has logged in.
+[05/09/2014 22:02:41] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[05/09/2014 22:02:47] Magezinho Sapeca has logged out.
+[05/09/2014 22:02:49] Magezinho Sapeca has logged in.
+[05/09/2014 22:07:49] Loss Pally has logged out.
+[05/09/2014 22:07:51] Loss Pally has logged in.
+[05/09/2014 22:09:22] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[05/09/2014 22:10:39] Loss Pally has logged out.
+[05/09/2014 22:10:40] Loss Pally has logged in.
+[05/09/2014 22:12:01] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 22:12:31] > CLEAN: Removed 4 items from 7 tiles in 0.177 seconds.
+[05/09/2014 22:12:32] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 22:16:03] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[05/09/2014 22:16:50] Loss Pally has logged out.
+[05/09/2014 22:16:59] Magezinho Sapeca has logged out.
+[05/09/2014 22:17:04] Sorczinho Sapeca has logged out.
+[05/09/2014 22:19:05] Ice-kess has logged in.
+[05/09/2014 22:22:44] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[05/09/2014 22:26:15] Ice-kess has logged out.
+[05/09/2014 22:28:29] > Saving server...
+[05/09/2014 22:28:31] > SAVE: Complete in 1.455 seconds using relational house storage.
+[05/09/2014 22:28:42] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 22:29:12] > CLEAN: Removed 111 items from 63 tiles in 0.194 seconds.
+[05/09/2014 22:29:13] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 22:29:25] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[05/09/2014 22:32:20] Loss Pally has logged in.
+[05/09/2014 22:36:06] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[05/09/2014 22:36:57] Sorczinho Sapeca has logged in.
+[05/09/2014 22:36:58] Account Manager has logged in.
+[05/09/2014 22:38:16] Account Manager has logged out.
+[05/09/2014 22:38:29] Account Manager has logged in.
+[05/09/2014 22:39:08] Account Manager has logged out.
+[05/09/2014 22:39:21] Chichoriso has logged in.
+[05/09/2014 22:39:47] Loss Pally has logged out.
+[05/09/2014 22:39:49] Loss Pally has logged in.
+[05/09/2014 22:42:47] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[05/09/2014 22:44:09] Chichoriso has logged out.
+[05/09/2014 22:44:15] Chichoriso has logged in.
+[05/09/2014 22:45:23] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 22:45:53] > CLEAN: Removed 17 items from 46 tiles in 0.184 seconds.
+[05/09/2014 22:45:54] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 22:48:02] Sorczinho Sapeca has logged out.
+[05/09/2014 22:49:28] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/09/2014 22:51:43] Chichoriso has logged out.
+[05/09/2014 22:51:50] Chichoriso has logged in.
+[05/09/2014 22:52:17] Chichoriso has logged out.
+[05/09/2014 22:52:22] Chichoriso has logged in.
+[05/09/2014 22:56:09] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[05/09/2014 23:00:28] Hegazy has logged in.
+[05/09/2014 23:00:32] Hegazy has logged out.
+[05/09/2014 23:00:42] Honda has logged in.
+[05/09/2014 23:01:50] > Saving server...
+[05/09/2014 23:01:52] > SAVE: Complete in 1.858 seconds using relational house storage.
+[05/09/2014 23:02:04] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 23:02:27] Hegazy has logged in.
+[05/09/2014 23:02:35] > CLEAN: Removed 151 items from 170 tiles in 0.182 seconds.
+[05/09/2014 23:02:35] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 23:02:50] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[05/09/2014 23:03:06] Hegazy has logged out.
+[05/09/2014 23:03:22] Hegazy has logged in.
+[05/09/2014 23:03:56] Hegazy has logged out.
+[05/09/2014 23:04:08] Hegazy has logged in.
+[05/09/2014 23:04:23] Hegazy has logged out.
+[05/09/2014 23:05:24] Hegazy has logged in.
+[05/09/2014 23:06:53] Honda has logged out.
+[05/09/2014 23:07:00] Honda has logged in.
+[05/09/2014 23:08:10] Hegazy has logged out.
+[05/09/2014 23:08:33] Hegazy has logged in.
+[05/09/2014 23:08:45] Hegazy has logged out.
+[05/09/2014 23:09:31] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[05/09/2014 23:16:03] Loss Pally has logged out.
+[05/09/2014 23:16:05] Loss Pally has logged in.
+[05/09/2014 23:16:12] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[05/09/2014 23:18:45] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 23:19:15] > CLEAN: Removed 356 items from 494 tiles in 0.191 seconds.
+[05/09/2014 23:19:16] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 23:19:24] Chichoriso has logged out.
+[05/09/2014 23:19:30] Chichoriso has logged in.
+[05/09/2014 23:20:08] Honda has logged out.
+[05/09/2014 23:22:53] > Broadcasted message: "Para comprar bless digite !bless".
+[05/09/2014 23:24:46] Leigue Of Draven has logged in.
+[05/09/2014 23:29:34] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[05/09/2014 23:33:41] Chichoriso has logged out.
+[05/09/2014 23:35:11] > Saving server...
+[05/09/2014 23:35:13] > SAVE: Complete in 1.809 seconds using relational house storage.
+[05/09/2014 23:35:26] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 23:35:56] > CLEAN: Removed 108 items from 105 tiles in 0.178 seconds.
+[05/09/2014 23:35:56] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 23:36:15] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[05/09/2014 23:41:23] Leigue Of Draven has logged out.
+[05/09/2014 23:42:56] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/09/2014 23:49:37] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/09/2014 23:52:07] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/09/2014 23:52:38] > CLEAN: Removed 25 items from 57 tiles in 0.26 seconds.
+[05/09/2014 23:52:38] > Broadcasted message: "Map Cleaned.".
+[05/09/2014 23:56:18] > Broadcasted message: "Para comprar bless digite !bless".

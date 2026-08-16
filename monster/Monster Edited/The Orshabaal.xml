@@ -1,0 +1,33 @@
+﻿<?xml version="1.0"?>
+<monster name="The Orshabaal" nameDescription="The Orshabaal" experience="5000000" speed="9999" race="blood">
+  <health now="500500000" max="500500000"/>
+  <look type="201" corpse="5995"/>
+  <strategy attack="10000" defense="500"/>
+  <targetchange speed="10" chance="100"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="100"/>
+    <flag targetdistance="1"/>
+  </flags>
+  <attacks>
+    <attack name="Fire" interval="2000" chance="100" min="-2000000" max="-4000000" range="1">
+    </attack>
+    <attack name="Rage of the Skies" interval="15000" chance="50" min="-3000000" max="-3000000"/>
+    <attack name="physical" interval="1000" chance="50" min="-3000000" max="-4000000"/>
+    <attack name="Hells Core" interval="7500" chance="100" min="-4000000" max="-4000000" range="1">
+      <attribute key="areaEffect" value="fire"/>
+      <attribute key="shootEffect" value="fire"/>
+    </attack>
+  </attacks>
+  <defenses armor="0" defense="0"> 
+  <defense name="healing" interval="8000" chance="100" min="35000000" max="35000000"/> 
+</defenses>
+  <immunities>
+    <immunity name="outfit"/>
+    <immunity name="invisible"/>
+    <immunity name="poison"/>
+    <immunity name="death"/>
+  </immunities>
+  <loot>
+  </loot>
+</monster>

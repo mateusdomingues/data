@@ -1,0 +1,1872 @@
+[20/08/2014 12:57:51] The Forgotten Server, version 0.3.4 (Crying Damson)
+[20/08/2014 12:57:51] Sever Criado Por Alissow e Comedinha.
+[20/08/2014 12:57:51] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[20/08/2014 12:57:51] Bom Jogo!!!
+[20/08/2014 12:57:51] 
+[20/08/2014 12:57:51] >> Debugging: nothing.
+[20/08/2014 12:57:51] >> Checking software version... failed checking - malformed file.
+[20/08/2014 12:57:52] 
+[20/08/2014 12:57:52] >> Loading config (config.lua)
+[20/08/2014 12:57:52] > Using plaintext passwords
+[20/08/2014 12:57:52] >> Loading RSA key
+[20/08/2014 12:57:52] >> Starting SQL connection
+[20/08/2014 12:57:52] >> Running Database Manager
+[20/08/2014 12:57:53] > Optimized database.
+[20/08/2014 12:57:53] >> Loading items
+[20/08/2014 12:57:53] >> Loading groups
+[20/08/2014 12:57:53] >> Loading vocations
+[20/08/2014 12:57:54] >> Loading script systems
+[20/08/2014 12:57:55] >> Loading chat channels
+[20/08/2014 12:57:55] >> Loading outfits
+[20/08/2014 12:57:55] >> Loading experience stages
+[20/08/2014 12:57:56] >> Loading monsters
+[20/08/2014 12:57:57] >> Loading map and spawns...
+[20/08/2014 12:57:58] > Map size: 65000x65000.
+[20/08/2014 12:57:58] > Map descriptions: 
+[20/08/2014 12:57:58] Saved with Remere's Map Editor 2.2
+[20/08/2014 12:57:59] No map description available.
+[20/08/2014 12:57:59] Duplicate uniqueId 2407
+[20/08/2014 12:58:03] > Map loading time: 5.07 seconds.
+[20/08/2014 12:58:03] > Data loading time: 0.67 seconds.
+[20/08/2014 12:58:03] > Unserialization time for houses: 0.015 seconds.
+[20/08/2014 12:58:26] > Unserialization time for map: 22.199 seconds.
+[20/08/2014 12:58:26] >> Checking world type... PvP
+[20/08/2014 12:58:26] >> Initializing game state modules and registering services...
+[20/08/2014 12:58:27] > Global address: deathpvp.no-ip.info
+[20/08/2014 12:58:28] > Local ports:
+[20/08/2014 12:58:28] 7171	7172	
+[20/08/2014 12:58:28] >> All modules were loaded, server starting up...
+[20/08/2014 12:58:28] >> OT Death server Online!
+[20/08/2014 12:58:28] 
+[20/08/2014 12:58:39] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[20/08/2014 12:58:40] Account Manager has logged in.
+[20/08/2014 12:58:44] Account Manager has logged out.
+[20/08/2014 13:03:43] Eternal Ozzot has logged in.
+[20/08/2014 13:03:43] Account Manager has logged in.
+[20/08/2014 13:03:45] Account Manager has logged out.
+[20/08/2014 13:03:53] Duff Maluko has logged in.
+[20/08/2014 13:04:13] Duff Maluko has logged out.
+[20/08/2014 13:04:36] > Broadcasted message: "Para ver as noticias fale !notice".
+[20/08/2014 13:08:47] [Hoster] Jean has logged in.
+[20/08/2014 13:09:12] Nadador Arqueiro has logged in.
+[20/08/2014 13:09:40] [Hoster] Jean has logged out.
+[20/08/2014 13:11:17] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[20/08/2014 13:14:11] Account Manager has logged in.
+[20/08/2014 13:14:12] Account Manager has logged out.
+[20/08/2014 13:14:36] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 13:15:07] > CLEAN: Removed 464 items from 814 tiles in 0.156 seconds.
+[20/08/2014 13:15:07] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 13:15:52] Mllk Loko has logged in.
+[20/08/2014 13:15:58] Bob Dyller has logged in.
+[20/08/2014 13:17:39] Account Manager has logged in.
+[20/08/2014 13:17:40] Account Manager has logged out.
+[20/08/2014 13:17:58] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[20/08/2014 13:20:07] Juninhosza has logged in.
+[20/08/2014 13:20:13] Nois Que Voa Bruxao has logged in.
+[20/08/2014 13:20:25] Juninhosza has logged out.
+[20/08/2014 13:22:31] Druidzerah Mythus has logged in.
+[20/08/2014 13:24:39] > Broadcasted message: "Para ver as noticias fale !notice".
+[20/08/2014 13:25:40] Tio Pally has logged in.
+[20/08/2014 13:26:45] Mllk Loko has logged out.
+[20/08/2014 13:26:46] Mllk Loko has logged in.
+[20/08/2014 13:26:47] Mllk Loko has logged out.
+[20/08/2014 13:26:53] Microbiio I has logged in.
+[20/08/2014 13:27:11] Juninhosza has logged in.
+[20/08/2014 13:27:25] Tio Pally has logged out.
+[20/08/2014 13:28:27] Tio Pally has logged in.
+[20/08/2014 13:29:07] Bob Dyller has logged out.
+[20/08/2014 13:31:17] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 13:31:20] > Broadcasted message: "Para comprar bless digite !bless".
+[20/08/2014 13:31:21] > Saving server...
+[20/08/2014 13:31:25] > SAVE: Complete in 3.198 seconds using relational house storage.
+[20/08/2014 13:31:48] > CLEAN: Removed 4111 items from 3025 tiles in 0.343 seconds.
+[20/08/2014 13:31:48] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 13:34:13] Hegazy has logged in.
+[20/08/2014 13:36:22] Mlk Piranha has logged in.
+[20/08/2014 13:36:25] Mlk Piranha has logged out.
+[20/08/2014 13:36:31] Yakuza has logged in.
+[20/08/2014 13:36:46] Nadador Arqueiro has logged out.
+[20/08/2014 13:38:01] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[20/08/2014 13:38:57] Pally Brisado has logged in.
+[20/08/2014 13:40:02] Duff Maluko has logged in.
+[20/08/2014 13:40:11] Eternal Ozzot has logged out.
+[20/08/2014 13:40:13] Eternal Ozzot has logged in.
+[20/08/2014 13:40:22] Duff Maluko has logged out.
+[20/08/2014 13:41:15] Nois Que Voa Bruxao has logged out.
+[20/08/2014 13:42:38] Yakuza has logged out.
+[20/08/2014 13:42:43] Yakuza has logged in.
+[20/08/2014 13:43:13] Eternal Ozzot has logged out.
+[20/08/2014 13:43:14] Eternal Ozzot has logged in.
+[20/08/2014 13:43:27] Yakuza has logged out.
+[20/08/2014 13:43:29] Yakuza has logged in.
+[20/08/2014 13:43:59] Yakuza has logged out.
+[20/08/2014 13:44:00] 
+[20/08/2014 13:44:00] Lua Script Error: [Spell Interface] 
+[20/08/2014 13:44:00] in a timer event called from: 
+[20/08/2014 13:44:00] data/spells/scripts/anti-materia.lua:onCastSpell
+[20/08/2014 13:44:00] 
+[20/08/2014 13:44:00] luaDoCombat(). Creature not found
+[20/08/2014 13:44:00] 
+[20/08/2014 13:44:00] Lua Script Error: [Spell Interface] 
+[20/08/2014 13:44:00] in a timer event called from: 
+[20/08/2014 13:44:00] data/spells/scripts/anti-materia.lua:onCastSpell
+[20/08/2014 13:44:00] 
+[20/08/2014 13:44:00] luaDoCombat(). Creature not found
+[20/08/2014 13:44:01] 
+[20/08/2014 13:44:01] Lua Script Error: [Spell Interface] 
+[20/08/2014 13:44:01] in a timer event called from: 
+[20/08/2014 13:44:01] data/spells/scripts/anti-materia.lua:onCastSpell
+[20/08/2014 13:44:01] 
+[20/08/2014 13:44:01] luaDoCombat(). Creature not found
+[20/08/2014 13:44:01] 
+[20/08/2014 13:44:01] Lua Script Error: [Spell Interface] 
+[20/08/2014 13:44:01] in a timer event called from: 
+[20/08/2014 13:44:01] data/spells/scripts/anti-materia.lua:onCastSpell
+[20/08/2014 13:44:02] 
+[20/08/2014 13:44:02] luaDoCombat(). Creature not found
+[20/08/2014 13:44:02] 
+[20/08/2014 13:44:02] Lua Script Error: [Spell Interface] 
+[20/08/2014 13:44:02] in a timer event called from: 
+[20/08/2014 13:44:02] data/spells/scripts/anti-materia.lua:onCastSpell
+[20/08/2014 13:44:02] 
+[20/08/2014 13:44:02] luaDoCombat(). Creature not found
+[20/08/2014 13:44:02] 
+[20/08/2014 13:44:02] Lua Script Error: [Spell Interface] 
+[20/08/2014 13:44:02] in a timer event called from: 
+[20/08/2014 13:44:02] data/spells/scripts/anti-materia.lua:onCastSpell
+[20/08/2014 13:44:03] 
+[20/08/2014 13:44:03] luaDoCombat(). Creature not found
+[20/08/2014 13:44:04] Yakuza has logged in.
+[20/08/2014 13:44:42] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[20/08/2014 13:45:09] Account Manager has logged in.
+[20/08/2014 13:45:10] Account Manager has logged out.
+[20/08/2014 13:47:58] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 13:48:29] > CLEAN: Removed 10233 items from 5190 tiles in 0.25 seconds.
+[20/08/2014 13:48:29] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 13:50:15] Yakuza has logged out.
+[20/08/2014 13:51:23] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[20/08/2014 13:51:24] Yakuza has logged in.
+[20/08/2014 13:52:00] Tio Pally has logged out.
+[20/08/2014 13:52:11] Hegazy has logged out.
+[20/08/2014 13:52:20] Demonic has logged in.
+[20/08/2014 13:52:21] Demonic has logged out.
+[20/08/2014 13:52:27] Honda has logged in.
+[20/08/2014 13:55:50] Yakuza has logged out.
+[20/08/2014 13:55:53] Yakuza has logged in.
+[20/08/2014 13:55:56] Anjo pk has logged in.
+[20/08/2014 13:56:35] Druid has logged in.
+[20/08/2014 13:57:56] Magezinho Sapeca has logged in.
+[20/08/2014 13:58:04] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[20/08/2014 13:58:25] Magezinho Sapeca has logged out.
+[20/08/2014 13:58:45] Yakuza has logged out.
+[20/08/2014 13:58:55] Yakuza has logged in.
+[20/08/2014 13:59:25] Magezinho Sapeca has logged in.
+[20/08/2014 13:59:59] Arizinha Andrade has logged in.
+[20/08/2014 14:01:00] Druid has logged out.
+[20/08/2014 14:01:16] Druidzerah Mythus has logged out.
+[20/08/2014 14:02:11] Druidzerah Mythus has logged in.
+[20/08/2014 14:04:39] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 14:04:42] > Saving server...
+[20/08/2014 14:04:45] > SAVE: Complete in 2.949 seconds using relational house storage.
+[20/08/2014 14:04:46] > Broadcasted message: "Para comprar bless digite !bless".
+[20/08/2014 14:05:10] > CLEAN: Removed 10951 items from 6269 tiles in 0.297 seconds.
+[20/08/2014 14:05:10] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 14:05:26] Nois Que Voa Bruxao has logged in.
+[20/08/2014 14:06:01] Yakuza has logged out.
+[20/08/2014 14:06:02] Anjo pk has logged out.
+[20/08/2014 14:06:03] Anjo pk has logged in.
+[20/08/2014 14:06:03] Yakuza has logged in.
+[20/08/2014 14:06:18] Anjo pk has logged out.
+[20/08/2014 14:06:19] Eternal Ozzot has logged out.
+[20/08/2014 14:06:20] Anjo pk has logged in.
+[20/08/2014 14:06:22] Eternal Ozzot has logged in.
+[20/08/2014 14:06:29] Yakuza has logged out.
+[20/08/2014 14:06:31] Yakuza has logged in.
+[20/08/2014 14:09:18] Eternal Ozzot has logged out.
+[20/08/2014 14:10:23] Account Manager has logged in.
+[20/08/2014 14:10:44] Account Manager has logged out.
+[20/08/2014 14:10:51] Account Manager has logged in.
+[20/08/2014 14:11:07] Account Manager has logged out.
+[20/08/2014 14:11:27] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[20/08/2014 14:11:36] Druid Zughy has logged in.
+[20/08/2014 14:11:38] Anjo pk has logged out.
+[20/08/2014 14:11:40] Anjo pk has logged in.
+[20/08/2014 14:12:33] Eternal Ozzot has logged in.
+[20/08/2014 14:12:34] Yakuza has logged out.
+[20/08/2014 14:12:39] Mata Pally has logged in.
+[20/08/2014 14:12:39] Mlk Piranha has logged in.
+[20/08/2014 14:12:55] Mlk Piranha has logged out.
+[20/08/2014 14:12:56] Yakuza has logged in.
+[20/08/2014 14:13:02] Eternal Ozzot has logged out.
+[20/08/2014 14:13:04] Eternal Ozzot has logged in.
+[20/08/2014 14:16:04] Nois Que Voa Bruxao has logged out.
+[20/08/2014 14:16:07] Nois Que Voa Bruxao has logged in.
+[20/08/2014 14:16:34] Druid Zughy has logged out.
+[20/08/2014 14:16:35] Nois Que Voa Bruxao has logged out.
+[20/08/2014 14:16:35] Druid Zughy has logged in.
+[20/08/2014 14:16:36] Nois Que Voa Bruxao has logged in.
+[20/08/2014 14:16:52] Yakuza has logged out.
+[20/08/2014 14:17:06] Mlk Piranha has logged in.
+[20/08/2014 14:17:53] Mlk Piranha has logged out.
+[20/08/2014 14:18:08] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[20/08/2014 14:18:09] Yakuza has logged in.
+[20/08/2014 14:19:17] Nois Que Voa Bruxao has logged out.
+[20/08/2014 14:19:18] Nois Que Voa Bruxao has logged in.
+[20/08/2014 14:21:20] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 14:21:50] > CLEAN: Removed 4970 items from 3230 tiles in 0.25 seconds.
+[20/08/2014 14:21:51] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 14:22:21] Yakuza has logged out.
+[20/08/2014 14:22:30] Yakuza has logged in.
+[20/08/2014 14:23:16] Nois Que Voa Bruxao has logged out.
+[20/08/2014 14:23:17] Nois Que Voa Bruxao has logged in.
+[20/08/2014 14:23:24] Druid Zughy has logged out.
+[20/08/2014 14:23:25] Druid Zughy has logged in.
+[20/08/2014 14:24:36] Arizinha Andrade has logged out.
+[20/08/2014 14:24:49] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[20/08/2014 14:24:51] Lord Biiel has logged in.
+[20/08/2014 14:25:15] Yakuza has logged out.
+[20/08/2014 14:25:15] 
+[20/08/2014 14:25:15] Lua Script Error: [Spell Interface] 
+[20/08/2014 14:25:15] in a timer event called from: 
+[20/08/2014 14:25:15] data/spells/scripts/max power rune.lua:onCastSpell
+[20/08/2014 14:25:16] 
+[20/08/2014 14:25:16] luaDoCombat(). Creature not found
+[20/08/2014 14:25:16] 
+[20/08/2014 14:25:16] Lua Script Error: [Spell Interface] 
+[20/08/2014 14:25:16] in a timer event called from: 
+[20/08/2014 14:25:16] data/spells/scripts/max power rune.lua:onCastSpell
+[20/08/2014 14:25:16] 
+[20/08/2014 14:25:16] luaDoCombat(). Creature not found
+[20/08/2014 14:25:16] 
+[20/08/2014 14:25:16] Lua Script Error: [Spell Interface] 
+[20/08/2014 14:25:16] in a timer event called from: 
+[20/08/2014 14:25:17] data/spells/scripts/max power rune.lua:onCastSpell
+[20/08/2014 14:25:17] 
+[20/08/2014 14:25:17] luaDoCombat(). Creature not found
+[20/08/2014 14:25:17] 
+[20/08/2014 14:25:17] Lua Script Error: [Spell Interface] 
+[20/08/2014 14:25:17] in a timer event called from: 
+[20/08/2014 14:25:17] data/spells/scripts/max power rune.lua:onCastSpell
+[20/08/2014 14:25:17] 
+[20/08/2014 14:25:17] luaDoCombat(). Creature not found
+[20/08/2014 14:25:18] Juninhosza has logged out.
+[20/08/2014 14:25:19] Yakuza has logged in.
+[20/08/2014 14:25:40] Lord Biiel has logged out.
+[20/08/2014 14:25:50] Arizinha Andrade has logged in.
+[20/08/2014 14:25:50] Nois Que Voa Bruxao has logged out.
+[20/08/2014 14:25:52] Nois Que Voa Bruxao has logged in.
+[20/08/2014 14:25:59] Microbiio I has logged out.
+[20/08/2014 14:26:09] Mllk Loko has logged in.
+[20/08/2014 14:26:10] Druid Zughy has logged out.
+[20/08/2014 14:26:13] Druid Zughy has logged in.
+[20/08/2014 14:27:25] Honda has logged out.
+[20/08/2014 14:27:27] Honda has logged in.
+[20/08/2014 14:28:17] Nois Que Voa Bruxao has logged out.
+[20/08/2014 14:28:19] Nois Que Voa Bruxao has logged in.
+[20/08/2014 14:28:51] Mllk Loko has logged out.
+[20/08/2014 14:28:52] Mllk Loko has logged in.
+[20/08/2014 14:29:02] Nois Que Voa Bruxao has logged out.
+[20/08/2014 14:29:12] Druid Do Terror has logged in.
+[20/08/2014 14:30:14] 
+[20/08/2014 14:30:14] Lua Script Error: [Spell Interface] 
+[20/08/2014 14:30:14] data/spells/scripts/animate.lua:onCastSpell
+[20/08/2014 14:30:14] 
+[20/08/2014 14:30:14] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[20/08/2014 14:30:15] stack traceback:
+[20/08/2014 14:30:15] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[20/08/2014 14:30:15] 	(tail call): ?
+[20/08/2014 14:30:27] Mllk Loko has logged out.
+[20/08/2014 14:30:29] Mllk Loko has logged in.
+[20/08/2014 14:30:34] Anjo pk has logged out.
+[20/08/2014 14:30:36] Anjo pk has logged in.
+[20/08/2014 14:30:40] Mllk Loko has logged out.
+[20/08/2014 14:30:41] Mllk Loko has logged in.
+[20/08/2014 14:31:30] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[20/08/2014 14:32:13] Yakuza has logged out.
+[20/08/2014 14:32:40] Mllk Loko has logged out.
+[20/08/2014 14:32:41] Mllk Loko has logged in.
+[20/08/2014 14:32:58] Mata Pally has logged out.
+[20/08/2014 14:33:30] Mllk Loko has logged out.
+[20/08/2014 14:33:31] Druid Do Terror has logged out.
+[20/08/2014 14:33:32] Yakuza has logged in.
+[20/08/2014 14:33:33] Druid Do Terror has logged in.
+[20/08/2014 14:33:35] Mllk Loko has logged in.
+[20/08/2014 14:33:36] Druid Do Terror has logged out.
+[20/08/2014 14:33:46] Druid Da Morte has logged in.
+[20/08/2014 14:33:48] Druid Da Morte has logged out.
+[20/08/2014 14:33:49] Druid Zughy has logged out.
+[20/08/2014 14:33:53] Nois Que Voa Bruxao has logged in.
+[20/08/2014 14:33:54] Druid Zughy has logged in.
+[20/08/2014 14:34:54] Mllk Loko has logged out.
+[20/08/2014 14:34:55] Mllk Loko has logged in.
+[20/08/2014 14:36:28] Arizinha Andrade has logged out.
+[20/08/2014 14:38:01] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 14:38:03] > Saving server...
+[20/08/2014 14:38:06] > SAVE: Complete in 2.839 seconds using relational house storage.
+[20/08/2014 14:38:11] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[20/08/2014 14:38:31] > CLEAN: Removed 4708 items from 3243 tiles in 0.218 seconds.
+[20/08/2014 14:38:31] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 14:39:46] Nois Que Voa Bruxao has logged out.
+[20/08/2014 14:39:48] Nois Que Voa Bruxao has logged in.
+[20/08/2014 14:42:33] Pally Brisado has logged out.
+[20/08/2014 14:42:36] Pally Brisado has logged in.
+[20/08/2014 14:42:39] Pally Brisado has logged out.
+[20/08/2014 14:43:56] Arizinha Andrade has logged in.
+[20/08/2014 14:44:26] Druid Zughy has logged out.
+[20/08/2014 14:44:45] Pally Brisado has logged in.
+[20/08/2014 14:44:46] Nois Que Voa Bruxao has logged out.
+[20/08/2014 14:44:49] Nois Que Voa Bruxao has logged in.
+[20/08/2014 14:44:53] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[20/08/2014 14:45:29] Druid Zughy has logged in.
+[20/08/2014 14:48:13] Anjo pk has logged out.
+[20/08/2014 14:48:14] Anjo pk has logged in.
+[20/08/2014 14:51:07] Druid Zughy has logged out.
+[20/08/2014 14:51:08] Mllk Loko has logged out.
+[20/08/2014 14:51:09] Nois Que Voa Bruxao has logged out.
+[20/08/2014 14:51:10] Mllk Loko has logged in.
+[20/08/2014 14:51:11] Nois Que Voa Bruxao has logged in.
+[20/08/2014 14:51:34] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[20/08/2014 14:52:43] Yakuza has logged out.
+[20/08/2014 14:52:54] Yakuza has logged in.
+[20/08/2014 14:53:20] Nois Que Voa Bruxao has logged out.
+[20/08/2014 14:53:22] Nois Que Voa Bruxao has logged in.
+[20/08/2014 14:54:42] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 14:55:12] > CLEAN: Removed 2677 items from 2149 tiles in 0.203 seconds.
+[20/08/2014 14:55:12] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 14:55:30] Yakuza has logged out.
+[20/08/2014 14:55:31] Yakuza has logged in.
+[20/08/2014 14:55:42] Palyy has logged in.
+[20/08/2014 14:56:21] Mllk Loko has logged out.
+[20/08/2014 14:56:22] Mllk Loko has logged in.
+[20/08/2014 14:57:49] Yakuza has logged out.
+[20/08/2014 14:57:49] 
+[20/08/2014 14:57:49] Lua Script Error: [Spell Interface] 
+[20/08/2014 14:57:49] in a timer event called from: 
+[20/08/2014 14:57:49] data/spells/scripts/max power rune.lua:onCastSpell
+[20/08/2014 14:57:49] 
+[20/08/2014 14:57:49] luaDoCombat(). Creature not found
+[20/08/2014 14:57:49] 
+[20/08/2014 14:57:49] Lua Script Error: [Spell Interface] 
+[20/08/2014 14:57:50] in a timer event called from: 
+[20/08/2014 14:57:50] data/spells/scripts/max power rune.lua:onCastSpell
+[20/08/2014 14:57:50] 
+[20/08/2014 14:57:50] luaDoCombat(). Creature not found
+[20/08/2014 14:57:50] 
+[20/08/2014 14:57:50] Lua Script Error: [Spell Interface] 
+[20/08/2014 14:57:50] in a timer event called from: 
+[20/08/2014 14:57:50] data/spells/scripts/max power rune.lua:onCastSpell
+[20/08/2014 14:57:50] 
+[20/08/2014 14:57:50] luaDoCombat(). Creature not found
+[20/08/2014 14:57:51] 
+[20/08/2014 14:57:51] Lua Script Error: [Spell Interface] 
+[20/08/2014 14:57:51] in a timer event called from: 
+[20/08/2014 14:57:51] data/spells/scripts/max power rune.lua:onCastSpell
+[20/08/2014 14:57:51] 
+[20/08/2014 14:57:51] luaDoCombat(). Creature not found
+[20/08/2014 14:57:55] Yakuza has logged in.
+[20/08/2014 14:58:15] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[20/08/2014 14:59:08] Palyy has logged out.
+[20/08/2014 14:59:10] Palyy has logged in.
+[20/08/2014 14:59:36] Nois Que Voa Bruxao has logged out.
+[20/08/2014 14:59:37] Rei Daleste has logged in.
+[20/08/2014 14:59:53] Rei Daleste has logged out.
+[20/08/2014 14:59:54] Novinha Safadinha has logged in.
+[20/08/2014 15:00:00] Anjo pk has logged out.
+[20/08/2014 15:00:01] Palyy has logged out.
+[20/08/2014 15:00:02] Anjo pk has logged in.
+[20/08/2014 15:00:03] Palyy has logged in.
+[20/08/2014 15:00:07] Novinha Safadinha has logged out.
+[20/08/2014 15:00:12] Druid Da Morte has logged in.
+[20/08/2014 15:04:56] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[20/08/2014 15:04:59] Magezinho Sapeca has logged out.
+[20/08/2014 15:05:21] Magezinho Sapeca has logged in.
+[20/08/2014 15:06:45] Druid Da Morte has logged out.
+[20/08/2014 15:06:46] Druid Da Morte has logged in.
+[20/08/2014 15:07:32] Druid Da Morte has logged out.
+[20/08/2014 15:07:34] Druid Da Morte has logged in.
+[20/08/2014 15:08:00] Honda has logged out.
+[20/08/2014 15:08:46] Pally Brisado has logged out.
+[20/08/2014 15:08:47] Pally Brisado has logged in.
+[20/08/2014 15:10:44] Druidzerah Mythus has logged out.
+[20/08/2014 15:10:46] Druidzerah Mythus has logged in.
+[20/08/2014 15:10:56] Soufoda has logged in.
+[20/08/2014 15:10:58] Soufoda has logged out.
+[20/08/2014 15:11:23] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 15:11:25] > Saving server...
+[20/08/2014 15:11:27] > SAVE: Complete in 2.746 seconds using relational house storage.
+[20/08/2014 15:11:37] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[20/08/2014 15:11:53] > CLEAN: Removed 3756 items from 3158 tiles in 0.203 seconds.
+[20/08/2014 15:11:53] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 15:16:59] Palyy has logged out.
+[20/08/2014 15:18:03] Mllk Loko has logged out.
+[20/08/2014 15:18:05] Mllk Loko has logged in.
+[20/08/2014 15:18:11] Account Manager has logged in.
+[20/08/2014 15:18:15] Account Manager has logged out.
+[20/08/2014 15:18:18] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[20/08/2014 15:18:20] Nois Que Voa Bruxao has logged in.
+[20/08/2014 15:18:52] Nois Que Voa Bruxao has logged out.
+[20/08/2014 15:18:55] Yakuza has logged out.
+[20/08/2014 15:18:56] Rei Daleste has logged in.
+[20/08/2014 15:19:05] Honda has logged in.
+[20/08/2014 15:19:17] Anjo pk has logged out.
+[20/08/2014 15:19:18] Anjo pk has logged in.
+[20/08/2014 15:19:30] Rei Daleste has logged out.
+[20/08/2014 15:19:44] Rei Daleste has logged in.
+[20/08/2014 15:20:10] Rei Daleste has logged out.
+[20/08/2014 15:20:14] Rei Daleste has logged in.
+[20/08/2014 15:20:29] Rei Daleste has logged out.
+[20/08/2014 15:20:33] Rei Daleste has logged in.
+[20/08/2014 15:20:55] Rei Daleste has logged out.
+[20/08/2014 15:20:57] Rei Daleste has logged in.
+[20/08/2014 15:21:09] Rei Daleste has logged out.
+[20/08/2014 15:21:10] Rei Daleste has logged in.
+[20/08/2014 15:21:23] Rei Daleste has logged out.
+[20/08/2014 15:21:25] Rei Daleste has logged in.
+[20/08/2014 15:21:45] Rei Daleste has logged out.
+[20/08/2014 15:21:48] Rei Daleste has logged in.
+[20/08/2014 15:22:01] Rei Daleste has logged out.
+[20/08/2014 15:22:03] Rei Daleste has logged in.
+[20/08/2014 15:22:18] Rei Daleste has logged out.
+[20/08/2014 15:22:21] Rei Daleste has logged in.
+[20/08/2014 15:22:25] Rei Daleste has logged out.
+[20/08/2014 15:22:25] Nois Que Voa Bruxao has logged in.
+[20/08/2014 15:22:45] Nois Que Voa Bruxao has logged out.
+[20/08/2014 15:22:49] Nois Que Voa Bruxao has logged in.
+[20/08/2014 15:23:17] Nois Que Voa Bruxao has logged out.
+[20/08/2014 15:23:19] Nois Que Voa Bruxao has logged in.
+[20/08/2014 15:23:21] Nois Que Voa Bruxao has logged out.
+[20/08/2014 15:24:59] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[20/08/2014 15:26:42] Druid Da Morte has logged out.
+[20/08/2014 15:26:43] Druid Da Morte has logged in.
+[20/08/2014 15:28:04] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 15:28:35] > CLEAN: Removed 9572 items from 5976 tiles in 0.503 seconds.
+[20/08/2014 15:28:35] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 15:28:48] Pally Brisado has logged out.
+[20/08/2014 15:30:05] Arizinha Andrade has logged out.
+[20/08/2014 15:31:40] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[20/08/2014 15:31:56] Druid Da Morte has logged out.
+[20/08/2014 15:32:58] Druidzerah Mythus has logged out.
+[20/08/2014 15:33:00] Druidzerah Mythus has logged in.
+[20/08/2014 15:36:08] Mllk Loko has logged out.
+[20/08/2014 15:37:10] Mllk Loko has logged in.
+[20/08/2014 15:37:33] Pally Brisado has logged in.
+[20/08/2014 15:38:21] > Broadcasted message: "Para comprar bless digite !bless".
+[20/08/2014 15:38:51] Pally Brisado has logged out.
+[20/08/2014 15:44:14] Pally Brisado has logged in.
+[20/08/2014 15:44:45] > Saving server...
+[20/08/2014 15:44:48] > SAVE: Complete in 2.48 seconds using relational house storage.
+[20/08/2014 15:44:48] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 15:45:02] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[20/08/2014 15:45:19] > CLEAN: Removed 10347 items from 5644 tiles in 0.359 seconds.
+[20/08/2014 15:45:19] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 15:46:48] Anjo pk has logged out.
+[20/08/2014 15:46:50] Anjo pk has logged in.
+[20/08/2014 15:48:01] Mllk Loko has logged out.
+[20/08/2014 15:48:14] Anjo pk has logged out.
+[20/08/2014 15:48:15] Anjo pk has logged in.
+[20/08/2014 15:48:28] Mllk Loko has logged in.
+[20/08/2014 15:48:39] Mllk Loko has logged out.
+[20/08/2014 15:48:41] Mllk Loko has logged in.
+[20/08/2014 15:48:51] Mllk Loko has logged out.
+[20/08/2014 15:48:59] Mlk Lokoo has logged in.
+[20/08/2014 15:49:57] Honda has logged out.
+[20/08/2014 15:50:00] Honda has logged in.
+[20/08/2014 15:50:49] Lucas has logged in.
+[20/08/2014 15:51:43] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[20/08/2014 15:51:50] Anjo pk has logged out.
+[20/08/2014 15:51:51] Anjo pk has logged in.
+[20/08/2014 15:55:50] Honda has logged out.
+[20/08/2014 15:58:24] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[20/08/2014 16:01:29] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 16:02:00] > CLEAN: Removed 9288 items from 5590 tiles in 0.526 seconds.
+[20/08/2014 16:02:01] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 16:03:13] Druidzerah Mythus has logged out.
+[20/08/2014 16:03:50] Druidzerah Mythus has logged in.
+[20/08/2014 16:05:04] Magezinho Sapeca has logged out.
+[20/08/2014 16:05:05] > Broadcasted message: "Para comprar bless digite !bless".
+[20/08/2014 16:06:24] Account Manager has logged in.
+[20/08/2014 16:06:39] Account Manager has logged out.
+[20/08/2014 16:06:44] Palazinho has logged in.
+[20/08/2014 16:07:05] Palazinho has logged out.
+[20/08/2014 16:07:09] Magezinho Sapeca has logged in.
+[20/08/2014 16:08:37] Nois Que Voa Bruxao has logged in.
+[20/08/2014 16:08:40] Nois Que Voa Bruxao has logged out.
+[20/08/2014 16:08:50] Lucas has logged out.
+[20/08/2014 16:09:45] Druid Da Morte has logged in.
+[20/08/2014 16:11:46] > Broadcasted message: "Para ver as noticias fale !notice".
+[20/08/2014 16:15:19] Magezinho Sapeca has logged out.
+[20/08/2014 16:15:24] Palazinho has logged in.
+[20/08/2014 16:17:15] Anjo pk has logged out.
+[20/08/2014 16:17:16] Anjo pk has logged in.
+[20/08/2014 16:17:22] Magezinho Sapeca has logged in.
+[20/08/2014 16:18:06] > Saving server...
+[20/08/2014 16:18:09] > SAVE: Complete in 2.684 seconds using relational house storage.
+[20/08/2014 16:18:10] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 16:18:27] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[20/08/2014 16:18:27] Pally Brisado has logged out.
+[20/08/2014 16:18:32] Pally Brisado has logged in.
+[20/08/2014 16:18:41] > CLEAN: Removed 11878 items from 5489 tiles in 0.348 seconds.
+[20/08/2014 16:18:41] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 16:21:54] > Saving server...
+[20/08/2014 16:21:57] > SAVE: Complete in 3.263 seconds using relational house storage.
+[20/08/2014 16:25:08] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[20/08/2014 16:25:09] Mlk Lokoo has logged out.
+[20/08/2014 16:25:11] Mlk Lokoo has logged in.
+[20/08/2014 16:25:11] Mlk Lokoo has logged out.
+[20/08/2014 16:25:41] Mllk Loko has logged in.
+[20/08/2014 16:29:13] Anjo pk has logged out.
+[20/08/2014 16:29:15] Anjo pk has logged in.
+[20/08/2014 16:31:49] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[20/08/2014 16:34:51] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 16:34:52] Palazinho has logged out.
+[20/08/2014 16:35:21] > CLEAN: Removed 4778 items from 3032 tiles in 0.234 seconds.
+[20/08/2014 16:35:22] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 16:36:05] Sorczinho Sapeca has logged in.
+[20/08/2014 16:38:24] Magezinho Sapeca has logged out.
+[20/08/2014 16:38:28] Palazinho has logged in.
+[20/08/2014 16:38:30] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[20/08/2014 16:44:26] Palazinho has logged out.
+[20/08/2014 16:45:11] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[20/08/2014 16:46:20] Sorczinho Sapeca has logged out.
+[20/08/2014 16:46:30] Sorczinho Sapeca has logged in.
+[20/08/2014 16:46:50] Sorczinho Sapeca has logged out.
+[20/08/2014 16:47:11] Magezinho Sapeca has logged in.
+[20/08/2014 16:47:36] Sorczinho Sapeca has logged in.
+[20/08/2014 16:49:26] Druid Da Morte has logged out.
+[20/08/2014 16:51:27] > Saving server...
+[20/08/2014 16:51:30] > SAVE: Complete in 2.527 seconds using relational house storage.
+[20/08/2014 16:51:32] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 16:51:52] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[20/08/2014 16:52:02] > CLEAN: Removed 10188 items from 5458 tiles in 0.265 seconds.
+[20/08/2014 16:52:03] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 16:52:46] Mllk Loko has logged out.
+[20/08/2014 16:53:29] Magezinho Sapeca has logged out.
+[20/08/2014 16:53:33] Palazinho has logged in.
+[20/08/2014 16:53:50] Palazinho has logged out.
+[20/08/2014 16:53:52] Palazinho has logged in.
+[20/08/2014 16:53:56] Anjo pk has logged out.
+[20/08/2014 16:53:58] Anjo pk has logged in.
+[20/08/2014 16:54:22] Palazinho has logged out.
+[20/08/2014 16:54:26] Magezinho Sapeca has logged in.
+[20/08/2014 16:54:37] Pally Brisado has logged out.
+[20/08/2014 16:54:49] Mata Pally has logged in.
+[20/08/2014 16:56:51] Mllk Loko has logged in.
+[20/08/2014 16:57:00] Druidzerah Mythus has logged out.
+[20/08/2014 16:57:49] Nois Que Voa Bruxao has logged in.
+[20/08/2014 16:57:53] Druidzerah Mythus has logged in.
+[20/08/2014 16:57:53] Nois Que Voa Bruxao has logged out.
+[20/08/2014 16:57:59] Druid Da Morte has logged in.
+[20/08/2014 16:58:33] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[20/08/2014 16:59:16] Mllk Loko has logged out.
+[20/08/2014 16:59:17] Mllk Loko has logged in.
+[20/08/2014 17:04:25] Pally Brisado has logged in.
+[20/08/2014 17:05:14] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[20/08/2014 17:06:04] Pally Brisado has logged out.
+[20/08/2014 17:06:19] Druid Da Morte has logged out.
+[20/08/2014 17:06:21] Druid Da Morte has logged in.
+[20/08/2014 17:08:13] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 17:08:44] > CLEAN: Removed 3712 items from 2276 tiles in 0.22 seconds.
+[20/08/2014 17:08:44] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 17:09:30] Magezinho Sapeca has logged out.
+[20/08/2014 17:09:31] Magezinho Sapeca has logged in.
+[20/08/2014 17:09:32] Magezinho Sapeca has logged out.
+[20/08/2014 17:09:36] Palazinho has logged in.
+[20/08/2014 17:10:04] Palazinho has logged out.
+[20/08/2014 17:10:05] Palazinho has logged in.
+[20/08/2014 17:10:15] Palazinho has logged out.
+[20/08/2014 17:10:16] Palazinho has logged in.
+[20/08/2014 17:11:55] > Broadcasted message: "Para comprar bless digite !bless".
+[20/08/2014 17:12:00] Palazinho has logged out.
+[20/08/2014 17:12:01] Palazinho has logged in.
+[20/08/2014 17:12:05] Anjo pk has logged out.
+[20/08/2014 17:12:18] Palazinho has logged out.
+[20/08/2014 17:12:26] Palazinho has logged in.
+[20/08/2014 17:13:01] Palazinho has logged out.
+[20/08/2014 17:13:04] Account Manager has logged in.
+[20/08/2014 17:13:34] Account Manager has logged out.
+[20/08/2014 17:13:35] Palazinho has logged in.
+[20/08/2014 17:13:36] Palazinho has logged out.
+[20/08/2014 17:13:38] Palazinho has logged in.
+[20/08/2014 17:17:55] Druid Da Morte has logged out.
+[20/08/2014 17:18:00] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:18:22] Druid Da Morte has logged in.
+[20/08/2014 17:18:30] Palazinho has logged out.
+[20/08/2014 17:18:36] Magezinho Sapeca has logged in.
+[20/08/2014 17:18:36] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[20/08/2014 17:18:54] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:18:58] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:19:25] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:19:33] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:21:09] Druid Da Morte has logged out.
+[20/08/2014 17:21:31] Account Manager has logged in.
+[20/08/2014 17:21:35] Magezinho Sapeca has logged out.
+[20/08/2014 17:21:49] Palazinho has logged in.
+[20/08/2014 17:22:44] Account Manager has logged out.
+[20/08/2014 17:22:48] Druid Da Morte has logged in.
+[20/08/2014 17:22:48] Mllk Loko has logged out.
+[20/08/2014 17:23:12] Mllk Loko has logged in.
+[20/08/2014 17:23:28] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:23:38] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:23:43] Mata Pally has logged out.
+[20/08/2014 17:23:52] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:23:55] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:24:01] Mata Pally has logged in.
+[20/08/2014 17:24:09] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:24:11] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:24:23] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:24:27] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:24:38] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:24:43] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:24:48] > Saving server...
+[20/08/2014 17:24:51] > SAVE: Complete in 2.726 seconds using relational house storage.
+[20/08/2014 17:24:54] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 17:24:59] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:25:11] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:25:17] > Broadcasted message: "Para ver as noticias fale !notice".
+[20/08/2014 17:25:25] > CLEAN: Removed 8599 items from 5090 tiles in 0.331 seconds.
+[20/08/2014 17:25:25] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 17:25:31] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:25:34] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:26:23] Eternal Ozzot has logged out.
+[20/08/2014 17:26:52] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:26:57] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:27:17] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:27:22] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:27:54] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:29:34] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:29:45] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:29:51] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:30:01] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:30:04] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:30:14] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:30:17] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:31:35] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:31:40] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:31:49] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:31:51] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:31:58] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[20/08/2014 17:32:00] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:32:02] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:32:15] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:32:16] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:32:25] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:32:26] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:32:34] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:32:36] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:32:44] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:32:45] Anjo pk has logged in.
+[20/08/2014 17:32:46] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:32:54] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:32:55] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:33:04] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:33:05] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:33:13] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:33:15] Nois Que Voa Bruxao has logged in.
+[20/08/2014 17:33:17] Nois Que Voa Bruxao has logged out.
+[20/08/2014 17:33:22] Juninhosza has logged in.
+[20/08/2014 17:36:35] Juninhosza has logged out.
+[20/08/2014 17:38:39] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[20/08/2014 17:38:58] Palazinho has logged out.
+[20/08/2014 17:39:02] Magezinho Sapeca has logged in.
+[20/08/2014 17:41:24] Pally Brisado has logged in.
+[20/08/2014 17:41:35] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 17:42:05] > CLEAN: Removed 10014 items from 6153 tiles in 0.437 seconds.
+[20/08/2014 17:42:06] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 17:42:09] Pally Brisado has logged out.
+[20/08/2014 17:42:41] Mata Pally has logged out.
+[20/08/2014 17:42:43] Mata Pally has logged in.
+[20/08/2014 17:43:12] Magezinho Sapeca has logged out.
+[20/08/2014 17:43:16] Palazinho has logged in.
+[20/08/2014 17:43:30] Druidzerah Mythus has logged out.
+[20/08/2014 17:43:32] Druidzerah Mythus has logged in.
+[20/08/2014 17:43:33] Pally Brisado has logged in.
+[20/08/2014 17:45:20] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[20/08/2014 17:47:35] Pally Brisado has logged out.
+[20/08/2014 17:47:37] Pally Brisado has logged in.
+[20/08/2014 17:47:59] Mllk Loko has logged out.
+[20/08/2014 17:48:12] Mllk Loko has logged in.
+[20/08/2014 17:52:01] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[20/08/2014 17:52:35] Palazinho has logged out.
+[20/08/2014 17:52:39] Magezinho Sapeca has logged in.
+[20/08/2014 17:53:07] Druidzerah Mythus has logged out.
+[20/08/2014 17:53:30] Druidzerah Mythus has logged in.
+[20/08/2014 17:56:09] Sorczinho Sapeca has logged out.
+[20/08/2014 17:57:09] Magezinho Sapeca has logged out.
+[20/08/2014 17:58:09] > Saving server...
+[20/08/2014 17:58:12] > SAVE: Complete in 2.619 seconds using relational house storage.
+[20/08/2014 17:58:16] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 17:58:42] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[20/08/2014 17:58:47] > CLEAN: Removed 8271 items from 4431 tiles in 0.29 seconds.
+[20/08/2014 17:58:47] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 18:00:19] Magezinho Sapeca has logged in.
+[20/08/2014 18:01:23] Druidzerah Mythus has logged out.
+[20/08/2014 18:01:45] Mllk Loko has logged out.
+[20/08/2014 18:01:53] Mllk Loko has logged in.
+[20/08/2014 18:02:47] Druid Da Morte has logged out.
+[20/08/2014 18:02:49] Druid Da Morte has logged in.
+[20/08/2014 18:03:03] Druidzerah Mythus has logged in.
+[20/08/2014 18:03:55] Druidzerah Mythus has logged out.
+[20/08/2014 18:04:20] Druidzerah Mythus has logged in.
+[20/08/2014 18:04:40] Druidzerah Mythus has logged out.
+[20/08/2014 18:04:47] Druidzerah Mythus has logged in.
+[20/08/2014 18:05:09] Druidzerah Mythus has logged out.
+[20/08/2014 18:05:23] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[20/08/2014 18:05:24] Druidzerah Mythus has logged in.
+[20/08/2014 18:06:43] Anjo pk has logged out.
+[20/08/2014 18:06:44] Anjo pk has logged in.
+[20/08/2014 18:06:45] Mata Pally has logged out.
+[20/08/2014 18:08:31] Pally Brisado has logged out.
+[20/08/2014 18:08:36] Pally Brisado has logged in.
+[20/08/2014 18:10:10] Yakuza has logged in.
+[20/08/2014 18:12:04] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[20/08/2014 18:12:46] Pally Brisado has logged out.
+[20/08/2014 18:14:57] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 18:15:28] > CLEAN: Removed 4361 items from 3365 tiles in 0.246 seconds.
+[20/08/2014 18:15:28] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 18:16:27] Druid Da Morte has logged out.
+[20/08/2014 18:16:28] Druid Da Morte has logged in.
+[20/08/2014 18:17:50] Druidzerah Mythus has logged out.
+[20/08/2014 18:17:56] Druidzerah Mythus has logged in.
+[20/08/2014 18:18:45] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[20/08/2014 18:19:03] Duff Maluko has logged in.
+[20/08/2014 18:25:13] Arizinha Andrade has logged in.
+[20/08/2014 18:25:26] > Broadcasted message: "Para comprar bless digite !bless".
+[20/08/2014 18:31:30] > Saving server...
+[20/08/2014 18:31:33] > SAVE: Complete in 2.827 seconds using relational house storage.
+[20/08/2014 18:31:38] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 18:31:58] Anjo pk has logged out.
+[20/08/2014 18:32:00] Anjo pk has logged in.
+[20/08/2014 18:32:07] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[20/08/2014 18:32:08] > CLEAN: Removed 5006 items from 3516 tiles in 0.275 seconds.
+[20/08/2014 18:32:09] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 18:35:30] Duff Maluko has logged out.
+[20/08/2014 18:35:53] Druid Da Morte has logged out.
+[20/08/2014 18:35:54] Druid Da Morte has logged in.
+[20/08/2014 18:36:48] Duff Maluko has logged in.
+[20/08/2014 18:36:49] Druid Da Morte has logged out.
+[20/08/2014 18:36:51] Druid Da Morte has logged in.
+[20/08/2014 18:38:48] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[20/08/2014 18:39:55] Maluko duff has logged in.
+[20/08/2014 18:40:26] Maluko duff has logged out.
+[20/08/2014 18:41:09] Duff Maluko has logged out.
+[20/08/2014 18:41:16] Duff Maluko has logged in.
+[20/08/2014 18:42:23] Duff Maluko has logged out.
+[20/08/2014 18:42:28] Duff Maluko has logged in.
+[20/08/2014 18:43:13] Lucas has logged in.
+[20/08/2014 18:44:23] Maluko duff has logged in.
+[20/08/2014 18:45:29] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[20/08/2014 18:45:38] Druid Da Morte has logged out.
+[20/08/2014 18:45:40] Druid Da Morte has logged in.
+[20/08/2014 18:45:59] Arizinha Andrade has logged out.
+[20/08/2014 18:47:59] Juninhosza has logged in.
+[20/08/2014 18:48:11] Juninhosza has logged out.
+[20/08/2014 18:48:19] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 18:48:20] Yakuza has logged out.
+[20/08/2014 18:48:22] Juninhosza has logged in.
+[20/08/2014 18:48:49] > CLEAN: Removed 849 items from 626 tiles in 0.2 seconds.
+[20/08/2014 18:48:49] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 18:50:52] Juninhosza has logged out.
+[20/08/2014 18:50:54] Juninhosza has logged in.
+[20/08/2014 18:51:06] Mllk Loko has logged out.
+[20/08/2014 18:51:08] Mllk Loko has logged in.
+[20/08/2014 18:51:16] Arizinha Andrade has logged in.
+[20/08/2014 18:52:10] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[20/08/2014 18:52:21] Yakuza has logged in.
+[20/08/2014 18:54:27] Maluko duff has logged out.
+[20/08/2014 18:54:30] Maluko duff has logged in.
+[20/08/2014 18:55:16] Mllk Loko has logged out.
+[20/08/2014 18:55:17] Mllk Loko has logged in.
+[20/08/2014 18:55:18] Anjo pk has logged out.
+[20/08/2014 18:55:20] Anjo pk has logged in.
+[20/08/2014 18:55:23] Duff Maluko has logged out.
+[20/08/2014 18:55:25] Duff Maluko has logged in.
+[20/08/2014 18:57:26] Druid Da Morte has logged out.
+[20/08/2014 18:57:27] Druid Da Morte has logged in.
+[20/08/2014 18:58:06] Mllk Loko has logged out.
+[20/08/2014 18:58:08] Mllk Loko has logged in.
+[20/08/2014 18:58:13] Duff Maluko has logged out.
+[20/08/2014 18:58:51] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[20/08/2014 18:59:13] Mllk Loko has logged out.
+[20/08/2014 18:59:59] Juninhosza has logged out.
+[20/08/2014 19:00:10] Mllk Loko has logged in.
+[20/08/2014 19:01:54] Yakuza has logged out.
+[20/08/2014 19:01:56] Yakuza has logged in.
+[20/08/2014 19:02:39] Yakuza has logged out.
+[20/08/2014 19:02:41] Yakuza has logged in.
+[20/08/2014 19:02:55] Druid Da Morte has logged out.
+[20/08/2014 19:02:56] Druid Da Morte has logged in.
+[20/08/2014 19:02:59] Yakuza has logged out.
+[20/08/2014 19:03:01] Yakuza has logged in.
+[20/08/2014 19:03:51] Maluko duff has logged out.
+[20/08/2014 19:03:53] Maluko duff has logged in.
+[20/08/2014 19:04:00] Druid Da Morte has logged out.
+[20/08/2014 19:04:02] Druid Da Morte has logged in.
+[20/08/2014 19:04:03] Magezinho Sapeca has logged out.
+[20/08/2014 19:04:23] Magezinho Sapeca has logged in.
+[20/08/2014 19:04:42] Druid Da Morte has logged out.
+[20/08/2014 19:04:44] Druid Da Morte has logged in.
+[20/08/2014 19:04:51] > Saving server...
+[20/08/2014 19:04:54] > SAVE: Complete in 2.746 seconds using relational house storage.
+[20/08/2014 19:05:00] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 19:05:30] > CLEAN: Removed 29 items from 98 tiles in 0.156 seconds.
+[20/08/2014 19:05:30] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 19:05:32] > Broadcasted message: "Para ver as noticias fale !notice".
+[20/08/2014 19:05:38] Mllk Loko has logged out.
+[20/08/2014 19:05:39] Mllk Loko has logged in.
+[20/08/2014 19:06:28] Mllk Loko has logged out.
+[20/08/2014 19:06:28] 
+[20/08/2014 19:06:28] Lua Script Error: [Spell Interface] 
+[20/08/2014 19:06:28] in a timer event called from: 
+[20/08/2014 19:06:29] data/spells/scripts/max power rune.lua:onCastSpell
+[20/08/2014 19:06:29] 
+[20/08/2014 19:06:29] luaDoCombat(). Creature not found
+[20/08/2014 19:06:29] 
+[20/08/2014 19:06:29] Lua Script Error: [Spell Interface] 
+[20/08/2014 19:06:29] in a timer event called from: 
+[20/08/2014 19:06:29] data/spells/scripts/max power rune.lua:onCastSpell
+[20/08/2014 19:06:30] 
+[20/08/2014 19:06:30] luaDoCombat(). Creature not found
+[20/08/2014 19:06:30] 
+[20/08/2014 19:06:30] Lua Script Error: [Spell Interface] 
+[20/08/2014 19:06:30] in a timer event called from: 
+[20/08/2014 19:06:30] data/spells/scripts/max power rune.lua:onCastSpell
+[20/08/2014 19:06:30] 
+[20/08/2014 19:06:30] luaDoCombat(). Creature not found
+[20/08/2014 19:06:30] 
+[20/08/2014 19:06:30] Lua Script Error: [Spell Interface] 
+[20/08/2014 19:06:31] in a timer event called from: 
+[20/08/2014 19:06:31] data/spells/scripts/max power rune.lua:onCastSpell
+[20/08/2014 19:06:31] 
+[20/08/2014 19:06:31] luaDoCombat(). Creature not found
+[20/08/2014 19:06:53] Mllk Loko has logged in.
+[20/08/2014 19:07:16] Druid Da Morte has logged out.
+[20/08/2014 19:07:18] Druid Da Morte has logged in.
+[20/08/2014 19:07:22] Yakuza has logged out.
+[20/08/2014 19:07:24] Yakuza has logged in.
+[20/08/2014 19:07:38] Duff Maluko has logged in.
+[20/08/2014 19:07:56] Druid Da Morte has logged out.
+[20/08/2014 19:07:58] Druid Da Morte has logged in.
+[20/08/2014 19:08:02] Mllk Loko has logged out.
+[20/08/2014 19:08:04] Mllk Loko has logged in.
+[20/08/2014 19:09:22] Maluko duff has logged out.
+[20/08/2014 19:09:24] Maluko duff has logged in.
+[20/08/2014 19:09:38] Druid Da Morte has logged out.
+[20/08/2014 19:09:39] Druid Da Morte has logged in.
+[20/08/2014 19:09:47] Maluko duff has logged out.
+[20/08/2014 19:09:49] [Hoster] Jean has logged in.
+[20/08/2014 19:09:51] Duff Maluko has logged out.
+[20/08/2014 19:09:56] Druid Da Morte has logged out.
+[20/08/2014 19:09:58] Druid Da Morte has logged in.
+[20/08/2014 19:11:06] Lucas has logged out.
+[20/08/2014 19:11:24] [Hoster] Jean has logged out.
+[20/08/2014 19:11:29] Arizinha Andrade has logged out.
+[20/08/2014 19:12:13] > Broadcasted message: "Para comprar bless digite !bless".
+[20/08/2014 19:12:15] Yakuza has logged out.
+[20/08/2014 19:12:16] Yakuza has logged in.
+[20/08/2014 19:12:34] Yakuza has logged out.
+[20/08/2014 19:12:36] Yakuza has logged in.
+[20/08/2014 19:12:37] [Hoster] Jean has logged in.
+[20/08/2014 19:14:03] Magezinho Sapeca has logged out.
+[20/08/2014 19:14:06] Magezinho Sapeca has logged in.
+[20/08/2014 19:14:07] Magezinho Sapeca has logged out.
+[20/08/2014 19:14:12] Palazinho has logged in.
+[20/08/2014 19:14:40] Account Manager has logged in.
+[20/08/2014 19:14:50] Account Manager has logged out.
+[20/08/2014 19:15:00] Account Manager has logged in.
+[20/08/2014 19:15:31] Mllk Loko has logged out.
+[20/08/2014 19:15:38] Mllk Loko has logged in.
+[20/08/2014 19:16:41] Mllk Loko has logged out.
+[20/08/2014 19:16:43] Druid Da Morte has logged out.
+[20/08/2014 19:16:44] Druid Da Morte has logged in.
+[20/08/2014 19:16:46] Mllk Loko has logged in.
+[20/08/2014 19:17:34] Account Manager has logged out.
+[20/08/2014 19:17:35] Account Manager has logged in.
+[20/08/2014 19:17:44] Account Manager has logged out.
+[20/08/2014 19:17:51] Druidzerah Mythus has logged out.
+[20/08/2014 19:18:21] Account Manager has logged in.
+[20/08/2014 19:18:31] Account Manager has logged out.
+[20/08/2014 19:18:35] Druidzerah Mythus has logged in.
+[20/08/2014 19:18:54] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[20/08/2014 19:19:10] Account Manager has logged in.
+[20/08/2014 19:19:25] Account Manager has logged out.
+[20/08/2014 19:19:29] Druid Da Morte has logged out.
+[20/08/2014 19:19:31] Druid Da Morte has logged in.
+[20/08/2014 19:19:34] Account Manager has logged in.
+[20/08/2014 19:19:36] Anjo pk has logged out.
+[20/08/2014 19:19:37] Anjo pk has logged in.
+[20/08/2014 19:19:47] Account Manager has logged out.
+[20/08/2014 19:20:36] Account Manager has logged in.
+[20/08/2014 19:20:40] Account Manager has logged out.
+[20/08/2014 19:20:50] Account Manager has logged in.
+[20/08/2014 19:20:57] > CLEAN: Removed 1574 items from 1226 tiles in 0.281 seconds.
+[20/08/2014 19:21:02] Account Manager has logged out.
+[20/08/2014 19:21:09] Knightzinho has logged in.
+[20/08/2014 19:21:41] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 19:21:52] Druid Da Morte has logged out.
+[20/08/2014 19:21:54] Druid Da Morte has logged in.
+[20/08/2014 19:22:11] > CLEAN: Removed 354 items from 315 tiles in 0.187 seconds.
+[20/08/2014 19:22:12] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 19:22:59] Yakuza has logged out.
+[20/08/2014 19:23:01] Yakuza has logged in.
+[20/08/2014 19:23:16] Druid Da Morte has logged out.
+[20/08/2014 19:23:18] Druid Da Morte has logged in.
+[20/08/2014 19:25:35] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[20/08/2014 19:26:20] [Notice - Game::reloadInfo] Reload type does not work.
+[20/08/2014 19:27:08] > Broadcasted message: "ot vai relogar".
+[20/08/2014 19:27:09] > Broadcasted message: "ot vai relogar".
+[20/08/2014 19:27:10] > Broadcasted message: "ot vai relogar".
+[20/08/2014 19:27:10] > Broadcasted message: "ot vai relogar".
+[20/08/2014 19:27:11] > Broadcasted message: "ot vai relogar".
+[20/08/2014 19:27:16] > Broadcasted message: "ot vai relogar".
+[20/08/2014 19:27:17] > Broadcasted message: "ot vai relogar".
+[20/08/2014 19:27:17] > Broadcasted message: "ot vai relogar".
+[20/08/2014 19:27:18] > Broadcasted message: "ot vai relogar".
+[20/08/2014 19:27:19] > Broadcasted message: "ot vai relogar".
+[20/08/2014 19:27:19] > Broadcasted message: "ot vai relogar".
+[20/08/2014 19:27:27] > Saving server...
+[20/08/2014 19:27:30] > SAVE: Complete in 2.761 seconds using relational house storage.
+[20/08/2014 19:27:34] [Hoster] Jean has logged out.
+[20/08/2014 19:27:35] Palazinho has logged out.
+[20/08/2014 19:27:35] Mllk Loko has logged out.
+[20/08/2014 19:27:35] Druidzerah Mythus has logged out.
+[20/08/2014 19:27:36] Anjo pk has logged out.
+[20/08/2014 19:27:36] Knightzinho has logged out.
+[20/08/2014 19:27:36] Yakuza has logged out.
+[20/08/2014 19:27:37] Druid Da Morte has logged out.
+[20/08/2014 19:27:37] > Saving server...
+[20/08/2014 19:27:39] > SAVE: Complete in 1.591 seconds using relational house storage.
+[20/08/2014 19:27:40] Preparing to shutdown server..
+[20/08/2014 19:27:40] .
+[20/08/2014 19:27:40] Exiting
+[20/08/2014 19:27:53] The Forgotten Server, version 0.3.4 (Crying Damson)
+[20/08/2014 19:27:53] Sever Criado Por Alissow e Comedinha.
+[20/08/2014 19:27:53] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[20/08/2014 19:27:54] Bom Jogo!!!
+[20/08/2014 19:27:54] 
+[20/08/2014 19:27:54] >> Debugging: nothing.
+[20/08/2014 19:27:54] >> Checking software version... failed checking - malformed file.
+[20/08/2014 19:27:55] 
+[20/08/2014 19:27:55] >> Loading config (config.lua)
+[20/08/2014 19:27:55] > Using plaintext passwords
+[20/08/2014 19:27:55] >> Loading RSA key
+[20/08/2014 19:27:55] >> Starting SQL connection
+[20/08/2014 19:27:55] >> Running Database Manager
+[20/08/2014 19:27:56] > Optimized database.
+[20/08/2014 19:27:56] >> Loading items
+[20/08/2014 19:27:56] >> Loading groups
+[20/08/2014 19:27:57] >> Loading vocations
+[20/08/2014 19:27:57] >> Loading script systems
+[20/08/2014 19:28:00] >> Loading chat channels
+[20/08/2014 19:28:00] >> Loading outfits
+[20/08/2014 19:28:00] >> Loading experience stages
+[20/08/2014 19:28:00] >> Loading monsters
+[20/08/2014 19:28:03] >> Loading map and spawns...
+[20/08/2014 19:28:04] > Map size: 65000x65000.
+[20/08/2014 19:28:04] > Map descriptions: 
+[20/08/2014 19:28:04] Saved with Remere's Map Editor 2.2
+[20/08/2014 19:28:04] No map description available.
+[20/08/2014 19:28:05] Duplicate uniqueId 2407
+[20/08/2014 19:28:09] > Map loading time: 5.428 seconds.
+[20/08/2014 19:28:09] > Data loading time: 0.702 seconds.
+[20/08/2014 19:28:10] > Unserialization time for houses: 0.015 seconds.
+[20/08/2014 19:28:34] > Unserialization time for map: 24.118 seconds.
+[20/08/2014 19:28:34] >> Checking world type... PvP
+[20/08/2014 19:28:34] >> Initializing game state modules and registering services...
+[20/08/2014 19:28:35] > Global address: deathpvp.no-ip.info
+[20/08/2014 19:28:35] > Local ports:
+[20/08/2014 19:28:35] 7171	7172	
+[20/08/2014 19:28:36] >> All modules were loaded, server starting up...
+[20/08/2014 19:28:36] >> OT Death server Online!
+[20/08/2014 19:28:36] 
+[20/08/2014 19:28:37] Druid Da Morte has logged in.
+[20/08/2014 19:28:37] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[20/08/2014 19:28:43] [Hoster] Jean has logged in.
+[20/08/2014 19:28:54] Magezinho Sapeca has logged in.
+[20/08/2014 19:28:54] Druidzerah Mythus has logged in.
+[20/08/2014 19:29:00] > Saving server...
+[20/08/2014 19:29:03] > SAVE: Complete in 2.184 seconds using relational house storage.
+[20/08/2014 19:29:04] Druid Da Morte has logged out.
+[20/08/2014 19:29:04] [Hoster] Jean has logged out.
+[20/08/2014 19:29:04] Magezinho Sapeca has logged out.
+[20/08/2014 19:29:05] Druidzerah Mythus has logged out.
+[20/08/2014 19:29:05] > Saving server...
+[20/08/2014 19:29:07] > SAVE: Complete in 1.575 seconds using relational house storage.
+[20/08/2014 19:29:07] Preparing to shutdown server..
+[20/08/2014 19:29:07] .
+[20/08/2014 19:29:07] Exiting
+[20/08/2014 19:30:09] The Forgotten Server, version 0.3.4 (Crying Damson)
+[20/08/2014 19:30:09] Sever Criado Por Alissow e Comedinha.
+[20/08/2014 19:30:10] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[20/08/2014 19:30:10] Bom Jogo!!!
+[20/08/2014 19:30:10] 
+[20/08/2014 19:30:10] >> Debugging: nothing.
+[20/08/2014 19:30:10] >> Checking software version... failed checking - malformed file.
+[20/08/2014 19:30:11] 
+[20/08/2014 19:30:11] >> Loading config (config.lua)
+[20/08/2014 19:30:11] > Using plaintext passwords
+[20/08/2014 19:30:12] >> Loading RSA key
+[20/08/2014 19:30:12] >> Starting SQL connection
+[20/08/2014 19:30:12] >> Running Database Manager
+[20/08/2014 19:30:12] > Optimized database.
+[20/08/2014 19:30:13] >> Loading items
+[20/08/2014 19:30:13] >> Loading groups
+[20/08/2014 19:30:13] >> Loading vocations
+[20/08/2014 19:30:13] >> Loading script systems
+[20/08/2014 19:30:14] >> Loading chat channels
+[20/08/2014 19:30:14] >> Loading outfits
+[20/08/2014 19:30:14] >> Loading experience stages
+[20/08/2014 19:30:14] >> Loading monsters
+[20/08/2014 19:30:15] >> Loading map and spawns...
+[20/08/2014 19:30:16] > Map size: 65000x65000.
+[20/08/2014 19:30:16] > Map descriptions: 
+[20/08/2014 19:30:16] Saved with Remere's Map Editor 2.2
+[20/08/2014 19:30:16] No map description available.
+[20/08/2014 19:30:17] Duplicate uniqueId 2407
+[20/08/2014 19:30:20] > Map loading time: 5.304 seconds.
+[20/08/2014 19:30:21] > Data loading time: 0.296 seconds.
+[20/08/2014 19:30:21] > Unserialization time for houses: 0.015 seconds.
+[20/08/2014 19:30:45] > Unserialization time for map: 23.977 seconds.
+[20/08/2014 19:30:45] >> Checking world type... PvP
+[20/08/2014 19:30:46] >> Initializing game state modules and registering services...
+[20/08/2014 19:30:46] > Global address: deathpvp.no-ip.info
+[20/08/2014 19:30:47] > Local ports:
+[20/08/2014 19:30:47] 7171	7172	
+[20/08/2014 19:30:47] >> All modules were loaded, server starting up...
+[20/08/2014 19:30:47] >> OT Death server Online!
+[20/08/2014 19:30:47] 
+[20/08/2014 19:30:48] Mllk Loko has logged in.
+[20/08/2014 19:30:50] [Hoster] Jean has logged in.
+[20/08/2014 19:30:52] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[20/08/2014 19:30:57] Magezinho Sapeca has logged in.
+[20/08/2014 19:31:04] Druidzerah Mythus has logged in.
+[20/08/2014 19:31:13] Mllk Loko has logged out.
+[20/08/2014 19:31:14] Mllk Loko has logged in.
+[20/08/2014 19:32:17] Druid Da Morte has logged in.
+[20/08/2014 19:32:46] Magezinho Sapeca has logged out.
+[20/08/2014 19:32:53] Palazinho has logged in.
+[20/08/2014 19:35:48] Knightzinho has logged in.
+[20/08/2014 19:36:46] Mllk Loko has logged out.
+[20/08/2014 19:36:55] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[20/08/2014 19:36:56] Mllk Loko has logged in.
+[20/08/2014 19:37:03] Mllk Loko has logged out.
+[20/08/2014 19:39:04] [Hoster] Jean has logged out.
+[20/08/2014 19:39:06] > Saving server...
+[20/08/2014 19:39:09] > SAVE: Complete in 2.137 seconds using relational house storage.
+[20/08/2014 19:39:18] Mllk Loko has logged in.
+[20/08/2014 19:43:36] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[20/08/2014 19:46:02] Mllk Loko has logged out.
+[20/08/2014 19:46:04] Mllk Loko has logged in.
+[20/08/2014 19:46:55] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 19:47:26] > CLEAN: Removed 4699 items from 3715 tiles in 0.327 seconds.
+[20/08/2014 19:47:26] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 19:47:27] Juninhosza has logged in.
+[20/08/2014 19:49:32] Pally Brisado has logged in.
+[20/08/2014 19:49:45] Druid Da Morte has logged out.
+[20/08/2014 19:50:01] Arizinha Andrade has logged in.
+[20/08/2014 19:50:17] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[20/08/2014 19:52:12] Magezinho Sapeca has logged in.
+[20/08/2014 19:52:23] Palazinho has logged out.
+[20/08/2014 19:53:11] Magezinho Sapeca has logged out.
+[20/08/2014 19:53:12] Magezinho Sapeca has logged in.
+[20/08/2014 19:54:47] Magezinho Sapeca has logged out.
+[20/08/2014 19:54:49] Magezinho Sapeca has logged in.
+[20/08/2014 19:55:14] Juninhosza has logged out.
+[20/08/2014 19:55:17] Juninhosza has logged in.
+[20/08/2014 19:56:16] Pally Brisado has logged out.
+[20/08/2014 19:56:23] Pally Brisado has logged in.
+[20/08/2014 19:56:58] > Broadcasted message: "Para ver as noticias fale !notice".
+[20/08/2014 19:57:42] Magezinho Sapeca has logged out.
+[20/08/2014 19:57:43] Magezinho Sapeca has logged in.
+[20/08/2014 20:00:49] Pally Brisado has logged out.
+[20/08/2014 20:01:08] Pally Brisado has logged in.
+[20/08/2014 20:03:36] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 20:03:39] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[20/08/2014 20:03:40] > Saving server...
+[20/08/2014 20:03:42] > SAVE: Complete in 2.432 seconds using relational house storage.
+[20/08/2014 20:03:45] Pally Brisado has logged out.
+[20/08/2014 20:04:06] > CLEAN: Removed 17 items from 37 tiles in 0.18 seconds.
+[20/08/2014 20:04:06] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 20:04:32] Druidzerah Mythus has logged out.
+[20/08/2014 20:04:34] Druidzerah Mythus has logged in.
+[20/08/2014 20:07:52] Knightzinho has logged out.
+[20/08/2014 20:08:46] Magezinho Sapeca has logged out.
+[20/08/2014 20:08:51] Palazinho has logged in.
+[20/08/2014 20:09:16] Knightzinho has logged in.
+[20/08/2014 20:10:20] > Broadcasted message: "Para comprar bless digite !bless".
+[20/08/2014 20:10:27] Magezinho Sapeca has logged in.
+[20/08/2014 20:17:01] > Broadcasted message: "Para comprar bless digite !bless".
+[20/08/2014 20:18:06] Arizinha Andrade has logged out.
+[20/08/2014 20:19:06] Yakuza has logged in.
+[20/08/2014 20:19:41] Arizinha Andrade has logged in.
+[20/08/2014 20:20:17] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 20:20:47] > CLEAN: Removed 6665 items from 3826 tiles in 0.259 seconds.
+[20/08/2014 20:20:48] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 20:23:42] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[20/08/2014 20:25:05] Pally Brisado has logged in.
+[20/08/2014 20:25:06] Palazinho has logged out.
+[20/08/2014 20:25:39] Knightzinho has logged out.
+[20/08/2014 20:28:14] [Hoster] Jean has logged in.
+[20/08/2014 20:28:30] > CLEAN: Removed 3277 items from 2253 tiles in 0.27 seconds.
+[20/08/2014 20:29:20] Druid has logged in.
+[20/08/2014 20:30:00] Druid has logged out.
+[20/08/2014 20:30:07] Mutuca has logged in.
+[20/08/2014 20:30:23] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[20/08/2014 20:30:33] Pally Brisado has logged out.
+[20/08/2014 20:31:16] Account Manager has logged in.
+[20/08/2014 20:31:19] Pally Brisado has logged in.
+[20/08/2014 20:31:25] Account Manager has logged out.
+[20/08/2014 20:31:36] Druid Zughy has logged in.
+[20/08/2014 20:32:41] Arizinha Andrade has logged out.
+[20/08/2014 20:32:42] Juninhosza has logged out.
+[20/08/2014 20:32:51] Account Manager has logged in.
+[20/08/2014 20:32:53] Account Manager has logged out.
+[20/08/2014 20:32:54] Arizinha Andrade has logged in.
+[20/08/2014 20:33:24] Juninhosza has logged in.
+[20/08/2014 20:34:19] Nois Que Voa Bruxao has logged in.
+[20/08/2014 20:34:20] Nois Que Voa Bruxao has logged out.
+[20/08/2014 20:34:30] Druid Da Morte has logged in.
+[20/08/2014 20:35:17] > Broadcasted message: "Ice Lord esta atacando o templo com seu set perfeito.".
+[20/08/2014 20:36:10] Magezinho Sapeca has logged out.
+[20/08/2014 20:36:12] Arizinha Andrade has logged out.
+[20/08/2014 20:36:13] Druid Da Morte has logged out.
+[20/08/2014 20:36:18] Magezinho Sapeca has logged in.
+[20/08/2014 20:36:19] Arizinha Andrade has logged in.
+[20/08/2014 20:36:19] Druid Da Morte has logged in.
+[20/08/2014 20:36:21] Pally Da Morte has logged in.
+[20/08/2014 20:36:34] Druid Da Morte has logged out.
+[20/08/2014 20:36:39] Druid Da Morte has logged in.
+[20/08/2014 20:36:57] Druid Da Morte has logged out.
+[20/08/2014 20:36:58] Mllk Loko has logged out.
+[20/08/2014 20:36:58] 
+[20/08/2014 20:36:58] Lua Script Error: [CreatureScript Interface] 
+[20/08/2014 20:36:59] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[20/08/2014 20:36:59] 
+[20/08/2014 20:36:59] luaGetCreatureName(). Creature not found
+[20/08/2014 20:36:59] Juninhosza has logged out.
+[20/08/2014 20:37:00] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 20:37:01] > Saving server...
+[20/08/2014 20:37:03] > SAVE: Complete in 2.787 seconds using relational house storage.
+[20/08/2014 20:37:04] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[20/08/2014 20:37:05] Druid Da Morte has logged in.
+[20/08/2014 20:37:05] Mllk Loko has logged in.
+[20/08/2014 20:37:06] Juninhosza has logged in.
+[20/08/2014 20:37:09] Druid Da Morte has logged out.
+[20/08/2014 20:37:11] Druid Da Morte has logged in.
+[20/08/2014 20:37:27] Druid Da Morte has logged out.
+[20/08/2014 20:37:29] Druid Da Morte has logged in.
+[20/08/2014 20:37:30] > CLEAN: Removed 846 items from 653 tiles in 0.309 seconds.
+[20/08/2014 20:37:31] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 20:38:28] Juninhosza has logged out.
+[20/08/2014 20:38:31] Juninhosza has logged in.
+[20/08/2014 20:41:16] Mutuca has logged out.
+[20/08/2014 20:41:18] Mutuca has logged in.
+[20/08/2014 20:42:06] Pally Da Morte has logged out.
+[20/08/2014 20:42:16] Palyy has logged in.
+[20/08/2014 20:42:17] Mutuca has logged out.
+[20/08/2014 20:42:19] Mutuca has logged in.
+[20/08/2014 20:43:05] Magezinho Sapeca has logged out.
+[20/08/2014 20:43:07] Magezinho Sapeca has logged in.
+[20/08/2014 20:43:29] Juninhosza has logged out.
+[20/08/2014 20:43:31] Druid Da Morte has logged out.
+[20/08/2014 20:43:33] Druid Da Morte has logged in.
+[20/08/2014 20:43:39] Palyy has logged out.
+[20/08/2014 20:43:41] Palyy has logged in.
+[20/08/2014 20:43:45] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[20/08/2014 20:44:15] Mutuca has logged out.
+[20/08/2014 20:44:17] Mutuca has logged in.
+[20/08/2014 20:44:28] Palyy has logged out.
+[20/08/2014 20:44:29] Account Manager has logged in.
+[20/08/2014 20:44:43] Account Manager has logged out.
+[20/08/2014 20:44:53] Druidzin has logged in.
+[20/08/2014 20:45:10] > Broadcasted message: "EVENTO QUEM ACHAR BONECO DOLL GANHARA  HELL SOUL QE AUMENTA 100 DE SOUL".
+[20/08/2014 20:45:11] > Broadcasted message: "EVENTO QUEM ACHAR BONECO DOLL GANHARA  HELL SOUL QE AUMENTA 100 DE SOUL".
+[20/08/2014 20:45:11] > Broadcasted message: "EVENTO QUEM ACHAR BONECO DOLL GANHARA  HELL SOUL QE AUMENTA 100 DE SOUL".
+[20/08/2014 20:45:12] > Broadcasted message: "EVENTO QUEM ACHAR BONECO DOLL GANHARA  HELL SOUL QE AUMENTA 100 DE SOUL".
+[20/08/2014 20:45:13] > Broadcasted message: "EVENTO QUEM ACHAR BONECO DOLL GANHARA  HELL SOUL QE AUMENTA 100 DE SOUL".
+[20/08/2014 20:45:13] > Broadcasted message: "EVENTO QUEM ACHAR BONECO DOLL GANHARA  HELL SOUL QE AUMENTA 100 DE SOUL".
+[20/08/2014 20:45:14] > Broadcasted message: "EVENTO QUEM ACHAR BONECO DOLL GANHARA  HELL SOUL QE AUMENTA 100 DE SOUL".
+[20/08/2014 20:45:14] > Broadcasted message: "EVENTO QUEM ACHAR BONECO DOLL GANHARA  HELL SOUL QE AUMENTA 100 DE SOUL".
+[20/08/2014 20:45:15] > Broadcasted message: "EVENTO QUEM ACHAR BONECO DOLL GANHARA  HELL SOUL QE AUMENTA 100 DE SOUL".
+[20/08/2014 20:45:16] > Broadcasted message: "EVENTO QUEM ACHAR BONECO DOLL GANHARA  HELL SOUL QE AUMENTA 100 DE SOUL".
+[20/08/2014 20:45:16] > Broadcasted message: "EVENTO QUEM ACHAR BONECO DOLL GANHARA  HELL SOUL QE AUMENTA 100 DE SOUL".
+[20/08/2014 20:45:23] Druidzin has logged out.
+[20/08/2014 20:45:24] Palyy has logged in.
+[20/08/2014 20:45:24] Mutuca has logged out.
+[20/08/2014 20:45:25] > Broadcasted message: "EVENTO QUEM ACHAR BONECO DOLL GANHARA  HELL SOUL QE AUMENTA 100 DE SOUL".
+[20/08/2014 20:45:26] > Broadcasted message: "EVENTO QUEM ACHAR BONECO DOLL GANHARA  HELL SOUL QE AUMENTA 100 DE SOUL".
+[20/08/2014 20:45:26] > Broadcasted message: "EVENTO QUEM ACHAR BONECO DOLL GANHARA  HELL SOUL QE AUMENTA 100 DE SOUL".
+[20/08/2014 20:45:27] > Broadcasted message: "EVENTO QUEM ACHAR BONECO DOLL GANHARA  HELL SOUL QE AUMENTA 100 DE SOUL".
+[20/08/2014 20:45:28] > Broadcasted message: "EVENTO QUEM ACHAR BONECO DOLL GANHARA  HELL SOUL QE AUMENTA 100 DE SOUL".
+[20/08/2014 20:45:48] 
+[20/08/2014 20:45:48] Lua Script Error: [Action Interface] 
+[20/08/2014 20:45:48] data/actions/scripts/prateleira.lua:onUse
+[20/08/2014 20:45:49] 
+[20/08/2014 20:45:49] luaDoRemoveItem(). Item not found
+[20/08/2014 20:45:49] 
+[20/08/2014 20:45:49] Lua Script Error: [Action Interface] 
+[20/08/2014 20:45:49] data/actions/scripts/prateleira.lua:onUse
+[20/08/2014 20:45:49] 
+[20/08/2014 20:45:49] luaDoRemoveItem(). Item not found
+[20/08/2014 20:46:19] > Broadcasted message: "BONECO ESTA AKE NA CITY MESMOS".
+[20/08/2014 20:46:21] > Broadcasted message: "BONECO ESTA AKE NA CITY MESMOS".
+[20/08/2014 20:47:17] Druid Zughy has logged out.
+[20/08/2014 20:48:06] > Broadcasted message: "DICA = ESTA DO LADO DE UMA ARVORE".
+[20/08/2014 20:48:09] > Broadcasted message: "DICA = ESTA DO LADO DE UMA ARVORE".
+[20/08/2014 20:48:10] > Broadcasted message: "DICA = ESTA DO LADO DE UMA ARVORE".
+[20/08/2014 20:48:19] Palyy has logged out.
+[20/08/2014 20:48:21] Palyy has logged in.
+[20/08/2014 20:48:41] Druid Da Morte has logged out.
+[20/08/2014 20:48:42] Druid Da Morte has logged in.
+[20/08/2014 20:48:55] > Broadcasted message: "DICA = ESTA DO LADO DE UMA ARVORE".
+[20/08/2014 20:49:46] Juninhosza has logged in.
+[20/08/2014 20:49:57] > Broadcasted message: "DICA 2 = ESTA PERTO DE CASAS DE MADEIRA".
+[20/08/2014 20:50:00] > Broadcasted message: "DICA 2 = ESTA PERTO DE CASAS DE MADEIRA".
+[20/08/2014 20:50:01] > Broadcasted message: "DICA 2 = ESTA PERTO DE CASAS DE MADEIRA".
+[20/08/2014 20:50:26] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[20/08/2014 20:50:38] Yakuza has logged out.
+[20/08/2014 20:50:39] Yakuza has logged in.
+[20/08/2014 20:50:43] Druid Da Morte has logged out.
+[20/08/2014 20:50:45] Druid Da Morte has logged in.
+[20/08/2014 20:50:45] Bomb has logged in.
+[20/08/2014 20:50:53] Bomb has logged out.
+[20/08/2014 20:50:53] Bob Dyller has logged in.
+[20/08/2014 20:50:57] Sorczinho Sapeca has logged in.
+[20/08/2014 20:51:16] Mllk Loko has logged out.
+[20/08/2014 20:51:18] Mllk Loko has logged in.
+[20/08/2014 20:51:30] Sorczinho Sapeca has logged out.
+[20/08/2014 20:52:07] > Broadcasted message: "Palyy Achoou".
+[20/08/2014 20:52:27] Mllk Loko has logged out.
+[20/08/2014 20:52:28] Mllk Loko has logged in.
+[20/08/2014 20:53:09] Mutuca has logged in.
+[20/08/2014 20:53:11] Druid Da Morte has logged out.
+[20/08/2014 20:53:14] Druid Zughy has logged in.
+[20/08/2014 20:53:16] Nois Que Voa Bruxao has logged in.
+[20/08/2014 20:53:40] Nois Que Voa Bruxao has logged out.
+[20/08/2014 20:53:41] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 20:53:48] Druid Da Morte has logged in.
+[20/08/2014 20:54:11] > CLEAN: Removed 183 items from 291 tiles in 0.268 seconds.
+[20/08/2014 20:54:12] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 20:55:13] Druid Da Morte has logged out.
+[20/08/2014 20:55:18] Druid Do Terror has logged in.
+[20/08/2014 20:55:33] Druid Zughy has logged out.
+[20/08/2014 20:55:35] Druid Zughy has logged in.
+[20/08/2014 20:56:01] Druid Do Terror has logged out.
+[20/08/2014 20:56:03] Palyy has logged out.
+[20/08/2014 20:56:05] Palyy has logged in.
+[20/08/2014 20:56:09] Druid Da Morte has logged in.
+[20/08/2014 20:56:13] Druid Da Morte has logged out.
+[20/08/2014 20:56:19] Druid Da Morte has logged in.
+[20/08/2014 20:56:22] Druid Da Morte has logged out.
+[20/08/2014 20:56:27] Druid Do Terror has logged in.
+[20/08/2014 20:56:41] Druid Do Terror has logged out.
+[20/08/2014 20:56:50] Druid Da Morte has logged in.
+[20/08/2014 20:57:07] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[20/08/2014 20:57:51] Druid Da Morte has logged out.
+[20/08/2014 20:57:52] Druid Da Morte has logged in.
+[20/08/2014 20:58:38] Druid Da Morte has logged out.
+[20/08/2014 20:58:40] Druid Da Morte has logged in.
+[20/08/2014 20:59:23] Druid Da Morte has logged out.
+[20/08/2014 20:59:25] Druid Da Morte has logged in.
+[20/08/2014 21:00:39] Palyy has logged out.
+[20/08/2014 21:00:52] Nois Que Voa Bruxao has logged in.
+[20/08/2014 21:01:39] Nois Que Voa Bruxao has logged out.
+[20/08/2014 21:01:41] Nois Que Voa Bruxao has logged in.
+[20/08/2014 21:01:52] Nois Que Voa Bruxao has logged out.
+[20/08/2014 21:01:57] Nois Que Voa Bruxao has logged in.
+[20/08/2014 21:02:06] Druid Zughy has logged out.
+[20/08/2014 21:02:08] Nois Que Voa Bruxao has logged out.
+[20/08/2014 21:02:10] Nois Que Voa Bruxao has logged in.
+[20/08/2014 21:02:22] Nois Que Voa Bruxao has logged out.
+[20/08/2014 21:02:23] Nois Que Voa Bruxao has logged in.
+[20/08/2014 21:02:25] Druid Zughy has logged in.
+[20/08/2014 21:02:27] Fanta-limao has logged in.
+[20/08/2014 21:02:36] Nois Que Voa Bruxao has logged out.
+[20/08/2014 21:02:38] Nois Que Voa Bruxao has logged in.
+[20/08/2014 21:03:06] Druid Da Morte has logged out.
+[20/08/2014 21:03:43] Mllk Loko has logged out.
+[20/08/2014 21:03:45] Mllk Loko has logged in.
+[20/08/2014 21:03:48] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[20/08/2014 21:04:09] Fanta-limao has logged out.
+[20/08/2014 21:04:49] Druidzerah Mythus has logged out.
+[20/08/2014 21:05:21] Nois Que Voa Bruxao has logged out.
+[20/08/2014 21:05:22] Magezinho Sapeca has logged out.
+[20/08/2014 21:05:27] Palazinho has logged in.
+[20/08/2014 21:05:33] Palyy has logged in.
+[20/08/2014 21:06:00] Knightzinho has logged in.
+[20/08/2014 21:06:10] Palyy has logged out.
+[20/08/2014 21:06:17] Account Manager has logged in.
+[20/08/2014 21:06:34] Account Manager has logged out.
+[20/08/2014 21:06:37] Account Manager has logged in.
+[20/08/2014 21:06:47] Fanta-limao has logged in.
+[20/08/2014 21:06:47] Account Manager has logged out.
+[20/08/2014 21:06:48] Account Manager has logged in.
+[20/08/2014 21:07:04] Account Manager has logged out.
+[20/08/2014 21:07:12] Account Manager has logged in.
+[20/08/2014 21:07:16] Magezinho Sapeca has logged in.
+[20/08/2014 21:07:31] Account Manager has logged out.
+[20/08/2014 21:07:36] Druid Zughy has logged out.
+[20/08/2014 21:07:38] Druidzinho has logged in.
+[20/08/2014 21:07:39] Druid Zughy has logged in.
+[20/08/2014 21:07:44] Mutuca has logged out.
+[20/08/2014 21:07:45] Mutuca has logged in.
+[20/08/2014 21:07:50] Fanta-limao has logged out.
+[20/08/2014 21:07:57] Epic Exori has logged in.
+[20/08/2014 21:08:00] Epic Exori has logged out.
+[20/08/2014 21:08:01] Epic hehe has logged in.
+[20/08/2014 21:09:00] Druidzinho has logged out.
+[20/08/2014 21:10:22] > Saving server...
+[20/08/2014 21:10:25] > SAVE: Complete in 3.533 seconds using relational house storage.
+[20/08/2014 21:10:26] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 21:10:29] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[20/08/2014 21:10:47] Epic hehe has logged out.
+[20/08/2014 21:10:48] Kina Of Death has logged in.
+[20/08/2014 21:10:56] > CLEAN: Removed 1996 items from 1783 tiles in 0.251 seconds.
+[20/08/2014 21:10:56] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 21:11:26] Druidzerah Mythus has logged in.
+[20/08/2014 21:11:33] Kina Of Death has logged out.
+[20/08/2014 21:11:34] Kina Of Death has logged in.
+[20/08/2014 21:11:35] Kina Of Death has logged out.
+[20/08/2014 21:11:43] Fanta-limao has logged in.
+[20/08/2014 21:15:37] Sorczinho Sapeca has logged in.
+[20/08/2014 21:16:35] Mllk Loko has logged out.
+[20/08/2014 21:16:35] 
+[20/08/2014 21:16:35] Lua Script Error: [Spell Interface] 
+[20/08/2014 21:16:36] in a timer event called from: 
+[20/08/2014 21:16:36] data/spells/scripts/max power rune.lua:onCastSpell
+[20/08/2014 21:16:37] 
+[20/08/2014 21:16:37] luaDoCombat(). Creature not found
+[20/08/2014 21:16:37] 
+[20/08/2014 21:16:37] Lua Script Error: [Spell Interface] 
+[20/08/2014 21:16:38] in a timer event called from: 
+[20/08/2014 21:16:38] data/spells/scripts/max power rune.lua:onCastSpell
+[20/08/2014 21:16:39] 
+[20/08/2014 21:16:39] luaDoCombat(). Creature not found
+[20/08/2014 21:16:40] 
+[20/08/2014 21:16:40] Lua Script Error: [Spell Interface] 
+[20/08/2014 21:16:40] in a timer event called from: 
+[20/08/2014 21:16:40] data/spells/scripts/max power rune.lua:onCastSpell
+[20/08/2014 21:16:41] 
+[20/08/2014 21:16:41] luaDoCombat(). Creature not found
+[20/08/2014 21:16:41] 
+[20/08/2014 21:16:41] Lua Script Error: [Spell Interface] 
+[20/08/2014 21:16:41] in a timer event called from: 
+[20/08/2014 21:16:42] data/spells/scripts/max power rune.lua:onCastSpell
+[20/08/2014 21:16:43] 
+[20/08/2014 21:16:43] luaDoCombat(). Creature not found
+[20/08/2014 21:16:50] Mllk Loko has logged in.
+[20/08/2014 21:17:10] > Broadcasted message: "Para ver as noticias fale !notice".
+[20/08/2014 21:17:14] Fanta-limao has logged out.
+[20/08/2014 21:17:16] Fanta-limao has logged in.
+[20/08/2014 21:17:28] Fanta-limao has logged out.
+[20/08/2014 21:17:32] Account Manager has logged in.
+[20/08/2014 21:18:03] Mutuca has logged out.
+[20/08/2014 21:18:06] Pally Brisado has logged out.
+[20/08/2014 21:18:08] Account Manager has logged out.
+[20/08/2014 21:18:09] Pally Brisado has logged in.
+[20/08/2014 21:18:10] Druid Zughy has logged out.
+[20/08/2014 21:18:12] Druid Zughy has logged in.
+[20/08/2014 21:18:15] Account Manager has logged in.
+[20/08/2014 21:18:29] Account Manager has logged out.
+[20/08/2014 21:18:36] Royal Killer has logged in.
+[20/08/2014 21:19:04] Pally Brisado has logged out.
+[20/08/2014 21:19:08] Pally Brisado has logged in.
+[20/08/2014 21:19:40] Druid Zughy has logged out.
+[20/08/2014 21:19:42] Druid Zughy has logged in.
+[20/08/2014 21:20:08] Druid Zughy has logged out.
+[20/08/2014 21:22:04] Palazinho has logged out.
+[20/08/2014 21:22:21] Yakuza has logged out.
+[20/08/2014 21:22:26] Yakuza has logged in.
+[20/08/2014 21:22:41] Knightzinho has logged out.
+[20/08/2014 21:23:51] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[20/08/2014 21:27:07] Magezinho Sapeca has logged out.
+[20/08/2014 21:27:07] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 21:27:13] Palazinho has logged in.
+[20/08/2014 21:27:37] > CLEAN: Removed 2405 items from 2269 tiles in 0.223 seconds.
+[20/08/2014 21:27:38] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 21:28:06] Knightzinho has logged in.
+[20/08/2014 21:29:35] Arizinha Andrade has logged out.
+[20/08/2014 21:29:38] Arizinha Andrade has logged in.
+[20/08/2014 21:30:32] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[20/08/2014 21:31:00] Pally Brisado has logged out.
+[20/08/2014 21:31:41] Bob Dyller has logged out.
+[20/08/2014 21:31:42] Bomb has logged in.
+[20/08/2014 21:37:13] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[20/08/2014 21:38:02] Royal Killer has logged out.
+[20/08/2014 21:38:04] Royal Killer has logged in.
+[20/08/2014 21:38:20] Bomb has logged out.
+[20/08/2014 21:38:26] Bomb has logged in.
+[20/08/2014 21:38:29] Bomb has logged out.
+[20/08/2014 21:38:31] Bob Dyller has logged in.
+[20/08/2014 21:40:23] Royal Killer has logged out.
+[20/08/2014 21:40:34] Fanta-limao has logged in.
+[20/08/2014 21:41:36] Pally Brisado has logged in.
+[20/08/2014 21:42:46] Pally Brisado has logged out.
+[20/08/2014 21:43:04] Eternal Ozzot has logged in.
+[20/08/2014 21:43:34] Magezinho Sapeca has logged in.
+[20/08/2014 21:43:38] Palazinho has logged out.
+[20/08/2014 21:43:43] > Saving server...
+[20/08/2014 21:43:46] > SAVE: Complete in 3.192 seconds using relational house storage.
+[20/08/2014 21:43:48] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 21:43:54] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[20/08/2014 21:44:18] > CLEAN: Removed 4504 items from 1385 tiles in 0.246 seconds.
+[20/08/2014 21:44:18] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 21:44:47] Sorczinho Sapeca has logged out.
+[20/08/2014 21:44:55] Sorczinho Sapeca has logged in.
+[20/08/2014 21:45:43] Magezinho Sapeca has logged out.
+[20/08/2014 21:45:45] Magezinho Sapeca has logged in.
+[20/08/2014 21:47:21] Juninhosza has logged out.
+[20/08/2014 21:47:23] Juninhosza has logged in.
+[20/08/2014 21:48:36] Fanta-limao has logged out.
+[20/08/2014 21:49:03] Pally Do Kpta has logged in.
+[20/08/2014 21:49:45] Druidzerah Mythus has logged out.
+[20/08/2014 21:49:47] Druidzerah Mythus has logged in.
+[20/08/2014 21:50:09] Pally Do Kpta has logged out.
+[20/08/2014 21:50:19] Pally Oz Piint has logged in.
+[20/08/2014 21:50:25] Pally Oz Piint has logged out.
+[20/08/2014 21:50:27] Pally Oz Piint has logged in.
+[20/08/2014 21:50:27] Pally Oz Piint has logged out.
+[20/08/2014 21:50:35] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[20/08/2014 21:50:37] Fanta-limao has logged in.
+[20/08/2014 21:54:40] Fanta-limao has logged out.
+[20/08/2014 21:54:46] Royal Killer has logged in.
+[20/08/2014 21:56:09] Royal Killer has logged out.
+[20/08/2014 21:56:10] Royal Killer has logged in.
+[20/08/2014 21:57:16] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[20/08/2014 21:58:59] Knightzinho has logged out.
+[20/08/2014 22:00:29] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 22:00:41] Magezinho Sapeca has logged out.
+[20/08/2014 22:00:44] Guuh has logged in.
+[20/08/2014 22:00:46] Guuh has logged out.
+[20/08/2014 22:00:48] Magezinho Sapeca has logged in.
+[20/08/2014 22:00:59] Magezinho Sapeca has logged out.
+[20/08/2014 22:01:00] > CLEAN: Removed 6735 items from 3286 tiles in 0.328 seconds.
+[20/08/2014 22:01:00] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 22:01:04] Palazinho has logged in.
+[20/08/2014 22:01:09] Palazinho has logged out.
+[20/08/2014 22:01:09] Palazinho has logged in.
+[20/08/2014 22:01:18] Bolt Action has logged in.
+[20/08/2014 22:02:02] Bolt Action has logged out.
+[20/08/2014 22:02:05] Bolt Action has logged in.
+[20/08/2014 22:02:25] Bolt Action has logged out.
+[20/08/2014 22:02:26] Bolt Action has logged in.
+[20/08/2014 22:02:31] Juninhosza has logged out.
+[20/08/2014 22:02:32] Bob Dyller has logged out.
+[20/08/2014 22:02:33] Bolt Action has logged out.
+[20/08/2014 22:02:33] Juninhosza has logged in.
+[20/08/2014 22:02:34] Bolt Action has logged in.
+[20/08/2014 22:02:35] Bob Dyller has logged in.
+[20/08/2014 22:02:40] Bolt Action has logged out.
+[20/08/2014 22:03:57] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[20/08/2014 22:10:38] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[20/08/2014 22:11:15] Bob Dyller has logged out.
+[20/08/2014 22:11:21] Bob Dyller has logged in.
+[20/08/2014 22:11:25] Bob Dyller has logged out.
+[20/08/2014 22:11:41] Bob Dyller has logged in.
+[20/08/2014 22:11:57] Palazinho has logged out.
+[20/08/2014 22:11:59] Palazinho has logged in.
+[20/08/2014 22:12:01] Sorczinho Sapeca has logged out.
+[20/08/2014 22:12:17] Sorczinho Sapeca has logged in.
+[20/08/2014 22:12:30] Bob Dyller has logged out.
+[20/08/2014 22:12:35] Palazinho has logged out.
+[20/08/2014 22:12:38] Bob Dyller has logged in.
+[20/08/2014 22:12:40] Magezinho Sapeca has logged in.
+[20/08/2014 22:13:42] Royal Killer has logged out.
+[20/08/2014 22:13:43] Royal Killer has logged in.
+[20/08/2014 22:13:59] Royal Killer has logged out.
+[20/08/2014 22:14:00] Royal Killer has logged in.
+[20/08/2014 22:17:04] > Saving server...
+[20/08/2014 22:17:07] > SAVE: Complete in 3.042 seconds using relational house storage.
+[20/08/2014 22:17:10] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 22:17:19] > Broadcasted message: "Para comprar bless digite !bless".
+[20/08/2014 22:17:41] > CLEAN: Removed 10433 items from 4709 tiles in 0.42 seconds.
+[20/08/2014 22:17:41] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 22:18:20] Bob Dyller has logged out.
+[20/08/2014 22:19:25] Druidzerah Mythus has logged out.
+[20/08/2014 22:19:43] Juninhosza has logged out.
+[20/08/2014 22:19:57] Bob Dyller has logged in.
+[20/08/2014 22:20:44] Druidzerah Mythus has logged in.
+[20/08/2014 22:22:01] Druidzerah Mythus has logged out.
+[20/08/2014 22:22:55] Druidzerah Mythus has logged in.
+[20/08/2014 22:23:17] Druidzerah Mythus has logged out.
+[20/08/2014 22:23:37] Druidzerah Mythus has logged in.
+[20/08/2014 22:24:00] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[20/08/2014 22:24:10] > Saving server...
+[20/08/2014 22:24:13] > SAVE: Complete in 2.89 seconds using relational house storage.
+[20/08/2014 22:24:14] [Hoster] Jean has logged out.
+[20/08/2014 22:24:42] Royal Killer has logged out.
+[20/08/2014 22:24:52] Pally Do Kpta has logged in.
+[20/08/2014 22:27:36] Yakuza has logged out.
+[20/08/2014 22:27:37] Yakuza has logged in.
+[20/08/2014 22:27:54] Arizinha Andrade has logged out.
+[20/08/2014 22:28:09] Pally Do Kpta has logged out.
+[20/08/2014 22:28:18] Royal Killer has logged in.
+[20/08/2014 22:30:41] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[20/08/2014 22:33:51] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 22:34:09] Secret Circle has logged in.
+[20/08/2014 22:34:22] > CLEAN: Removed 3542 items from 2720 tiles in 0.525 seconds.
+[20/08/2014 22:34:22] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 22:35:27] Royal Killer has logged out.
+[20/08/2014 22:35:27] Account Manager has logged in.
+[20/08/2014 22:36:11] Secret Circle has logged out.
+[20/08/2014 22:36:13] Sopraitems has logged in.
+[20/08/2014 22:36:27] Account Manager has logged out.
+[20/08/2014 22:36:35] Royal Killer has logged in.
+[20/08/2014 22:36:42] Royal Killer has logged out.
+[20/08/2014 22:36:44] Rushonoinvisiblehur has logged in.
+[20/08/2014 22:37:22] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[20/08/2014 22:40:21] Druidzerah Mythus has logged out.
+[20/08/2014 22:40:26] Lallana has logged in.
+[20/08/2014 22:40:55] Lallana has logged out.
+[20/08/2014 22:40:56] Lallana has logged in.
+[20/08/2014 22:41:10] Lallana has logged out.
+[20/08/2014 22:41:12] Lallana has logged in.
+[20/08/2014 22:41:26] Lallana has logged out.
+[20/08/2014 22:41:27] Lallana has logged in.
+[20/08/2014 22:41:50] Lallana has logged out.
+[20/08/2014 22:41:53] Lallana has logged in.
+[20/08/2014 22:42:03] Lallana has logged out.
+[20/08/2014 22:42:09] Lallana has logged in.
+[20/08/2014 22:42:20] Lallana has logged out.
+[20/08/2014 22:42:21] Lallana has logged in.
+[20/08/2014 22:42:31] Lallana has logged out.
+[20/08/2014 22:42:32] Lallana has logged in.
+[20/08/2014 22:42:49] Lallana has logged out.
+[20/08/2014 22:42:50] Lallana has logged in.
+[20/08/2014 22:43:01] Lallana has logged out.
+[20/08/2014 22:43:02] Lallana has logged in.
+[20/08/2014 22:43:12] Lallana has logged out.
+[20/08/2014 22:43:13] Lallana has logged in.
+[20/08/2014 22:43:25] Lallana has logged out.
+[20/08/2014 22:43:26] Lallana has logged in.
+[20/08/2014 22:43:36] Lallana has logged out.
+[20/08/2014 22:43:37] Lallana has logged in.
+[20/08/2014 22:43:47] Lallana has logged out.
+[20/08/2014 22:43:53] Druidzerah Mythus has logged in.
+[20/08/2014 22:44:03] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[20/08/2014 22:45:12] Palazinho has logged in.
+[20/08/2014 22:45:58] Palazinho has logged out.
+[20/08/2014 22:46:04] Palazinho has logged in.
+[20/08/2014 22:46:12] Magezinho Sapeca has logged out.
+[20/08/2014 22:46:15] Magezinho Sapeca has logged in.
+[20/08/2014 22:47:41] Yakuza has logged out.
+[20/08/2014 22:47:45] Yakuza has logged in.
+[20/08/2014 22:50:11] 
+[20/08/2014 22:50:11] Lua Script Error: [Spell Interface] 
+[20/08/2014 22:50:12] data/spells/scripts/animate.lua:onCastSpell
+[20/08/2014 22:50:12] 
+[20/08/2014 22:50:12] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[20/08/2014 22:50:12] stack traceback:
+[20/08/2014 22:50:12] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[20/08/2014 22:50:12] 	(tail call): ?
+[20/08/2014 22:50:25] > Saving server...
+[20/08/2014 22:50:28] > SAVE: Complete in 2.87 seconds using relational house storage.
+[20/08/2014 22:50:32] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 22:50:44] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[20/08/2014 22:51:02] > CLEAN: Removed 819 items from 855 tiles in 0.172 seconds.
+[20/08/2014 22:51:03] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 22:51:06] Pally Brisado has logged in.
+[20/08/2014 22:51:12] 
+[20/08/2014 22:51:12] Lua Script Error: [Spell Interface] 
+[20/08/2014 22:51:13] data/spells/scripts/animate.lua:onCastSpell
+[20/08/2014 22:51:13] 
+[20/08/2014 22:51:13] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[20/08/2014 22:51:13] stack traceback:
+[20/08/2014 22:51:13] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[20/08/2014 22:51:13] 	(tail call): ?
+[20/08/2014 22:51:22] 
+[20/08/2014 22:51:22] Lua Script Error: [Spell Interface] 
+[20/08/2014 22:51:22] data/spells/scripts/animate.lua:onCastSpell
+[20/08/2014 22:51:22] 
+[20/08/2014 22:51:22] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[20/08/2014 22:51:22] stack traceback:
+[20/08/2014 22:51:22] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[20/08/2014 22:51:23] 	(tail call): ?
+[20/08/2014 22:51:29] 
+[20/08/2014 22:51:29] Lua Script Error: [Spell Interface] 
+[20/08/2014 22:51:29] data/spells/scripts/animate.lua:onCastSpell
+[20/08/2014 22:51:29] 
+[20/08/2014 22:51:29] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[20/08/2014 22:51:30] stack traceback:
+[20/08/2014 22:51:30] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[20/08/2014 22:51:30] 	(tail call): ?
+[20/08/2014 22:51:59] Mllk Loko has logged out.
+[20/08/2014 22:52:01] Mllk Loko has logged in.
+[20/08/2014 22:52:12] Mutuca has logged in.
+[20/08/2014 22:53:47] Bob Dyller has logged out.
+[20/08/2014 22:53:51] Bob Dyller has logged in.
+[20/08/2014 22:53:52] Druidzerah Mythus has logged out.
+[20/08/2014 22:56:16] Magezinho Sapeca has logged out.
+[20/08/2014 22:57:25] > Broadcasted message: "Para comprar bless digite !bless".
+[20/08/2014 22:57:57] Eternal Ozzot has logged out.
+[20/08/2014 22:57:58] 
+[20/08/2014 22:57:58] Lua Script Error: [Spell Interface] 
+[20/08/2014 22:57:58] in a timer event called from: 
+[20/08/2014 22:57:58] data/spells/scripts/max power rune.lua:onCastSpell
+[20/08/2014 22:57:58] 
+[20/08/2014 22:57:58] luaDoCombat(). Creature not found
+[20/08/2014 22:57:58] 
+[20/08/2014 22:57:58] Lua Script Error: [Spell Interface] 
+[20/08/2014 22:57:59] in a timer event called from: 
+[20/08/2014 22:57:59] data/spells/scripts/max power rune.lua:onCastSpell
+[20/08/2014 22:57:59] 
+[20/08/2014 22:57:59] luaDoCombat(). Creature not found
+[20/08/2014 22:57:59] 
+[20/08/2014 22:57:59] Lua Script Error: [Spell Interface] 
+[20/08/2014 22:58:00] in a timer event called from: 
+[20/08/2014 22:58:00] data/spells/scripts/max power rune.lua:onCastSpell
+[20/08/2014 22:58:00] 
+[20/08/2014 22:58:00] luaDoCombat(). Creature not found
+[20/08/2014 22:58:00] 
+[20/08/2014 22:58:00] Lua Script Error: [Spell Interface] 
+[20/08/2014 22:58:01] in a timer event called from: 
+[20/08/2014 22:58:01] data/spells/scripts/max power rune.lua:onCastSpell
+[20/08/2014 22:58:01] 
+[20/08/2014 22:58:01] luaDoCombat(). Creature not found
+[20/08/2014 22:58:03] Eternal Ozzot has logged in.
+[20/08/2014 22:58:30] > Saving server...
+[20/08/2014 22:58:33] > SAVE: Complete in 2.918 seconds using relational house storage.
+[20/08/2014 22:58:58] Druidzerah Mythus has logged in.
+[20/08/2014 23:00:15] Sopraitems has logged out.
+[20/08/2014 23:00:35] 
+[20/08/2014 23:00:35] Lua Script Error: [Spell Interface] 
+[20/08/2014 23:00:35] data/spells/scripts/animate.lua:onCastSpell
+[20/08/2014 23:00:36] 
+[20/08/2014 23:00:36] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[20/08/2014 23:00:36] stack traceback:
+[20/08/2014 23:00:36] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[20/08/2014 23:00:36] 	(tail call): ?
+[20/08/2014 23:00:37] 
+[20/08/2014 23:00:37] Lua Script Error: [Spell Interface] 
+[20/08/2014 23:00:38] data/spells/scripts/animate.lua:onCastSpell
+[20/08/2014 23:00:38] 
+[20/08/2014 23:00:38] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[20/08/2014 23:00:38] stack traceback:
+[20/08/2014 23:00:38] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[20/08/2014 23:00:39] 	(tail call): ?
+[20/08/2014 23:01:15] 
+[20/08/2014 23:01:15] Lua Script Error: [Spell Interface] 
+[20/08/2014 23:01:15] data/spells/scripts/animate.lua:onCastSpell
+[20/08/2014 23:01:15] 
+[20/08/2014 23:01:15] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[20/08/2014 23:01:16] stack traceback:
+[20/08/2014 23:01:16] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[20/08/2014 23:01:16] 	(tail call): ?
+[20/08/2014 23:01:17] 
+[20/08/2014 23:01:17] Lua Script Error: [Spell Interface] 
+[20/08/2014 23:01:18] data/spells/scripts/animate.lua:onCastSpell
+[20/08/2014 23:01:18] 
+[20/08/2014 23:01:18] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[20/08/2014 23:01:18] stack traceback:
+[20/08/2014 23:01:18] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[20/08/2014 23:01:18] 	(tail call): ?
+[20/08/2014 23:01:20] 
+[20/08/2014 23:01:20] Lua Script Error: [Spell Interface] 
+[20/08/2014 23:01:20] data/spells/scripts/animate.lua:onCastSpell
+[20/08/2014 23:01:20] 
+[20/08/2014 23:01:20] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[20/08/2014 23:01:20] stack traceback:
+[20/08/2014 23:01:20] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[20/08/2014 23:01:21] 	(tail call): ?
+[20/08/2014 23:01:25] 
+[20/08/2014 23:01:25] Lua Script Error: [Spell Interface] 
+[20/08/2014 23:01:25] data/spells/scripts/animate.lua:onCastSpell
+[20/08/2014 23:01:25] 
+[20/08/2014 23:01:25] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[20/08/2014 23:01:26] stack traceback:
+[20/08/2014 23:01:26] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[20/08/2014 23:01:26] 	(tail call): ?
+[20/08/2014 23:01:44] Magezinho Sapeca has logged in.
+[20/08/2014 23:02:21] Palazinho has logged out.
+[20/08/2014 23:02:23] Palazinho has logged in.
+[20/08/2014 23:03:11] Kightzin has logged in.
+[20/08/2014 23:03:12] Kightzin has logged out.
+[20/08/2014 23:03:25] Knightzinho has logged in.
+[20/08/2014 23:03:51] Yakuza has logged out.
+[20/08/2014 23:03:53] Yakuza has logged in.
+[20/08/2014 23:04:06] > Broadcasted message: "Para comprar bless digite !bless".
+[20/08/2014 23:05:36] Sopraitems has logged in.
+[20/08/2014 23:06:45] Rushonoinvisiblehur has logged out.
+[20/08/2014 23:06:47] Mllk Loko has logged out.
+[20/08/2014 23:07:01] Sopraitems has logged out.
+[20/08/2014 23:07:13] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 23:07:44] > CLEAN: Removed 4549 items from 3536 tiles in 0.234 seconds.
+[20/08/2014 23:07:44] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 23:07:59] Mllk Loko has logged in.
+[20/08/2014 23:08:31] Mutuca has logged out.
+[20/08/2014 23:09:42] Mllk Loko has logged out.
+[20/08/2014 23:09:45] Mllk Loko has logged in.
+[20/08/2014 23:09:45] Eternal Ozzot has logged out.
+[20/08/2014 23:09:52] Eternal Ozzot has logged in.
+[20/08/2014 23:10:47] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[20/08/2014 23:10:58] Druidzerah Mythus has logged out.
+[20/08/2014 23:11:16] Eternal Ozzot has logged out.
+[20/08/2014 23:11:38] Secret Circle has logged in.
+[20/08/2014 23:11:39] Druidzerah Mythus has logged in.
+[20/08/2014 23:11:58] Mllk Loko has logged out.
+[20/08/2014 23:11:59] Mllk Loko has logged in.
+[20/08/2014 23:12:00] Mllk Loko has logged out.
+[20/08/2014 23:12:06] Mlk Lokoo has logged in.
+[20/08/2014 23:12:38] Secret Circle has logged out.
+[20/08/2014 23:12:41] Secret Circle has logged in.
+[20/08/2014 23:12:47] Secret Circle has logged out.
+[20/08/2014 23:13:10] Eternal Ozzot has logged in.
+[20/08/2014 23:13:46] Mlk Lokoo has logged out.
+[20/08/2014 23:13:47] Mlk Lokoo has logged in.
+[20/08/2014 23:13:47] Mlk Lokoo has logged out.
+[20/08/2014 23:13:56] Microbiio I has logged in.
+[20/08/2014 23:13:58] Yakuza has logged out.
+[20/08/2014 23:13:59] Yakuza has logged in.
+[20/08/2014 23:14:33] 
+[20/08/2014 23:14:33] Lua Script Error: [Spell Interface] 
+[20/08/2014 23:14:33] data/spells/scripts/animate.lua:onCastSpell
+[20/08/2014 23:14:33] 
+[20/08/2014 23:14:33] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[20/08/2014 23:14:34] stack traceback:
+[20/08/2014 23:14:34] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[20/08/2014 23:14:34] 	(tail call): ?
+[20/08/2014 23:14:34] Microbiio I has logged out.
+[20/08/2014 23:14:35] Microbiio I has logged in.
+[20/08/2014 23:14:36] Microbiio I has logged out.
+[20/08/2014 23:14:41] Mllk Loko has logged in.
+[20/08/2014 23:16:52] Bob Dyller has logged out.
+[20/08/2014 23:16:57] Bob Dyller has logged in.
+[20/08/2014 23:17:20] Yakuza has logged out.
+[20/08/2014 23:17:22] Yakuza has logged in.
+[20/08/2014 23:17:28] > Broadcasted message: "Para ver as noticias fale !notice".
+[20/08/2014 23:17:41] Druidzerah Mythus has logged out.
+[20/08/2014 23:18:45] Bob Dyller has logged out.
+[20/08/2014 23:18:48] Bob Dyller has logged in.
+[20/08/2014 23:20:50] Yakuza has logged out.
+[20/08/2014 23:21:45] Yakuza has logged in.
+[20/08/2014 23:22:24] Druidzerah Mythus has logged in.
+[20/08/2014 23:22:38] Palazinho has logged out.
+[20/08/2014 23:22:59] 
+[20/08/2014 23:22:59] Lua Script Error: [Spell Interface] 
+[20/08/2014 23:22:59] data/spells/scripts/animate.lua:onCastSpell
+[20/08/2014 23:22:59] 
+[20/08/2014 23:22:59] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[20/08/2014 23:22:59] stack traceback:
+[20/08/2014 23:23:00] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[20/08/2014 23:23:00] 	(tail call): ?
+[20/08/2014 23:23:01] 
+[20/08/2014 23:23:01] Lua Script Error: [Spell Interface] 
+[20/08/2014 23:23:01] data/spells/scripts/animate.lua:onCastSpell
+[20/08/2014 23:23:01] 
+[20/08/2014 23:23:01] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[20/08/2014 23:23:01] stack traceback:
+[20/08/2014 23:23:02] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[20/08/2014 23:23:02] 	(tail call): ?
+[20/08/2014 23:23:03] 
+[20/08/2014 23:23:03] Lua Script Error: [Spell Interface] 
+[20/08/2014 23:23:03] data/spells/scripts/animate.lua:onCastSpell
+[20/08/2014 23:23:03] 
+[20/08/2014 23:23:03] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[20/08/2014 23:23:04] stack traceback:
+[20/08/2014 23:23:04] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[20/08/2014 23:23:04] 	(tail call): ?
+[20/08/2014 23:23:05] 
+[20/08/2014 23:23:05] Lua Script Error: [Spell Interface] 
+[20/08/2014 23:23:05] data/spells/scripts/animate.lua:onCastSpell
+[20/08/2014 23:23:06] 
+[20/08/2014 23:23:06] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[20/08/2014 23:23:06] stack traceback:
+[20/08/2014 23:23:06] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[20/08/2014 23:23:06] 	(tail call): ?
+[20/08/2014 23:23:07] 
+[20/08/2014 23:23:07] Lua Script Error: [Spell Interface] 
+[20/08/2014 23:23:08] data/spells/scripts/animate.lua:onCastSpell
+[20/08/2014 23:23:08] 
+[20/08/2014 23:23:08] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[20/08/2014 23:23:08] stack traceback:
+[20/08/2014 23:23:08] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[20/08/2014 23:23:09] 	(tail call): ?
+[20/08/2014 23:23:12] 
+[20/08/2014 23:23:12] Lua Script Error: [Spell Interface] 
+[20/08/2014 23:23:12] data/spells/scripts/animate.lua:onCastSpell
+[20/08/2014 23:23:12] 
+[20/08/2014 23:23:12] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[20/08/2014 23:23:13] stack traceback:
+[20/08/2014 23:23:13] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[20/08/2014 23:23:13] 	(tail call): ?
+[20/08/2014 23:23:46] > Saving server...
+[20/08/2014 23:23:48] > SAVE: Complete in 2.761 seconds using relational house storage.
+[20/08/2014 23:23:50] Knightzinho has logged out.
+[20/08/2014 23:23:54] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 23:24:09] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[20/08/2014 23:24:25] > CLEAN: Removed 2932 items from 2491 tiles in 0.234 seconds.
+[20/08/2014 23:24:25] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 23:28:27] Druidzerah Mythus has logged out.
+[20/08/2014 23:29:24] 
+[20/08/2014 23:29:24] Lua Script Error: [Spell Interface] 
+[20/08/2014 23:29:24] data/spells/scripts/animate.lua:onCastSpell
+[20/08/2014 23:29:24] 
+[20/08/2014 23:29:24] data/spells/scripts/animate.lua:23: attempt to call global 'getThingPosition' (a nil value)
+[20/08/2014 23:29:25] stack traceback:
+[20/08/2014 23:29:25] 	data/spells/scripts/animate.lua:23: in function <data/spells/scripts/animate.lua:17>
+[20/08/2014 23:29:48] Mllk Loko has logged out.
+[20/08/2014 23:29:50] Mllk Loko has logged in.
+[20/08/2014 23:30:03] Palazinho has logged in.
+[20/08/2014 23:30:50] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[20/08/2014 23:31:08] Knightzinho has logged in.
+[20/08/2014 23:31:09] Knightzinho has logged out.
+[20/08/2014 23:31:11] Knightzinho has logged in.
+[20/08/2014 23:31:12] Knightzinho has logged out.
+[20/08/2014 23:31:13] Knightzinho has logged in.
+[20/08/2014 23:31:15] Knightzinho has logged out.
+[20/08/2014 23:31:17] Knightzinho has logged in.
+[20/08/2014 23:31:18] Knightzinho has logged out.
+[20/08/2014 23:31:19] Knightzinho has logged in.
+[20/08/2014 23:31:21] Knightzinho has logged out.
+[20/08/2014 23:32:14] 
+[20/08/2014 23:32:14] Lua Script Error: [Spell Interface] 
+[20/08/2014 23:32:14] data/spells/scripts/animate.lua:onCastSpell
+[20/08/2014 23:32:14] 
+[20/08/2014 23:32:14] data/spells/scripts/animate.lua:23: attempt to call global 'getThingPosition' (a nil value)
+[20/08/2014 23:32:15] stack traceback:
+[20/08/2014 23:32:15] 	data/spells/scripts/animate.lua:23: in function <data/spells/scripts/animate.lua:17>
+[20/08/2014 23:32:45] 
+[20/08/2014 23:32:45] Lua Script Error: [Spell Interface] 
+[20/08/2014 23:32:45] data/spells/scripts/animate.lua:onCastSpell
+[20/08/2014 23:32:45] 
+[20/08/2014 23:32:45] data/spells/scripts/animate.lua:23: attempt to call global 'getThingPosition' (a nil value)
+[20/08/2014 23:32:45] stack traceback:
+[20/08/2014 23:32:45] 	data/spells/scripts/animate.lua:23: in function <data/spells/scripts/animate.lua:17>
+[20/08/2014 23:33:35] Druidzerah Mythus has logged in.
+[20/08/2014 23:33:47] Sorczinho Sapeca has logged out.
+[20/08/2014 23:33:48] Sorczinho Sapeca has logged in.
+[20/08/2014 23:34:35] Account Manager has logged in.
+[20/08/2014 23:34:37] Account Manager has logged out.
+[20/08/2014 23:34:38] Knightzinho has logged in.
+[20/08/2014 23:37:31] > Broadcasted message: "Para comprar bless digite !bless".
+[20/08/2014 23:38:23] Druidzerah Mythus has logged out.
+[20/08/2014 23:38:27] 
+[20/08/2014 23:38:27] Lua Script Error: [Spell Interface] 
+[20/08/2014 23:38:27] data/spells/scripts/animate.lua:onCastSpell
+[20/08/2014 23:38:28] 
+[20/08/2014 23:38:28] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[20/08/2014 23:38:28] stack traceback:
+[20/08/2014 23:38:28] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[20/08/2014 23:38:28] 	(tail call): ?
+[20/08/2014 23:39:54] Sorczinho Sapeca has logged out.
+[20/08/2014 23:39:55] Sorczinho Sapeca has logged in.
+[20/08/2014 23:40:32] Palazinho has logged out.
+[20/08/2014 23:40:34] Palazinho has logged in.
+[20/08/2014 23:40:35] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 23:40:48] Druidzerah Mythus has logged in.
+[20/08/2014 23:41:06] > CLEAN: Removed 3002 items from 1914 tiles in 0.219 seconds.
+[20/08/2014 23:41:06] > Broadcasted message: "Map Cleaned.".
+[20/08/2014 23:44:12] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[20/08/2014 23:44:55] Yakuza has logged out.
+[20/08/2014 23:46:53] Sorczinho Sapeca has logged out.
+[20/08/2014 23:46:59] Sorczinho Sapeca has logged in.
+[20/08/2014 23:49:47] Druidzerah Mythus has logged out.
+[20/08/2014 23:50:53] > Broadcasted message: "Para comprar bless digite !bless".
+[20/08/2014 23:52:42] Druidzerah Mythus has logged in.
+[20/08/2014 23:53:35] Knightzinho has logged out.
+[20/08/2014 23:53:38] Knightzinho has logged in.
+[20/08/2014 23:57:07] > Saving server...
+[20/08/2014 23:57:10] > SAVE: Complete in 2.854 seconds using relational house storage.
+[20/08/2014 23:57:16] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[20/08/2014 23:57:34] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[20/08/2014 23:57:47] > CLEAN: Removed 2788 items from 2232 tiles in 0.219 seconds.
+[20/08/2014 23:57:47] > Broadcasted message: "Map Cleaned.".

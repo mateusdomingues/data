@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+
+<npc name="Peter" script="data/npc/scripts/itemsvip.lua" access="3" lookdir="3">
+	<health now="1000" max="1000"/>
+	<look type="251" head="10" body="30" legs="10" feet="11" addons="3"/>
+</npc>

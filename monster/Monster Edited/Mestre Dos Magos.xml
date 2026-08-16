@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<monster name="Mestre Dos Magos" nameDescription="Mestre Dos Magos" experience="80000000" speed="99999" race="blood">
+  <health now="980000000" max="980000000"/>
+  <look type="130" body="94" legs="94" addons="3" corpse="5527"/>
+  <strategy attack="10000" defense="500"/>
+  <targetchange speed="10" chance="100"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="100"/>
+    <flag targetdistance="1"/>
+  </flags>
+  <attacks>
+    <attack name="Gods Power" interval="20000" chance="100" min="-8000000" max="-8000000" range="1">
+    </attack>
+    <attack name="Macumba" interval="900" chance="100" min="-2500000" max="-4500000"/>
+    <attack name="Rage of the Skies" interval="15000" chance="50" min="-60000000" max="-60000000"/>
+    <attack name="Hells Core" interval="12000" chance="50" min="-40000000" max="-40000000"/>
+    <attack name="Poison Explosion" interval="8000" chance="100" min="-20000000" max="-20000000"/>
+    <attack name="Death Exori" interval="3000" chance="100" min="-4000000" max="-9000000"/>
+  </attacks>
+  <defenses defense="45" armor="10"/>
+  <immunities>
+    <immunity name="outfit"/>
+    <immunity name="invisible"/>
+    <immunity name="poison"/>
+  </immunities>
+  <loot>
+    <item id="7697" countmax="1" chance1="999999999" chancemax="9999999999"/>
+    <item id="2174" countmax="1" chance1="999999999" chancemax="9999999999"/>
+    <item id="8266" countmax="1" chance1="999999999" chancemax="9999999999"/>
+  </loot>
+</monster>

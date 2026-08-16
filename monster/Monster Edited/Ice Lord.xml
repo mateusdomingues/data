@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<monster name="Ice Lord" nameDescription="Ice Lord" experience="10000000" speed="99999" race="blood">
+  <health now="300300000" max="300300000"/>
+  <look type="149" body="47" legs="105" feet="105" corpse="6081"/>
+  <strategy attack="10000" defense="500"/>
+  <targetchange speed="10" chance="100"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="100"/>
+    <flag targetdistance="1"/>
+  </flags>
+  <attacks>
+    <attack name="ice" interval="500" chance="100" min="-1000000" max="-4000000" range="1">
+    </attack>
+    <attack name="Death" interval="2000" chance="50" min="-4000000" max="-5000000"/>
+    <attack name="Eternal Winter" interval="8000" chance="50" min="-8000000" max="-8000000"/>
+  </attacks>
+  <defenses defense="45" armor="10"/>
+  <immunities>
+    <immunity name="outfit"/>
+    <immunity name="invisible"/>
+    <immunity name="poison"/>
+  </immunities>
+  <loot>
+    <item id="7902" countmax="1" chance1="999999999" chancemax="9999999999"/>
+    <item id="8866" countmax="1" chance1="999999999" chancemax="9999999999"/>
+    <item id="7896" countmax="1" chance1="999999999" chancemax="9999999999"/>
+    <item id="7892" countmax="1" chance1="999999999" chancemax="9999999999"/>
+    <item id="8907" countmax="1" chance1="999999999" chancemax="9999999999"/>
+    <item id="7407" countmax="1" chance1="999999999" chancemax="9999999999"/>
+    <item id="2002" countmax="1" chance1="999999999" chancemax="9999999999"/>
+    <item id="5785" countmax="1" chance1="999999999" chancemax="9999999999"/>
+  </loot>
+</monster>

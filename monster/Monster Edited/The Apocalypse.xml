@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="The Apocalypse" nameDescription="The Apocalypse" race="fire" experience="5000000" speed="99999" manacost="0">
+  <health now="970000000" max="970000000"/>
+  <look type="12" head="38" body="114" legs="0" feet="94" corpse="6068"/>
+  <targetchange interval="5000" chance="100"/>
+  <strategy attack="65" defense="5"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+    <attack name="Fire" interval="2000" chance="100" min="-3000000" max="-3000000" range="10">
+    </attack>
+    <attack name="Death" interval="4000" chance="100" min="-2500000" max="-3500000" range="10">
+    </attack>
+    <attack name="physical" interval="1300" chance="30" min="-3500000" max="-4000000" range="10">
+    </attack>
+    <attack name="Hells Core" interval="15000" chance="100" min="-7000000" max="-7000000" range="10">
+      <attribute key="areaEffect" value="fire"/>
+      <attribute key="shootEffect" value="fire"/>
+    </attack>
+  </attacks>
+  <defenses armor="188" defense="145">
+    <defense name="healing" interval="9000" chance="100" min="80000000" max="80000000">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+    <defense name="speed" interval="2000" chance="8" speedchange="480" duration="6000">
+      <attribute key="areaEffect" value="redshimmer"/>
+    </defense>
+  </defenses>
+  <immunities>
+    <immunity name="lifedrain"/>
+    <immunity name="outfit"/>
+    <immunity name="paralyze"/>
+    <immunity name="invisible"/>
+    <immunity name="drown"/>
+    <immunity name="drunk"/>
+    <immunity name="poison"/>
+  </immunities>
+  <voices interval="2000" chance="10">
+    <voice sentence="VAAAI CORINTHIANS!" yell="1"/>
+    <voice sentence="SEEEUS NOOBS!" yell="1"/>
+    <voice sentence="HAHAHAHAHAHA VAAAI MORRER!" yell="1"/>
+    <voice sentence="SEEEUS PUNHETEROS!" yell="1"/>
+  </voices>
+</monster>

@@ -1,0 +1,1525 @@
+[24/03/2015 12:43:40] The Forgotten Server, version 0.3.4 (Crying Damson)
+[24/03/2015 12:43:40] Sever Criado Por Alissow e Comedinha.
+[24/03/2015 12:43:40] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[24/03/2015 12:43:40] Bom Jogo!!!
+[24/03/2015 12:43:40] 
+[24/03/2015 12:43:40] >> Debugging: nothing.
+[24/03/2015 12:43:41] >> Checking software version... failed checking - malformed file.
+[24/03/2015 12:43:42] 
+[24/03/2015 12:43:42] >> Loading config (config.lua)
+[24/03/2015 12:43:42] > Using plaintext passwords
+[24/03/2015 12:43:42] >> Loading RSA key
+[24/03/2015 12:43:42] >> Starting SQL connection
+[24/03/2015 12:43:42] >> Running Database Manager
+[24/03/2015 12:43:43] > Optimized database.
+[24/03/2015 12:43:43] >> Loading items
+[24/03/2015 12:43:44] >> Loading groups
+[24/03/2015 12:43:44] >> Loading vocations
+[24/03/2015 12:43:44] >> Loading script systems
+[24/03/2015 12:43:49] >> Loading chat channels
+[24/03/2015 12:43:49] >> Loading outfits
+[24/03/2015 12:43:49] >> Loading experience stages
+[24/03/2015 12:43:49] >> Loading monsters
+[24/03/2015 12:43:54] >> Loading map and spawns...
+[24/03/2015 12:43:55] > Map size: 65000x65000.
+[24/03/2015 12:43:55] > Map descriptions: 
+[24/03/2015 12:43:55] Saved with Remere's Map Editor 2.2
+[24/03/2015 12:43:55] No map description available.
+[24/03/2015 12:43:56] Duplicate uniqueId 2407
+[24/03/2015 12:43:59] > Map loading time: 5.148 seconds.
+[24/03/2015 12:44:00] > Data loading time: 1.045 seconds.
+[24/03/2015 12:44:00] > Unserialization time for houses: 0.015 seconds.
+[24/03/2015 12:44:24] > Unserialization time for map: 23.15 seconds.
+[24/03/2015 12:44:24] >> Checking world type... PvP
+[24/03/2015 12:44:24] >> Initializing game state modules and registering services...
+[24/03/2015 12:44:25] > Global address: deathpvp.no-ip.biz
+[24/03/2015 12:44:25] > Local ports:
+[24/03/2015 12:44:25] 7171	7172	
+[24/03/2015 12:44:25] >> All modules were loaded, server starting up...
+[24/03/2015 12:44:25] >> OT Death server Online!
+[24/03/2015 12:44:25] 
+[24/03/2015 12:44:25] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[24/03/2015 12:44:39] Kinaa has logged in.
+[24/03/2015 12:44:59] Skiller has logged in.
+[24/03/2015 12:45:24] Kinaa has logged out.
+[24/03/2015 12:45:25] Xerath has logged in.
+[24/03/2015 12:45:48] Honda has logged in.
+[24/03/2015 12:46:02] Honda has logged out.
+[24/03/2015 12:46:09] Honda has logged in.
+[24/03/2015 12:47:06] Honda has logged out.
+[24/03/2015 12:47:32] Druidzerah Mythus has logged in.
+[24/03/2015 12:50:31] Account Manager has logged in.
+[24/03/2015 12:50:32] Knightzerah Mythus has logged in.
+[24/03/2015 12:50:32] Account Manager has logged out.
+[24/03/2015 12:50:34] Account Manager has logged in.
+[24/03/2015 12:50:35] Account Manager has logged out.
+[24/03/2015 12:52:10] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[24/03/2015 12:52:51] Knightzerah Mythus has logged out.
+[24/03/2015 12:53:05] Sofoda has logged in.
+[24/03/2015 12:55:29] Sofoda has logged out.
+[24/03/2015 12:55:41] Sofoda has logged in.
+[24/03/2015 12:56:55] Sofoda has logged out.
+[24/03/2015 12:56:57] Sofoda has logged in.
+[24/03/2015 12:59:21] Skiller has logged out.
+[24/03/2015 12:59:46] Skiller has logged in.
+[24/03/2015 13:00:29] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 13:00:31] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[24/03/2015 13:01:00] > CLEAN: Removed 4363 items from 2927 tiles in 0.296 seconds.
+[24/03/2015 13:01:00] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 13:02:09] Sofoda has logged out.
+[24/03/2015 13:02:38] Account Manager has logged in.
+[24/03/2015 13:02:42] Account Manager has logged out.
+[24/03/2015 13:02:44] Knightzerah Mythus has logged in.
+[24/03/2015 13:02:58] Druidzerah Mythus has logged out.
+[24/03/2015 13:02:59] Druidzerah Mythus has logged in.
+[24/03/2015 13:03:26] Pallyzin has logged in.
+[24/03/2015 13:03:39] Xerath has logged out.
+[24/03/2015 13:03:41] Xerath has logged in.
+[24/03/2015 13:05:13] Knightzerah Mythus has logged out.
+[24/03/2015 13:05:28] Sofoda has logged in.
+[24/03/2015 13:05:56] Knight Mortal has logged in.
+[24/03/2015 13:06:46] Xerath has logged out.
+[24/03/2015 13:06:48] Xerath has logged in.
+[24/03/2015 13:07:14] > Saving server...
+[24/03/2015 13:07:16] > SAVE: Complete in 2.309 seconds using relational house storage.
+[24/03/2015 13:07:35] Knight Mortal has logged out.
+[24/03/2015 13:07:36] Knight Mortal has logged in.
+[24/03/2015 13:07:37] Druidzerah Mythus has logged out.
+[24/03/2015 13:07:39] Druidzerah Mythus has logged in.
+[24/03/2015 13:07:58] Jean has logged in.
+[24/03/2015 13:08:52] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[24/03/2015 13:08:59] Jean has logged out.
+[24/03/2015 13:09:56] Druidzerah Mythus has logged out.
+[24/03/2015 13:09:58] Druidzerah Mythus has logged in.
+[24/03/2015 13:12:10] Xerath has logged out.
+[24/03/2015 13:12:12] Xerath has logged in.
+[24/03/2015 13:17:10] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 13:17:13] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[24/03/2015 13:17:15] Sofoda has logged out.
+[24/03/2015 13:17:33] Knightzerah Mythus has logged in.
+[24/03/2015 13:17:40] > CLEAN: Removed 633 items from 510 tiles in 0.171 seconds.
+[24/03/2015 13:17:40] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 13:18:07] Account Manager has logged in.
+[24/03/2015 13:18:14] Xerath has logged out.
+[24/03/2015 13:18:16] Xerath has logged in.
+[24/03/2015 13:18:42] Account Manager has logged out.
+[24/03/2015 13:18:49] Account Manager has logged in.
+[24/03/2015 13:18:52] Knight Mortal has logged out.
+[24/03/2015 13:18:54] Knight Mortal has logged in.
+[24/03/2015 13:19:19] Account Manager has logged out.
+[24/03/2015 13:19:41] Account Manager has logged in.
+[24/03/2015 13:19:43] Xerath has logged out.
+[24/03/2015 13:19:44] Xerath has logged in.
+[24/03/2015 13:20:01] Account Manager has logged out.
+[24/03/2015 13:20:07] Account Manager has logged in.
+[24/03/2015 13:20:32] Account Manager has logged out.
+[24/03/2015 13:20:40] Dext has logged in.
+[24/03/2015 13:21:09] Knight Mortal has logged out.
+[24/03/2015 13:21:11] Knight Mortal has logged in.
+[24/03/2015 13:22:16] Sofoda has logged in.
+[24/03/2015 13:22:51] Druidzerah Mythus has logged out.
+[24/03/2015 13:22:52] Druidzerah Mythus has logged in.
+[24/03/2015 13:24:57] Xerath has logged out.
+[24/03/2015 13:24:59] Xerath has logged in.
+[24/03/2015 13:25:34] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[24/03/2015 13:25:50] Sofoda has logged out.
+[24/03/2015 13:26:10] Dext has logged out.
+[24/03/2015 13:26:12] Dext has logged in.
+[24/03/2015 13:26:38] Knightzerah Mythus has logged out.
+[24/03/2015 13:27:16] Sofoda has logged in.
+[24/03/2015 13:28:03] Xerath has logged out.
+[24/03/2015 13:28:05] Xerath has logged in.
+[24/03/2015 13:28:29] Kina Insane has logged in.
+[24/03/2015 13:28:35] Sofoda has logged out.
+[24/03/2015 13:28:41] Sofoda has logged in.
+[24/03/2015 13:29:57] Knight Mortal has logged out.
+[24/03/2015 13:30:00] Knight Mortal has logged in.
+[24/03/2015 13:30:35] > Saving server...
+[24/03/2015 13:30:38] > SAVE: Complete in 3.276 seconds using relational house storage.
+[24/03/2015 13:32:13] Knight Mortal has logged out.
+[24/03/2015 13:32:15] Knight Mortal has logged in.
+[24/03/2015 13:33:48] Knightzerah Mythus has logged in.
+[24/03/2015 13:33:51] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 13:33:55] > Broadcasted message: "Para comprar bless digite !bless".
+[24/03/2015 13:34:22] > CLEAN: Removed 167 items from 341 tiles in 0.172 seconds.
+[24/03/2015 13:34:22] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 13:35:00] Knightzerah Mythus has logged out.
+[24/03/2015 13:35:02] Knightzerah Mythus has logged in.
+[24/03/2015 13:35:13] Brother has logged in.
+[24/03/2015 13:35:25] Knightzerah Mythus has logged out.
+[24/03/2015 13:35:27] Knightzerah Mythus has logged in.
+[24/03/2015 13:35:54] Xerath has logged out.
+[24/03/2015 13:35:55] Xerath has logged in.
+[24/03/2015 13:37:20] Xerath has logged out.
+[24/03/2015 13:37:32] Kina Insane has logged out.
+[24/03/2015 13:41:14] Dext has logged out.
+[24/03/2015 13:41:16] Dext has logged in.
+[24/03/2015 13:42:16] > Broadcasted message: "Para comprar bless digite !bless".
+[24/03/2015 13:43:41] Sofoda has logged out.
+[24/03/2015 13:43:47] Kina Top has logged in.
+[24/03/2015 13:43:55] Kina Top has logged out.
+[24/03/2015 13:43:58] Account Manager has logged in.
+[24/03/2015 13:45:01] Account Manager has logged out.
+[24/03/2015 13:45:07] Account Manager has logged in.
+[24/03/2015 13:45:14] Account Manager has logged out.
+[24/03/2015 13:45:41] Mythus Top has logged in.
+[24/03/2015 13:47:30] Dext has logged out.
+[24/03/2015 13:47:31] Dext has logged in.
+[24/03/2015 13:47:47] Chucalho has logged in.
+[24/03/2015 13:48:00] Pallyzin has logged out.
+[24/03/2015 13:48:02] Druidzera has logged in.
+[24/03/2015 13:49:24] Skiller has logged out.
+[24/03/2015 13:49:27] Druidzerah Mythus has logged out.
+[24/03/2015 13:50:08] Skiller has logged in.
+[24/03/2015 13:50:15] Druidzera has logged out.
+[24/03/2015 13:50:17] Pallyzin has logged in.
+[24/03/2015 13:50:32] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 13:50:37] > Broadcasted message: "Para comprar bless digite !bless".
+[24/03/2015 13:50:49] Druidzerah Mythus has logged in.
+[24/03/2015 13:51:02] > CLEAN: Removed 372 items from 584 tiles in 0.171 seconds.
+[24/03/2015 13:51:02] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 13:51:59] Account Manager has logged in.
+[24/03/2015 13:52:19] Account Manager has logged out.
+[24/03/2015 13:52:51] Chucalho has logged out.
+[24/03/2015 13:52:52] Chucalho has logged in.
+[24/03/2015 13:52:53] Pallyzin has logged out.
+[24/03/2015 13:52:55] Pallyzin has logged in.
+[24/03/2015 13:53:56] > Saving server...
+[24/03/2015 13:53:58] > SAVE: Complete in 2.652 seconds using relational house storage.
+[24/03/2015 13:54:33] Knight Mortal has logged out.
+[24/03/2015 13:54:38] Knight Mortal has logged in.
+[24/03/2015 13:54:40] Chucalho has logged out.
+[24/03/2015 13:56:04] Brother has logged out.
+[24/03/2015 13:57:58] Knight Mortal has logged out.
+[24/03/2015 13:58:00] Knight Mortal has logged in.
+[24/03/2015 13:58:58] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[24/03/2015 13:59:17] Account Manager has logged in.
+[24/03/2015 14:00:01] Account Manager has logged out.
+[24/03/2015 14:03:08] Account Manager has logged in.
+[24/03/2015 14:03:41] Account Manager has logged out.
+[24/03/2015 14:03:42] Account Manager has logged in.
+[24/03/2015 14:03:43] Account Manager has logged out.
+[24/03/2015 14:04:56] Knightzerah Mythus has logged out.
+[24/03/2015 14:05:08] Knightzerah Mythus has logged in.
+[24/03/2015 14:05:24] Haas has logged in.
+[24/03/2015 14:06:05] Knightzerah Mythus has logged out.
+[24/03/2015 14:06:15] Knightzerah Mythus has logged in.
+[24/03/2015 14:07:13] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 14:07:19] > Broadcasted message: "Para comprar bless digite !bless".
+[24/03/2015 14:07:41] Knightzerah Mythus has logged out.
+[24/03/2015 14:07:44] > CLEAN: Removed 5207 items from 3211 tiles in 0.249 seconds.
+[24/03/2015 14:07:44] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 14:07:49] Knightzerah Mythus has logged in.
+[24/03/2015 14:08:18] Dext has logged out.
+[24/03/2015 14:09:46] Druidzerah Mythus has logged out.
+[24/03/2015 14:09:51] Knightzerah Mythus has logged out.
+[24/03/2015 14:09:53] Honda has logged in.
+[24/03/2015 14:10:10] Knightzerah Mythus has logged in.
+[24/03/2015 14:10:26] Skiller has logged out.
+[24/03/2015 14:10:28] Skiller has logged in.
+[24/03/2015 14:11:04] Knight Mortal has logged out.
+[24/03/2015 14:11:07] Knight Mortal has logged in.
+[24/03/2015 14:11:24] Haas has logged out.
+[24/03/2015 14:11:25] Haas has logged in.
+[24/03/2015 14:11:41] Skiller has logged out.
+[24/03/2015 14:11:42] Skiller has logged in.
+[24/03/2015 14:12:25] Honda has logged out.
+[24/03/2015 14:12:30] Honda has logged in.
+[24/03/2015 14:12:50] Haas has logged out.
+[24/03/2015 14:12:52] Haas has logged in.
+[24/03/2015 14:12:57] Knight Mortal has logged out.
+[24/03/2015 14:13:00] Knight Mortal has logged in.
+[24/03/2015 14:13:20] Skiller has logged out.
+[24/03/2015 14:13:22] Skiller has logged in.
+[24/03/2015 14:13:46] Honda has logged out.
+[24/03/2015 14:13:58] Honda has logged in.
+[24/03/2015 14:14:17] Haas has logged out.
+[24/03/2015 14:14:19] Haas has logged in.
+[24/03/2015 14:14:36] Pallyzin has logged out.
+[24/03/2015 14:14:38] Pallyzin has logged in.
+[24/03/2015 14:15:03] Knight Mortal has logged out.
+[24/03/2015 14:15:05] Knight Mortal has logged in.
+[24/03/2015 14:15:05] Mythus Top has logged out.
+[24/03/2015 14:15:08] Mythus Top has logged in.
+[24/03/2015 14:15:29] Pallyzin has logged out.
+[24/03/2015 14:15:31] Pallyzin has logged in.
+[24/03/2015 14:15:40] > Broadcasted message: "Para comprar bless digite !bless".
+[24/03/2015 14:16:14] Mythus Top has logged out.
+[24/03/2015 14:16:16] Mythus Top has logged in.
+[24/03/2015 14:16:49] Mythus Top has logged out.
+[24/03/2015 14:16:52] Mythus Top has logged in.
+[24/03/2015 14:17:04] Pallyzin has logged out.
+[24/03/2015 14:17:06] Pallyzin has logged in.
+[24/03/2015 14:17:17] > Saving server...
+[24/03/2015 14:17:19] > SAVE: Complete in 2.34 seconds using relational house storage.
+[24/03/2015 14:17:58] Skiller has logged out.
+[24/03/2015 14:18:07] Knight Mortal has logged out.
+[24/03/2015 14:18:09] Knight Mortal has logged in.
+[24/03/2015 14:18:21] Honda has logged out.
+[24/03/2015 14:18:22] Knight Mortal has logged out.
+[24/03/2015 14:18:22] Honda has logged in.
+[24/03/2015 14:18:24] Knight Mortal has logged in.
+[24/03/2015 14:18:46] Skiller has logged in.
+[24/03/2015 14:19:05] Pallyzin has logged out.
+[24/03/2015 14:19:07] Pallyzin has logged in.
+[24/03/2015 14:21:16] Brumm-bromm has logged in.
+[24/03/2015 14:21:54] Knight Mortal has logged out.
+[24/03/2015 14:21:56] Knight Mortal has logged in.
+[24/03/2015 14:23:37] Skiller has logged out.
+[24/03/2015 14:23:44] Skiller has logged in.
+[24/03/2015 14:23:54] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 14:24:01] > Broadcasted message: "Para comprar bless digite !bless".
+[24/03/2015 14:24:21] Haas has logged out.
+[24/03/2015 14:24:23] Haas has logged in.
+[24/03/2015 14:24:24] > CLEAN: Removed 738 items from 655 tiles in 0.188 seconds.
+[24/03/2015 14:24:25] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 14:24:47] Honda has logged out.
+[24/03/2015 14:25:15] Knight Mortal has logged out.
+[24/03/2015 14:25:16] Honda has logged in.
+[24/03/2015 14:25:17] Knight Mortal has logged in.
+[24/03/2015 14:26:24] Skiller has logged out.
+[24/03/2015 14:26:25] Skiller has logged in.
+[24/03/2015 14:27:10] Honda has logged out.
+[24/03/2015 14:27:11] Honda has logged in.
+[24/03/2015 14:27:17] Knightzerah Mythus has logged out.
+[24/03/2015 14:27:38] Knightzerah Mythus has logged in.
+[24/03/2015 14:27:49] Pallyzin has logged out.
+[24/03/2015 14:27:51] Pallyzin has logged in.
+[24/03/2015 14:28:11] Haas has logged out.
+[24/03/2015 14:28:13] Haas has logged in.
+[24/03/2015 14:28:19] Haas has logged out.
+[24/03/2015 14:28:20] Haas has logged in.
+[24/03/2015 14:28:48] Honda has logged out.
+[24/03/2015 14:28:50] Honda has logged in.
+[24/03/2015 14:29:29] Haas has logged out.
+[24/03/2015 14:29:29] Knight Mortal has logged out.
+[24/03/2015 14:29:30] Haas has logged in.
+[24/03/2015 14:29:31] Knight Mortal has logged in.
+[24/03/2015 14:32:22] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[24/03/2015 14:34:16] Brumm-bromm has logged out.
+[24/03/2015 14:34:17] Brumm-bromm has logged in.
+[24/03/2015 14:35:25] Knightzerah Mythus has logged out.
+[24/03/2015 14:35:29] Brumm-bromm has logged out.
+[24/03/2015 14:35:31] Brumm-bromm has logged in.
+[24/03/2015 14:35:38] Knightzerah Mythus has logged in.
+[24/03/2015 14:36:05] Account Manager has logged in.
+[24/03/2015 14:36:06] Account Manager has logged out.
+[24/03/2015 14:36:09] Knight Mortal has logged out.
+[24/03/2015 14:36:11] Knight Mortal has logged in.
+[24/03/2015 14:36:35] Knightzerah Mythus has logged out.
+[24/03/2015 14:36:44] Knightzerah Mythus has logged in.
+[24/03/2015 14:37:20] Knightzerah Mythus has logged out.
+[24/03/2015 14:37:26] Skiller has logged out.
+[24/03/2015 14:37:28] Skiller has logged in.
+[24/03/2015 14:37:32] Account Manager has logged in.
+[24/03/2015 14:37:33] Account Manager has logged out.
+[24/03/2015 14:37:57] Honda has logged out.
+[24/03/2015 14:38:00] Honda has logged in.
+[24/03/2015 14:38:10] Knightzerah Mythus has logged in.
+[24/03/2015 14:38:35] Haas has logged out.
+[24/03/2015 14:38:39] Haas has logged in.
+[24/03/2015 14:39:14] Skiller has logged out.
+[24/03/2015 14:39:15] Skiller has logged in.
+[24/03/2015 14:39:46] Honda has logged out.
+[24/03/2015 14:39:48] Honda has logged in.
+[24/03/2015 14:40:13] Haas has logged out.
+[24/03/2015 14:40:15] Haas has logged in.
+[24/03/2015 14:40:35] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 14:40:36] Honda has logged out.
+[24/03/2015 14:40:37] Honda has logged in.
+[24/03/2015 14:40:38] > Saving server...
+[24/03/2015 14:40:40] > SAVE: Complete in 2.605 seconds using relational house storage.
+[24/03/2015 14:40:43] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[24/03/2015 14:41:05] > CLEAN: Removed 1881 items from 1026 tiles in 0.203 seconds.
+[24/03/2015 14:41:05] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 14:41:17] Mythus Top has logged out.
+[24/03/2015 14:41:41] Mythus Top has logged in.
+[24/03/2015 14:41:43] Brumm-bromm has logged out.
+[24/03/2015 14:41:44] Brumm-bromm has logged in.
+[24/03/2015 14:42:46] Pallyzin has logged out.
+[24/03/2015 14:42:49] Pallyzin has logged in.
+[24/03/2015 14:42:55] Brumm-bromm has logged out.
+[24/03/2015 14:42:56] Brumm-bromm has logged in.
+[24/03/2015 14:43:45] Account Manager has logged in.
+[24/03/2015 14:43:46] Account Manager has logged out.
+[24/03/2015 14:44:32] Skiller has logged out.
+[24/03/2015 14:44:35] Skiller has logged in.
+[24/03/2015 14:45:10] Knight Mortal has logged out.
+[24/03/2015 14:45:12] Knight Mortal has logged in.
+[24/03/2015 14:45:22] Honda has logged out.
+[24/03/2015 14:45:28] Honda has logged in.
+[24/03/2015 14:45:53] Knight Mortal has logged out.
+[24/03/2015 14:45:55] Knight Mortal has logged in.
+[24/03/2015 14:45:59] Haas has logged out.
+[24/03/2015 14:46:01] Haas has logged in.
+[24/03/2015 14:46:06] Brumm-bromm has logged out.
+[24/03/2015 14:46:07] Brumm-bromm has logged in.
+[24/03/2015 14:46:18] Knight Mortal has logged out.
+[24/03/2015 14:46:19] Knight Mortal has logged in.
+[24/03/2015 14:46:59] Account Manager has logged in.
+[24/03/2015 14:47:00] Account Manager has logged out.
+[24/03/2015 14:47:44] Knight Mortal has logged out.
+[24/03/2015 14:47:45] Knight Mortal has logged in.
+[24/03/2015 14:49:00] Account Manager has logged in.
+[24/03/2015 14:49:01] Account Manager has logged out.
+[24/03/2015 14:49:03] Haas has logged out.
+[24/03/2015 14:49:04] Haas has logged in.
+[24/03/2015 14:49:04] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[24/03/2015 14:50:14] Skiller has logged out.
+[24/03/2015 14:50:17] Honda has logged out.
+[24/03/2015 14:50:45] Skiller has logged in.
+[24/03/2015 14:51:36] Druidzerah Mythus has logged in.
+[24/03/2015 14:51:44] Druidzerah Mythus has logged out.
+[24/03/2015 14:51:51] Honda has logged in.
+[24/03/2015 14:52:22] Haas has logged out.
+[24/03/2015 14:52:23] Hashi has logged in.
+[24/03/2015 14:54:17] Dext has logged in.
+[24/03/2015 14:54:48] Knight Mortal has logged out.
+[24/03/2015 14:54:50] Knight Mortal has logged in.
+[24/03/2015 14:57:16] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 14:57:25] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[24/03/2015 14:57:28] Mythus Top has logged out.
+[24/03/2015 14:57:32] Mythus Top has logged in.
+[24/03/2015 14:57:46] > CLEAN: Removed 1514 items from 896 tiles in 0.203 seconds.
+[24/03/2015 14:57:46] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 15:03:59] > Saving server...
+[24/03/2015 15:04:01] > SAVE: Complete in 2.683 seconds using relational house storage.
+[24/03/2015 15:04:04] Mythus Top has logged out.
+[24/03/2015 15:04:06] Mythus Top has logged in.
+[24/03/2015 15:05:28] Knight Mortal has logged out.
+[24/03/2015 15:05:30] Knight Mortal has logged in.
+[24/03/2015 15:05:46] > Broadcasted message: "Para ver as noticias fale !notice".
+[24/03/2015 15:08:06] Mythus Top has logged out.
+[24/03/2015 15:08:09] Mythus Top has logged in.
+[24/03/2015 15:10:09] Brumm-bromm has logged out.
+[24/03/2015 15:10:11] Brumm-bromm has logged in.
+[24/03/2015 15:11:08] Knightzerah Mythus has logged out.
+[24/03/2015 15:11:59] Mythus Top has logged out.
+[24/03/2015 15:12:01] Honda has logged out.
+[24/03/2015 15:12:02] Sofoda has logged in.
+[24/03/2015 15:12:06] Honda has logged in.
+[24/03/2015 15:12:57] Sofoda has logged out.
+[24/03/2015 15:12:59] Mythus Top has logged in.
+[24/03/2015 15:13:57] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 15:14:07] > Broadcasted message: "Para ver as noticias fale !notice".
+[24/03/2015 15:14:27] > CLEAN: Removed 960 items from 704 tiles in 0.187 seconds.
+[24/03/2015 15:14:28] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 15:15:08] Mythus Top has logged out.
+[24/03/2015 15:15:10] Sofoda has logged in.
+[24/03/2015 15:15:38] Sofoda has logged out.
+[24/03/2015 15:15:40] Mythus Top has logged in.
+[24/03/2015 15:18:26] Hashi has logged out.
+[24/03/2015 15:18:28] Hashi has logged in.
+[24/03/2015 15:19:46] Knightzerah Mythus has logged in.
+[24/03/2015 15:19:50] Hashi has logged out.
+[24/03/2015 15:19:51] Hashi has logged in.
+[24/03/2015 15:20:02] Knightzerah Mythus has logged out.
+[24/03/2015 15:20:04] Pallyzeraah Mythus has logged in.
+[24/03/2015 15:20:06] Hashi has logged out.
+[24/03/2015 15:20:44] Dext has logged out.
+[24/03/2015 15:20:50] Pallyzeraah Mythus has logged out.
+[24/03/2015 15:20:55] Pallyzeraah Mythus has logged in.
+[24/03/2015 15:21:43] Pallyzeraah Mythus has logged out.
+[24/03/2015 15:21:45] Pallyzeraah Mythus has logged in.
+[24/03/2015 15:21:54] Pallyzeraah Mythus has logged out.
+[24/03/2015 15:21:56] Pallyzeraah Mythus has logged in.
+[24/03/2015 15:22:06] Pallyzeraah Mythus has logged out.
+[24/03/2015 15:22:08] Pallyzeraah Mythus has logged in.
+[24/03/2015 15:22:28] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[24/03/2015 15:22:30] Pallyzeraah Mythus has logged out.
+[24/03/2015 15:22:33] Pallyzeraah Mythus has logged in.
+[24/03/2015 15:22:41] Pallyzeraah Mythus has logged out.
+[24/03/2015 15:22:43] Pallyzeraah Mythus has logged in.
+[24/03/2015 15:23:59] Knight Mortal has logged out.
+[24/03/2015 15:24:01] Knight Mortal has logged in.
+[24/03/2015 15:24:26] Pallyzeraah Mythus has logged out.
+[24/03/2015 15:25:04] Pallyzeraah Mythus has logged in.
+[24/03/2015 15:25:25] Pallyzin has logged out.
+[24/03/2015 15:25:28] Pallyzin has logged in.
+[24/03/2015 15:25:35] Account Manager has logged in.
+[24/03/2015 15:25:51] Account Manager has logged out.
+[24/03/2015 15:25:52] Account Manager has logged in.
+[24/03/2015 15:25:52] Account Manager has logged out.
+[24/03/2015 15:25:57] Pallyzin has logged out.
+[24/03/2015 15:25:59] Pallyzin has logged in.
+[24/03/2015 15:26:02] Hashi has logged in.
+[24/03/2015 15:27:02] Knight Mortal has logged out.
+[24/03/2015 15:27:04] Knight Mortal has logged in.
+[24/03/2015 15:27:20] > Saving server...
+[24/03/2015 15:27:22] > SAVE: Complete in 2.403 seconds using relational house storage.
+[24/03/2015 15:27:40] Pallyzin has logged out.
+[24/03/2015 15:27:42] Pallyzin has logged in.
+[24/03/2015 15:28:09] Knight Mortal has logged out.
+[24/03/2015 15:28:12] Knight Mortal has logged in.
+[24/03/2015 15:28:54] Knight Mortal has logged out.
+[24/03/2015 15:28:56] Knight Mortal has logged in.
+[24/03/2015 15:30:38] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 15:30:40] Pallyzeraah Mythus has logged out.
+[24/03/2015 15:30:42] Pallyzeraah Mythus has logged in.
+[24/03/2015 15:30:49] > Broadcasted message: "Para comprar bless digite !bless".
+[24/03/2015 15:30:55] Pallyzeraah Mythus has logged out.
+[24/03/2015 15:30:57] Pallyzeraah Mythus has logged in.
+[24/03/2015 15:31:08] Pallyzeraah Mythus has logged out.
+[24/03/2015 15:31:09] > CLEAN: Removed 710 items from 532 tiles in 0.156 seconds.
+[24/03/2015 15:31:09] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 15:31:10] Pallyzeraah Mythus has logged in.
+[24/03/2015 15:32:46] Pallyzeraah Mythus has logged out.
+[24/03/2015 15:32:48] Knightzerah Mythus has logged in.
+[24/03/2015 15:32:51] Honda has logged out.
+[24/03/2015 15:34:17] Knightzerah Mythus has logged out.
+[24/03/2015 15:34:19] Knightzerah Mythus has logged in.
+[24/03/2015 15:34:29] Knightzerah Mythus has logged out.
+[24/03/2015 15:34:31] Knightzerah Mythus has logged in.
+[24/03/2015 15:34:47] Knightzerah Mythus has logged out.
+[24/03/2015 15:34:49] Knightzerah Mythus has logged in.
+[24/03/2015 15:36:23] Knightzerah Mythus has logged out.
+[24/03/2015 15:36:28] Knightzerah Mythus has logged in.
+[24/03/2015 15:37:29] Knightzerah Mythus has logged out.
+[24/03/2015 15:37:39] Knightzerah Mythus has logged in.
+[24/03/2015 15:39:10] > Broadcasted message: "Para comprar bless digite !bless".
+[24/03/2015 15:40:27] Knightzerah Mythus has logged out.
+[24/03/2015 15:40:29] Pallyzeraah Mythus has logged in.
+[24/03/2015 15:40:36] Pallyzeraah Mythus has logged out.
+[24/03/2015 15:40:40] Pallyzeraah Mythus has logged in.
+[24/03/2015 15:40:47] Pallyzeraah Mythus has logged out.
+[24/03/2015 15:40:48] Pallyzeraah Mythus has logged in.
+[24/03/2015 15:41:08] Knight Mortal has logged out.
+[24/03/2015 15:41:10] Knight Mortal has logged in.
+[24/03/2015 15:41:13] Brumm-bromm has logged out.
+[24/03/2015 15:41:14] Brumm-bromm has logged in.
+[24/03/2015 15:41:39] Pallyzeraah Mythus has logged out.
+[24/03/2015 15:41:41] Knightzerah Mythus has logged in.
+[24/03/2015 15:41:53] Knightzerah Mythus has logged out.
+[24/03/2015 15:41:55] Knightzerah Mythus has logged in.
+[24/03/2015 15:42:23] Knightzerah Mythus has logged out.
+[24/03/2015 15:42:25] Knightzerah Mythus has logged in.
+[24/03/2015 15:43:20] Knightzerah Mythus has logged out.
+[24/03/2015 15:43:21] Knightzerah Mythus has logged in.
+[24/03/2015 15:43:29] Knightzerah Mythus has logged out.
+[24/03/2015 15:43:31] Pallyzeraah Mythus has logged in.
+[24/03/2015 15:44:16] Brumm-bromm has logged out.
+[24/03/2015 15:44:30] Knight Mortal has logged out.
+[24/03/2015 15:44:31] Account Manager has logged in.
+[24/03/2015 15:44:36] Pallyzeraah Mythus has logged out.
+[24/03/2015 15:44:38] Hashi has logged out.
+[24/03/2015 15:44:39] Hashi has logged in.
+[24/03/2015 15:44:40] Hashi has logged out.
+[24/03/2015 15:44:41] Pallyzeraah Mythus has logged in.
+[24/03/2015 15:44:47] Honda has logged in.
+[24/03/2015 15:44:47] Pallyzeraah Mythus has logged out.
+[24/03/2015 15:44:48] Hashi has logged in.
+[24/03/2015 15:44:49] Knightzerah Mythus has logged in.
+[24/03/2015 15:45:00] Account Manager has logged out.
+[24/03/2015 15:45:16] Hashi has logged out.
+[24/03/2015 15:45:19] Haas has logged in.
+[24/03/2015 15:46:20] Skiller has logged out.
+[24/03/2015 15:46:24] Skiller has logged in.
+[24/03/2015 15:47:10] Haas has logged out.
+[24/03/2015 15:47:11] Haas has logged in.
+[24/03/2015 15:47:19] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 15:47:30] Honda has logged out.
+[24/03/2015 15:47:31] > Broadcasted message: "Para ver as noticias fale !notice".
+[24/03/2015 15:47:37] Honda has logged in.
+[24/03/2015 15:47:50] > CLEAN: Removed 1618 items from 800 tiles in 0.202 seconds.
+[24/03/2015 15:47:50] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 15:47:54] Skiller has logged out.
+[24/03/2015 15:47:55] Skiller has logged in.
+[24/03/2015 15:48:26] Haas has logged out.
+[24/03/2015 15:48:27] Haas has logged in.
+[24/03/2015 15:48:43] Honda has logged out.
+[24/03/2015 15:48:47] Honda has logged in.
+[24/03/2015 15:49:01] Skiller has logged out.
+[24/03/2015 15:49:03] Skiller has logged in.
+[24/03/2015 15:49:22] Haas has logged out.
+[24/03/2015 15:49:24] Haas has logged in.
+[24/03/2015 15:49:42] Honda has logged out.
+[24/03/2015 15:49:44] Honda has logged in.
+[24/03/2015 15:49:59] Skiller has logged out.
+[24/03/2015 15:50:01] Skiller has logged in.
+[24/03/2015 15:50:22] Haas has logged out.
+[24/03/2015 15:50:24] Haas has logged in.
+[24/03/2015 15:50:41] > Saving server...
+[24/03/2015 15:50:44] > SAVE: Complete in 2.247 seconds using relational house storage.
+[24/03/2015 15:50:52] Skiller has logged out.
+[24/03/2015 15:50:57] Skiller has logged in.
+[24/03/2015 15:51:33] Honda has logged out.
+[24/03/2015 15:51:36] Honda has logged in.
+[24/03/2015 15:52:44] Haas has logged out.
+[24/03/2015 15:52:48] Haas has logged in.
+[24/03/2015 15:53:04] Skiller has logged out.
+[24/03/2015 15:53:06] Skiller has logged in.
+[24/03/2015 15:53:19] Honda has logged out.
+[24/03/2015 15:53:37] Honda has logged in.
+[24/03/2015 15:54:02] Skiller has logged out.
+[24/03/2015 15:54:05] Skiller has logged in.
+[24/03/2015 15:54:23] Honda has logged out.
+[24/03/2015 15:54:28] Honda has logged in.
+[24/03/2015 15:54:58] Knight has logged in.
+[24/03/2015 15:55:13] Haas has logged out.
+[24/03/2015 15:55:15] Haas has logged in.
+[24/03/2015 15:55:33] Skiller has logged out.
+[24/03/2015 15:55:35] Skiller has logged in.
+[24/03/2015 15:55:52] > Broadcasted message: "Para comprar bless digite !bless".
+[24/03/2015 15:55:54] Honda has logged out.
+[24/03/2015 15:55:55] Honda has logged in.
+[24/03/2015 15:56:53] Haas has logged out.
+[24/03/2015 15:56:55] Haas has logged in.
+[24/03/2015 15:57:16] Skiller has logged out.
+[24/03/2015 15:57:17] Skiller has logged in.
+[24/03/2015 15:57:32] Honda has logged out.
+[24/03/2015 15:57:34] Honda has logged in.
+[24/03/2015 15:58:01] Haas has logged out.
+[24/03/2015 15:58:03] Haas has logged in.
+[24/03/2015 15:58:23] Skiller has logged out.
+[24/03/2015 15:58:25] Skiller has logged in.
+[24/03/2015 15:58:43] Honda has logged out.
+[24/03/2015 15:58:46] Honda has logged in.
+[24/03/2015 15:59:22] Haas has logged out.
+[24/03/2015 15:59:24] Haas has logged in.
+[24/03/2015 15:59:42] Skiller has logged out.
+[24/03/2015 15:59:44] Skiller has logged in.
+[24/03/2015 15:59:56] Honda has logged out.
+[24/03/2015 16:00:15] Honda has logged in.
+[24/03/2015 16:00:34] Skiller has logged out.
+[24/03/2015 16:00:36] Skiller has logged in.
+[24/03/2015 16:01:14] Honda has logged out.
+[24/03/2015 16:01:34] Honda has logged in.
+[24/03/2015 16:02:06] Haas has logged out.
+[24/03/2015 16:02:08] Haas has logged in.
+[24/03/2015 16:02:33] Skiller has logged out.
+[24/03/2015 16:02:37] Skiller has logged in.
+[24/03/2015 16:02:57] Honda has logged out.
+[24/03/2015 16:02:59] Honda has logged in.
+[24/03/2015 16:03:24] Haas has logged out.
+[24/03/2015 16:03:26] Haas has logged in.
+[24/03/2015 16:03:45] Skiller has logged out.
+[24/03/2015 16:03:47] Skiller has logged in.
+[24/03/2015 16:04:00] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 16:04:10] Honda has logged out.
+[24/03/2015 16:04:12] Honda has logged in.
+[24/03/2015 16:04:13] > Broadcasted message: "Para comprar bless digite !bless".
+[24/03/2015 16:04:30] > CLEAN: Removed 1734 items from 1144 tiles in 0.187 seconds.
+[24/03/2015 16:04:30] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 16:04:32] Haas has logged out.
+[24/03/2015 16:04:34] Haas has logged in.
+[24/03/2015 16:04:56] Skiller has logged out.
+[24/03/2015 16:04:57] Skiller has logged in.
+[24/03/2015 16:05:13] Honda has logged out.
+[24/03/2015 16:05:21] Honda has logged in.
+[24/03/2015 16:05:42] Skiller has logged out.
+[24/03/2015 16:06:00] Skiller has logged in.
+[24/03/2015 16:06:17] Knightzerah Mythus has logged out.
+[24/03/2015 16:06:18] Haas has logged out.
+[24/03/2015 16:06:20] Haas has logged in.
+[24/03/2015 16:06:48] Skiller has logged out.
+[24/03/2015 16:06:50] Skiller has logged in.
+[24/03/2015 16:07:07] Honda has logged out.
+[24/03/2015 16:07:11] Honda has logged in.
+[24/03/2015 16:07:31] Haas has logged out.
+[24/03/2015 16:07:35] Haas has logged in.
+[24/03/2015 16:07:53] Skiller has logged out.
+[24/03/2015 16:07:55] Skiller has logged in.
+[24/03/2015 16:08:08] Honda has logged out.
+[24/03/2015 16:08:11] Honda has logged in.
+[24/03/2015 16:10:13] Pallyzin has logged out.
+[24/03/2015 16:10:16] Pallyzin has logged in.
+[24/03/2015 16:10:42] Knight has logged out.
+[24/03/2015 16:10:44] Knight has logged in.
+[24/03/2015 16:11:21] Mythus Top has logged out.
+[24/03/2015 16:11:23] Mythus Top has logged in.
+[24/03/2015 16:12:07] Mythus Top has logged out.
+[24/03/2015 16:12:09] Mythus Top has logged in.
+[24/03/2015 16:12:34] > Broadcasted message: "Para comprar bless digite !bless".
+[24/03/2015 16:12:51] Knight has logged out.
+[24/03/2015 16:13:00] Honda has logged out.
+[24/03/2015 16:13:18] Knight has logged in.
+[24/03/2015 16:14:02] > Saving server...
+[24/03/2015 16:14:04] > SAVE: Complete in 2.028 seconds using relational house storage.
+[24/03/2015 16:14:46] Mythus Top has logged out.
+[24/03/2015 16:14:48] Mythus Top has logged in.
+[24/03/2015 16:14:51] Knight has logged out.
+[24/03/2015 16:14:53] Knight has logged in.
+[24/03/2015 16:15:48] Pallyzin has logged out.
+[24/03/2015 16:15:53] Pallyzin has logged in.
+[24/03/2015 16:19:14] Knight has logged out.
+[24/03/2015 16:19:16] Knight has logged in.
+[24/03/2015 16:19:48] Knight has logged out.
+[24/03/2015 16:19:50] Knight has logged in.
+[24/03/2015 16:20:34] Druidzerah Mythus has logged in.
+[24/03/2015 16:20:41] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 16:20:55] > Broadcasted message: "Para ver as noticias fale !notice".
+[24/03/2015 16:21:11] > CLEAN: Removed 1594 items from 929 tiles in 0.187 seconds.
+[24/03/2015 16:21:12] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 16:21:13] Knightzerah Mythus has logged in.
+[24/03/2015 16:22:04] Knightzerah Mythus has logged out.
+[24/03/2015 16:22:08] Knightzerah Mythus has logged in.
+[24/03/2015 16:22:37] Knightzerah Mythus has logged out.
+[24/03/2015 16:22:42] Knightzerah Mythus has logged in.
+[24/03/2015 16:23:18] Knightzerah Mythus has logged out.
+[24/03/2015 16:23:21] Pallyzeraah Mythus has logged in.
+[24/03/2015 16:23:49] Pallyzeraah Mythus has logged out.
+[24/03/2015 16:23:53] Pallyzeraah Mythus has logged in.
+[24/03/2015 16:24:02] Pallyzeraah Mythus has logged out.
+[24/03/2015 16:24:06] Pallyzeraah Mythus has logged in.
+[24/03/2015 16:25:39] Pallyzeraah Mythus has logged out.
+[24/03/2015 16:25:42] Pallyzeraah Mythus has logged in.
+[24/03/2015 16:26:15] Pallyzeraah Mythus has logged out.
+[24/03/2015 16:26:17] Pallyzeraah Mythus has logged in.
+[24/03/2015 16:26:22] Pallyzeraah Mythus has logged out.
+[24/03/2015 16:26:23] Pallyzeraah Mythus has logged in.
+[24/03/2015 16:26:29] Pallyzeraah Mythus has logged out.
+[24/03/2015 16:26:30] Pallyzeraah Mythus has logged in.
+[24/03/2015 16:27:24] Pallyzeraah Mythus has logged out.
+[24/03/2015 16:27:30] Pallyzeraah Mythus has logged in.
+[24/03/2015 16:27:43] Pallyzeraah Mythus has logged out.
+[24/03/2015 16:27:50] Pallyzeraah Mythus has logged in.
+[24/03/2015 16:28:04] Pallyzeraah Mythus has logged out.
+[24/03/2015 16:28:06] Pallyzeraah Mythus has logged in.
+[24/03/2015 16:28:19] Pallyzeraah Mythus has logged out.
+[24/03/2015 16:28:23] Pallyzeraah Mythus has logged in.
+[24/03/2015 16:28:31] Pallyzeraah Mythus has logged out.
+[24/03/2015 16:28:34] Pallyzeraah Mythus has logged in.
+[24/03/2015 16:29:16] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[24/03/2015 16:29:29] Pallyzeraah Mythus has logged out.
+[24/03/2015 16:29:33] Pallyzeraah Mythus has logged in.
+[24/03/2015 16:32:54] Pallyzeraah Mythus has logged out.
+[24/03/2015 16:32:55] Knightzerah Mythus has logged in.
+[24/03/2015 16:33:15] Knight has logged out.
+[24/03/2015 16:33:17] Knight has logged in.
+[24/03/2015 16:33:56] Haas has logged out.
+[24/03/2015 16:34:37] Knight has logged out.
+[24/03/2015 16:34:39] Knight has logged in.
+[24/03/2015 16:34:55] Knightzerah Mythus has logged out.
+[24/03/2015 16:35:48] Knightzerah Mythus has logged in.
+[24/03/2015 16:36:48] Knightzerah Mythus has logged out.
+[24/03/2015 16:36:50] Pallyzeraah Mythus has logged in.
+[24/03/2015 16:37:10] Mythus Top has logged out.
+[24/03/2015 16:37:14] Mythus Top has logged in.
+[24/03/2015 16:37:22] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 16:37:23] > Saving server...
+[24/03/2015 16:37:26] > SAVE: Complete in 2.137 seconds using relational house storage.
+[24/03/2015 16:37:37] > Broadcasted message: "Para comprar bless digite !bless".
+[24/03/2015 16:37:53] > CLEAN: Removed 5504 items from 3231 tiles in 0.249 seconds.
+[24/03/2015 16:37:53] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 16:41:06] Pallyzin has logged out.
+[24/03/2015 16:41:09] Pallyzin has logged in.
+[24/03/2015 16:45:46] Mythus Top has logged out.
+[24/03/2015 16:45:48] Mythus Top has logged in.
+[24/03/2015 16:45:59] > Broadcasted message: "Para ver as noticias fale !notice".
+[24/03/2015 16:50:43] Skiller has logged out.
+[24/03/2015 16:50:46] Skiller has logged in.
+[24/03/2015 16:51:24] Druidzerah Mythus has logged out.
+[24/03/2015 16:51:30] Haas has logged in.
+[24/03/2015 16:51:45] Haas has logged out.
+[24/03/2015 16:51:48] Haas has logged in.
+[24/03/2015 16:52:03] Haas has logged out.
+[24/03/2015 16:52:11] Pallyzerah Mythus has logged in.
+[24/03/2015 16:52:15] Pallyzerah Mythus has logged out.
+[24/03/2015 16:52:16] Druidzerah Mythus has logged in.
+[24/03/2015 16:54:03] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 16:54:20] > Broadcasted message: "Para comprar bless digite !bless".
+[24/03/2015 16:54:33] > CLEAN: Removed 5208 items from 2943 tiles in 0.25 seconds.
+[24/03/2015 16:54:33] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 16:57:19] Pallyzeraah Mythus has logged out.
+[24/03/2015 17:00:03] Knight has logged out.
+[24/03/2015 17:00:44] > Saving server...
+[24/03/2015 17:00:46] > SAVE: Complete in 1.857 seconds using relational house storage.
+[24/03/2015 17:02:41] > Broadcasted message: "Para ver as noticias fale !notice".
+[24/03/2015 17:05:14] Druidzerah Mythus has logged out.
+[24/03/2015 17:05:19] Honda has logged in.
+[24/03/2015 17:05:33] Honda has logged out.
+[24/03/2015 17:05:54] Druidzerah Mythus has logged in.
+[24/03/2015 17:10:44] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 17:11:02] > Broadcasted message: "Para comprar bless digite !bless".
+[24/03/2015 17:11:15] > CLEAN: Removed 6290 items from 3512 tiles in 0.281 seconds.
+[24/03/2015 17:11:15] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 17:15:34] Pallyzin has logged out.
+[24/03/2015 17:15:35] Pallyzin has logged in.
+[24/03/2015 17:19:23] > Broadcasted message: "Para comprar bless digite !bless".
+[24/03/2015 17:24:05] > Saving server...
+[24/03/2015 17:24:07] > SAVE: Complete in 1.997 seconds using relational house storage.
+[24/03/2015 17:26:28] Knight has logged in.
+[24/03/2015 17:27:07] Mythus Top has logged out.
+[24/03/2015 17:27:25] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 17:27:44] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[24/03/2015 17:27:56] > CLEAN: Removed 6692 items from 3877 tiles in 0.265 seconds.
+[24/03/2015 17:27:56] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 17:30:16] Pallyzin has logged out.
+[24/03/2015 17:30:18] Pallyzin has logged in.
+[24/03/2015 17:32:14] Knight has logged out.
+[24/03/2015 17:32:16] Knight has logged in.
+[24/03/2015 17:36:05] > Broadcasted message: "Para ver as noticias fale !notice".
+[24/03/2015 17:41:18] Mythus Top has logged in.
+[24/03/2015 17:44:06] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 17:44:26] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[24/03/2015 17:44:37] > CLEAN: Removed 5283 items from 3586 tiles in 0.249 seconds.
+[24/03/2015 17:44:37] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 17:46:07] Mythus Top has logged out.
+[24/03/2015 17:46:10] Mythus Top has logged in.
+[24/03/2015 17:46:42] Pallyzin has logged out.
+[24/03/2015 17:46:55] Pallyzin has logged in.
+[24/03/2015 17:47:26] > Saving server...
+[24/03/2015 17:47:28] > SAVE: Complete in 1.997 seconds using relational house storage.
+[24/03/2015 17:52:00] Druidzerah Mythus has logged out.
+[24/03/2015 17:52:02] Druidzerah Mythus has logged in.
+[24/03/2015 17:52:47] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[24/03/2015 17:53:01] Knight has logged out.
+[24/03/2015 17:53:03] Knight has logged in.
+[24/03/2015 17:56:17] Knightzerah Mythus has logged in.
+[24/03/2015 18:00:47] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 18:01:08] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[24/03/2015 18:01:18] > CLEAN: Removed 4453 items from 2934 tiles in 0.234 seconds.
+[24/03/2015 18:01:18] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 18:02:52] Knightzerah Mythus has logged out.
+[24/03/2015 18:02:57] Knightzerah Mythus has logged in.
+[24/03/2015 18:05:22] Pallyzin has logged out.
+[24/03/2015 18:05:24] Pallyzin has logged in.
+[24/03/2015 18:06:35] Mythus Top has logged out.
+[24/03/2015 18:06:37] Mythus Top has logged in.
+[24/03/2015 18:06:43] Mythus Top has logged out.
+[24/03/2015 18:06:47] Sofoda has logged in.
+[24/03/2015 18:07:35] Sofoda has logged out.
+[24/03/2015 18:07:37] Mythus Top has logged in.
+[24/03/2015 18:08:49] Druidzerah Mythus has logged out.
+[24/03/2015 18:08:51] Druidzerah Mythus has logged in.
+[24/03/2015 18:09:29] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[24/03/2015 18:10:47] > Saving server...
+[24/03/2015 18:10:50] > SAVE: Complete in 3.063 seconds using relational house storage.
+[24/03/2015 18:15:17] Knight has logged out.
+[24/03/2015 18:15:20] Knight has logged in.
+[24/03/2015 18:15:49] Mythus Top has logged out.
+[24/03/2015 18:15:52] Sofoda has logged in.
+[24/03/2015 18:16:38] Sofoda has logged out.
+[24/03/2015 18:16:41] Mythus Top has logged in.
+[24/03/2015 18:16:45] Mythus Top has logged out.
+[24/03/2015 18:16:47] Sofoda has logged in.
+[24/03/2015 18:17:28] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 18:17:40] Sofoda has logged out.
+[24/03/2015 18:17:42] Mythus Top has logged in.
+[24/03/2015 18:17:50] > Broadcasted message: "Para ver as noticias fale !notice".
+[24/03/2015 18:17:58] > CLEAN: Removed 5083 items from 3030 tiles in 0.383 seconds.
+[24/03/2015 18:17:59] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 18:18:17] Kurosaki Ichigo has logged in.
+[24/03/2015 18:18:44] Knight has logged out.
+[24/03/2015 18:18:46] Knight has logged in.
+[24/03/2015 18:18:49] Mythus Top has logged out.
+[24/03/2015 18:18:51] Sofoda has logged in.
+[24/03/2015 18:19:20] Sofoda has logged out.
+[24/03/2015 18:19:22] Mythus Top has logged in.
+[24/03/2015 18:19:29] Knightzerah Mythus has logged out.
+[24/03/2015 18:20:19] Knight Mortal has logged in.
+[24/03/2015 18:21:25] Skiller has logged out.
+[24/03/2015 18:21:27] Skiller has logged in.
+[24/03/2015 18:22:31] Mythus Top has logged out.
+[24/03/2015 18:22:34] Sofoda has logged in.
+[24/03/2015 18:22:48] Sofoda has logged out.
+[24/03/2015 18:22:50] Sofoda has logged in.
+[24/03/2015 18:23:35] Sofoda has logged out.
+[24/03/2015 18:23:37] Mythus Top has logged in.
+[24/03/2015 18:23:45] Mythus Top has logged out.
+[24/03/2015 18:23:47] Sofoda has logged in.
+[24/03/2015 18:23:54] Sofoda has logged out.
+[24/03/2015 18:23:57] Sofoda has logged in.
+[24/03/2015 18:24:15] Sofoda has logged out.
+[24/03/2015 18:24:16] Sofoda has logged in.
+[24/03/2015 18:24:24] Pallyzin has logged out.
+[24/03/2015 18:24:36] Pallyzin has logged in.
+[24/03/2015 18:24:39] Sofoda has logged out.
+[24/03/2015 18:24:43] Mythus Top has logged in.
+[24/03/2015 18:24:47] Brother has logged in.
+[24/03/2015 18:24:58] Mythus Top has logged out.
+[24/03/2015 18:25:16] Mythus Top has logged in.
+[24/03/2015 18:25:17] Xerath has logged in.
+[24/03/2015 18:25:41] Pallyzin has logged out.
+[24/03/2015 18:25:43] Pallyzin has logged in.
+[24/03/2015 18:26:11] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[24/03/2015 18:29:17] Druidzerah Mythus has logged out.
+[24/03/2015 18:29:20] Skiller has logged out.
+[24/03/2015 18:29:49] Skiller has logged in.
+[24/03/2015 18:30:24] Knight Mortal has logged out.
+[24/03/2015 18:30:26] Knight Mortal has logged in.
+[24/03/2015 18:30:26] Druidzerah Mythus has logged in.
+[24/03/2015 18:30:39] Knightzerah Mythus has logged in.
+[24/03/2015 18:31:18] Druidzerah Mythus has logged out.
+[24/03/2015 18:31:19] Druidzerah Mythus has logged in.
+[24/03/2015 18:34:08] > Saving server...
+[24/03/2015 18:34:11] > SAVE: Complete in 3.048 seconds using relational house storage.
+[24/03/2015 18:34:12] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 18:34:31] Knight Mortal has logged out.
+[24/03/2015 18:34:32] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[24/03/2015 18:34:33] Knight Mortal has logged in.
+[24/03/2015 18:34:43] > CLEAN: Removed 3292 items from 2158 tiles in 0.313 seconds.
+[24/03/2015 18:34:43] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 18:34:50] Druidzerah Mythus has logged out.
+[24/03/2015 18:34:51] Druidzerah Mythus has logged in.
+[24/03/2015 18:35:16] Knight has logged out.
+[24/03/2015 18:35:21] Kurosaki Ichigo has logged out.
+[24/03/2015 18:35:23] Kurosaki Ichigo has logged in.
+[24/03/2015 18:36:12] Druidzerah Mythus has logged out.
+[24/03/2015 18:36:13] Druidzerah Mythus has logged in.
+[24/03/2015 18:37:29] Xerath has logged out.
+[24/03/2015 18:37:30] Xerath has logged in.
+[24/03/2015 18:38:50] Knightzerah Mythus has logged out.
+[24/03/2015 18:41:39] Brother has logged out.
+[24/03/2015 18:42:26] Knight Mortal has logged out.
+[24/03/2015 18:42:28] Knight Mortal has logged in.
+[24/03/2015 18:42:53] > Broadcasted message: "Para ver as noticias fale !notice".
+[24/03/2015 18:43:55] Knight Mortal has logged out.
+[24/03/2015 18:43:57] Knight Mortal has logged in.
+[24/03/2015 18:45:10] Xerath has logged out.
+[24/03/2015 18:45:12] Xerath has logged in.
+[24/03/2015 18:45:49] Pallyzin has logged out.
+[24/03/2015 18:45:50] Knight Mortal has logged out.
+[24/03/2015 18:45:52] Knight Mortal has logged in.
+[24/03/2015 18:45:58] Mythus Top has logged out.
+[24/03/2015 18:46:15] Druidzerah Mythus has logged out.
+[24/03/2015 18:46:16] Druidzerah Mythus has logged in.
+[24/03/2015 18:46:35] Knight Mortal has logged out.
+[24/03/2015 18:46:36] Knight Mortal has logged in.
+[24/03/2015 18:46:40] Pallyzin has logged in.
+[24/03/2015 18:50:53] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 18:51:14] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[24/03/2015 18:51:23] > CLEAN: Removed 16 items from 91 tiles in 0.156 seconds.
+[24/03/2015 18:51:24] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 18:51:52] Kurosaki Ichigo has logged out.
+[24/03/2015 18:51:52] Brumm-bromm has logged in.
+[24/03/2015 18:51:54] Kurosaki Ichigo has logged in.
+[24/03/2015 18:57:29] > Saving server...
+[24/03/2015 18:57:32] > SAVE: Complete in 2.527 seconds using relational house storage.
+[24/03/2015 18:59:35] > Broadcasted message: "Para ver as noticias fale !notice".
+[24/03/2015 19:00:12] Kurosaki Ichigo has logged out.
+[24/03/2015 19:00:13] Kurosaki Ichigo has logged in.
+[24/03/2015 19:01:36] Pallyzin has logged out.
+[24/03/2015 19:01:38] Pallyzin has logged in.
+[24/03/2015 19:02:32] Pallyzin has logged out.
+[24/03/2015 19:03:07] Pallyzin has logged in.
+[24/03/2015 19:03:12] Kurosaki Ichigo has logged out.
+[24/03/2015 19:05:58] Brumm-bromm has logged out.
+[24/03/2015 19:06:00] Brumm-bromm has logged in.
+[24/03/2015 19:07:34] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 19:07:56] > Broadcasted message: "Para ver as noticias fale !notice".
+[24/03/2015 19:08:04] > CLEAN: Removed 17 items from 44 tiles in 0.171 seconds.
+[24/03/2015 19:08:04] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 19:10:37] Skiller has logged out.
+[24/03/2015 19:11:05] Druidzerah Mythus has logged out.
+[24/03/2015 19:11:06] Druidzerah Mythus has logged in.
+[24/03/2015 19:11:35] Brumm-bromm has logged out.
+[24/03/2015 19:11:37] Brumm-bromm has logged in.
+[24/03/2015 19:15:38] Xerath has logged out.
+[24/03/2015 19:15:39] Xerath has logged in.
+[24/03/2015 19:16:17] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[24/03/2015 19:16:55] Skiller has logged in.
+[24/03/2015 19:19:17] Account Manager has logged in.
+[24/03/2015 19:19:51] Pallyzin has logged out.
+[24/03/2015 19:20:01] Druidzerah Mythus has logged out.
+[24/03/2015 19:20:03] Druidzerah Mythus has logged in.
+[24/03/2015 19:20:04] Pallyzin has logged in.
+[24/03/2015 19:20:17] Account Manager has logged out.
+[24/03/2015 19:20:26] Account Manager has logged in.
+[24/03/2015 19:20:34] Knight Mortal has logged out.
+[24/03/2015 19:20:36] Knight Mortal has logged in.
+[24/03/2015 19:20:50] > Saving server...
+[24/03/2015 19:20:53] > SAVE: Complete in 2.152 seconds using relational house storage.
+[24/03/2015 19:21:26] Account Manager has logged out.
+[24/03/2015 19:21:41] Thiago Matado has logged in.
+[24/03/2015 19:24:15] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 19:24:38] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[24/03/2015 19:24:45] > CLEAN: Removed 787 items from 642 tiles in 0.187 seconds.
+[24/03/2015 19:24:46] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 19:29:18] Pallyzin has logged out.
+[24/03/2015 19:29:19] Pallyzin has logged in.
+[24/03/2015 19:29:58] Thiago Matado has logged out.
+[24/03/2015 19:30:01] Thiago Matado has logged in.
+[24/03/2015 19:32:59] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[24/03/2015 19:34:34] Brumm-bromm has logged out.
+[24/03/2015 19:40:56] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 19:41:20] > Broadcasted message: "Para ver as noticias fale !notice".
+[24/03/2015 19:41:26] > CLEAN: Removed 6743 items from 2740 tiles in 0.234 seconds.
+[24/03/2015 19:41:27] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 19:44:11] > Saving server...
+[24/03/2015 19:44:14] > SAVE: Complete in 2.294 seconds using relational house storage.
+[24/03/2015 19:45:24] Account Manager has logged in.
+[24/03/2015 19:45:25] Account Manager has logged out.
+[24/03/2015 19:45:26] Xerath has logged out.
+[24/03/2015 19:45:27] Account Manager has logged in.
+[24/03/2015 19:45:28] Account Manager has logged out.
+[24/03/2015 19:45:29] Account Manager has logged in.
+[24/03/2015 19:45:30] Account Manager has logged out.
+[24/03/2015 19:45:32] Account Manager has logged in.
+[24/03/2015 19:45:33] Account Manager has logged out.
+[24/03/2015 19:46:10] Account Manager has logged in.
+[24/03/2015 19:46:11] Account Manager has logged out.
+[24/03/2015 19:46:12] Account Manager has logged in.
+[24/03/2015 19:46:14] Account Manager has logged out.
+[24/03/2015 19:46:14] Account Manager has logged in.
+[24/03/2015 19:46:16] Account Manager has logged out.
+[24/03/2015 19:46:32] Xerath has logged in.
+[24/03/2015 19:49:41] > Broadcasted message: "Para ver as noticias fale !notice".
+[24/03/2015 19:55:45] Pallyzin has logged out.
+[24/03/2015 19:55:51] Pallyzin has logged in.
+[24/03/2015 19:57:37] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 19:58:02] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[24/03/2015 19:58:08] > CLEAN: Removed 8839 items from 5893 tiles in 0.64 seconds.
+[24/03/2015 19:58:09] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 20:01:48] Thiago Matado has logged out.
+[24/03/2015 20:01:53] Thiago Matado has logged in.
+[24/03/2015 20:06:23] > Broadcasted message: "Para comprar bless digite !bless".
+[24/03/2015 20:07:32] > Saving server...
+[24/03/2015 20:07:35] > SAVE: Complete in 2.167 seconds using relational house storage.
+[24/03/2015 20:08:58] Druidzerah Mythus has logged out.
+[24/03/2015 20:09:00] Druidzerah Mythus has logged in.
+[24/03/2015 20:10:29] Knight Mortal has logged out.
+[24/03/2015 20:10:32] Knight Mortal has logged in.
+[24/03/2015 20:13:42] Pallyzin has logged out.
+[24/03/2015 20:14:17] Pallyzin has logged in.
+[24/03/2015 20:14:18] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 20:14:44] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[24/03/2015 20:14:48] > CLEAN: Removed 3755 items from 3262 tiles in 0.3 seconds.
+[24/03/2015 20:14:49] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 20:14:53] Xerath has logged out.
+[24/03/2015 20:14:54] Xerath has logged in.
+[24/03/2015 20:15:25] Thiago Matado has logged out.
+[24/03/2015 20:15:30] Thiago Matado has logged in.
+[24/03/2015 20:17:34] Thiago Matado has logged out.
+[24/03/2015 20:17:37] Thiago Matado has logged in.
+[24/03/2015 20:18:00] Druidzerah Mythus has logged out.
+[24/03/2015 20:18:02] Druidzerah Mythus has logged in.
+[24/03/2015 20:18:27] Xerath has logged out.
+[24/03/2015 20:19:52] Cheguei No Pistao has logged in.
+[24/03/2015 20:19:54] Knight Mortal has logged out.
+[24/03/2015 20:19:56] Knight Mortal has logged in.
+[24/03/2015 20:20:59] Thiago Matado has logged out.
+[24/03/2015 20:21:02] Thiago Matado has logged in.
+[24/03/2015 20:22:55] Knight Mortal has logged out.
+[24/03/2015 20:22:56] Knight Mortal has logged in.
+[24/03/2015 20:23:05] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[24/03/2015 20:23:33] Cheguei No Pistao has logged out.
+[24/03/2015 20:23:35] Cheguei No Pistao has logged in.
+[24/03/2015 20:24:13] Cheguei No Pistao has logged out.
+[24/03/2015 20:24:14] Cheguei No Pistao has logged in.
+[24/03/2015 20:24:38] Thiago Matado has logged out.
+[24/03/2015 20:24:41] Thiago Matado has logged in.
+[24/03/2015 20:25:35] Cheguei No Pistao has logged out.
+[24/03/2015 20:25:36] Cheguei No Pistao has logged in.
+[24/03/2015 20:27:49] Pallyzin has logged out.
+[24/03/2015 20:27:51] Pallyzin has logged in.
+[24/03/2015 20:28:29] Cheguei No Pistao has logged out.
+[24/03/2015 20:28:30] Cheguei No Pistao has logged in.
+[24/03/2015 20:29:07] Cheguei No Pistao has logged out.
+[24/03/2015 20:29:08] Cheguei No Pistao has logged in.
+[24/03/2015 20:29:10] Thiago Matado has logged out.
+[24/03/2015 20:29:11] Thiago Matado has logged in.
+[24/03/2015 20:29:57] Knight Mortal has logged out.
+[24/03/2015 20:29:59] Knight Mortal has logged in.
+[24/03/2015 20:29:59] Pallyzin has logged out.
+[24/03/2015 20:30:19] Pallyzin has logged in.
+[24/03/2015 20:30:35] Pallyzin has logged out.
+[24/03/2015 20:30:37] Pallyzin has logged in.
+[24/03/2015 20:30:53] > Saving server...
+[24/03/2015 20:30:56] > SAVE: Complete in 2.122 seconds using relational house storage.
+[24/03/2015 20:30:59] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 20:31:26] > Broadcasted message: "Para ver as noticias fale !notice".
+[24/03/2015 20:31:29] > CLEAN: Removed 3936 items from 2463 tiles in 0.218 seconds.
+[24/03/2015 20:31:30] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 20:32:13] Pallyzin has logged out.
+[24/03/2015 20:32:15] Pallyzin has logged in.
+[24/03/2015 20:32:46] Knight Mortal has logged out.
+[24/03/2015 20:32:47] Cheguei No Pistao has logged out.
+[24/03/2015 20:32:48] Knight Mortal has logged in.
+[24/03/2015 20:32:48] Cheguei No Pistao has logged in.
+[24/03/2015 20:34:34] Knight Mortal has logged out.
+[24/03/2015 20:34:36] Knight Mortal has logged in.
+[24/03/2015 20:35:51] Cheguei No Pistao has logged out.
+[24/03/2015 20:35:52] Cheguei No Pistao has logged in.
+[24/03/2015 20:36:33] Cheguei No Pistao has logged out.
+[24/03/2015 20:36:34] Cheguei No Pistao has logged in.
+[24/03/2015 20:38:03] Cheguei No Pistao has logged out.
+[24/03/2015 20:38:03] 
+[24/03/2015 20:38:03] Lua Script Error: [Spell Interface] 
+[24/03/2015 20:38:03] in a timer event called from: 
+[24/03/2015 20:38:03] data/spells/scripts/max power rune.lua:onCastSpell
+[24/03/2015 20:38:03] 
+[24/03/2015 20:38:03] luaDoCombat(). Creature not found
+[24/03/2015 20:38:04] 
+[24/03/2015 20:38:04] Lua Script Error: [Spell Interface] 
+[24/03/2015 20:38:04] in a timer event called from: 
+[24/03/2015 20:38:04] data/spells/scripts/max power rune.lua:onCastSpell
+[24/03/2015 20:38:04] 
+[24/03/2015 20:38:04] luaDoCombat(). Creature not found
+[24/03/2015 20:38:04] 
+[24/03/2015 20:38:04] Lua Script Error: [Spell Interface] 
+[24/03/2015 20:38:04] in a timer event called from: 
+[24/03/2015 20:38:05] data/spells/scripts/max power rune.lua:onCastSpell
+[24/03/2015 20:38:05] 
+[24/03/2015 20:38:05] luaDoCombat(). Creature not found
+[24/03/2015 20:38:05] 
+[24/03/2015 20:38:05] Lua Script Error: [Spell Interface] 
+[24/03/2015 20:38:05] in a timer event called from: 
+[24/03/2015 20:38:05] data/spells/scripts/max power rune.lua:onCastSpell
+[24/03/2015 20:38:06] 
+[24/03/2015 20:38:06] luaDoCombat(). Creature not found
+[24/03/2015 20:38:06] Cheguei No Pistao has logged in.
+[24/03/2015 20:39:03] Knight Mortal has logged out.
+[24/03/2015 20:39:05] Knight Mortal has logged in.
+[24/03/2015 20:39:24] Xerath has logged in.
+[24/03/2015 20:39:47] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[24/03/2015 20:40:32] Knight Mortal has logged out.
+[24/03/2015 20:40:34] Knight Mortal has logged in.
+[24/03/2015 20:40:40] Pallyzin has logged out.
+[24/03/2015 20:40:42] Pallyzin has logged in.
+[24/03/2015 20:41:26] Xerath has logged out.
+[24/03/2015 20:41:28] Xerath has logged in.
+[24/03/2015 20:42:05] Pallyzin has logged out.
+[24/03/2015 20:42:07] Pallyzin has logged in.
+[24/03/2015 20:42:28] Thiago Matado has logged out.
+[24/03/2015 20:42:32] Thiago Matado has logged in.
+[24/03/2015 20:42:50] Knight Mortal has logged out.
+[24/03/2015 20:42:52] Knight Mortal has logged in.
+[24/03/2015 20:43:10] Knight Mortal has logged out.
+[24/03/2015 20:43:11] Knight Mortal has logged in.
+[24/03/2015 20:43:53] Knight Mortal has logged out.
+[24/03/2015 20:43:55] Knight Mortal has logged in.
+[24/03/2015 20:44:20] Knight Mortal has logged out.
+[24/03/2015 20:44:21] Cheguei No Pistao has logged out.
+[24/03/2015 20:44:21] 
+[24/03/2015 20:44:21] Lua Script Error: [CreatureScript Interface] 
+[24/03/2015 20:44:21] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[24/03/2015 20:44:22] 
+[24/03/2015 20:44:22] luaGetCreatureName(). Creature not found
+[24/03/2015 20:44:22] Xerath has logged out.
+[24/03/2015 20:44:23] Knight Mortal has logged in.
+[24/03/2015 20:44:24] Cheguei No Pistao has logged in.
+[24/03/2015 20:44:24] Xerath has logged in.
+[24/03/2015 20:45:02] Pallyzin has logged out.
+[24/03/2015 20:45:04] Pallyzin has logged in.
+[24/03/2015 20:45:24] Pallyzin has logged out.
+[24/03/2015 20:45:26] Pallyzin has logged in.
+[24/03/2015 20:45:49] Pallyzin has logged out.
+[24/03/2015 20:45:51] Pallyzin has logged in.
+[24/03/2015 20:46:01] Knight Mortal has logged out.
+[24/03/2015 20:46:03] Knight Mortal has logged in.
+[24/03/2015 20:47:40] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 20:47:55] Pallyzin has logged out.
+[24/03/2015 20:48:08] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[24/03/2015 20:48:10] > CLEAN: Removed 5092 items from 2182 tiles in 0.219 seconds.
+[24/03/2015 20:48:10] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 20:48:35] Pallyzin has logged in.
+[24/03/2015 20:50:24] Pallyzin has logged out.
+[24/03/2015 20:50:26] Pallyzin has logged in.
+[24/03/2015 20:51:40] Thiago Matado has logged out.
+[24/03/2015 20:51:42] Thiago Matado has logged in.
+[24/03/2015 20:53:23] Knight Mortal has logged out.
+[24/03/2015 20:53:24] Knight Mortal has logged in.
+[24/03/2015 20:54:14] > Saving server...
+[24/03/2015 20:54:16] > SAVE: Complete in 2.403 seconds using relational house storage.
+[24/03/2015 20:54:41] Knight Mortal has logged out.
+[24/03/2015 20:54:44] Knight Mortal has logged in.
+[24/03/2015 20:55:02] Xerath has logged out.
+[24/03/2015 20:55:03] Xerath has logged in.
+[24/03/2015 20:55:50] Knight Mortal has logged out.
+[24/03/2015 20:55:52] Knight Mortal has logged in.
+[24/03/2015 20:55:56] Druidzerah Mythus has logged out.
+[24/03/2015 20:55:57] Druidzerah Mythus has logged in.
+[24/03/2015 20:56:29] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[24/03/2015 20:56:41] Account Manager has logged in.
+[24/03/2015 20:57:14] Magezin Sapeca has logged in.
+[24/03/2015 20:58:50] Thiago Matado has logged out.
+[24/03/2015 20:58:53] Thiago Matado has logged in.
+[24/03/2015 20:58:58] Cheguei No Pistao has logged out.
+[24/03/2015 20:59:10] Cheguei No Pistao has logged in.
+[24/03/2015 20:59:18] Account Manager has logged out.
+[24/03/2015 20:59:23] Account Manager has logged in.
+[24/03/2015 20:59:34] Account Manager has logged out.
+[24/03/2015 20:59:35] Account Manager has logged in.
+[24/03/2015 20:59:36] Account Manager has logged out.
+[24/03/2015 20:59:42] Hashi has logged in.
+[24/03/2015 20:59:57] Druidzerah Mythus has logged out.
+[24/03/2015 20:59:58] Druidzerah Mythus has logged in.
+[24/03/2015 21:01:37] Cheguei No Pistao has logged out.
+[24/03/2015 21:01:54] Cheguei No Pistao has logged in.
+[24/03/2015 21:02:11] Cheguei No Pistao has logged out.
+[24/03/2015 21:02:12] Cheguei No Pistao has logged in.
+[24/03/2015 21:03:03] Cheguei No Pistao has logged out.
+[24/03/2015 21:03:42] Thiago Matado has logged out.
+[24/03/2015 21:03:47] Thiago Matado has logged in.
+[24/03/2015 21:03:52] Cheguei No Pistao has logged in.
+[24/03/2015 21:04:02] Cheguei No Pistao has logged out.
+[24/03/2015 21:04:03] Cheguei No Pistao has logged in.
+[24/03/2015 21:04:21] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 21:04:22] Pallyzin has logged out.
+[24/03/2015 21:04:25] Hashi has logged out.
+[24/03/2015 21:04:25] Pallyzin has logged in.
+[24/03/2015 21:04:27] Hashi has logged in.
+[24/03/2015 21:04:41] Cheguei No Pistao has logged out.
+[24/03/2015 21:04:50] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[24/03/2015 21:04:52] > CLEAN: Removed 3384 items from 2313 tiles in 0.218 seconds.
+[24/03/2015 21:04:52] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 21:05:01] Pallyzin has logged out.
+[24/03/2015 21:05:06] Pallyzin has logged in.
+[24/03/2015 21:05:44] Account Manager has logged in.
+[24/03/2015 21:05:48] Account Manager has logged out.
+[24/03/2015 21:05:48] Cheguei No Pistao has logged in.
+[24/03/2015 21:07:33] Cheguei No Pistao has logged out.
+[24/03/2015 21:07:35] Cheguei No Pistao has logged in.
+[24/03/2015 21:08:27] Skiller has logged out.
+[24/03/2015 21:09:33] Skiller has logged in.
+[24/03/2015 21:11:03] Pallyzin has logged out.
+[24/03/2015 21:11:15] Cheguei No Pistao has logged out.
+[24/03/2015 21:11:37] Account Manager has logged in.
+[24/03/2015 21:11:38] Account Manager has logged out.
+[24/03/2015 21:11:41] Thiago Matado has logged out.
+[24/03/2015 21:11:50] Cheguei No Pistao has logged in.
+[24/03/2015 21:11:54] Thiago Matado has logged in.
+[24/03/2015 21:12:03] Cheguei No Pistao has logged out.
+[24/03/2015 21:12:05] Cheguei No Pistao has logged in.
+[24/03/2015 21:12:18] Pallyzin has logged in.
+[24/03/2015 21:12:38] Magezin Sapeca has logged out.
+[24/03/2015 21:12:58] Magezin Sapeca has logged in.
+[24/03/2015 21:13:01] Thiago Matado has logged out.
+[24/03/2015 21:13:03] Thiago Matado has logged in.
+[24/03/2015 21:13:11] > Broadcasted message: "Para ver as noticias fale !notice".
+[24/03/2015 21:13:38] Thiago Matado has logged out.
+[24/03/2015 21:13:53] Xerath has logged out.
+[24/03/2015 21:13:55] Xerath has logged in.
+[24/03/2015 21:14:26] Thiago Matado has logged in.
+[24/03/2015 21:15:09] Thiago Matado has logged out.
+[24/03/2015 21:15:21] Thiago Matado has logged in.
+[24/03/2015 21:16:03] Skiller has logged out.
+[24/03/2015 21:16:05] Skiller has logged in.
+[24/03/2015 21:16:16] Knight Mortal has logged out.
+[24/03/2015 21:17:05] Mythus Top has logged in.
+[24/03/2015 21:17:35] > Saving server...
+[24/03/2015 21:17:37] > SAVE: Complete in 2.699 seconds using relational house storage.
+[24/03/2015 21:17:38] 
+[24/03/2015 21:17:38] Lua Script Error: [CreatureScript Interface] 
+[24/03/2015 21:17:38] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[24/03/2015 21:17:38] 
+[24/03/2015 21:17:38] luaGetCreatureName(). Creature not found
+[24/03/2015 21:17:38] 
+[24/03/2015 21:17:38] Lua Script Error: [CreatureScript Interface] 
+[24/03/2015 21:17:39] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[24/03/2015 21:17:39] 
+[24/03/2015 21:17:39] luaGetCreatureName(). Creature not found
+[24/03/2015 21:17:39] Cheguei No Pistao has logged out.
+[24/03/2015 21:17:42] Cheguei No Pistao has logged in.
+[24/03/2015 21:18:10] Cheguei No Pistao has logged out.
+[24/03/2015 21:18:15] Cheguei No Pistao has logged in.
+[24/03/2015 21:18:45] Mythus Top has logged out.
+[24/03/2015 21:18:46] Mythus Top has logged in.
+[24/03/2015 21:18:47] Magezin Sapeca has logged out.
+[24/03/2015 21:19:45] Magezin Sapeca has logged in.
+[24/03/2015 21:20:21] Hashi has logged out.
+[24/03/2015 21:20:23] Hashi has logged in.
+[24/03/2015 21:20:51] Cheguei No Pistao has logged out.
+[24/03/2015 21:20:52] Cheguei No Pistao has logged in.
+[24/03/2015 21:21:02] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 21:21:32] > CLEAN: Removed 4669 items from 2189 tiles in 0.218 seconds.
+[24/03/2015 21:21:32] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 21:21:33] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[24/03/2015 21:23:08] Pallyzin has logged out.
+[24/03/2015 21:23:10] Pallyzin has logged in.
+[24/03/2015 21:25:55] Xerath has logged out.
+[24/03/2015 21:25:57] Xerath has logged in.
+[24/03/2015 21:27:30] Cheguei No Pistao has logged out.
+[24/03/2015 21:27:31] Cheguei No Pistao has logged in.
+[24/03/2015 21:27:44] Hashi has logged out.
+[24/03/2015 21:27:46] Hashi has logged in.
+[24/03/2015 21:28:57] Pallyzin has logged out.
+[24/03/2015 21:29:16] Pallyzin has logged in.
+[24/03/2015 21:29:54] > Broadcasted message: "Para comprar bless digite !bless".
+[24/03/2015 21:30:52] Thiago Matado has logged out.
+[24/03/2015 21:32:58] Hashi has logged out.
+[24/03/2015 21:33:00] Hashi has logged in.
+[24/03/2015 21:35:35] Xerath has logged out.
+[24/03/2015 21:35:36] Magezin Sapeca has logged out.
+[24/03/2015 21:35:37] Xerath has logged in.
+[24/03/2015 21:35:39] Magezin Sapeca has logged in.
+[24/03/2015 21:36:44] Hashi has logged out.
+[24/03/2015 21:36:45] Hashi has logged in.
+[24/03/2015 21:37:32] Cheguei No Pistao has logged out.
+[24/03/2015 21:37:34] Cheguei No Pistao has logged in.
+[24/03/2015 21:37:43] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 21:38:13] > CLEAN: Removed 5229 items from 2726 tiles in 0.218 seconds.
+[24/03/2015 21:38:14] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 21:38:15] > Broadcasted message: "Para comprar bless digite !bless".
+[24/03/2015 21:38:58] Xerath has logged out.
+[24/03/2015 21:39:45] Kinaa has logged in.
+[24/03/2015 21:39:48] Kinaa has logged out.
+[24/03/2015 21:39:49] Xerath has logged in.
+[24/03/2015 21:40:36] Xerath has logged out.
+[24/03/2015 21:40:36] Xerath has logged in.
+[24/03/2015 21:40:56] > Saving server...
+[24/03/2015 21:40:59] > SAVE: Complete in 2.449 seconds using relational house storage.
+[24/03/2015 21:41:03] Mythus Top has logged out.
+[24/03/2015 21:41:06] Sofoda has logged in.
+[24/03/2015 21:41:44] Xerath has logged out.
+[24/03/2015 21:41:45] Xerath has logged in.
+[24/03/2015 21:42:16] Sofoda has logged out.
+[24/03/2015 21:42:19] Sofoda has logged in.
+[24/03/2015 21:42:28] Cheguei No Pistao has logged out.
+[24/03/2015 21:42:28] Hashi has logged out.
+[24/03/2015 21:42:29] Cheguei No Pistao has logged in.
+[24/03/2015 21:42:30] Hashi has logged in.
+[24/03/2015 21:43:07] Sofoda has logged out.
+[24/03/2015 21:43:09] Mythus Top has logged in.
+[24/03/2015 21:43:42] Mythus Top has logged out.
+[24/03/2015 21:43:43] Sofoda has logged in.
+[24/03/2015 21:44:02] Sofoda has logged out.
+[24/03/2015 21:44:04] Mythus Top has logged in.
+[24/03/2015 21:45:51] Magezin Sapeca has logged out.
+[24/03/2015 21:46:01] Magezin Sapeca has logged in.
+[24/03/2015 21:46:04] Xerath has logged out.
+[24/03/2015 21:46:06] Xerath has logged in.
+[24/03/2015 21:46:36] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[24/03/2015 21:48:28] Druidzerah Mythus has logged out.
+[24/03/2015 21:48:30] Druidzerah Mythus has logged in.
+[24/03/2015 21:49:20] Skiller has logged out.
+[24/03/2015 21:49:36] Skiller has logged in.
+[24/03/2015 21:50:09] Druidzerah Mythus has logged out.
+[24/03/2015 21:50:23] Mythus Top has logged out.
+[24/03/2015 21:50:24] Mythus Top has logged in.
+[24/03/2015 21:51:58] Pallyzin has logged out.
+[24/03/2015 21:52:00] Pallyzin has logged in.
+[24/03/2015 21:53:42] Cheguei No Pistao has logged out.
+[24/03/2015 21:53:43] 
+[24/03/2015 21:53:43] Lua Script Error: [Spell Interface] 
+[24/03/2015 21:53:43] in a timer event called from: 
+[24/03/2015 21:53:43] data/spells/scripts/max power rune.lua:onCastSpell
+[24/03/2015 21:53:43] 
+[24/03/2015 21:53:43] luaDoCombat(). Creature not found
+[24/03/2015 21:53:43] 
+[24/03/2015 21:53:43] Lua Script Error: [Spell Interface] 
+[24/03/2015 21:53:44] in a timer event called from: 
+[24/03/2015 21:53:44] data/spells/scripts/max power rune.lua:onCastSpell
+[24/03/2015 21:53:44] 
+[24/03/2015 21:53:44] luaDoCombat(). Creature not found
+[24/03/2015 21:53:44] 
+[24/03/2015 21:53:44] Lua Script Error: [Spell Interface] 
+[24/03/2015 21:53:44] in a timer event called from: 
+[24/03/2015 21:53:44] data/spells/scripts/max power rune.lua:onCastSpell
+[24/03/2015 21:53:45] 
+[24/03/2015 21:53:45] luaDoCombat(). Creature not found
+[24/03/2015 21:53:45] 
+[24/03/2015 21:53:45] Lua Script Error: [Spell Interface] 
+[24/03/2015 21:53:45] in a timer event called from: 
+[24/03/2015 21:53:45] data/spells/scripts/max power rune.lua:onCastSpell
+[24/03/2015 21:53:45] 
+[24/03/2015 21:53:46] luaDoCombat(). Creature not found
+[24/03/2015 21:53:46] Cheguei No Pistao has logged in.
+[24/03/2015 21:54:24] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 21:54:55] > CLEAN: Removed 3439 items from 2048 tiles in 0.218 seconds.
+[24/03/2015 21:54:55] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 21:54:57] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[24/03/2015 21:56:28] Pallyzin has logged out.
+[24/03/2015 21:56:29] Pallyzin has logged in.
+[24/03/2015 21:58:07] Cheguei No Pistao has logged out.
+[24/03/2015 21:58:09] Cheguei No Pistao has logged in.
+[24/03/2015 21:58:55] Skize Da Xurupita has logged in.
+[24/03/2015 21:59:33] Magezin Sapeca has logged out.
+[24/03/2015 21:59:36] Magezin Sapeca has logged in.
+[24/03/2015 22:00:22] Cheguei No Pistao has logged out.
+[24/03/2015 22:00:23] Cheguei No Pistao has logged in.
+[24/03/2015 22:01:03] Skiller has logged out.
+[24/03/2015 22:01:04] Skiller has logged in.
+[24/03/2015 22:02:44] Pallyzin has logged out.
+[24/03/2015 22:02:45] Pallyzin has logged in.
+[24/03/2015 22:03:18] > Broadcasted message: "Para ver as noticias fale !notice".
+[24/03/2015 22:03:45] Cheguei No Pistao has logged out.
+[24/03/2015 22:03:46] Cheguei No Pistao has logged in.
+[24/03/2015 22:04:17] > Saving server...
+[24/03/2015 22:04:19] > SAVE: Complete in 2.449 seconds using relational house storage.
+[24/03/2015 22:04:25] Magezin Sapeca has logged out.
+[24/03/2015 22:04:27] Magezin Sapeca has logged in.
+[24/03/2015 22:06:43] Nadador Knight has logged in.
+[24/03/2015 22:07:13] Pallyzin has logged out.
+[24/03/2015 22:07:23] Pallyzin has logged in.
+[24/03/2015 22:07:24] Pallyzin has logged out.
+[24/03/2015 22:07:54] Pallyzin has logged in.
+[24/03/2015 22:07:56] Skize Da Xurupita has logged out.
+[24/03/2015 22:08:24] Hashi has logged out.
+[24/03/2015 22:08:53] Magezin Sapeca has logged out.
+[24/03/2015 22:09:45] Xerath has logged out.
+[24/03/2015 22:09:47] Xerath has logged in.
+[24/03/2015 22:10:14] Skize Da Xurupita has logged in.
+[24/03/2015 22:11:05] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 22:11:08] Xerath has logged out.
+[24/03/2015 22:11:09] Xerath has logged in.
+[24/03/2015 22:11:11] Xerath has logged out.
+[24/03/2015 22:11:36] > CLEAN: Removed 1135 items from 1246 tiles in 0.203 seconds.
+[24/03/2015 22:11:36] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 22:11:39] > Broadcasted message: "Para comprar bless digite !bless".
+[24/03/2015 22:14:09] Account Manager has logged in.
+[24/03/2015 22:14:22] Account Manager has logged out.
+[24/03/2015 22:14:23] Account Manager has logged in.
+[24/03/2015 22:14:36] Account Manager has logged out.
+[24/03/2015 22:14:44] Mythus Top has logged out.
+[24/03/2015 22:14:48] Mythus Top has logged in.
+[24/03/2015 22:14:55] Skize Da Xurupita has logged out.
+[24/03/2015 22:15:16] Cheguei No Pistao has logged out.
+[24/03/2015 22:15:18] Cheguei No Pistao has logged in.
+[24/03/2015 22:15:41] Honda has logged in.
+[24/03/2015 22:15:45] Haas has logged in.
+[24/03/2015 22:18:14] Haas has logged out.
+[24/03/2015 22:18:33] Haas has logged in.
+[24/03/2015 22:20:00] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[24/03/2015 22:20:21] Skiller has logged out.
+[24/03/2015 22:20:29] Skiller has logged in.
+[24/03/2015 22:20:56] Honda has logged out.
+[24/03/2015 22:20:59] Honda has logged in.
+[24/03/2015 22:22:04] Haas has logged out.
+[24/03/2015 22:22:04] Honda has logged out.
+[24/03/2015 22:22:05] Haas has logged in.
+[24/03/2015 22:22:07] Honda has logged in.
+[24/03/2015 22:23:05] Honda has logged out.
+[24/03/2015 22:23:09] Honda has logged in.
+[24/03/2015 22:24:30] Haas has logged out.
+[24/03/2015 22:24:49] Account Manager has logged in.
+[24/03/2015 22:24:59] Account Manager has logged out.
+[24/03/2015 22:25:31] Haas has logged in.
+[24/03/2015 22:27:38] Honda has logged out.
+[24/03/2015 22:27:38] > Saving server...
+[24/03/2015 22:27:40] > SAVE: Complete in 2.215 seconds using relational house storage.
+[24/03/2015 22:27:46] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 22:28:16] > CLEAN: Removed 292 items from 408 tiles in 0.187 seconds.
+[24/03/2015 22:28:17] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 22:28:21] > Broadcasted message: "Para ver as noticias fale !notice".
+[24/03/2015 22:31:04] Pallyzin has logged out.
+[24/03/2015 22:31:11] Mythus Top has logged out.
+[24/03/2015 22:31:26] Kina Top has logged in.
+[24/03/2015 22:31:42] Kina Top has logged out.
+[24/03/2015 22:31:43] Mythus Top has logged in.
+[24/03/2015 22:34:22] Account Manager has logged in.
+[24/03/2015 22:35:17] Account Manager has logged out.
+[24/03/2015 22:35:50] Account Manager has logged in.
+[24/03/2015 22:36:42] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[24/03/2015 22:36:48] Nadador Knight has logged out.
+[24/03/2015 22:37:15] Account Manager has logged out.
+[24/03/2015 22:37:28] Mythus Pvp has logged in.
+[24/03/2015 22:44:27] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 22:44:42] Haas has logged out.
+[24/03/2015 22:44:43] Hashi has logged in.
+[24/03/2015 22:44:46] Hashi has logged out.
+[24/03/2015 22:44:46] Liwed has logged in.
+[24/03/2015 22:44:53] Liwed has logged out.
+[24/03/2015 22:44:53] Ze do Picole has logged in.
+[24/03/2015 22:44:57] > CLEAN: Removed 206 items from 223 tiles in 0.172 seconds.
+[24/03/2015 22:44:57] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 22:45:03] > Broadcasted message: "Para ver as noticias fale !notice".
+[24/03/2015 22:45:32] Ze do Picole has logged out.
+[24/03/2015 22:45:33] Haas has logged in.
+[24/03/2015 22:48:34] Haas has logged out.
+[24/03/2015 22:48:41] Account Manager has logged in.
+[24/03/2015 22:48:48] Account Manager has logged out.
+[24/03/2015 22:48:55] Haas has logged in.
+[24/03/2015 22:48:59] Mythus Pvp has logged out.
+[24/03/2015 22:49:15] Honda has logged in.
+[24/03/2015 22:49:42] Haas has logged out.
+[24/03/2015 22:49:44] Haas has logged in.
+[24/03/2015 22:49:58] Skiller has logged out.
+[24/03/2015 22:50:00] Skiller has logged in.
+[24/03/2015 22:50:15] Honda has logged out.
+[24/03/2015 22:50:17] Honda has logged in.
+[24/03/2015 22:50:42] Haas has logged out.
+[24/03/2015 22:50:49] Haas has logged in.
+[24/03/2015 22:50:59] > Saving server...
+[24/03/2015 22:51:01] > SAVE: Complete in 2.075 seconds using relational house storage.
+[24/03/2015 22:51:05] Honda has logged out.
+[24/03/2015 22:51:07] Honda has logged in.
+[24/03/2015 22:51:29] Skiller has logged out.
+[24/03/2015 22:51:31] Skiller has logged in.
+[24/03/2015 22:51:43] Haas has logged out.
+[24/03/2015 22:51:46] Haas has logged in.
+[24/03/2015 22:52:00] Honda has logged out.
+[24/03/2015 22:52:01] Honda has logged in.
+[24/03/2015 22:52:19] Skiller has logged out.
+[24/03/2015 22:52:20] Skiller has logged in.
+[24/03/2015 22:52:31] Haas has logged out.
+[24/03/2015 22:52:34] Haas has logged in.
+[24/03/2015 22:52:51] Honda has logged out.
+[24/03/2015 22:52:54] Honda has logged in.
+[24/03/2015 22:53:13] Skiller has logged out.
+[24/03/2015 22:53:15] Skiller has logged in.
+[24/03/2015 22:53:24] > Broadcasted message: "Para comprar bless digite !bless".
+[24/03/2015 22:53:29] Haas has logged out.
+[24/03/2015 22:53:30] Haas has logged in.
+[24/03/2015 22:53:46] Honda has logged out.
+[24/03/2015 22:53:47] Honda has logged in.
+[24/03/2015 22:54:15] Skiller has logged out.
+[24/03/2015 22:54:17] Skiller has logged in.
+[24/03/2015 22:54:30] Haas has logged out.
+[24/03/2015 22:54:33] Haas has logged in.
+[24/03/2015 22:54:54] Honda has logged out.
+[24/03/2015 22:54:55] Honda has logged in.
+[24/03/2015 22:55:19] Skiller has logged out.
+[24/03/2015 22:55:20] Skiller has logged in.
+[24/03/2015 22:55:32] Haas has logged out.
+[24/03/2015 22:55:41] Haas has logged in.
+[24/03/2015 22:55:57] Honda has logged out.
+[24/03/2015 22:55:59] Honda has logged in.
+[24/03/2015 22:56:10] Haas has logged out.
+[24/03/2015 22:56:13] Haas has logged in.
+[24/03/2015 22:56:26] Honda has logged out.
+[24/03/2015 22:56:28] Honda has logged in.
+[24/03/2015 22:56:52] Skiller has logged out.
+[24/03/2015 22:56:55] Skiller has logged in.
+[24/03/2015 22:57:13] Haas has logged out.
+[24/03/2015 22:57:16] Haas has logged in.
+[24/03/2015 22:57:29] Honda has logged out.
+[24/03/2015 22:57:31] Honda has logged in.
+[24/03/2015 22:57:43] Haas has logged out.
+[24/03/2015 22:57:46] Haas has logged in.
+[24/03/2015 22:57:51] Haas has logged out.
+[24/03/2015 22:57:55] Honda has logged out.
+[24/03/2015 22:58:00] Honda has logged in.
+[24/03/2015 22:58:18] Honda has logged out.
+[24/03/2015 22:58:21] Honda has logged in.
+[24/03/2015 22:58:55] Mythus Pvp has logged in.
+[24/03/2015 23:00:02] Honda has logged out.
+[24/03/2015 23:00:02] Account Manager has logged in.
+[24/03/2015 23:00:08] Account Manager has logged out.
+[24/03/2015 23:01:08] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 23:01:11] Cheguei No Pistao has logged out.
+[24/03/2015 23:01:38] > CLEAN: Removed 156 items from 130 tiles in 0.187 seconds.
+[24/03/2015 23:01:38] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 23:01:45] > Broadcasted message: "Para ver as noticias fale !notice".
+[24/03/2015 23:03:26] Honda has logged in.
+[24/03/2015 23:03:55] Honda has logged out.
+[24/03/2015 23:03:56] Honda has logged in.
+[24/03/2015 23:04:20] Honda has logged out.
+[24/03/2015 23:04:21] Honda has logged in.
+[24/03/2015 23:04:41] Honda has logged out.
+[24/03/2015 23:04:42] Honda has logged in.
+[24/03/2015 23:05:05] Honda has logged out.
+[24/03/2015 23:05:06] Honda has logged in.
+[24/03/2015 23:05:10] Honda has logged out.
+[24/03/2015 23:08:27] Account Manager has logged in.
+[24/03/2015 23:08:31] Account Manager has logged out.
+[24/03/2015 23:10:06] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[24/03/2015 23:14:20] > Saving server...
+[24/03/2015 23:14:22] > SAVE: Complete in 1.747 seconds using relational house storage.
+[24/03/2015 23:15:50] Knight Mortal has logged in.
+[24/03/2015 23:17:49] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 23:18:20] > CLEAN: Removed 44 items from 81 tiles in 0.172 seconds.
+[24/03/2015 23:18:20] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 23:18:27] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[24/03/2015 23:26:48] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[24/03/2015 23:30:06] Mythus Pvp has logged out.
+[24/03/2015 23:30:08] Mythus Pvp has logged in.
+[24/03/2015 23:34:30] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 23:35:00] > CLEAN: Removed 2717 items from 3041 tiles in 0.234 seconds.
+[24/03/2015 23:35:01] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 23:35:09] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[24/03/2015 23:37:41] > Saving server...
+[24/03/2015 23:37:43] > SAVE: Complete in 1.872 seconds using relational house storage.
+[24/03/2015 23:43:30] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[24/03/2015 23:51:11] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[24/03/2015 23:51:31] Mythus Top has logged out.
+[24/03/2015 23:51:41] > CLEAN: Removed 2745 items from 2552 tiles in 0.218 seconds.
+[24/03/2015 23:51:41] > Broadcasted message: "Map Cleaned.".
+[24/03/2015 23:51:51] > Broadcasted message: "Para comprar bless digite !bless".
+[24/03/2015 23:52:25] Mythus Top has logged in.
+[24/03/2015 23:54:42] Magezin Sapeca has logged in.
+[24/03/2015 23:58:03] Knight Mortal has logged out.
+[24/03/2015 23:58:05] Knight Mortal has logged in.
+[24/03/2015 23:59:42] Mythus Pvp has logged out.
+[24/03/2015 23:59:44] Mythus Pvp has logged in.

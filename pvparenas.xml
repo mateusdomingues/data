@@ -1,0 +1,6 @@
+<pvparenas>
+	<pvparena exitx="82" exity="69" exitz="8" allowsummons="yes" multi-combat="yes" addskilltries="yes" allowfields="no">
+		<tiles fromx="74" fromy="72" fromz="8" tox="89" toy="78" toz="8"/>
+	</pvparena>
+
+</pvparenas>

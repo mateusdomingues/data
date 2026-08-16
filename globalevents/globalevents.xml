@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<globalevents>
+	<globalevent name="save" interval="1400" event="script" value="save.lua"/>
+	<globalevent name="clean" interval="1000" script="clean.lua"/>
+        <globalevent name="areahealth" interval="2" script="health.lua"/> 
+        <globalevent name="areasound" interval="2" script="sound.lua"/> 
+        <globalevent name="magiceffect" interval="1" script="placa2.lua"/>
+        <globalevent name="animatedtext" interval="2" script="texto.lua"/>
+        <globalevent name="mensagem" interval="500" script="mensagem.lua"/>
+        <globalevent name="reset" interval="500" script="reset.lua"/>
+</globalevents>

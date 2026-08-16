@@ -1,0 +1,1933 @@
+[05/03/2015 00:00:46] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 00:01:16] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/03/2015 00:01:17] > CLEAN: Removed 0 items from 2 tiles in 0.141 seconds.
+[05/03/2015 00:01:17] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 00:03:32] Morris has logged out.
+[05/03/2015 00:05:48] > Saving server...
+[05/03/2015 00:05:49] > SAVE: Complete in 1.201 seconds using relational house storage.
+[05/03/2015 00:05:54] > Saving server...
+[05/03/2015 00:05:55] > SAVE: Complete in 1.092 seconds using relational house storage.
+[05/03/2015 00:05:56] Preparing to shutdown server.[05/03/2015 11:08:34] The Forgotten Server, version 0.3.4 (Crying Damson)
+[05/03/2015 11:08:34] Sever Criado Por Alissow e Comedinha.
+[05/03/2015 11:08:34] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[05/03/2015 11:08:35] Bom Jogo!!!
+[05/03/2015 11:08:35] 
+[05/03/2015 11:08:35] >> Debugging: nothing.
+[05/03/2015 11:08:35] >> Checking software version... failed checking - malformed file.
+[05/03/2015 11:08:36] 
+[05/03/2015 11:08:36] >> Loading config (config.lua)
+[05/03/2015 11:08:36] > Using plaintext passwords
+[05/03/2015 11:08:36] >> Loading RSA key
+[05/03/2015 11:08:36] >> Starting SQL connection
+[05/03/2015 11:08:36] >> Running Database Manager
+[05/03/2015 11:08:37] > Optimized database.
+[05/03/2015 11:08:37] >> Loading items
+[05/03/2015 11:08:37] >> Loading groups
+[05/03/2015 11:08:38] >> Loading vocations
+[05/03/2015 11:08:38] >> Loading script systems
+[05/03/2015 11:08:39] >> Loading chat channels
+[05/03/2015 11:08:40] >> Loading outfits
+[05/03/2015 11:08:40] >> Loading experience stages
+[05/03/2015 11:08:40] >> Loading monsters
+[05/03/2015 11:08:42] >> Loading map and spawns...
+[05/03/2015 11:08:43] > Map size: 65000x65000.
+[05/03/2015 11:08:43] > Map descriptions: 
+[05/03/2015 11:08:43] Saved with Remere's Map Editor 2.2
+[05/03/2015 11:08:43] No map description available.
+[05/03/2015 11:08:43] Duplicate uniqueId 2407
+[05/03/2015 11:08:47] > Map loading time: 4.914 seconds.
+[05/03/2015 11:08:49] > Data loading time: 2.075 seconds.
+[05/03/2015 11:08:49] > Unserialization time for houses: 0.016 seconds.
+[05/03/2015 11:09:13] > Unserialization time for map: 23.556 seconds.
+[05/03/2015 11:09:13] >> Checking world type... PvP
+[05/03/2015 11:09:13] >> Initializing game state modules and registering services...
+[05/03/2015 11:09:14] > Global address: deathpvp.no-ip.biz
+[05/03/2015 11:09:14] > Local ports:
+[05/03/2015 11:09:14] 7171	7172	
+[05/03/2015 11:09:14] >> All modules were loaded, server starting up...
+[05/03/2015 11:09:15] >> OT Death server Online!
+[05/03/2015 11:09:15] 
+[05/03/2015 11:09:18] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[05/03/2015 11:15:13] Druidzerah Mythus has logged in.
+[05/03/2015 11:15:29] Bromm-brumm has logged in.
+[05/03/2015 11:17:00] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/03/2015 11:17:02] Account Manager has logged in.
+[05/03/2015 11:17:15] Account Manager has logged out.
+[05/03/2015 11:22:55] Fakedoi has logged in.
+[05/03/2015 11:25:15] Mateus has logged in.
+[05/03/2015 11:25:20] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 11:25:22] Mateus has logged out.
+[05/03/2015 11:25:22] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/03/2015 11:25:51] > CLEAN: Removed 3538 items from 2542 tiles in 0.324 seconds.
+[05/03/2015 11:25:52] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 11:32:05] > Saving server...
+[05/03/2015 11:32:07] > SAVE: Complete in 2.016 seconds using relational house storage.
+[05/03/2015 11:33:43] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 11:34:45] Bromm-brumm has logged out.
+[05/03/2015 11:34:50] Bromm-brumm has logged in.
+[05/03/2015 11:36:20] Bromm-brumm has logged out.
+[05/03/2015 11:36:22] Bromm-brumm has logged in.
+[05/03/2015 11:38:21] Bromm-brumm has logged out.
+[05/03/2015 11:38:22] Bromm-brumm has logged in.
+[05/03/2015 11:42:01] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 11:42:04] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/03/2015 11:42:31] > CLEAN: Removed 10752 items from 4384 tiles in 0.324 seconds.
+[05/03/2015 11:42:31] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 11:44:41] Bromm-brumm has logged out.
+[05/03/2015 11:44:43] Bromm-brumm has logged in.
+[05/03/2015 11:50:25] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 11:54:43] Fakedoi has logged out.
+[05/03/2015 11:54:44] Fakedoi has logged in.
+[05/03/2015 11:55:26] > Saving server...
+[05/03/2015 11:55:28] > SAVE: Complete in 1.878 seconds using relational house storage.
+[05/03/2015 11:58:42] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 11:58:46] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 11:59:13] > CLEAN: Removed 9518 items from 4099 tiles in 0.662 seconds.
+[05/03/2015 11:59:14] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 12:01:32] Bromm-brumm has logged out.
+[05/03/2015 12:06:58] Fakedoi has logged out.
+[05/03/2015 12:07:07] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 12:07:30] Fakedoi has logged in.
+[05/03/2015 12:11:31] Fakedoi has logged out.
+[05/03/2015 12:11:33] Fakedoi has logged in.
+[05/03/2015 12:14:03] Fakedoi has logged out.
+[05/03/2015 12:14:04] Fakedoi has logged in.
+[05/03/2015 12:15:23] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 12:15:28] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 12:15:54] > CLEAN: Removed 6445 items from 3675 tiles in 0.666 seconds.
+[05/03/2015 12:15:55] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 12:17:52] Microbio I has logged in.
+[05/03/2015 12:18:47] > Saving server...
+[05/03/2015 12:18:49] > SAVE: Complete in 2.335 seconds using relational house storage.
+[05/03/2015 12:23:49] > Broadcasted message: "Para comprar bless digite !bless".
+[05/03/2015 12:32:04] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 12:32:10] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/03/2015 12:32:35] > CLEAN: Removed 5711 items from 1938 tiles in 0.284 seconds.
+[05/03/2015 12:32:35] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 12:34:13] Druidzerah Mythus has logged out.
+[05/03/2015 12:35:01] Druidzerah Mythus has logged in.
+[05/03/2015 12:40:31] > Broadcasted message: "Para comprar bless digite !bless".
+[05/03/2015 12:42:08] > Saving server...
+[05/03/2015 12:42:09] > SAVE: Complete in 1.636 seconds using relational house storage.
+[05/03/2015 12:44:21] Knight Da Cachorrada has logged in.
+[05/03/2015 12:45:23] Account Manager has logged in.
+[05/03/2015 12:45:49] Microbio I has logged out.
+[05/03/2015 12:45:51] Account Manager has logged out.
+[05/03/2015 12:46:34] Account Manager has logged in.
+[05/03/2015 12:46:40] Account Manager has logged out.
+[05/03/2015 12:48:45] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 12:48:52] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 12:49:15] > CLEAN: Removed 7711 items from 3464 tiles in 0.296 seconds.
+[05/03/2015 12:49:16] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 12:57:13] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 12:57:20] Eu Gosto De Buceta has logged in.
+[05/03/2015 12:58:44] Anjo pk has logged in.
+[05/03/2015 12:58:48] Anjo pk has logged out.
+[05/03/2015 12:58:49] Anj pk has logged in.
+[05/03/2015 12:58:52] Anj pk has logged out.
+[05/03/2015 12:58:53] Anjo pk has logged in.
+[05/03/2015 13:00:23] Anjo pk has logged out.
+[05/03/2015 13:00:24] Anjo pk has logged in.
+[05/03/2015 13:04:54] Bromm-brumm has logged in.
+[05/03/2015 13:05:18] Mage Ziika has logged in.
+[05/03/2015 13:05:20] Eu Gosto De Buceta has logged out.
+[05/03/2015 13:05:26] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 13:05:29] > Saving server...
+[05/03/2015 13:05:31] > SAVE: Complete in 2.387 seconds using relational house storage.
+[05/03/2015 13:05:34] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 13:05:56] > CLEAN: Removed 10467 items from 4218 tiles in 0.34 seconds.
+[05/03/2015 13:05:56] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 13:06:32] Druidzerah Mythus has logged out.
+[05/03/2015 13:07:35] Eu Gosto De Buceta has logged in.
+[05/03/2015 13:10:19] Druidzerah Mythus has logged in.
+[05/03/2015 13:11:45] Knight Da Cachorrada has logged out.
+[05/03/2015 13:11:53] Bromm-brumm has logged out.
+[05/03/2015 13:11:57] Bromm-brumm has logged in.
+[05/03/2015 13:12:27] Fakedoi has logged out.
+[05/03/2015 13:13:40] Eu Gosto De Buceta has logged out.
+[05/03/2015 13:13:42] Eu Gosto De Buceta has logged in.
+[05/03/2015 13:13:55] > Broadcasted message: "Para comprar bless digite !bless".
+[05/03/2015 13:14:26] Account Manager has logged in.
+[05/03/2015 13:14:27] Account Manager has logged out.
+[05/03/2015 13:14:31] Dextrose has logged in.
+[05/03/2015 13:15:37] Fakedoi has logged in.
+[05/03/2015 13:17:10] Anjo pk has logged out.
+[05/03/2015 13:21:01] Eu Gosto De Buceta has logged out.
+[05/03/2015 13:22:07] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 13:22:16] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/03/2015 13:22:38] > CLEAN: Removed 9125 items from 4773 tiles in 0.521 seconds.
+[05/03/2015 13:22:39] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 13:23:36] Mateus has logged in.
+[05/03/2015 13:24:25] Mateus has logged out.
+[05/03/2015 13:28:39] Bromm-brumm has logged out.
+[05/03/2015 13:28:50] > Saving server...
+[05/03/2015 13:28:53] > SAVE: Complete in 2.654 seconds using relational house storage.
+[05/03/2015 13:30:37] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/03/2015 13:38:48] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 13:38:58] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 13:39:19] > CLEAN: Removed 12375 items from 5071 tiles in 0.645 seconds.
+[05/03/2015 13:39:19] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 13:41:09] Dextrose has logged out.
+[05/03/2015 13:45:01] Fakedoi has logged out.
+[05/03/2015 13:45:02] Fakedoi has logged in.
+[05/03/2015 13:47:19] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 13:52:11] > Saving server...
+[05/03/2015 13:52:13] > SAVE: Complete in 1.827 seconds using relational house storage.
+[05/03/2015 13:52:24] Fakedoi has logged out.
+[05/03/2015 13:53:57] Hiroshi has logged in.
+[05/03/2015 13:55:29] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 13:55:40] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 13:55:59] > CLEAN: Removed 11023 items from 5208 tiles in 0.281 seconds.
+[05/03/2015 13:55:59] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 13:56:25] Hiroshi has logged out.
+[05/03/2015 13:56:26] Hiroshi has logged in.
+[05/03/2015 14:04:01] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/03/2015 14:05:08] Mage Ziika has logged out.
+[05/03/2015 14:05:32] Hiroshi has logged out.
+[05/03/2015 14:06:43] Slc Cachorrera has logged in.
+[05/03/2015 14:07:11] Slc Cachorrera has logged out.
+[05/03/2015 14:07:12] Slc Chachorreira has logged in.
+[05/03/2015 14:07:16] Slc Chachorreira has logged out.
+[05/03/2015 14:07:16] Slc Chachorrera has logged in.
+[05/03/2015 14:07:33] Slc Chachorrera has logged out.
+[05/03/2015 14:07:49] Slc Cachorrera has logged in.
+[05/03/2015 14:08:02] Hiroshi has logged in.
+[05/03/2015 14:08:50] Mage Ziika has logged in.
+[05/03/2015 14:10:39] Slc Cachorrera has logged out.
+[05/03/2015 14:10:57] Account Manager has logged in.
+[05/03/2015 14:11:26] Account Manager has logged out.
+[05/03/2015 14:11:37] Knight Da Cachorrada has logged in.
+[05/03/2015 14:12:10] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 14:12:22] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/03/2015 14:12:41] > CLEAN: Removed 8879 items from 5397 tiles in 0.296 seconds.
+[05/03/2015 14:12:41] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 14:14:44] Account Manager has logged in.
+[05/03/2015 14:15:32] > Saving server...
+[05/03/2015 14:15:34] > SAVE: Complete in 1.903 seconds using relational house storage.
+[05/03/2015 14:17:10] Account Manager has logged out.
+[05/03/2015 14:20:43] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/03/2015 14:21:24] Account Manager has logged in.
+[05/03/2015 14:21:38] Account Manager has logged out.
+[05/03/2015 14:21:39] Account Manager has logged in.
+[05/03/2015 14:21:40] Account Manager has logged out.
+[05/03/2015 14:21:46] Hashi has logged in.
+[05/03/2015 14:28:51] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 14:29:04] > Broadcasted message: "Para comprar bless digite !bless".
+[05/03/2015 14:29:21] > CLEAN: Removed 4688 items from 3533 tiles in 0.234 seconds.
+[05/03/2015 14:29:21] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 14:30:03] Account Manager has logged in.
+[05/03/2015 14:30:11] Account Manager has logged out.
+[05/03/2015 14:30:20] Mete Akky has logged in.
+[05/03/2015 14:30:23] Mete Akky has logged out.
+[05/03/2015 14:30:33] Mr Thug has logged in.
+[05/03/2015 14:32:03] Mr Thug has logged out.
+[05/03/2015 14:32:04] Mr Thug has logged in.
+[05/03/2015 14:32:16] Slc Cachorrera has logged in.
+[05/03/2015 14:33:03] Slc Cachorrera has logged out.
+[05/03/2015 14:33:04] Slc Chachorrera has logged in.
+[05/03/2015 14:33:15] Slc Chachorrera has logged out.
+[05/03/2015 14:33:16] Slc Chachorrera has logged in.
+[05/03/2015 14:33:20] Slc Chachorrera has logged out.
+[05/03/2015 14:33:21] Slc Chachorrera has logged in.
+[05/03/2015 14:33:24] Slc Chachorrera has logged out.
+[05/03/2015 14:33:25] Slc Chachorrera has logged in.
+[05/03/2015 14:33:29] Slc Chachorrera has logged out.
+[05/03/2015 14:33:30] Slc Chachorrera has logged in.
+[05/03/2015 14:33:33] Slc Chachorrera has logged out.
+[05/03/2015 14:33:34] Slc Chachorrera has logged in.
+[05/03/2015 14:33:36] Slc Chachorrera has logged out.
+[05/03/2015 14:33:37] Slc Chachorrera has logged in.
+[05/03/2015 14:33:41] Slc Chachorrera has logged out.
+[05/03/2015 14:33:42] Slc Chachorrera has logged in.
+[05/03/2015 14:33:44] Slc Chachorrera has logged out.
+[05/03/2015 14:33:45] Slc Chachorrera has logged in.
+[05/03/2015 14:33:50] Slc Chachorrera has logged out.
+[05/03/2015 14:34:03] Pally Tenebroso has logged in.
+[05/03/2015 14:34:21] Pally Tenebroso has logged out.
+[05/03/2015 14:34:22] Pally Tenebroso has logged in.
+[05/03/2015 14:34:43] Pally Tenebroso has logged out.
+[05/03/2015 14:34:56] Knight Da Cachorrada has logged out.
+[05/03/2015 14:35:17] Pally Tenebroso has logged in.
+[05/03/2015 14:36:11] Knight Da Cachorrada has logged in.
+[05/03/2015 14:36:33] Pally Tenebroso has logged out.
+[05/03/2015 14:36:56] Knight Da Cachorrada has logged out.
+[05/03/2015 14:37:00] Pally Tenebroso has logged in.
+[05/03/2015 14:37:16] Knight Da Cachorrada has logged in.
+[05/03/2015 14:37:25] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/03/2015 14:37:46] Knight Da Cachorrada has logged out.
+[05/03/2015 14:38:15] Knight Da Cachorrada has logged in.
+[05/03/2015 14:38:29] Pally Tenebroso has logged out.
+[05/03/2015 14:38:30] Pally Tenebroso has logged in.
+[05/03/2015 14:38:42] Pally Tenebroso has logged out.
+[05/03/2015 14:38:52] Knight Da Cachorrada has logged out.
+[05/03/2015 14:38:53] > Saving server...
+[05/03/2015 14:38:55] > SAVE: Complete in 1.981 seconds using relational house storage.
+[05/03/2015 14:39:22] Pally Tenebroso has logged in.
+[05/03/2015 14:40:14] Knight Da Cachorrada has logged in.
+[05/03/2015 14:40:29] Pally Tenebroso has logged out.
+[05/03/2015 14:40:32] Pally Tenebroso has logged in.
+[05/03/2015 14:40:44] Pally Tenebroso has logged out.
+[05/03/2015 14:40:45] Pally Tenebroso has logged in.
+[05/03/2015 14:40:55] Pally Tenebroso has logged out.
+[05/03/2015 14:40:57] Pally Tenebroso has logged in.
+[05/03/2015 14:41:05] Pally Tenebroso has logged out.
+[05/03/2015 14:41:06] Pally Tenebroso has logged in.
+[05/03/2015 14:41:13] Pally Tenebroso has logged out.
+[05/03/2015 14:41:15] Pally Tenebroso has logged in.
+[05/03/2015 14:41:24] Pally Tenebroso has logged out.
+[05/03/2015 14:41:26] Pally Tenebroso has logged in.
+[05/03/2015 14:41:35] Pally Tenebroso has logged out.
+[05/03/2015 14:41:38] Pally Tenebroso has logged in.
+[05/03/2015 14:41:46] Pally Tenebroso has logged out.
+[05/03/2015 14:41:47] Pally Tenebroso has logged in.
+[05/03/2015 14:41:57] Pally Tenebroso has logged out.
+[05/03/2015 14:41:59] Pally Tenebroso has logged in.
+[05/03/2015 14:42:09] Pally Tenebroso has logged out.
+[05/03/2015 14:42:10] Pally Tenebroso has logged in.
+[05/03/2015 14:42:18] Pally Tenebroso has logged out.
+[05/03/2015 14:42:20] Pally Tenebroso has logged in.
+[05/03/2015 14:42:27] Pally Tenebroso has logged out.
+[05/03/2015 14:42:28] Pally Tenebroso has logged in.
+[05/03/2015 14:42:37] Pally Tenebroso has logged out.
+[05/03/2015 14:42:38] Pally Tenebroso has logged in.
+[05/03/2015 14:42:45] Pally Tenebroso has logged out.
+[05/03/2015 14:42:46] Pally Tenebroso has logged in.
+[05/03/2015 14:42:53] Pally Tenebroso has logged out.
+[05/03/2015 14:42:54] Pally Tenebroso has logged in.
+[05/03/2015 14:43:00] Pally Tenebroso has logged out.
+[05/03/2015 14:43:01] Pally Tenebroso has logged in.
+[05/03/2015 14:43:15] Pally Tenebroso has logged out.
+[05/03/2015 14:43:16] Pally Tenebroso has logged in.
+[05/03/2015 14:43:26] Pally Tenebroso has logged out.
+[05/03/2015 14:43:27] Pally Tenebroso has logged in.
+[05/03/2015 14:43:29] Pally Tenebroso has logged out.
+[05/03/2015 14:43:34] Slc Chachorrera has logged in.
+[05/03/2015 14:43:37] Slc Chachorrera has logged out.
+[05/03/2015 14:43:38] Slc Cachorrera has logged in.
+[05/03/2015 14:44:16] Nadador Arqueiro has logged in.
+[05/03/2015 14:45:32] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 14:45:46] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 14:46:02] > CLEAN: Removed 1573 items from 1888 tiles in 0.187 seconds.
+[05/03/2015 14:46:03] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 14:46:27] Microbio I has logged in.
+[05/03/2015 14:46:28] Nadador Arqueiro has logged out.
+[05/03/2015 14:46:30] Nadador Arqueiro has logged in.
+[05/03/2015 14:46:51] Nadador Arqueiro has logged out.
+[05/03/2015 14:46:53] Nadador Arqueiro has logged in.
+[05/03/2015 14:47:23] Nadador Arqueiro has logged out.
+[05/03/2015 14:47:25] Nadador Arqueiro has logged in.
+[05/03/2015 14:49:33] Microbio I has logged out.
+[05/03/2015 14:49:35] Microbio I has logged in.
+[05/03/2015 14:50:21] Knight Da Cachorrada has logged out.
+[05/03/2015 14:50:52] Mr Thug has logged out.
+[05/03/2015 14:50:53] Mr Thug has logged in.
+[05/03/2015 14:51:24] Hashi has logged out.
+[05/03/2015 14:51:26] Hashi has logged in.
+[05/03/2015 14:53:29] Hashi has logged out.
+[05/03/2015 14:53:30] Hashi has logged in.
+[05/03/2015 14:53:55] Mr Thug has logged out.
+[05/03/2015 14:53:57] Mr Thug has logged in.
+[05/03/2015 14:54:07] > Broadcasted message: "Para comprar bless digite !bless".
+[05/03/2015 14:54:08] Mr Thug has logged out.
+[05/03/2015 14:54:10] Long Viber has logged in.
+[05/03/2015 14:54:14] Long Viber has logged out.
+[05/03/2015 14:54:15] Mr Thug has logged in.
+[05/03/2015 14:54:46] Knight Da Cachorrada has logged in.
+[05/03/2015 14:54:54] Microbio I has logged out.
+[05/03/2015 14:54:56] Microbio I has logged in.
+[05/03/2015 14:55:25] Hashi has logged out.
+[05/03/2015 14:55:26] Hashi has logged in.
+[05/03/2015 14:56:29] Slc Cachorrera has logged out.
+[05/03/2015 14:56:31] Slc Cachorrera has logged in.
+[05/03/2015 14:58:49] Slc Cachorrera has logged out.
+[05/03/2015 14:58:51] Slc Cachorrera has logged in.
+[05/03/2015 14:59:07] Hashi has logged out.
+[05/03/2015 14:59:09] Hashi has logged in.
+[05/03/2015 14:59:31] Hashi has logged out.
+[05/03/2015 14:59:32] Hashi has logged in.
+[05/03/2015 15:00:04] Knight Da Cachorrada has logged out.
+[05/03/2015 15:00:04] Slc Cachorrera has logged out.
+[05/03/2015 15:00:05] 
+[05/03/2015 15:00:05] Lua Script Error: [CreatureScript Interface] 
+[05/03/2015 15:00:05] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[05/03/2015 15:00:05] 
+[05/03/2015 15:00:05] luaGetCreatureName(). Creature not found
+[05/03/2015 15:00:06] Hashi has logged out.
+[05/03/2015 15:00:06] Slc Cachorrera has logged in.
+[05/03/2015 15:00:07] Knight Da Cachorrada has logged in.
+[05/03/2015 15:00:07] Hashi has logged in.
+[05/03/2015 15:01:03] Mr Thug has logged out.
+[05/03/2015 15:01:05] Mr Thug has logged in.
+[05/03/2015 15:01:23] Slc Cachorrera has logged out.
+[05/03/2015 15:01:25] Slc Cachorrera has logged in.
+[05/03/2015 15:01:34] Microbio I has logged out.
+[05/03/2015 15:01:36] Microbio I has logged in.
+[05/03/2015 15:01:53] Mr Thug has logged out.
+[05/03/2015 15:01:54] Mr Thug has logged in.
+[05/03/2015 15:02:13] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 15:02:14] > Saving server...
+[05/03/2015 15:02:17] > SAVE: Complete in 2.699 seconds using relational house storage.
+[05/03/2015 15:02:28] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 15:02:44] > CLEAN: Removed 2109 items from 1183 tiles in 0.202 seconds.
+[05/03/2015 15:02:44] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 15:03:23] Hashi has logged out.
+[05/03/2015 15:03:24] Hashi has logged in.
+[05/03/2015 15:03:42] Microbio I has logged out.
+[05/03/2015 15:03:43] Mr Thug has logged out.
+[05/03/2015 15:03:44] Microbio I has logged in.
+[05/03/2015 15:03:45] Mr Thug has logged in.
+[05/03/2015 15:04:35] Slc Cachorrera has logged out.
+[05/03/2015 15:04:37] Slc Cachorrera has logged in.
+[05/03/2015 15:05:39] Knight Da Cachorrada has logged out.
+[05/03/2015 15:05:49] Knight Da Cachorrada has logged in.
+[05/03/2015 15:06:30] Hashi has logged out.
+[05/03/2015 15:06:31] Hashi has logged in.
+[05/03/2015 15:07:19] Hashi has logged out.
+[05/03/2015 15:07:21] Hashi has logged in.
+[05/03/2015 15:07:23] Mr Thug has logged out.
+[05/03/2015 15:07:24] Mr Thug has logged in.
+[05/03/2015 15:07:28] Hiroshi has logged out.
+[05/03/2015 15:07:30] Mage Ziika has logged out.
+[05/03/2015 15:08:03] Knight Da Cachorrada has logged out.
+[05/03/2015 15:08:04] Knight Da Cachorrada has logged in.
+[05/03/2015 15:08:25] Mr Thug has logged out.
+[05/03/2015 15:08:26] Mr Thug has logged in.
+[05/03/2015 15:08:45] Hiroshi has logged in.
+[05/03/2015 15:09:09] Slc Cachorrera has logged out.
+[05/03/2015 15:09:10] Slc Cachorrera has logged in.
+[05/03/2015 15:09:24] Hashi has logged out.
+[05/03/2015 15:09:26] Hashi has logged in.
+[05/03/2015 15:09:36] Nadador Arqueiro has logged out.
+[05/03/2015 15:09:40] Mage Ziika has logged in.
+[05/03/2015 15:10:43] Microbio I has logged out.
+[05/03/2015 15:10:48] Slc Cachorrera has logged out.
+[05/03/2015 15:10:49] Slc Cachorrera has logged in.
+[05/03/2015 15:10:49] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 15:11:13] Microbiio I has logged in.
+[05/03/2015 15:13:13] Hashi has logged out.
+[05/03/2015 15:13:15] Hashi has logged in.
+[05/03/2015 15:14:25] Mage Ziika has logged out.
+[05/03/2015 15:14:43] Honda has logged in.
+[05/03/2015 15:15:28] Honda has logged out.
+[05/03/2015 15:15:30] Hashi has logged out.
+[05/03/2015 15:15:32] Hashi has logged in.
+[05/03/2015 15:16:18] Honda has logged in.
+[05/03/2015 15:16:25] Hiroshi has logged out.
+[05/03/2015 15:16:30] Hiroshi has logged in.
+[05/03/2015 15:17:30] Honda has logged out.
+[05/03/2015 15:17:42] Mage Ziika has logged in.
+[05/03/2015 15:17:49] Mr Thug has logged out.
+[05/03/2015 15:17:51] Vem Monstro has logged in.
+[05/03/2015 15:18:25] Vem Monstro has logged out.
+[05/03/2015 15:18:27] Mr Thug has logged in.
+[05/03/2015 15:18:51] Mr Thug has logged out.
+[05/03/2015 15:18:53] Mr Thug has logged in.
+[05/03/2015 15:18:54] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 15:19:10] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 15:19:25] > CLEAN: Removed 1957 items from 1218 tiles in 0.203 seconds.
+[05/03/2015 15:19:25] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 15:19:32] Knight Da Cachorrada has logged out.
+[05/03/2015 15:19:33] Knight Da Cachorrada has logged in.
+[05/03/2015 15:20:14] Fakedoi has logged in.
+[05/03/2015 15:20:56] Knight Da Cachorrada has logged out.
+[05/03/2015 15:20:57] Knight Da Cachorrada has logged in.
+[05/03/2015 15:21:28] Knight Da Cachorrada has logged out.
+[05/03/2015 15:21:29] Knight Da Cachorrada has logged in.
+[05/03/2015 15:21:34] Hashi has logged out.
+[05/03/2015 15:21:52] Hashi has logged in.
+[05/03/2015 15:22:20] Hashi has logged out.
+[05/03/2015 15:22:22] Hashi has logged in.
+[05/03/2015 15:23:03] Hiroshi has logged out.
+[05/03/2015 15:23:04] Hiroshi has logged in.
+[05/03/2015 15:24:01] Fakedoi has logged out.
+[05/03/2015 15:24:02] Jean has logged in.
+[05/03/2015 15:24:28] Mr Thug has logged out.
+[05/03/2015 15:24:32] Mr Thug has logged in.
+[05/03/2015 15:25:35] > Saving server...
+[05/03/2015 15:25:38] > SAVE: Complete in 2.371 seconds using relational house storage.
+[05/03/2015 15:26:36] > Saving server...
+[05/03/2015 15:26:38] > SAVE: Complete in 2.59 seconds using relational house storage.
+[05/03/2015 15:26:39] Jean has logged out.
+[05/03/2015 15:26:40] Mr Thug has logged out.
+[05/03/2015 15:26:42] Druid Da Viber has logged in.
+[05/03/2015 15:26:53] Druid Da Viber has logged out.
+[05/03/2015 15:26:55] Druid Da Viber has logged in.
+[05/03/2015 15:27:02] Hiroshi has logged out.
+[05/03/2015 15:27:03] Hiroshi has logged in.
+[05/03/2015 15:27:14] Druid Da Viber has logged out.
+[05/03/2015 15:27:16] Mr Thug has logged in.
+[05/03/2015 15:27:29] Knight Da Cachorrada has logged out.
+[05/03/2015 15:27:31] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 15:27:31] Knight Da Cachorrada has logged in.
+[05/03/2015 15:28:00] Mr Thug has logged out.
+[05/03/2015 15:28:01] Mr Thug has logged in.
+[05/03/2015 15:28:31] Knight Da Cachorrada has logged out.
+[05/03/2015 15:28:33] Knight Da Cachorrada has logged in.
+[05/03/2015 15:28:41] Knight Da Cachorrada has logged out.
+[05/03/2015 15:28:42] Knight Da Cachorrada has logged in.
+[05/03/2015 15:28:57] Microbiio I has logged out.
+[05/03/2015 15:29:05] Mage Ziika has logged out.
+[05/03/2015 15:29:10] Mage Ziika has logged in.
+[05/03/2015 15:29:11] Mage Ziika has logged out.
+[05/03/2015 15:29:26] Druidzerah Mythus has logged out.
+[05/03/2015 15:29:47] Druidzerah Mythus has logged in.
+[05/03/2015 15:30:00] Knight Da Cachorrada has logged out.
+[05/03/2015 15:30:02] Knight Da Cachorrada has logged in.
+[05/03/2015 15:30:38] Mr Thug has logged out.
+[05/03/2015 15:30:39] Mr Thug has logged in.
+[05/03/2015 15:33:09] Slc Cachorrera has logged out.
+[05/03/2015 15:33:13] Knight Da Cachorrada has logged out.
+[05/03/2015 15:33:14] Knight Da Cachorrada has logged in.
+[05/03/2015 15:33:38] Microbio I has logged in.
+[05/03/2015 15:33:39] Knight Da Cachorrada has logged out.
+[05/03/2015 15:33:41] Knight Da Cachorrada has logged in.
+[05/03/2015 15:35:35] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 15:35:52] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 15:36:05] > CLEAN: Removed 3187 items from 2190 tiles in 0.234 seconds.
+[05/03/2015 15:36:05] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 15:36:58] Knight Da Cachorrada has logged out.
+[05/03/2015 15:36:59] Knight Da Cachorrada has logged in.
+[05/03/2015 15:39:58] Microbio I has logged out.
+[05/03/2015 15:40:10] Microbiio I has logged in.
+[05/03/2015 15:40:33] Hensh has logged in.
+[05/03/2015 15:44:13] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 15:45:43] Hashi has logged out.
+[05/03/2015 15:45:48] Hashi has logged in.
+[05/03/2015 15:48:03] Mage Ziika has logged in.
+[05/03/2015 15:48:05] Mage Ziika has logged out.
+[05/03/2015 15:48:06] Mage Ziika has logged in.
+[05/03/2015 15:48:07] Mage Ziika has logged out.
+[05/03/2015 15:48:09] Mage Ziika has logged in.
+[05/03/2015 15:48:10] Mage Ziika has logged out.
+[05/03/2015 15:48:11] Mage Ziika has logged in.
+[05/03/2015 15:48:13] Mage Ziika has logged out.
+[05/03/2015 15:48:14] Mage Ziika has logged in.
+[05/03/2015 15:48:16] Mage Ziika has logged out.
+[05/03/2015 15:48:56] > Saving server...
+[05/03/2015 15:48:59] > SAVE: Complete in 2.371 seconds using relational house storage.
+[05/03/2015 15:52:16] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 15:52:34] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 15:52:46] > CLEAN: Removed 6788 items from 3685 tiles in 0.25 seconds.
+[05/03/2015 15:52:47] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 15:53:06] Mage Ziika has logged in.
+[05/03/2015 15:54:16] Mage Ziika has logged out.
+[05/03/2015 15:54:43] Mage Ziika has logged in.
+[05/03/2015 15:55:32] Mage Ziika has logged out.
+[05/03/2015 15:55:33] Mage Ziika has logged in.
+[05/03/2015 15:55:34] Mage Ziika has logged out.
+[05/03/2015 15:55:40] Honda has logged in.
+[05/03/2015 15:56:36] Honda has logged out.
+[05/03/2015 15:56:41] Honda has logged in.
+[05/03/2015 15:56:47] Mr Thug has logged out.
+[05/03/2015 15:56:59] Honda has logged out.
+[05/03/2015 15:57:07] Honda has logged in.
+[05/03/2015 15:57:28] Honda has logged out.
+[05/03/2015 15:57:29] Knight Da Cachorrada has logged out.
+[05/03/2015 15:57:51] Knight Da Cachorrada has logged in.
+[05/03/2015 16:00:55] > Broadcasted message: "Para comprar bless digite !bless".
+[05/03/2015 16:01:28] Hiroshi has logged out.
+[05/03/2015 16:01:31] Hiroshi has logged in.
+[05/03/2015 16:02:00] Mr Thug has logged in.
+[05/03/2015 16:02:14] Hiroshi has logged out.
+[05/03/2015 16:03:09] Mage Ziika has logged in.
+[05/03/2015 16:03:41] Mr Thug has logged out.
+[05/03/2015 16:03:43] Vem Monstro has logged in.
+[05/03/2015 16:04:33] Mage Ziika has logged out.
+[05/03/2015 16:05:09] Vem Monstro has logged out.
+[05/03/2015 16:05:11] Vem Monstro has logged in.
+[05/03/2015 16:05:59] Hashi has logged out.
+[05/03/2015 16:06:09] Druidzerah Mythus has logged out.
+[05/03/2015 16:06:31] Hashi has logged in.
+[05/03/2015 16:08:57] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 16:09:16] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 16:09:27] > CLEAN: Removed 6304 items from 3233 tiles in 0.234 seconds.
+[05/03/2015 16:09:27] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 16:10:17] Vem Monstro has logged out.
+[05/03/2015 16:12:17] > Saving server...
+[05/03/2015 16:12:19] > SAVE: Complete in 1.825 seconds using relational house storage.
+[05/03/2015 16:14:22] Druidzerah Mythus has logged in.
+[05/03/2015 16:14:38] Druidzerah Mythus has logged out.
+[05/03/2015 16:14:44] Mage Ziika has logged in.
+[05/03/2015 16:16:18] Hensh has logged out.
+[05/03/2015 16:16:51] Mage Ziika has logged out.
+[05/03/2015 16:17:37] > Broadcasted message: "Para comprar bless digite !bless".
+[05/03/2015 16:18:07] Mage Ziika has logged in.
+[05/03/2015 16:18:20] Knight Da Cachorrada has logged out.
+[05/03/2015 16:23:18] Druidzerah Mythus has logged in.
+[05/03/2015 16:25:38] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 16:25:53] Hiroshi has logged in.
+[05/03/2015 16:25:58] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 16:26:09] > CLEAN: Removed 5568 items from 3318 tiles in 0.219 seconds.
+[05/03/2015 16:26:09] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 16:26:41] Nadador Arqueiro has logged in.
+[05/03/2015 16:27:20] Nadador Arqueiro has logged out.
+[05/03/2015 16:27:28] Nadador Knight has logged in.
+[05/03/2015 16:34:17] Microbiio I has logged out.
+[05/03/2015 16:34:19] Druidzerah Mythus has logged out.
+[05/03/2015 16:34:19] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 16:34:34] Nadador Knight has logged out.
+[05/03/2015 16:34:34] Druidzerah Mythus has logged in.
+[05/03/2015 16:34:41] Nadador Arqueiro has logged in.
+[05/03/2015 16:34:45] Nadador Arqueiro has logged out.
+[05/03/2015 16:35:02] Knight Da Cachorrada has logged in.
+[05/03/2015 16:35:06] Nadador Knight has logged in.
+[05/03/2015 16:35:38] > Saving server...
+[05/03/2015 16:35:41] > SAVE: Complete in 2.152 seconds using relational house storage.
+[05/03/2015 16:42:19] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 16:42:40] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 16:42:49] > CLEAN: Removed 15654 items from 9342 tiles in 0.343 seconds.
+[05/03/2015 16:42:49] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 16:43:57] Bobombox has logged in.
+[05/03/2015 16:51:01] > Broadcasted message: "Para comprar bless digite !bless".
+[05/03/2015 16:55:34] Bobombox has logged out.
+[05/03/2015 16:55:38] Account Manager has logged in.
+[05/03/2015 16:55:52] Account Manager has logged out.
+[05/03/2015 16:56:00] Bobombox has logged in.
+[05/03/2015 16:56:36] Bobombox has logged out.
+[05/03/2015 16:56:36] Ultimate Archer has logged in.
+[05/03/2015 16:58:59] > Saving server...
+[05/03/2015 16:59:01] > SAVE: Complete in 2.293 seconds using relational house storage.
+[05/03/2015 16:59:02] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 16:59:22] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 16:59:32] > CLEAN: Removed 15068 items from 9002 tiles in 0.312 seconds.
+[05/03/2015 16:59:32] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 17:06:59] Knight Da Cachorrada has logged out.
+[05/03/2015 17:07:43] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 17:13:30] Nadador Knight has logged out.
+[05/03/2015 17:15:43] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 17:16:04] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 17:16:14] > CLEAN: Removed 13632 items from 8021 tiles in 0.312 seconds.
+[05/03/2015 17:16:14] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 17:18:26] Hashi has logged out.
+[05/03/2015 17:19:42] Fakedoi has logged in.
+[05/03/2015 17:19:52] Mage Ziika has logged out.
+[05/03/2015 17:20:06] Hiroshi has logged out.
+[05/03/2015 17:21:13] Hiroshi has logged in.
+[05/03/2015 17:21:49] Mateus has logged in.
+[05/03/2015 17:21:59] Mateus has logged out.
+[05/03/2015 17:22:20] > Saving server...
+[05/03/2015 17:22:21] > SAVE: Complete in 1.761 seconds using relational house storage.
+[05/03/2015 17:24:25] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 17:25:03] Mage Ziika has logged in.
+[05/03/2015 17:28:24] Account Manager has logged in.
+[05/03/2015 17:28:35] Account Manager has logged out.
+[05/03/2015 17:28:43] Account Manager has logged in.
+[05/03/2015 17:28:57] Account Manager has logged out.
+[05/03/2015 17:29:04] Epiczx has logged in.
+[05/03/2015 17:29:43] Jureminha has logged in.
+[05/03/2015 17:30:16] Jureminha has logged out.
+[05/03/2015 17:32:24] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 17:32:46] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 17:32:55] > CLEAN: Removed 10403 items from 6389 tiles in 1.434 seconds.
+[05/03/2015 17:32:57] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 17:35:58] Slc Cachorrera has logged in.
+[05/03/2015 17:36:02] Knight Da Cachorrada has logged in.
+[05/03/2015 17:36:10] Epiczx has logged out.
+[05/03/2015 17:36:12] Epiczx has logged in.
+[05/03/2015 17:36:34] Epiczx has logged out.
+[05/03/2015 17:36:35] Epiczx has logged in.
+[05/03/2015 17:36:43] Slc Cachorrera has logged out.
+[05/03/2015 17:36:45] Knight Da Cachorrada has logged out.
+[05/03/2015 17:37:14] Slc Cachorrera has logged in.
+[05/03/2015 17:38:35] Ultimate Archer has logged out.
+[05/03/2015 17:38:42] Slc Cachorrera has logged out.
+[05/03/2015 17:39:24] Slc Cachorrera has logged in.
+[05/03/2015 17:39:36] Knight Da Cachorrada has logged in.
+[05/03/2015 17:41:07] > Broadcasted message: "Para comprar bless digite !bless".
+[05/03/2015 17:42:06] Epiczx has logged out.
+[05/03/2015 17:42:12] Ultimate Archer has logged in.
+[05/03/2015 17:42:27] Epiczx has logged in.
+[05/03/2015 17:42:33] Epiczx has logged out.
+[05/03/2015 17:45:41] > Saving server...
+[05/03/2015 17:45:43] > SAVE: Complete in 2.316 seconds using relational house storage.
+[05/03/2015 17:47:53] Fakedoi has logged out.
+[05/03/2015 17:47:54] Fakedoi has logged in.
+[05/03/2015 17:49:05] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 17:49:28] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 17:49:36] > CLEAN: Removed 13000 items from 6699 tiles in 0.423 seconds.
+[05/03/2015 17:49:37] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 17:50:46] Fakedoi has logged out.
+[05/03/2015 17:51:12] Fakedoi has logged in.
+[05/03/2015 17:51:44] Microbiio I has logged in.
+[05/03/2015 17:52:55] Hensh has logged in.
+[05/03/2015 17:55:01] Druidzerah Mythus has logged out.
+[05/03/2015 17:56:05] Knight Da Cachorrada has logged out.
+[05/03/2015 17:56:12] Knight Da Cachorrada has logged in.
+[05/03/2015 17:56:25] Druidzerah Mythus has logged in.
+[05/03/2015 17:57:26] Fakedoi has logged out.
+[05/03/2015 17:57:27] Fakedoi has logged in.
+[05/03/2015 17:57:49] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 17:58:28] Ultimate Archer has logged out.
+[05/03/2015 17:58:29] Ultimate Archer has logged in.
+[05/03/2015 17:58:30] Ultimate Archer has logged out.
+[05/03/2015 17:58:36] Ultimate Archer has logged in.
+[05/03/2015 17:58:39] Microbiio I has logged out.
+[05/03/2015 18:00:14] Slc Cachorrera has logged out.
+[05/03/2015 18:03:24] Account Manager has logged in.
+[05/03/2015 18:03:26] Account Manager has logged out.
+[05/03/2015 18:03:40] Microbiio I has logged in.
+[05/03/2015 18:03:42] Microbiio I has logged out.
+[05/03/2015 18:04:52] Account Manager has logged in.
+[05/03/2015 18:04:53] Account Manager has logged out.
+[05/03/2015 18:05:20] Morris has logged in.
+[05/03/2015 18:05:46] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 18:06:10] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 18:06:17] > CLEAN: Removed 15012 items from 7114 tiles in 0.405 seconds.
+[05/03/2015 18:06:17] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 18:06:35] Nadador Arqueiro has logged in.
+[05/03/2015 18:06:49] Nadador Arqueiro has logged out.
+[05/03/2015 18:06:57] Nadador Knight has logged in.
+[05/03/2015 18:07:03] Account Manager has logged in.
+[05/03/2015 18:07:04] Account Manager has logged out.
+[05/03/2015 18:07:13] Nadador Knight has logged out.
+[05/03/2015 18:07:20] Nadador Arqueiro has logged in.
+[05/03/2015 18:08:31] Microbiio I has logged in.
+[05/03/2015 18:09:02] > Saving server...
+[05/03/2015 18:09:05] > SAVE: Complete in 2.951 seconds using relational house storage.
+[05/03/2015 18:09:20] Hensh has logged out.
+[05/03/2015 18:10:57] Hensh has logged in.
+[05/03/2015 18:10:58] Microbiio I has logged out.
+[05/03/2015 18:11:00] Microbiio I has logged in.
+[05/03/2015 18:12:13] Morris has logged out.
+[05/03/2015 18:12:17] Account Manager has logged in.
+[05/03/2015 18:12:36] Knight Da Cachorrada has logged out.
+[05/03/2015 18:12:39] Account Manager has logged out.
+[05/03/2015 18:12:50] Hiroshi has logged out.
+[05/03/2015 18:12:55] Account Manager has logged in.
+[05/03/2015 18:13:01] Hiroshi has logged in.
+[05/03/2015 18:13:15] Account Manager has logged out.
+[05/03/2015 18:13:21] Morris has logged in.
+[05/03/2015 18:14:24] Infinity has logged in.
+[05/03/2015 18:14:26] Infinity has logged out.
+[05/03/2015 18:14:31] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 18:15:02] Ultimate Archer has logged out.
+[05/03/2015 18:16:09] Account Manager has logged in.
+[05/03/2015 18:16:55] Account Manager has logged out.
+[05/03/2015 18:17:04] Account Manager has logged in.
+[05/03/2015 18:17:23] Account Manager has logged out.
+[05/03/2015 18:17:48] Coronel Brandock has logged in.
+[05/03/2015 18:21:04] Microbiio I has logged out.
+[05/03/2015 18:21:07] Microbiio I has logged in.
+[05/03/2015 18:21:27] Hiroshi has logged out.
+[05/03/2015 18:21:30] Hiroshi has logged in.
+[05/03/2015 18:21:35] Hiroshi has logged out.
+[05/03/2015 18:21:40] Mage Ziika has logged out.
+[05/03/2015 18:22:19] Hiroshi has logged in.
+[05/03/2015 18:22:27] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 18:22:52] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 18:22:58] > CLEAN: Removed 16450 items from 7731 tiles in 0.469 seconds.
+[05/03/2015 18:22:58] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 18:24:00] Mage Ziika has logged in.
+[05/03/2015 18:24:23] Morris has logged out.
+[05/03/2015 18:24:43] Morris has logged in.
+[05/03/2015 18:26:06] Bromm-brumm has logged in.
+[05/03/2015 18:27:36] Nadador Arqueiro has logged out.
+[05/03/2015 18:27:39] Nadador Arqueiro has logged in.
+[05/03/2015 18:28:52] Microbiio I has logged out.
+[05/03/2015 18:28:54] Microbiio I has logged in.
+[05/03/2015 18:31:13] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 18:32:23] > Saving server...
+[05/03/2015 18:32:25] sqlite3_step(): SQLITE ERROR: unable to open database file
+[05/03/2015 18:32:28] > SAVE: Complete in 4.497 seconds using relational house storage.
+[05/03/2015 18:33:05] Slc Cachorrera has logged in.
+[05/03/2015 18:33:12] Nadador Arqueiro has logged out.
+[05/03/2015 18:33:15] Bromm-brumm has logged out.
+[05/03/2015 18:33:16] Nadador Arqueiro has logged in.
+[05/03/2015 18:33:17] Bromm-brumm has logged in.
+[05/03/2015 18:34:05] Bromm-brumm has logged out.
+[05/03/2015 18:34:07] Bromm-brumm has logged in.
+[05/03/2015 18:34:08] Nadador Arqueiro has logged out.
+[05/03/2015 18:34:10] Nadador Arqueiro has logged in.
+[05/03/2015 18:34:19] Morris has logged out.
+[05/03/2015 18:34:20] Morris has logged in.
+[05/03/2015 18:34:27] Nadador Arqueiro has logged out.
+[05/03/2015 18:34:29] Nadador Arqueiro has logged in.
+[05/03/2015 18:34:36] Fakedoi has logged out.
+[05/03/2015 18:34:37] Fakedoi has logged in.
+[05/03/2015 18:35:26] Bromm-brumm has logged out.
+[05/03/2015 18:35:29] Bromm-brumm has logged in.
+[05/03/2015 18:35:38] Morris has logged out.
+[05/03/2015 18:35:40] Morris has logged in.
+[05/03/2015 18:35:48] Slc Cachorrera has logged out.
+[05/03/2015 18:35:50] Slc Cachorrera has logged in.
+[05/03/2015 18:36:39] Morris has logged out.
+[05/03/2015 18:36:40] Morris has logged in.
+[05/03/2015 18:37:51] Morris has logged out.
+[05/03/2015 18:37:52] Morris has logged in.
+[05/03/2015 18:39:08] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 18:39:34] > Broadcasted message: "Para comprar bless digite !bless".
+[05/03/2015 18:39:38] > CLEAN: Removed 15377 items from 7239 tiles in 0.441 seconds.
+[05/03/2015 18:39:39] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 18:39:56] Bromm-brumm has logged out.
+[05/03/2015 18:39:58] Bromm-brumm has logged in.
+[05/03/2015 18:40:08] Morris has logged out.
+[05/03/2015 18:40:10] Morris has logged in.
+[05/03/2015 18:40:56] Morris has logged out.
+[05/03/2015 18:40:58] Morris has logged in.
+[05/03/2015 18:41:25] Morris has logged out.
+[05/03/2015 18:41:26] Morris has logged in.
+[05/03/2015 18:41:46] Hensh has logged out.
+[05/03/2015 18:41:47] Hensh has logged in.
+[05/03/2015 18:41:51] Morris has logged out.
+[05/03/2015 18:41:52] Morris has logged in.
+[05/03/2015 18:42:28] Hiroshi has logged out.
+[05/03/2015 18:42:40] Bromm-brumm has logged out.
+[05/03/2015 18:42:41] Bromm-brumm has logged in.
+[05/03/2015 18:43:07] Morris has logged out.
+[05/03/2015 18:43:08] Morris has logged in.
+[05/03/2015 18:44:38] Morris has logged out.
+[05/03/2015 18:44:39] Morris has logged in.
+[05/03/2015 18:45:10] Morris has logged out.
+[05/03/2015 18:45:11] Morris has logged in.
+[05/03/2015 18:46:07] Morris has logged out.
+[05/03/2015 18:46:08] Morris has logged in.
+[05/03/2015 18:46:39] Microbiio I has logged out.
+[05/03/2015 18:46:42] Morris has logged out.
+[05/03/2015 18:46:43] Morris has logged in.
+[05/03/2015 18:47:55] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 18:48:27] Bromm-brumm has logged out.
+[05/03/2015 18:48:28] Morris has logged out.
+[05/03/2015 18:48:29] Bromm-brumm has logged in.
+[05/03/2015 18:48:30] Morris has logged in.
+[05/03/2015 18:49:33] Fakedoi has logged out.
+[05/03/2015 18:49:37] Coronel Brandock has logged out.
+[05/03/2015 18:52:42] Slc Cachorrera has logged out.
+[05/03/2015 18:52:54] Nadador Arqueiro has logged out.
+[05/03/2015 18:52:56] Nadador Arqueiro has logged in.
+[05/03/2015 18:53:59] Morris has logged out.
+[05/03/2015 18:54:00] Morris has logged in.
+[05/03/2015 18:55:08] Coronel Brandock has logged in.
+[05/03/2015 18:55:44] > Saving server...
+[05/03/2015 18:55:47] > SAVE: Complete in 2.392 seconds using relational house storage.
+[05/03/2015 18:55:47] Coronel Brandock has logged out.
+[05/03/2015 18:55:49] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 18:56:15] Coronel Brandock has logged in.
+[05/03/2015 18:56:16] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 18:56:16] Coronel Brandock has logged out.
+[05/03/2015 18:56:20] > CLEAN: Removed 10467 items from 5387 tiles in 0.395 seconds.
+[05/03/2015 18:56:20] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 18:57:07] Hensh has logged out.
+[05/03/2015 18:57:08] Hensh has logged in.
+[05/03/2015 18:57:45] Nadador Arqueiro has logged out.
+[05/03/2015 18:57:46] Nadador Arqueiro has logged in.
+[05/03/2015 18:58:47] Fakedoi has logged in.
+[05/03/2015 18:58:56] Lindinha has logged in.
+[05/03/2015 18:59:46] Fakedoi has logged out.
+[05/03/2015 18:59:55] Coronel Brandock has logged in.
+[05/03/2015 18:59:58] Coronel Brandock has logged out.
+[05/03/2015 19:00:15] Fakedoi has logged in.
+[05/03/2015 19:00:21] Account Manager has logged in.
+[05/03/2015 19:00:22] Account Manager has logged out.
+[05/03/2015 19:00:32] Nadador Arqueiro has logged out.
+[05/03/2015 19:00:34] Nadador Arqueiro has logged in.
+[05/03/2015 19:01:12] Account Manager has logged in.
+[05/03/2015 19:01:13] Account Manager has logged out.
+[05/03/2015 19:01:23] Nadador Arqueiro has logged out.
+[05/03/2015 19:01:25] Nadador Arqueiro has logged in.
+[05/03/2015 19:02:35] Morris has logged out.
+[05/03/2015 19:02:36] Morris has logged in.
+[05/03/2015 19:02:59] Coronel Brandock has logged in.
+[05/03/2015 19:03:00] Coronel Brandock has logged out.
+[05/03/2015 19:03:26] Morris has logged out.
+[05/03/2015 19:03:27] Morris has logged in.
+[05/03/2015 19:03:29] Coronel Brandock has logged in.
+[05/03/2015 19:03:30] Coronel Brandock has logged out.
+[05/03/2015 19:04:18] Coronel Brandock has logged in.
+[05/03/2015 19:04:19] Coronel Brandock has logged out.
+[05/03/2015 19:04:31] Mateus has logged in.
+[05/03/2015 19:04:37] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/03/2015 19:04:38] Mateus has logged out.
+[05/03/2015 19:04:39] Coronel Brandock has logged in.
+[05/03/2015 19:04:40] Coronel Brandock has logged out.
+[05/03/2015 19:05:02] Infinity has logged in.
+[05/03/2015 19:05:03] Infinity has logged out.
+[05/03/2015 19:05:13] Nadador Arqueiro has logged out.
+[05/03/2015 19:05:26] Nadador Arqueiro has logged in.
+[05/03/2015 19:05:43] Mateus has logged in.
+[05/03/2015 19:05:49] Account Manager has logged in.
+[05/03/2015 19:05:53] Account Manager has logged out.
+[05/03/2015 19:06:06] Account Manager has logged in.
+[05/03/2015 19:06:10] Account Manager has logged out.
+[05/03/2015 19:06:29] Slc Cachorrera has logged in.
+[05/03/2015 19:08:07] Account Manager has logged in.
+[05/03/2015 19:08:30] Account Manager has logged out.
+[05/03/2015 19:09:22] Lindinha has logged out.
+[05/03/2015 19:12:12] Hensh has logged out.
+[05/03/2015 19:12:30] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 19:12:56] Lindinha has logged in.
+[05/03/2015 19:12:58] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/03/2015 19:13:06] > CLEAN: Removed 11167 items from 5236 tiles in 0.566 seconds.
+[05/03/2015 19:13:07] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 19:17:21] Bromm-brumm has logged out.
+[05/03/2015 19:17:24] Bromm-brumm has logged in.
+[05/03/2015 19:19:02] Kanguru Jack has logged in.
+[05/03/2015 19:19:05] > Saving server...
+[05/03/2015 19:19:09] > SAVE: Complete in 3.664 seconds using relational house storage.
+[05/03/2015 19:21:19] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 19:23:34] > CLEAN: Removed 6934 items from 3449 tiles in 2.636 seconds.
+[05/03/2015 19:23:49] Mateus has logged out.
+[05/03/2015 19:24:10] Mage Ziika has logged out.
+[05/03/2015 19:24:13] Druidzerah Mythus has logged out.
+[05/03/2015 19:24:25] Slc Cachorrera has logged out.
+[05/03/2015 19:24:42] Nadador Arqueiro has logged out.
+[05/03/2015 19:24:56] Lindinha has logged out.
+[05/03/2015 19:25:37] Fakedoi has logged out.
+[05/03/2015 19:25:38] Druidzerah Mythus has logged in.
+[05/03/2015 19:25:50] Fakedoi has logged in.
+[05/03/2015 19:26:40] Mage Ziika has logged in.
+[05/03/2015 19:28:19] Coronel Brandock has logged in.
+[05/03/2015 19:29:11] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 19:29:30] Lindinha has logged in.
+[05/03/2015 19:29:40] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 19:29:42] > CLEAN: Removed 945 items from 762 tiles in 0.243 seconds.
+[05/03/2015 19:29:42] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 19:31:10] Coronel Brandock has logged out.
+[05/03/2015 19:31:41] Morris has logged out.
+[05/03/2015 19:31:47] Mateus has logged in.
+[05/03/2015 19:32:02] Coronel Brandock has logged in.
+[05/03/2015 19:32:04] Coronel Brandock has logged out.
+[05/03/2015 19:32:22] Account Manager has logged in.
+[05/03/2015 19:32:25] Account Manager has logged out.
+[05/03/2015 19:35:40] Bromm-brumm has logged out.
+[05/03/2015 19:35:42] Bromm-brumm has logged in.
+[05/03/2015 19:36:31] Account Manager has logged in.
+[05/03/2015 19:36:33] Account Manager has logged out.
+[05/03/2015 19:37:56] Account Manager has logged in.
+[05/03/2015 19:38:00] Account Manager has logged out.
+[05/03/2015 19:38:02] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 19:38:14] Coronel Brandock has logged in.
+[05/03/2015 19:38:39] Bromm-brumm has logged out.
+[05/03/2015 19:38:42] Bromm-brumm has logged in.
+[05/03/2015 19:42:26] > Saving server...
+[05/03/2015 19:42:30] > SAVE: Complete in 3.426 seconds using relational house storage.
+[05/03/2015 19:45:21] Kanguru Jack has logged out.
+[05/03/2015 19:45:52] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 19:46:01] Account Manager has logged in.
+[05/03/2015 19:46:04] Account Manager has logged out.
+[05/03/2015 19:46:06] Account Manager has logged in.
+[05/03/2015 19:46:09] Account Manager has logged out.
+[05/03/2015 19:46:13] Account Manager has logged in.
+[05/03/2015 19:46:16] Account Manager has logged out.
+[05/03/2015 19:46:23] > Broadcasted message: "Para comprar bless digite !bless".
+[05/03/2015 19:46:26] Account Manager has logged in.
+[05/03/2015 19:46:27] > CLEAN: Removed 9185 items from 4592 tiles in 2.214 seconds.
+[05/03/2015 19:46:30] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 19:46:32] Account Manager has logged out.
+[05/03/2015 19:46:33] Coronel Brandock has logged out.
+[05/03/2015 19:46:42] Account Manager has logged in.
+[05/03/2015 19:46:43] Coronel Brandock has logged in.
+[05/03/2015 19:46:45] Account Manager has logged out.
+[05/03/2015 19:46:50] Account Manager has logged in.
+[05/03/2015 19:46:52] Account Manager has logged out.
+[05/03/2015 19:46:55] Account Manager has logged in.
+[05/03/2015 19:46:58] Account Manager has logged out.
+[05/03/2015 19:47:02] Account Manager has logged in.
+[05/03/2015 19:47:05] Account Manager has logged out.
+[05/03/2015 19:47:30] Account Manager has logged in.
+[05/03/2015 19:47:32] Account Manager has logged out.
+[05/03/2015 19:48:03] Account Manager has logged in.
+[05/03/2015 19:48:06] Account Manager has logged out.
+[05/03/2015 19:48:09] Fakedoi has logged out.
+[05/03/2015 19:48:14] Fakedoi has logged in.
+[05/03/2015 19:49:34] Coronel Brandock has logged out.
+[05/03/2015 19:49:53] Coronel Brandock has logged in.
+[05/03/2015 19:50:32] Bromm-brumm has logged out.
+[05/03/2015 19:50:35] Bromm-brumm has logged in.
+[05/03/2015 19:51:51] Account Manager has logged in.
+[05/03/2015 19:51:53] Account Manager has logged out.
+[05/03/2015 19:51:58] Account Manager has logged in.
+[05/03/2015 19:52:01] Account Manager has logged out.
+[05/03/2015 19:52:04] Account Manager has logged in.
+[05/03/2015 19:52:06] Account Manager has logged out.
+[05/03/2015 19:52:17] Account Manager has logged in.
+[05/03/2015 19:52:20] Account Manager has logged out.
+[05/03/2015 19:52:23] Account Manager has logged in.
+[05/03/2015 19:52:26] Account Manager has logged out.
+[05/03/2015 19:52:28] Account Manager has logged in.
+[05/03/2015 19:52:31] Account Manager has logged out.
+[05/03/2015 19:52:57] Account Manager has logged in.
+[05/03/2015 19:53:00] Account Manager has logged out.
+[05/03/2015 19:54:43] Bromm-brumm has logged out.
+[05/03/2015 19:54:44] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 19:54:46] Bromm-brumm has logged in.
+[05/03/2015 19:54:51] Account Manager has logged in.
+[05/03/2015 19:54:53] Lindinha has logged out.
+[05/03/2015 19:54:54] Account Manager has logged out.
+[05/03/2015 19:54:56] Lindinha has logged in.
+[05/03/2015 19:54:58] Account Manager has logged in.
+[05/03/2015 19:55:01] Account Manager has logged out.
+[05/03/2015 19:55:02] Account Manager has logged in.
+[05/03/2015 19:55:05] Account Manager has logged out.
+[05/03/2015 19:55:07] Account Manager has logged in.
+[05/03/2015 19:55:10] Account Manager has logged out.
+[05/03/2015 19:55:12] Account Manager has logged in.
+[05/03/2015 19:55:15] Account Manager has logged out.
+[05/03/2015 19:55:17] Account Manager has logged in.
+[05/03/2015 19:55:20] Account Manager has logged out.
+[05/03/2015 19:55:22] Account Manager has logged in.
+[05/03/2015 19:55:25] Account Manager has logged out.
+[05/03/2015 19:55:59] Kanguru Jack has logged in.
+[05/03/2015 19:56:52] Account Manager has logged in.
+[05/03/2015 19:56:55] Account Manager has logged out.
+[05/03/2015 19:57:03] Bromm-brumm has logged out.
+[05/03/2015 19:57:06] Bromm-brumm has logged in.
+[05/03/2015 19:57:19] Lindinha has logged out.
+[05/03/2015 19:57:22] Lindinha has logged in.
+[05/03/2015 19:58:54] Account Manager has logged in.
+[05/03/2015 19:58:57] Account Manager has logged out.
+[05/03/2015 19:59:59] Account Manager has logged in.
+[05/03/2015 20:00:01] Account Manager has logged out.
+[05/03/2015 20:00:04] Account Manager has logged in.
+[05/03/2015 20:00:06] Account Manager has logged out.
+[05/03/2015 20:00:28] Account Manager has logged in.
+[05/03/2015 20:00:31] Account Manager has logged out.
+[05/03/2015 20:00:49] Bromm-brumm has logged out.
+[05/03/2015 20:00:53] Bromm-brumm has logged in.
+[05/03/2015 20:01:00] Hashi has logged in.
+[05/03/2015 20:01:10] Lindinha has logged out.
+[05/03/2015 20:01:13] Lindinha has logged in.
+[05/03/2015 20:01:23] Coronel Brandock has logged out.
+[05/03/2015 20:01:25] Coronel Brandock has logged in.
+[05/03/2015 20:02:33] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 20:03:05] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 20:03:14] > CLEAN: Removed 7062 items from 3994 tiles in 0.312 seconds.
+[05/03/2015 20:03:14] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 20:03:15] Mateus has logged out.
+[05/03/2015 20:03:21] Account Manager has logged in.
+[05/03/2015 20:03:22] Account Manager has logged out.
+[05/03/2015 20:03:23] Account Manager has logged in.
+[05/03/2015 20:03:24] Account Manager has logged out.
+[05/03/2015 20:03:26] Account Manager has logged in.
+[05/03/2015 20:03:27] Account Manager has logged out.
+[05/03/2015 20:03:35] Account Manager has logged in.
+[05/03/2015 20:03:36] Account Manager has logged out.
+[05/03/2015 20:03:41] Account Manager has logged in.
+[05/03/2015 20:03:42] Account Manager has logged out.
+[05/03/2015 20:03:44] Account Manager has logged in.
+[05/03/2015 20:03:44] Account Manager has logged out.
+[05/03/2015 20:04:24] Account Manager has logged in.
+[05/03/2015 20:04:25] Account Manager has logged out.
+[05/03/2015 20:04:39] Lindinha has logged out.
+[05/03/2015 20:04:41] Lindinha has logged in.
+[05/03/2015 20:05:47] > Saving server...
+[05/03/2015 20:05:50] > SAVE: Complete in 2.46 seconds using relational house storage.
+[05/03/2015 20:06:03] Slc Cachorrera has logged in.
+[05/03/2015 20:06:10] Bromm-brumm has logged out.
+[05/03/2015 20:06:11] Bromm-brumm has logged in.
+[05/03/2015 20:06:44] Fakedoi has logged out.
+[05/03/2015 20:06:48] Fakedoi has logged in.
+[05/03/2015 20:11:26] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 20:12:57] Lindinha has logged out.
+[05/03/2015 20:12:59] Lindinha has logged in.
+[05/03/2015 20:13:08] Kanguru Jack has logged out.
+[05/03/2015 20:13:18] Bromm-brumm has logged out.
+[05/03/2015 20:13:19] Bromm-brumm has logged in.
+[05/03/2015 20:15:24] Bromm-brumm has logged out.
+[05/03/2015 20:15:25] Bromm-brumm has logged in.
+[05/03/2015 20:18:17] Hashi has logged out.
+[05/03/2015 20:19:14] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 20:19:45] > CLEAN: Removed 7294 items from 4136 tiles in 0.343 seconds.
+[05/03/2015 20:19:45] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 20:19:47] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 20:21:24] Account Manager has logged in.
+[05/03/2015 20:21:25] Account Manager has logged out.
+[05/03/2015 20:21:27] Account Manager has logged in.
+[05/03/2015 20:21:28] Account Manager has logged out.
+[05/03/2015 20:21:30] Account Manager has logged in.
+[05/03/2015 20:21:31] Account Manager has logged out.
+[05/03/2015 20:22:05] Bromm-brumm has logged out.
+[05/03/2015 20:22:06] Spectors Death has logged in.
+[05/03/2015 20:23:30] Account Manager has logged in.
+[05/03/2015 20:23:32] Account Manager has logged out.
+[05/03/2015 20:23:52] Spectors Death has logged out.
+[05/03/2015 20:23:58] Account Manager has logged in.
+[05/03/2015 20:23:59] Account Manager has logged out.
+[05/03/2015 20:24:00] Spectors Death has logged in.
+[05/03/2015 20:24:02] Spectors Death has logged out.
+[05/03/2015 20:24:03] Bromm-brumm has logged in.
+[05/03/2015 20:24:06] Bromm-brumm has logged out.
+[05/03/2015 20:24:25] Ultimate Archer has logged in.
+[05/03/2015 20:25:21] Account Manager has logged in.
+[05/03/2015 20:25:22] Account Manager has logged out.
+[05/03/2015 20:25:23] Mage Ziika has logged out.
+[05/03/2015 20:25:33] Account Manager has logged in.
+[05/03/2015 20:25:49] Druidzerah Mythus has logged out.
+[05/03/2015 20:25:49] Coronel Brandock has logged out.
+[05/03/2015 20:25:53] Account Manager has logged out.
+[05/03/2015 20:26:03] Account Manager has logged in.
+[05/03/2015 20:26:16] Ultimate Archer has logged out.
+[05/03/2015 20:26:19] Bobombox has logged in.
+[05/03/2015 20:26:55] Fakedoi has logged out.
+[05/03/2015 20:27:19] Account Manager has logged in.
+[05/03/2015 20:27:20] Account Manager has logged out.
+[05/03/2015 20:27:30] Fakedoi has logged in.
+[05/03/2015 20:27:35] Mage Ziika has logged in.
+[05/03/2015 20:27:38] Coronel Brandock has logged in.
+[05/03/2015 20:27:43] Coronel Brandock has logged out.
+[05/03/2015 20:27:45] Coronel Brandock has logged in.
+[05/03/2015 20:27:51] Account Manager has logged out.
+[05/03/2015 20:28:00] Marcao Camelodromo has logged in.
+[05/03/2015 20:28:07] Bobombox has logged out.
+[05/03/2015 20:28:08] Ultimate Archer has logged in.
+[05/03/2015 20:28:08] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/03/2015 20:28:28] Bromm-brumm has logged in.
+[05/03/2015 20:29:08] > Saving server...
+[05/03/2015 20:29:11] > SAVE: Complete in 2.724 seconds using relational house storage.
+[05/03/2015 20:29:13] Bromm-brumm has logged out.
+[05/03/2015 20:29:13] Account Manager has logged in.
+[05/03/2015 20:29:14] Account Manager has logged out.
+[05/03/2015 20:29:21] Account Manager has logged in.
+[05/03/2015 20:30:15] Druidzerah Mythus has logged in.
+[05/03/2015 20:30:16] Druidzerah Mythus has logged out.
+[05/03/2015 20:30:18] Druidzerah Mythus has logged in.
+[05/03/2015 20:30:19] Druidzerah Mythus has logged out.
+[05/03/2015 20:30:21] Druidzerah Mythus has logged in.
+[05/03/2015 20:30:22] Druidzerah Mythus has logged out.
+[05/03/2015 20:30:33] Account Manager has logged out.
+[05/03/2015 20:30:36] Druidzerah Mythus has logged in.
+[05/03/2015 20:30:37] Druidzerah Mythus has logged out.
+[05/03/2015 20:30:39] Druidzerah Mythus has logged in.
+[05/03/2015 20:30:40] Brimm-bromm has logged in.
+[05/03/2015 20:30:40] Druidzerah Mythus has logged out.
+[05/03/2015 20:30:42] Account Manager has logged in.
+[05/03/2015 20:30:43] Account Manager has logged out.
+[05/03/2015 20:30:44] Account Manager has logged in.
+[05/03/2015 20:30:46] Account Manager has logged out.
+[05/03/2015 20:30:47] Druidzerah Mythus has logged in.
+[05/03/2015 20:30:49] Druidzerah Mythus has logged out.
+[05/03/2015 20:30:50] Druidzerah Mythus has logged in.
+[05/03/2015 20:30:51] Druidzerah Mythus has logged out.
+[05/03/2015 20:31:23] Brimm-bromm has logged out.
+[05/03/2015 20:31:28] Bromm-brumm has logged in.
+[05/03/2015 20:31:50] Druidzerah Mythus has logged in.
+[05/03/2015 20:31:51] Druidzerah Mythus has logged out.
+[05/03/2015 20:31:53] Druidzerah Mythus has logged in.
+[05/03/2015 20:31:54] Druidzerah Mythus has logged out.
+[05/03/2015 20:31:56] Druidzerah Mythus has logged in.
+[05/03/2015 20:31:57] Druidzerah Mythus has logged out.
+[05/03/2015 20:32:01] Bromm-brumm has logged out.
+[05/03/2015 20:32:05] Brimm-bromm has logged in.
+[05/03/2015 20:32:17] Coronel Brandock has logged out.
+[05/03/2015 20:32:18] Coronel Brandock has logged in.
+[05/03/2015 20:32:43] Brimm-bromm has logged out.
+[05/03/2015 20:32:44] Account Manager has logged in.
+[05/03/2015 20:33:16] Account Manager has logged out.
+[05/03/2015 20:33:17] Mateus has logged in.
+[05/03/2015 20:33:18] Account Manager has logged in.
+[05/03/2015 20:33:19] Account Manager has logged out.
+[05/03/2015 20:33:21] Umnomediferente has logged in.
+[05/03/2015 20:33:33] Hiroshi has logged in.
+[05/03/2015 20:33:35] Hiroshi has logged out.
+[05/03/2015 20:33:37] Hiroshi has logged in.
+[05/03/2015 20:33:37] Mateus has logged out.
+[05/03/2015 20:33:38] Hiroshi has logged out.
+[05/03/2015 20:34:23] Lindinha has logged out.
+[05/03/2015 20:34:40] Account Manager has logged in.
+[05/03/2015 20:34:42] Account Manager has logged out.
+[05/03/2015 20:34:43] Account Manager has logged in.
+[05/03/2015 20:34:44] Account Manager has logged out.
+[05/03/2015 20:34:46] Account Manager has logged in.
+[05/03/2015 20:34:47] Account Manager has logged out.
+[05/03/2015 20:35:04] Lindinha has logged in.
+[05/03/2015 20:35:22] Account Manager has logged in.
+[05/03/2015 20:35:25] Coronel Brandock has logged out.
+[05/03/2015 20:35:27] Coronel Brandock has logged in.
+[05/03/2015 20:35:37] Coronel Brandock has logged out.
+[05/03/2015 20:35:39] Account Manager has logged in.
+[05/03/2015 20:35:45] Account Manager has logged out.
+[05/03/2015 20:35:54] Account Manager has logged out.
+[05/03/2015 20:35:54] Account Manager has logged in.
+[05/03/2015 20:35:55] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 20:36:06] Jhonnie Walker has logged in.
+[05/03/2015 20:36:08] Fakedoi has logged out.
+[05/03/2015 20:36:10] Account Manager has logged out.
+[05/03/2015 20:36:15] Umnomediferente has logged out.
+[05/03/2015 20:36:16] Umnomediferente has logged in.
+[05/03/2015 20:36:17] Lady girl has logged in.
+[05/03/2015 20:36:25] > CLEAN: Removed 7789 items from 4460 tiles in 0.407 seconds.
+[05/03/2015 20:36:26] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 20:36:29] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/03/2015 20:37:21] Druidzerah Mythus has logged in.
+[05/03/2015 20:37:33] Account Manager has logged in.
+[05/03/2015 20:39:28] Account Manager has logged out.
+[05/03/2015 20:39:49] Fakedoi has logged in.
+[05/03/2015 20:39:51] Jhonnie Walker has logged out.
+[05/03/2015 20:39:52] Jhonnie Walker has logged in.
+[05/03/2015 20:40:42] Umnomediferente has logged out.
+[05/03/2015 20:40:44] Umnomediferente has logged in.
+[05/03/2015 20:40:51] Mateus has logged in.
+[05/03/2015 20:41:23] Mateus has logged out.
+[05/03/2015 20:41:54] Hashi has logged in.
+[05/03/2015 20:43:18] Umnomediferente has logged out.
+[05/03/2015 20:43:20] Umnomediferente has logged in.
+[05/03/2015 20:44:06] Jhonnie Walker has logged out.
+[05/03/2015 20:44:07] Jhonnie Walker has logged in.
+[05/03/2015 20:44:49] Lady girl has logged out.
+[05/03/2015 20:44:50] Lady girl has logged in.
+[05/03/2015 20:44:50] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 20:45:02] Ultimate Archer has logged out.
+[05/03/2015 20:45:51] Knight Da Cachorrada has logged in.
+[05/03/2015 20:49:17] Hiroshi has logged in.
+[05/03/2015 20:49:19] Hiroshi has logged out.
+[05/03/2015 20:49:20] Hiroshi has logged in.
+[05/03/2015 20:49:21] Hiroshi has logged out.
+[05/03/2015 20:50:09] Umnomediferente has logged out.
+[05/03/2015 20:50:10] Brimm-bromm has logged in.
+[05/03/2015 20:50:11] Brimm-bromm has logged out.
+[05/03/2015 20:50:16] Account Manager has logged in.
+[05/03/2015 20:50:16] Umnomediferente has logged in.
+[05/03/2015 20:50:17] Account Manager has logged out.
+[05/03/2015 20:50:18] Account Manager has logged in.
+[05/03/2015 20:50:19] Umnomediferente has logged out.
+[05/03/2015 20:50:19] Account Manager has logged out.
+[05/03/2015 20:50:20] Brimm-bromm has logged in.
+[05/03/2015 20:50:21] Account Manager has logged in.
+[05/03/2015 20:50:22] Account Manager has logged out.
+[05/03/2015 20:50:24] Account Manager has logged in.
+[05/03/2015 20:50:25] Account Manager has logged out.
+[05/03/2015 20:52:26] Lindinha has logged out.
+[05/03/2015 20:52:28] Lindinha has logged in.
+[05/03/2015 20:52:29] > Saving server...
+[05/03/2015 20:52:33] > SAVE: Complete in 3.246 seconds using relational house storage.
+[05/03/2015 20:52:36] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 20:52:47] Account Manager has logged in.
+[05/03/2015 20:52:49] Account Manager has logged out.
+[05/03/2015 20:52:50] Account Manager has logged in.
+[05/03/2015 20:52:51] Account Manager has logged out.
+[05/03/2015 20:53:06] Lindinha has logged out.
+[05/03/2015 20:53:07] > CLEAN: Removed 13249 items from 6887 tiles in 0.39 seconds.
+[05/03/2015 20:53:07] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 20:53:11] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/03/2015 20:53:13] Lindinha has logged in.
+[05/03/2015 20:53:24] Lindinha has logged out.
+[05/03/2015 20:53:26] Lindinha has logged in.
+[05/03/2015 20:53:29] Brimm-bromm has logged out.
+[05/03/2015 20:53:30] Knight Da Cachorrada has logged out.
+[05/03/2015 20:53:32] Knight Da Cachorrada has logged in.
+[05/03/2015 20:53:35] Bromm-brumm has logged in.
+[05/03/2015 20:53:36] Lindinha has logged out.
+[05/03/2015 20:53:39] Lindinha has logged in.
+[05/03/2015 20:53:51] Lindinha has logged out.
+[05/03/2015 20:54:17] Lindinha has logged in.
+[05/03/2015 20:54:31] Mage Ziika has logged out.
+[05/03/2015 20:55:01] Lindinha has logged out.
+[05/03/2015 20:55:03] Lindinha has logged in.
+[05/03/2015 20:55:12] Lindinha has logged out.
+[05/03/2015 20:55:17] Lindinha has logged in.
+[05/03/2015 20:55:28] Lindinha has logged out.
+[05/03/2015 20:55:33] Lindinha has logged in.
+[05/03/2015 20:56:13] Jhonnie Walker has logged out.
+[05/03/2015 20:56:14] Jhonnie Walker has logged in.
+[05/03/2015 20:56:31] Lindinha has logged out.
+[05/03/2015 20:56:42] Lindinha has logged in.
+[05/03/2015 20:56:51] Lindinha has logged out.
+[05/03/2015 20:56:54] Lindinha has logged in.
+[05/03/2015 20:56:55] Bromm-brumm has logged out.
+[05/03/2015 20:56:56] Bromm-brumm has logged in.
+[05/03/2015 20:57:04] Bromm-brumm has logged out.
+[05/03/2015 20:57:08] Lindinha has logged out.
+[05/03/2015 20:57:09] Brimm-bromm has logged in.
+[05/03/2015 20:57:10] Lindinha has logged in.
+[05/03/2015 20:57:19] Lindinha has logged out.
+[05/03/2015 20:57:24] Lindinha has logged in.
+[05/03/2015 20:57:25] Brimm-bromm has logged out.
+[05/03/2015 20:57:28] Slc Cachorrera has logged out.
+[05/03/2015 20:57:30] Bromm-brumm has logged in.
+[05/03/2015 20:57:32] Bromm-brumm has logged out.
+[05/03/2015 20:57:37] Lindinha has logged out.
+[05/03/2015 20:57:37] Brimm-bromm has logged in.
+[05/03/2015 20:57:38] Lindinha has logged in.
+[05/03/2015 20:57:47] Lindinha has logged out.
+[05/03/2015 20:57:49] Lindinha has logged in.
+[05/03/2015 20:58:03] Lindinha has logged out.
+[05/03/2015 20:58:05] Lindinha has logged in.
+[05/03/2015 20:58:13] Lindinha has logged out.
+[05/03/2015 20:58:15] Lindinha has logged in.
+[05/03/2015 20:58:23] Lindinha has logged out.
+[05/03/2015 20:58:26] Lindinha has logged in.
+[05/03/2015 20:58:34] Lindinha has logged out.
+[05/03/2015 20:58:36] Lindinha has logged in.
+[05/03/2015 20:58:43] Lindinha has logged out.
+[05/03/2015 20:58:46] Lindinha has logged in.
+[05/03/2015 20:58:56] Lindinha has logged out.
+[05/03/2015 20:58:58] Lindinha has logged in.
+[05/03/2015 20:59:00] Mage Ziika has logged in.
+[05/03/2015 20:59:06] Lindinha has logged out.
+[05/03/2015 20:59:08] Lindinha has logged in.
+[05/03/2015 20:59:13] Hiroshi has logged in.
+[05/03/2015 20:59:14] Hiroshi has logged out.
+[05/03/2015 20:59:16] Hiroshi has logged in.
+[05/03/2015 20:59:17] Lindinha has logged out.
+[05/03/2015 20:59:17] Hiroshi has logged out.
+[05/03/2015 20:59:19] Lindinha has logged in.
+[05/03/2015 20:59:27] Lindinha has logged out.
+[05/03/2015 20:59:28] Brimm-bromm has logged out.
+[05/03/2015 20:59:31] Lindinha has logged in.
+[05/03/2015 20:59:33] Brimm-bromm has logged in.
+[05/03/2015 20:59:40] Lindinha has logged out.
+[05/03/2015 20:59:44] Hiroshi has logged in.
+[05/03/2015 20:59:44] Lindinha has logged in.
+[05/03/2015 20:59:45] Hiroshi has logged out.
+[05/03/2015 20:59:46] Hiroshi has logged in.
+[05/03/2015 20:59:48] Hiroshi has logged out.
+[05/03/2015 20:59:49] Hiroshi has logged in.
+[05/03/2015 20:59:50] Hiroshi has logged out.
+[05/03/2015 20:59:53] Lindinha has logged out.
+[05/03/2015 20:59:56] Lindinha has logged in.
+[05/03/2015 21:00:03] Lindinha has logged out.
+[05/03/2015 21:00:06] Lindinha has logged in.
+[05/03/2015 21:00:14] Lindinha has logged out.
+[05/03/2015 21:00:16] Lindinha has logged in.
+[05/03/2015 21:00:25] Lindinha has logged out.
+[05/03/2015 21:00:27] Lindinha has logged in.
+[05/03/2015 21:00:31] Hiroshi has logged in.
+[05/03/2015 21:00:32] Hiroshi has logged out.
+[05/03/2015 21:00:34] Hiroshi has logged in.
+[05/03/2015 21:00:35] Hiroshi has logged out.
+[05/03/2015 21:00:36] Lindinha has logged out.
+[05/03/2015 21:00:36] Hiroshi has logged in.
+[05/03/2015 21:00:38] Hiroshi has logged out.
+[05/03/2015 21:00:39] Lindinha has logged in.
+[05/03/2015 21:00:40] Hiroshi has logged in.
+[05/03/2015 21:00:41] Hiroshi has logged out.
+[05/03/2015 21:00:43] Hiroshi has logged in.
+[05/03/2015 21:00:44] Hiroshi has logged out.
+[05/03/2015 21:00:45] Hiroshi has logged in.
+[05/03/2015 21:00:46] Lindinha has logged out.
+[05/03/2015 21:00:47] Hiroshi has logged out.
+[05/03/2015 21:00:48] Hiroshi has logged in.
+[05/03/2015 21:00:49] Hiroshi has logged out.
+[05/03/2015 21:00:50] Lindinha has logged in.
+[05/03/2015 21:00:51] Hiroshi has logged in.
+[05/03/2015 21:00:52] Hiroshi has logged out.
+[05/03/2015 21:00:54] Hiroshi has logged in.
+[05/03/2015 21:00:55] Hiroshi has logged out.
+[05/03/2015 21:00:56] Hiroshi has logged in.
+[05/03/2015 21:00:58] Hiroshi has logged out.
+[05/03/2015 21:00:58] Lindinha has logged out.
+[05/03/2015 21:00:59] Hiroshi has logged in.
+[05/03/2015 21:01:00] Hiroshi has logged out.
+[05/03/2015 21:01:05] Lindinha has logged in.
+[05/03/2015 21:01:06] Lindinha has logged out.
+[05/03/2015 21:01:11] Hiroshi has logged in.
+[05/03/2015 21:01:12] Hiroshi has logged out.
+[05/03/2015 21:01:28] Mage Ziika has logged out.
+[05/03/2015 21:01:32] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/03/2015 21:01:36] Hiroshi has logged in.
+[05/03/2015 21:02:43] Account Manager has logged in.
+[05/03/2015 21:02:44] Account Manager has logged out.
+[05/03/2015 21:02:45] Account Manager has logged in.
+[05/03/2015 21:02:47] Account Manager has logged out.
+[05/03/2015 21:03:10] Marcao Camelodromo has logged out.
+[05/03/2015 21:03:12] Marcao Camelodromo has logged in.
+[05/03/2015 21:03:39] Lady girl has logged out.
+[05/03/2015 21:03:40] Lady girl has logged in.
+[05/03/2015 21:04:59] Account Manager has logged in.
+[05/03/2015 21:05:00] Account Manager has logged out.
+[05/03/2015 21:05:03] Account Manager has logged in.
+[05/03/2015 21:05:05] Account Manager has logged out.
+[05/03/2015 21:05:06] Account Manager has logged in.
+[05/03/2015 21:05:07] Account Manager has logged out.
+[05/03/2015 21:06:25] Brimm-bromm has logged out.
+[05/03/2015 21:06:26] Brimm-bromm has logged in.
+[05/03/2015 21:07:08] Marcao Camelodromo has logged out.
+[05/03/2015 21:07:12] Brimm-bromm has logged out.
+[05/03/2015 21:07:30] Account Manager has logged in.
+[05/03/2015 21:07:39] Account Manager has logged in.
+[05/03/2015 21:07:41] Account Manager has logged out.
+[05/03/2015 21:07:46] Account Manager has logged out.
+[05/03/2015 21:07:48] Brimm-bromm has logged in.
+[05/03/2015 21:08:06] Mage Ziika has logged in.
+[05/03/2015 21:09:10] Jhonnie Walker has logged out.
+[05/03/2015 21:09:11] Jhonnie Walker has logged in.
+[05/03/2015 21:09:17] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 21:09:23] Jhonnie Walker has logged out.
+[05/03/2015 21:09:24] Jhonnie Walker has logged in.
+[05/03/2015 21:09:47] > CLEAN: Removed 12987 items from 6541 tiles in 0.397 seconds.
+[05/03/2015 21:09:48] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 21:09:48] Mage Ziika has logged out.
+[05/03/2015 21:09:53] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 21:09:58] Marcao Camelodromo has logged in.
+[05/03/2015 21:10:18] Fakedoi has logged out.
+[05/03/2015 21:10:25] Jhonnie Walker has logged out.
+[05/03/2015 21:10:26] Jhonnie Walker has logged in.
+[05/03/2015 21:10:35] Hiroshi has logged out.
+[05/03/2015 21:10:58] Account Manager has logged in.
+[05/03/2015 21:11:00] Account Manager has logged out.
+[05/03/2015 21:11:06] Account Manager has logged in.
+[05/03/2015 21:11:08] Account Manager has logged out.
+[05/03/2015 21:11:09] Mateus has logged in.
+[05/03/2015 21:11:12] 
+[05/03/2015 21:11:12] Lua Script Error: [TalkAction Interface] 
+[05/03/2015 21:11:12] data/talkactions/scripts/teleporthere.lua:onSay
+[05/03/2015 21:11:12] 
+[05/03/2015 21:11:13] luaGetClosestFreeTile(). Creature not found
+[05/03/2015 21:11:17] Mateus has logged out.
+[05/03/2015 21:11:20] Mage Ziika has logged in.
+[05/03/2015 21:11:23] Fakedoi has logged in.
+[05/03/2015 21:11:36] Fakedoi has logged out.
+[05/03/2015 21:11:37] Jean has logged in.
+[05/03/2015 21:12:15] Jean has logged out.
+[05/03/2015 21:12:16] Fakedoi has logged in.
+[05/03/2015 21:12:19] Fakedoi has logged out.
+[05/03/2015 21:12:38] Fakedoi has logged in.
+[05/03/2015 21:12:45] Mateus has logged in.
+[05/03/2015 21:12:51] Mateus has logged out.
+[05/03/2015 21:12:57] Hiroshi has logged in.
+[05/03/2015 21:12:58] Hiroshi has logged out.
+[05/03/2015 21:13:00] Hiroshi has logged in.
+[05/03/2015 21:13:01] Hiroshi has logged out.
+[05/03/2015 21:13:03] Hiroshi has logged in.
+[05/03/2015 21:13:04] Hiroshi has logged out.
+[05/03/2015 21:13:05] Hiroshi has logged in.
+[05/03/2015 21:13:07] Hiroshi has logged out.
+[05/03/2015 21:13:20] Hiroshi has logged in.
+[05/03/2015 21:13:21] Hiroshi has logged out.
+[05/03/2015 21:13:23] Hiroshi has logged in.
+[05/03/2015 21:13:24] Hiroshi has logged out.
+[05/03/2015 21:13:26] Hiroshi has logged in.
+[05/03/2015 21:13:28] Hiroshi has logged out.
+[05/03/2015 21:13:30] Hiroshi has logged in.
+[05/03/2015 21:13:31] Hiroshi has logged out.
+[05/03/2015 21:13:32] Hiroshi has logged in.
+[05/03/2015 21:13:34] Hiroshi has logged out.
+[05/03/2015 21:13:35] Hiroshi has logged in.
+[05/03/2015 21:13:37] Hiroshi has logged out.
+[05/03/2015 21:13:38] Hiroshi has logged in.
+[05/03/2015 21:13:40] Hiroshi has logged out.
+[05/03/2015 21:13:47] Hiroshi has logged in.
+[05/03/2015 21:13:48] Hiroshi has logged out.
+[05/03/2015 21:13:50] Hiroshi has logged in.
+[05/03/2015 21:13:51] Hiroshi has logged out.
+[05/03/2015 21:13:56] Jhonnie Walker has logged out.
+[05/03/2015 21:13:58] Jhonnie Walker has logged in.
+[05/03/2015 21:14:41] Lady girl has logged out.
+[05/03/2015 21:14:42] Hiroshi has logged in.
+[05/03/2015 21:14:43] Hiroshi has logged out.
+[05/03/2015 21:14:45] Hiroshi has logged in.
+[05/03/2015 21:14:46] Hiroshi has logged out.
+[05/03/2015 21:14:47] Lindinha has logged in.
+[05/03/2015 21:14:47] Hiroshi has logged in.
+[05/03/2015 21:14:49] Hiroshi has logged out.
+[05/03/2015 21:14:50] Hiroshi has logged in.
+[05/03/2015 21:14:51] Hiroshi has logged out.
+[05/03/2015 21:14:53] Hiroshi has logged in.
+[05/03/2015 21:14:54] Hiroshi has logged out.
+[05/03/2015 21:14:56] Hiroshi has logged in.
+[05/03/2015 21:14:57] Hiroshi has logged out.
+[05/03/2015 21:14:58] Hiroshi has logged in.
+[05/03/2015 21:14:58] Mateus has logged in.
+[05/03/2015 21:15:00] Hiroshi has logged out.
+[05/03/2015 21:15:01] Hiroshi has logged in.
+[05/03/2015 21:15:03] Hiroshi has logged out.
+[05/03/2015 21:15:04] Hiroshi has logged in.
+[05/03/2015 21:15:06] Hiroshi has logged out.
+[05/03/2015 21:15:07] Mateus has logged out.
+[05/03/2015 21:15:07] Hiroshi has logged in.
+[05/03/2015 21:15:08] Hiroshi has logged out.
+[05/03/2015 21:15:10] Hiroshi has logged in.
+[05/03/2015 21:15:11] Bobombox has logged in.
+[05/03/2015 21:15:11] Hiroshi has logged out.
+[05/03/2015 21:15:12] Hiroshi has logged in.
+[05/03/2015 21:15:14] Hiroshi has logged out.
+[05/03/2015 21:15:15] Hiroshi has logged in.
+[05/03/2015 21:15:16] Hiroshi has logged out.
+[05/03/2015 21:15:50] > Saving server...
+[05/03/2015 21:15:53] > SAVE: Complete in 2.761 seconds using relational house storage.
+[05/03/2015 21:16:30] Hiroshi has logged in.
+[05/03/2015 21:16:31] Hiroshi has logged out.
+[05/03/2015 21:16:32] Hiroshi has logged in.
+[05/03/2015 21:16:34] Hiroshi has logged out.
+[05/03/2015 21:16:35] Hiroshi has logged in.
+[05/03/2015 21:16:36] Hiroshi has logged out.
+[05/03/2015 21:16:37] Hiroshi has logged in.
+[05/03/2015 21:16:39] Hiroshi has logged out.
+[05/03/2015 21:16:40] Hiroshi has logged in.
+[05/03/2015 21:16:41] Hiroshi has logged out.
+[05/03/2015 21:16:42] Hiroshi has logged in.
+[05/03/2015 21:16:44] Hiroshi has logged out.
+[05/03/2015 21:16:45] Hiroshi has logged in.
+[05/03/2015 21:16:46] Hiroshi has logged out.
+[05/03/2015 21:16:47] Hiroshi has logged in.
+[05/03/2015 21:16:49] Hiroshi has logged out.
+[05/03/2015 21:16:50] Hiroshi has logged in.
+[05/03/2015 21:16:51] Hiroshi has logged out.
+[05/03/2015 21:16:53] Hiroshi has logged in.
+[05/03/2015 21:16:54] Hiroshi has logged out.
+[05/03/2015 21:16:55] Hiroshi has logged in.
+[05/03/2015 21:16:56] Hiroshi has logged out.
+[05/03/2015 21:16:58] Hiroshi has logged in.
+[05/03/2015 21:16:59] Hiroshi has logged out.
+[05/03/2015 21:17:00] Hiroshi has logged in.
+[05/03/2015 21:17:01] Hiroshi has logged out.
+[05/03/2015 21:17:19] Marcao Camelodromo has logged out.
+[05/03/2015 21:17:22] Account Manager has logged in.
+[05/03/2015 21:17:38] Account Manager has logged out.
+[05/03/2015 21:17:39] Lindinha has logged out.
+[05/03/2015 21:17:42] Lindinha has logged in.
+[05/03/2015 21:17:46] Hiroshi has logged in.
+[05/03/2015 21:17:47] Lindinha has logged out.
+[05/03/2015 21:17:53] Hashi has logged out.
+[05/03/2015 21:17:55] Account Manager has logged in.
+[05/03/2015 21:17:56] Account Manager has logged out.
+[05/03/2015 21:18:01] Lady girl has logged in.
+[05/03/2015 21:18:14] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 21:18:24] Bobombox has logged out.
+[05/03/2015 21:18:36] Ultimate Archer has logged in.
+[05/03/2015 21:20:10] Account Manager has logged in.
+[05/03/2015 21:20:17] Account Manager has logged out.
+[05/03/2015 21:21:01] Hiroshi has logged out.
+[05/03/2015 21:21:03] Hiroshi has logged in.
+[05/03/2015 21:21:04] Account Manager has logged in.
+[05/03/2015 21:21:10] Account Manager has logged out.
+[05/03/2015 21:22:38] Ultimate Archer has logged out.
+[05/03/2015 21:22:40] Ultimate Archer has logged in.
+[05/03/2015 21:22:52] Hiroshi has logged out.
+[05/03/2015 21:22:53] Hiroshi has logged in.
+[05/03/2015 21:23:47] Knight Da Cachorrada has logged out.
+[05/03/2015 21:23:49] Knight Da Cachorrada has logged in.
+[05/03/2015 21:24:26] Ultimate Archer has logged out.
+[05/03/2015 21:24:29] Ultimate Archer has logged in.
+[05/03/2015 21:25:58] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 21:26:04] Brimm-bromm has logged out.
+[05/03/2015 21:26:30] > CLEAN: Removed 13878 items from 7432 tiles in 0.739 seconds.
+[05/03/2015 21:26:30] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 21:26:35] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 21:28:34] Deathstroke has logged in.
+[05/03/2015 21:34:05] Anjo pk has logged in.
+[05/03/2015 21:34:56] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/03/2015 21:35:58] Jhonnie Walker has logged out.
+[05/03/2015 21:36:20] Knight Da Cachorrada has logged out.
+[05/03/2015 21:36:24] Knight Da Cachorrada has logged in.
+[05/03/2015 21:39:11] > Saving server...
+[05/03/2015 21:39:14] sqlite3_step(): SQLITE ERROR: unable to open database file
+[05/03/2015 21:39:18] > SAVE: Complete in 5.365 seconds using relational house storage.
+[05/03/2015 21:39:32] Knight Da Cachorrada has logged out.
+[05/03/2015 21:39:51] Knight Da Cachorrada has logged in.
+[05/03/2015 21:40:56] Knight Da Cachorrada has logged out.
+[05/03/2015 21:42:39] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 21:42:50] Anjo pk has logged out.
+[05/03/2015 21:42:52] Anjo pk has logged in.
+[05/03/2015 21:43:11] > CLEAN: Removed 13001 items from 6190 tiles in 1.024 seconds.
+[05/03/2015 21:43:13] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 21:43:17] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 21:43:32] Fakedoi has logged out.
+[05/03/2015 21:43:34] Fakedoi has logged in.
+[05/03/2015 21:43:57] Anjo pk has logged out.
+[05/03/2015 21:43:59] Anjo pk has logged in.
+[05/03/2015 21:44:54] Deathstroke has logged out.
+[05/03/2015 21:44:57] Deathstroke has logged in.
+[05/03/2015 21:45:05] Deathstroke has logged out.
+[05/03/2015 21:45:07] Deathstroke has logged in.
+[05/03/2015 21:45:26] Deathstroke has logged out.
+[05/03/2015 21:45:29] Deathstroke has logged in.
+[05/03/2015 21:46:02] Knight Da Cachorrada has logged in.
+[05/03/2015 21:46:33] Brimm-bromm has logged in.
+[05/03/2015 21:51:12] Druidzerah Mythus has logged out.
+[05/03/2015 21:51:24] Brimm-bromm has logged out.
+[05/03/2015 21:51:26] Brumm-bromm has logged in.
+[05/03/2015 21:51:38] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 21:51:46] Brumm-bromm has logged out.
+[05/03/2015 21:52:26] Account Manager has logged in.
+[05/03/2015 21:52:28] Account Manager has logged out.
+[05/03/2015 21:52:34] Bromm-brumm has logged in.
+[05/03/2015 21:52:37] Bromm-brumm has logged out.
+[05/03/2015 21:52:39] Druidzerah Mythus has logged in.
+[05/03/2015 21:52:42] Spectors Death has logged in.
+[05/03/2015 21:53:51] Spectors Death has logged out.
+[05/03/2015 21:53:57] Brumm-bromm has logged in.
+[05/03/2015 21:54:40] Jhonnie Walker has logged in.
+[05/03/2015 21:54:42] Jhonnie Walker has logged out.
+[05/03/2015 21:54:58] Ultimate Archer has logged out.
+[05/03/2015 21:55:04] Coronel Brandock has logged in.
+[05/03/2015 21:55:06] Coronel Brandock has logged out.
+[05/03/2015 21:55:20] Anjo pk has logged out.
+[05/03/2015 21:55:21] Anjo pk has logged in.
+[05/03/2015 21:56:20] Anjo pk has logged out.
+[05/03/2015 21:56:21] Anjo pk has logged in.
+[05/03/2015 21:56:23] Account Manager has logged in.
+[05/03/2015 21:56:25] Account Manager has logged out.
+[05/03/2015 21:56:46] Account Manager has logged in.
+[05/03/2015 21:56:52] Account Manager has logged out.
+[05/03/2015 21:57:04] Jhonnie Walker has logged in.
+[05/03/2015 21:57:30] Hashi has logged in.
+[05/03/2015 21:57:41] Brumm-bromm has logged out.
+[05/03/2015 21:57:44] Brimm-bromm has logged in.
+[05/03/2015 21:58:00] Deathstroke has logged out.
+[05/03/2015 21:58:08] Jhonnie Walker has logged out.
+[05/03/2015 21:58:10] Jhonnie Walker has logged in.
+[05/03/2015 21:58:41] Fakedoi has logged out.
+[05/03/2015 21:58:42] Jean has logged in.
+[05/03/2015 21:59:01] Jean has logged out.
+[05/03/2015 21:59:02] Fakedoi has logged in.
+[05/03/2015 21:59:20] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 21:59:50] > CLEAN: Removed 12968 items from 6818 tiles in 0.472 seconds.
+[05/03/2015 21:59:51] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 21:59:59] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 22:00:04] Lady girl has logged out.
+[05/03/2015 22:00:54] Deathstroke has logged in.
+[05/03/2015 22:01:10] Jhonnie Walker has logged out.
+[05/03/2015 22:01:11] Jhonnie Walker has logged in.
+[05/03/2015 22:01:27] Anjo pk has logged out.
+[05/03/2015 22:01:28] Anjo pk has logged in.
+[05/03/2015 22:02:32] > Saving server...
+[05/03/2015 22:02:35] > SAVE: Complete in 2.804 seconds using relational house storage.
+[05/03/2015 22:03:06] Account Manager has logged in.
+[05/03/2015 22:03:08] Account Manager has logged out.
+[05/03/2015 22:03:15] Jhonnie Walker has logged out.
+[05/03/2015 22:05:50] Anjo pk has logged out.
+[05/03/2015 22:05:52] Anjo pk has logged in.
+[05/03/2015 22:07:53] Nadador Arqueiro has logged in.
+[05/03/2015 22:08:20] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 22:09:29] Fakedoi has logged out.
+[05/03/2015 22:09:31] Jean has logged in.
+[05/03/2015 22:09:34] Hiroshi has logged out.
+[05/03/2015 22:09:38] Hiroshi has logged in.
+[05/03/2015 22:10:11] Jean has logged out.
+[05/03/2015 22:10:12] Fakedoi has logged in.
+[05/03/2015 22:12:17] Lady girl has logged in.
+[05/03/2015 22:12:19] Lady girl has logged out.
+[05/03/2015 22:12:35] Hensh has logged in.
+[05/03/2015 22:12:42] Knight Da Cachorrada has logged out.
+[05/03/2015 22:12:44] Knight Da Cachorrada has logged in.
+[05/03/2015 22:12:50] Lady girl has logged in.
+[05/03/2015 22:13:02] Brimm-bromm has logged out.
+[05/03/2015 22:13:04] Brimm-bromm has logged in.
+[05/03/2015 22:13:16] Anjo pk has logged out.
+[05/03/2015 22:13:17] Morris has logged in.
+[05/03/2015 22:13:18] Anjo pk has logged in.
+[05/03/2015 22:13:54] Hashi has logged out.
+[05/03/2015 22:14:28] Anjo pk has logged out.
+[05/03/2015 22:14:30] Lucas has logged in.
+[05/03/2015 22:14:59] Lucas has logged out.
+[05/03/2015 22:15:00] Lucas has logged in.
+[05/03/2015 22:15:02] Lucas has logged out.
+[05/03/2015 22:15:04] Anjo pk has logged in.
+[05/03/2015 22:15:22] Anjo pk has logged out.
+[05/03/2015 22:15:23] Lucas has logged in.
+[05/03/2015 22:15:49] Hensh has logged out.
+[05/03/2015 22:15:51] Hensh has logged in.
+[05/03/2015 22:15:53] Hiroshi has logged out.
+[05/03/2015 22:16:01] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 22:16:16] Mage Ziika has logged out.
+[05/03/2015 22:16:18] Deathstroke has logged out.
+[05/03/2015 22:16:19] Hensh has logged out.
+[05/03/2015 22:16:21] Hensh has logged in.
+[05/03/2015 22:16:32] > CLEAN: Removed 6391 items from 4331 tiles in 0.381 seconds.
+[05/03/2015 22:16:32] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 22:16:41] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 22:16:47] Lucas has logged out.
+[05/03/2015 22:16:49] Anjo pk has logged in.
+[05/03/2015 22:17:09] Mage Ziika has logged in.
+[05/03/2015 22:17:21] Brimm-bromm has logged out.
+[05/03/2015 22:17:23] Account Manager has logged in.
+[05/03/2015 22:17:32] Account Manager has logged out.
+[05/03/2015 22:17:43] Epic has logged in.
+[05/03/2015 22:17:47] Epic has logged out.
+[05/03/2015 22:17:47] Epicdois has logged in.
+[05/03/2015 22:17:53] Epicdois has logged out.
+[05/03/2015 22:17:54] Umnomediferente has logged in.
+[05/03/2015 22:17:58] Umnomediferente has logged out.
+[05/03/2015 22:17:59] Epicdois has logged in.
+[05/03/2015 22:19:21] Hiroshi has logged in.
+[05/03/2015 22:19:33] Hiroshi has logged out.
+[05/03/2015 22:22:56] Epicdois has logged out.
+[05/03/2015 22:22:58] Epicdois has logged in.
+[05/03/2015 22:23:26] Knight Da Cachorrada has logged out.
+[05/03/2015 22:23:28] Knight Da Cachorrada has logged in.
+[05/03/2015 22:24:47] Epicdois has logged out.
+[05/03/2015 22:24:49] Epicdois has logged in.
+[05/03/2015 22:24:52] Hiroshi has logged in.
+[05/03/2015 22:25:02] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/03/2015 22:25:49] Nadador Arqueiro has logged out.
+[05/03/2015 22:25:53] > Saving server...
+[05/03/2015 22:25:56] > SAVE: Complete in 3.162 seconds using relational house storage.
+[05/03/2015 22:26:01] Hiroshi has logged out.
+[05/03/2015 22:26:03] Hiroshi has logged in.
+[05/03/2015 22:26:58] Epicdois has logged out.
+[05/03/2015 22:27:00] Epicdois has logged in.
+[05/03/2015 22:28:30] Anjo pk has logged out.
+[05/03/2015 22:28:32] Lucas has logged in.
+[05/03/2015 22:28:34] Lucas has logged out.
+[05/03/2015 22:28:36] Anj pk has logged in.
+[05/03/2015 22:28:47] Anj pk has logged out.
+[05/03/2015 22:28:49] Anjo pk has logged in.
+[05/03/2015 22:29:24] Honda has logged in.
+[05/03/2015 22:29:40] Honda has logged out.
+[05/03/2015 22:29:42] Honda has logged in.
+[05/03/2015 22:31:31] Epicdois has logged out.
+[05/03/2015 22:31:33] Epicdois has logged in.
+[05/03/2015 22:32:42] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 22:33:12] > CLEAN: Removed 4677 items from 3133 tiles in 0.401 seconds.
+[05/03/2015 22:33:13] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 22:33:13] Fakedoi has logged out.
+[05/03/2015 22:33:23] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/03/2015 22:33:30] Morris has logged out.
+[05/03/2015 22:34:22] Morris has logged in.
+[05/03/2015 22:35:00] Anjo pk has logged out.
+[05/03/2015 22:35:02] Anjo pk has logged in.
+[05/03/2015 22:36:00] Epicdois has logged out.
+[05/03/2015 22:36:01] Brumm-bromm has logged in.
+[05/03/2015 22:36:43] Brumm-bromm has logged out.
+[05/03/2015 22:36:44] Brimm-bromm has logged in.
+[05/03/2015 22:36:48] Brimm-bromm has logged out.
+[05/03/2015 22:36:49] Brumm-bromm has logged in.
+[05/03/2015 22:40:07] Kinazin has logged in.
+[05/03/2015 22:40:24] Hensh has logged out.
+[05/03/2015 22:40:26] Erloff has logged in.
+[05/03/2015 22:40:32] Erloff has logged out.
+[05/03/2015 22:40:33] Hensh has logged in.
+[05/03/2015 22:40:36] Kinazin has logged out.
+[05/03/2015 22:40:37] Felipe Ret has logged in.
+[05/03/2015 22:40:57] Knight Da Cachorrada has logged out.
+[05/03/2015 22:41:44] > Broadcasted message: "Para comprar bless digite !bless".
+[05/03/2015 22:42:02] Anjo pk has logged out.
+[05/03/2015 22:42:03] Anjo pk has logged in.
+[05/03/2015 22:43:16] Felipe Ret has logged out.
+[05/03/2015 22:43:18] Kinazin has logged in.
+[05/03/2015 22:43:24] Kinazin has logged out.
+[05/03/2015 22:43:26] Felipe Ret has logged in.
+[05/03/2015 22:45:54] Anjo pk has logged out.
+[05/03/2015 22:45:56] Anjo pk has logged in.
+[05/03/2015 22:46:44] Brumm-bromm has logged out.
+[05/03/2015 22:46:55] Ultimate Archer has logged in.
+[05/03/2015 22:47:50] Mateus has logged in.
+[05/03/2015 22:48:10] Nadador Arqueiro has logged in.
+[05/03/2015 22:49:14] > Saving server...
+[05/03/2015 22:49:18] > SAVE: Complete in 3.432 seconds using relational house storage.
+[05/03/2015 22:49:21] Hiroshi has logged out.
+[05/03/2015 22:49:23] Hiroshi has logged in.
+[05/03/2015 22:49:23] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 22:49:28] Ultimate Archer has logged out.
+[05/03/2015 22:49:41] Spectors Death has logged in.
+[05/03/2015 22:49:45] Spectors Death has logged out.
+[05/03/2015 22:49:50] Brumm-bromm has logged in.
+[05/03/2015 22:49:54] > CLEAN: Removed 11698 items from 6494 tiles in 0.374 seconds.
+[05/03/2015 22:49:54] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 22:50:04] Mateus has logged out.
+[05/03/2015 22:50:05] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 22:50:31] Hensh has logged out.
+[05/03/2015 22:50:33] Hensh has logged in.
+[05/03/2015 22:50:47] Hiroshi has logged out.
+[05/03/2015 22:50:49] Hiroshi has logged in.
+[05/03/2015 22:50:52] Felipe Ret has logged out.
+[05/03/2015 22:50:55] Felipe Ret has logged in.
+[05/03/2015 22:50:56] Hiroshi has logged out.
+[05/03/2015 22:51:11] Honda has logged out.
+[05/03/2015 22:51:20] Hiroshi has logged in.
+[05/03/2015 22:51:21] Brumm-bromm has logged out.
+[05/03/2015 22:51:22] Brimm-bromm has logged in.
+[05/03/2015 22:51:27] Brimm-bromm has logged out.
+[05/03/2015 22:51:28] Brumm-bromm has logged in.
+[05/03/2015 22:51:38] Mage Ziika has logged out.
+[05/03/2015 22:51:52] Brumm-bromm has logged out.
+[05/03/2015 22:51:53] Brimm-bromm has logged in.
+[05/03/2015 22:51:57] Hensh has logged out.
+[05/03/2015 22:51:58] Hensh has logged in.
+[05/03/2015 22:52:46] Morris has logged out.
+[05/03/2015 22:53:01] Brimm-bromm has logged out.
+[05/03/2015 22:53:03] Brumm-bromm has logged in.
+[05/03/2015 22:53:07] Hiroshi has logged out.
+[05/03/2015 22:53:14] Druidzerah Mythus has logged out.
+[05/03/2015 22:53:38] Druidzerah Mythus has logged in.
+[05/03/2015 22:53:47] Anjo pk has logged out.
+[05/03/2015 22:54:17] Knight Da Cachorrada has logged in.
+[05/03/2015 22:54:40] Anjo pk has logged in.
+[05/03/2015 22:57:11] Lady girl has logged out.
+[05/03/2015 22:57:12] Lady girl has logged in.
+[05/03/2015 22:57:18] Lady girl has logged out.
+[05/03/2015 22:57:20] Lady girl has logged in.
+[05/03/2015 22:58:26] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 23:00:06] Lady girl has logged out.
+[05/03/2015 23:00:07] Lady girl has logged in.
+[05/03/2015 23:00:25] Anjo pk has logged out.
+[05/03/2015 23:00:27] Anjo pk has logged in.
+[05/03/2015 23:00:31] Coronel Brandock has logged in.
+[05/03/2015 23:00:33] Coronel Brandock has logged out.
+[05/03/2015 23:00:34] Hensh has logged out.
+[05/03/2015 23:00:36] Hensh has logged in.
+[05/03/2015 23:00:51] Account Manager has logged in.
+[05/03/2015 23:00:52] Account Manager has logged out.
+[05/03/2015 23:01:02] Anjo pk has logged out.
+[05/03/2015 23:01:04] Lucas has logged in.
+[05/03/2015 23:01:23] Mage Ziika has logged in.
+[05/03/2015 23:02:18] Lucas has logged out.
+[05/03/2015 23:02:19] Anjo pk has logged in.
+[05/03/2015 23:02:25] Brumm-bromm has logged out.
+[05/03/2015 23:02:27] Brumm-bromm has logged in.
+[05/03/2015 23:02:46] Jhonnie Walker has logged in.
+[05/03/2015 23:03:30] Brumm-bromm has logged out.
+[05/03/2015 23:03:31] Brumm-bromm has logged in.
+[05/03/2015 23:03:37] Brumm-bromm has logged out.
+[05/03/2015 23:03:38] Brimm-bromm has logged in.
+[05/03/2015 23:03:48] Knight Da Cachorrada has logged out.
+[05/03/2015 23:04:02] Slc Cachorrera has logged in.
+[05/03/2015 23:04:23] Anjo pk has logged out.
+[05/03/2015 23:04:25] Anjo pk has logged in.
+[05/03/2015 23:04:32] Brimm-bromm has logged out.
+[05/03/2015 23:04:33] Brumm-bromm has logged in.
+[05/03/2015 23:04:37] Jhonnie Walker has logged out.
+[05/03/2015 23:04:38] Hensh has logged out.
+[05/03/2015 23:04:39] Jhonnie Walker has logged in.
+[05/03/2015 23:04:39] Hensh has logged in.
+[05/03/2015 23:04:41] Slc Cachorrera has logged out.
+[05/03/2015 23:04:57] Slc Chachorreira has logged in.
+[05/03/2015 23:04:59] Slc Chachorreira has logged out.
+[05/03/2015 23:05:00] Slc Cachorrera has logged in.
+[05/03/2015 23:05:04] Slc Cachorrera has logged out.
+[05/03/2015 23:05:05] Slc Chachorrera has logged in.
+[05/03/2015 23:05:11] Nadador Arqueiro has logged out.
+[05/03/2015 23:05:14] Mage Ziika has logged out.
+[05/03/2015 23:06:04] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 23:06:15] Slc Chachorrera has logged out.
+[05/03/2015 23:06:18] Jhonnie Walker has logged out.
+[05/03/2015 23:06:21] Account Manager has logged in.
+[05/03/2015 23:06:35] > CLEAN: Removed 2367 items from 1924 tiles in 0.231 seconds.
+[05/03/2015 23:06:35] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 23:06:47] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/03/2015 23:07:06] Account Manager has logged out.
+[05/03/2015 23:07:10] Knight Da Cachorrada has logged in.
+[05/03/2015 23:07:44] Brumm-bromm has logged out.
+[05/03/2015 23:07:45] Brumm-bromm has logged in.
+[05/03/2015 23:08:10] Anjo pk has logged out.
+[05/03/2015 23:08:14] Anjo pk has logged in.
+[05/03/2015 23:08:16] Account Manager has logged in.
+[05/03/2015 23:08:35] Account Manager has logged out.
+[05/03/2015 23:08:50] Knightzerah Mythus has logged in.
+[05/03/2015 23:09:01] Knight Da Cachorrada has logged out.
+[05/03/2015 23:09:02] Knight Da Cachorrada has logged in.
+[05/03/2015 23:09:10] Nadador Arqueiro has logged in.
+[05/03/2015 23:10:21] Brumm-bromm has logged out.
+[05/03/2015 23:10:26] Knightzerah Mythus has logged out.
+[05/03/2015 23:10:37] Brimm-bromm has logged in.
+[05/03/2015 23:10:39] Account Manager has logged in.
+[05/03/2015 23:10:46] Account Manager has logged out.
+[05/03/2015 23:10:47] Account Manager has logged in.
+[05/03/2015 23:11:04] Account Manager has logged out.
+[05/03/2015 23:11:29] Knight Da Cachorrada has logged out.
+[05/03/2015 23:11:30] Account Manager has logged in.
+[05/03/2015 23:11:40] Account Manager has logged out.
+[05/03/2015 23:11:42] Account Manager has logged in.
+[05/03/2015 23:12:30] Ultimate Archer has logged in.
+[05/03/2015 23:12:36] > Saving server...
+[05/03/2015 23:12:38] > SAVE: Complete in 2.715 seconds using relational house storage.
+[05/03/2015 23:12:40] Account Manager has logged out.
+[05/03/2015 23:13:40] Hensh has logged out.
+[05/03/2015 23:13:41] Hensh has logged in.
+[05/03/2015 23:14:40] Anjo pk has logged out.
+[05/03/2015 23:14:42] Lucas has logged in.
+[05/03/2015 23:14:45] Lucas has logged out.
+[05/03/2015 23:14:46] Anj pk has logged in.
+[05/03/2015 23:14:49] Anj pk has logged out.
+[05/03/2015 23:14:51] Anj pk has logged in.
+[05/03/2015 23:14:58] Anj pk has logged out.
+[05/03/2015 23:15:00] Anjo pk has logged in.
+[05/03/2015 23:15:08] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 23:15:51] Hensh has logged out.
+[05/03/2015 23:15:58] Morris has logged in.
+[05/03/2015 23:16:06] Morris has logged out.
+[05/03/2015 23:16:24] Hensh has logged in.
+[05/03/2015 23:16:29] Hensh has logged out.
+[05/03/2015 23:16:36] Morris has logged in.
+[05/03/2015 23:16:41] Lady girl has logged out.
+[05/03/2015 23:16:49] Lady girl has logged in.
+[05/03/2015 23:17:43] Ultimate Archer has logged out.
+[05/03/2015 23:17:45] Ultimate Archer has logged in.
+[05/03/2015 23:18:38] Anjo pk has logged out.
+[05/03/2015 23:18:40] Anjo pk has logged in.
+[05/03/2015 23:19:26] Ultimate Archer has logged out.
+[05/03/2015 23:19:31] Ultimate Archer has logged in.
+[05/03/2015 23:20:41] Ultimate Archer has logged out.
+[05/03/2015 23:20:42] Ultimate Archer has logged in.
+[05/03/2015 23:20:43] Ultimate Archer has logged out.
+[05/03/2015 23:20:49] Ultimate Archer has logged in.
+[05/03/2015 23:21:51] Slc Cachorrera has logged in.
+[05/03/2015 23:22:10] Anjo pk has logged out.
+[05/03/2015 23:22:11] Anjo pk has logged in.
+[05/03/2015 23:22:42] Morris has logged out.
+[05/03/2015 23:22:43] Morris has logged in.
+[05/03/2015 23:22:45] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 23:23:16] > CLEAN: Removed 3216 items from 2387 tiles in 0.218 seconds.
+[05/03/2015 23:23:16] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 23:23:24] Anjo pk has logged out.
+[05/03/2015 23:23:25] Anjo pk has logged in.
+[05/03/2015 23:23:29] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/03/2015 23:24:06] Morris has logged out.
+[05/03/2015 23:24:07] Morris has logged in.
+[05/03/2015 23:24:17] Anjo pk has logged out.
+[05/03/2015 23:24:19] Anj pk has logged in.
+[05/03/2015 23:24:43] Anj pk has logged out.
+[05/03/2015 23:24:47] Anjo pk has logged in.
+[05/03/2015 23:24:48] Morris has logged out.
+[05/03/2015 23:24:50] Morris has logged in.
+[05/03/2015 23:25:05] Anjo pk has logged out.
+[05/03/2015 23:25:08] Anjo pk has logged in.
+[05/03/2015 23:25:09] 
+[05/03/2015 23:25:09] Lua Script Error: [CreatureScript Interface] 
+[05/03/2015 23:25:11] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[05/03/2015 23:25:12] 
+[05/03/2015 23:25:12] luaGetCreatureName(). Creature not found
+[05/03/2015 23:25:13] 
+[05/03/2015 23:25:13] Lua Script Error: [CreatureScript Interface] 
+[05/03/2015 23:25:14] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[05/03/2015 23:25:15] 
+[05/03/2015 23:25:15] luaGetCreatureName(). Creature not found
+[05/03/2015 23:25:16] Morris has logged out.
+[05/03/2015 23:25:22] Morris has logged in.
+[05/03/2015 23:25:46] Lady girl has logged out.
+[05/03/2015 23:25:46] 
+[05/03/2015 23:25:46] Lua Script Error: [CreatureScript Interface] 
+[05/03/2015 23:25:47] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[05/03/2015 23:25:47] 
+[05/03/2015 23:25:47] luaGetCreatureName(). Creature not found
+[05/03/2015 23:25:48] Ultimate Archer has logged out.
+[05/03/2015 23:25:49] Lady girl has logged in.
+[05/03/2015 23:25:50] Ultimate Archer has logged in.
+[05/03/2015 23:26:02] Felipe Ret has logged out.
+[05/03/2015 23:26:15] Anjo pk has logged out.
+[05/03/2015 23:26:21] Lady girl has logged out.
+[05/03/2015 23:26:21] Anj pk has logged in.
+[05/03/2015 23:26:23] Lady girl has logged in.
+[05/03/2015 23:26:24] Ultimate Archer has logged out.
+[05/03/2015 23:26:27] Ultimate Archer has logged in.
+[05/03/2015 23:26:37] Lady girl has logged out.
+[05/03/2015 23:26:52] Anj pk has logged out.
+[05/03/2015 23:26:53] Anjo pk has logged in.
+[05/03/2015 23:27:41] Anjo pk has logged out.
+[05/03/2015 23:27:42] Lucas has logged in.
+[05/03/2015 23:27:47] Lucas has logged out.
+[05/03/2015 23:27:50] Anjo pk has logged in.
+[05/03/2015 23:28:42] Morris has logged out.
+[05/03/2015 23:28:44] Lord Of Shadows has logged in.
+[05/03/2015 23:28:56] Nadador Arqueiro has logged out.
+[05/03/2015 23:30:11] Brimm-bromm has logged out.
+[05/03/2015 23:31:50] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 23:31:56] Lord Of Shadows has logged out.
+[05/03/2015 23:31:59] Morris has logged in.
+[05/03/2015 23:31:59] Anjo pk has logged out.
+[05/03/2015 23:32:00] Anjo pk has logged in.
+[05/03/2015 23:33:09] Nadador Arqueiro has logged in.
+[05/03/2015 23:35:57] > Saving server...
+[05/03/2015 23:36:00] > SAVE: Complete in 2.661 seconds using relational house storage.
+[05/03/2015 23:39:26] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 23:39:57] > CLEAN: Removed 4724 items from 3087 tiles in 0.549 seconds.
+[05/03/2015 23:39:57] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 23:40:11] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/03/2015 23:44:51] Slc Cachorrera has logged out.
+[05/03/2015 23:48:32] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/03/2015 23:48:39] Morris has logged out.
+[05/03/2015 23:49:18] Anjo pk has logged out.
+[05/03/2015 23:49:21] Nadador Arqueiro has logged out.
+[05/03/2015 23:49:32] Nadador Arqueiro has logged in.
+[05/03/2015 23:52:12] Ultimate Archer has logged out.
+[05/03/2015 23:56:07] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/03/2015 23:56:38] > CLEAN: Removed 3559 items from 2319 tiles in 0.299 seconds.
+[05/03/2015 23:56:38] > Broadcasted message: "Map Cleaned.".
+[05/03/2015 23:56:53] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/03/2015 23:57:03] Mage Ziika has logged in.
+[05/03/2015 23:57:53] Account Manager has logged in.
+[05/03/2015 23:57:54] Account Manager has logged out.
+[05/03/2015 23:57:59] Morris has logged in.
+[05/03/2015 23:59:18] > Saving server...
+[05/03/2015 23:59:20] > SAVE: Complete in 2.262 seconds using relational house storage.
+[05/03/2015 23:59:44] Jhonnie Walker has logged in.

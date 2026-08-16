@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<monster name="Hidan" nameDescription="Hidan" experience="9999999955" speed="500" race="Blood">
+  <health now="9923000" max="9923000"/>
+  <look type="146" head="95" legs="114" feet="19" addons="3" corpse="3058"/>
+  <strategy attack="10000" defense="500"/>
+  <targetchange speed="10" chance="100"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="100"/>
+    <flag targetdistance="1"/>
+    <flag skull="4"/>
+  </flags>
+  <attacks>
+    <attack name="Ice" interval="600" chance="100" min="-35000" max="-40000" range="2">
+    </attack>
+    <attack name="physical" interval="900" chance="100" min="-28000" max="-35000" range="1">
+      <attribute key="areaEffect" value="iceattack"/>
+      <attribute key="shootEffect" value="ice"/>
+    </attack>
+  </attacks>
+  <defenses defense="45" armor="10"/>
+  <immunities>
+    <immunity name="outfit"/>
+    <immunity name="invisible"/>
+    <immunity name="poison"/>
+    <immunity name="death"/>
+    <immunity name="fire"/>
+  </immunities>
+  <loot>
+    <item id="3940" countmax="1" chance="99999"/>
+    <item id="2466" countmax="1" chance="99999"/>
+    <item id="2459" countmax="1" chance="99999"/>
+    <item id="2160" countmax="20" chance="9999"/>
+  </loot>
+</monster>

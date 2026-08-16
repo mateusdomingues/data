@@ -1,0 +1,338 @@
+[30/07/2014 17:45:52] The Forgotten Server, version 0.3.4 (Crying Damson)
+[30/07/2014 17:45:53] Sever Criado Por Alissow e Comedinha.
+[30/07/2014 17:45:53] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[30/07/2014 17:45:53] Bom Jogo!!!
+[30/07/2014 17:45:53] 
+[30/07/2014 17:45:53] >> Debugging: nothing.
+[30/07/2014 17:45:53] >> Checking software version... failed checking - malformed file.
+[30/07/2014 17:45:54] 
+[30/07/2014 17:45:54] >> Loading config (config.lua)
+[30/07/2014 17:45:54] > Using plaintext passwords
+[30/07/2014 17:45:55] >> Loading RSA key
+[30/07/2014 17:45:55] >> Starting SQL connection
+[30/07/2014 17:45:55] >> Running Database Manager
+[30/07/2014 17:45:55] > Optimized database.
+[30/07/2014 17:45:55] >> Loading items
+[30/07/2014 17:45:56] >> Loading groups
+[30/07/2014 17:45:56] >> Loading vocations
+[30/07/2014 17:45:56] >> Loading script systems
+[30/07/2014 17:45:57] >> Loading chat channels
+[30/07/2014 17:45:57] >> Loading outfits
+[30/07/2014 17:45:57] >> Loading experience stages
+[30/07/2014 17:45:57] >> Loading monsters
+[30/07/2014 17:45:58] >> Loading map and spawns...
+[30/07/2014 17:45:59] > Map size: 65000x65000.
+[30/07/2014 17:45:59] > Map descriptions: 
+[30/07/2014 17:45:59] Saved with Remere's Map Editor 2.2
+[30/07/2014 17:46:00] No map description available.
+[30/07/2014 17:46:00] Duplicate uniqueId 2407
+[30/07/2014 17:46:04] > Map loading time: 5.798 seconds.
+[30/07/2014 17:46:05] > Data loading time: 0.301 seconds.
+[30/07/2014 17:46:05] > Unserialization time for houses: 0.016 seconds.
+[30/07/2014 17:46:29] > Unserialization time for map: 23.962 seconds.
+[30/07/2014 17:46:29] >> Checking world type... PvP
+[30/07/2014 17:46:29] >> Initializing game state modules and registering services...
+[30/07/2014 17:46:30] > Global address: deathpvp.no-ip.info
+[30/07/2014 17:46:30] > Local ports:
+[30/07/2014 17:46:30] 7171	7172	
+[30/07/2014 17:46:30] >> All modules were loaded, server starting up...
+[30/07/2014 17:46:31] >> OT Death server Online!
+[30/07/2014 17:46:31] 
+[30/07/2014 17:47:00] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[30/07/2014 17:47:02] Account Manager has logged in.
+[30/07/2014 17:47:06] Account Manager has logged out.
+[30/07/2014 17:47:16] Mateus has logged in.
+[30/07/2014 17:52:38] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[30/07/2014 17:59:19] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[30/07/2014 18:00:18] Mateus has logged out.
+[30/07/2014 18:00:18] > Saving server...
+[30/07/2014 18:00:20] > SAVE: Complete in 1.632 seconds using relational house storage.
+[30/07/2014 18:00:23] Preparing to shutdown server..
+[30/07/2014 18:00:23] .
+[30/07/2014 18:00:23] Exiting
+[30/07/2014 19:45:27] The Forgotten Server, version 0.3.4 (Crying Damson)
+[30/07/2014 19:45:27] Sever Criado Por Alissow e Comedinha.
+[30/07/2014 19:45:27] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[30/07/2014 19:45:28] Bom Jogo!!!
+[30/07/2014 19:45:28] 
+[30/07/2014 19:45:28] >> Debugging: nothing.
+[30/07/2014 19:45:29] >> Checking software version... failed checking - malformed file.
+[30/07/2014 19:45:30] 
+[30/07/2014 19:45:30] >> Loading config (config.lua)
+[30/07/2014 19:45:30] > Using plaintext passwords
+[30/07/2014 19:45:30] >> Loading RSA key
+[30/07/2014 19:45:30] >> Starting SQL connection
+[30/07/2014 19:45:30] >> Running Database Manager
+[30/07/2014 19:45:31] > Optimized database.
+[30/07/2014 19:45:31] >> Loading items
+[30/07/2014 19:45:31] >> Loading groups
+[30/07/2014 19:45:32] >> Loading vocations
+[30/07/2014 19:45:32] >> Loading script systems
+[30/07/2014 19:45:33] >> Loading chat channels
+[30/07/2014 19:45:33] >> Loading outfits
+[30/07/2014 19:45:34] >> Loading experience stages
+[30/07/2014 19:45:34] >> Loading monsters
+[30/07/2014 19:45:34] >> Loading map and spawns...
+[30/07/2014 19:45:35] > Map size: 65000x65000.
+[30/07/2014 19:45:35] > Map descriptions: 
+[30/07/2014 19:45:35] Saved with Remere's Map Editor 2.2
+[30/07/2014 19:45:35] No map description available.
+[30/07/2014 19:45:36] Duplicate uniqueId 2407
+[30/07/2014 19:45:39] > Map loading time: 5.125 seconds.
+[30/07/2014 19:45:41] > Data loading time: 1.336 seconds.
+[30/07/2014 19:45:41] > Unserialization time for houses: 0.014 seconds.
+[30/07/2014 19:46:05] > Unserialization time for map: 23.802 seconds.
+[30/07/2014 19:46:05] >> Checking world type... PvP
+[30/07/2014 19:46:06] >> Initializing game state modules and registering services...
+[30/07/2014 19:46:06] > Global address: deathpvp.no-ip.info
+[30/07/2014 19:46:07] > Local ports:
+[30/07/2014 19:46:07] 7171	7172	
+[30/07/2014 19:46:07] >> All modules were loaded, server starting up...
+[30/07/2014 19:46:07] >> OT Death server Online!
+[30/07/2014 19:46:07] 
+[30/07/2014 19:46:07] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[30/07/2014 19:46:09] Mateus has logged in.
+[30/07/2014 19:48:05] Mateus has logged out.
+[30/07/2014 19:48:05] > Saving server...
+[30/07/2014 19:48:06] > SAVE: Complete in 1.301 seconds using relational house storage.
+[30/07/2014 19:48:07] Preparing to shutdown server..
+[30/07/2014 19:48:07] .
+[30/07/2014 19:48:07] Exiting
+[30/07/2014 19:48:16] The Forgotten Server, version 0.3.4 (Crying Damson)
+[30/07/2014 19:48:16] Sever Criado Por Alissow e Comedinha.
+[30/07/2014 19:48:16] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[30/07/2014 19:48:17] Bom Jogo!!!
+[30/07/2014 19:48:17] 
+[30/07/2014 19:48:17] >> Debugging: nothing.
+[30/07/2014 19:48:17] >> Checking software version... failed checking - malformed file.
+[30/07/2014 19:48:18] 
+[30/07/2014 19:48:18] >> Loading config (config.lua)
+[30/07/2014 19:48:18] > Using plaintext passwords
+[30/07/2014 19:48:18] >> Loading RSA key
+[30/07/2014 19:48:18] >> Starting SQL connection
+[30/07/2014 19:48:19] >> Running Database Manager
+[30/07/2014 19:48:19] > Optimized database.
+[30/07/2014 19:48:19] >> Loading items
+[30/07/2014 19:48:20] >> Loading groups
+[30/07/2014 19:48:20] >> Loading vocations
+[30/07/2014 19:48:21] >> Loading script systems
+[30/07/2014 19:48:21] >> Loading chat channels
+[30/07/2014 19:48:21] >> Loading outfits
+[30/07/2014 19:48:21] >> Loading experience stages
+[30/07/2014 19:48:22] >> Loading monsters
+[30/07/2014 19:48:22] >> Loading map and spawns...
+[30/07/2014 19:48:23] > Map size: 65000x65000.
+[30/07/2014 19:48:23] > Map descriptions: 
+[30/07/2014 19:48:24] Saved with Remere's Map Editor 2.2
+[30/07/2014 19:48:24] No map description available.
+[30/07/2014 19:48:25] Duplicate uniqueId 2407
+[30/07/2014 19:48:29] > Map loading time: 6.824 seconds.
+[30/07/2014 19:48:30] > Data loading time: 0.334 seconds.
+[30/07/2014 19:48:30] > Unserialization time for houses: 0.016 seconds.
+[30/07/2014 19:48:56] > Unserialization time for map: 26.258 seconds.
+[30/07/2014 19:48:57] >> Checking world type... PvP
+[30/07/2014 19:48:57] >> Initializing game state modules and registering services...
+[30/07/2014 19:48:57] > Global address: deathpvp.no-ip.info
+[30/07/2014 19:48:58] > Local ports:
+[30/07/2014 19:48:58] 7171	7172	
+[30/07/2014 19:48:58] >> All modules were loaded, server starting up...
+[30/07/2014 19:48:58] >> OT Death server Online!
+[30/07/2014 19:48:59] 
+[30/07/2014 19:49:03] Mateus has logged in.
+[30/07/2014 19:50:56] Mateus has logged out.
+[30/07/2014 19:50:56] > Saving server...
+[30/07/2014 19:50:58] > SAVE: Complete in 1.379 seconds using relational house storage.
+[30/07/2014 19:50:58] Preparing to shutdown server..
+[30/07/2014 19:50:58] .
+[30/07/2014 19:50:58] Exiting
+[30/07/2014 19:51:03] The Forgotten Server, version 0.3.4 (Crying Damson)
+[30/07/2014 19:51:04] Sever Criado Por Alissow e Comedinha.
+[30/07/2014 19:51:04] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[30/07/2014 19:51:05] Bom Jogo!!!
+[30/07/2014 19:51:05] 
+[30/07/2014 19:51:05] >> Debugging: nothing.
+[30/07/2014 19:51:05] >> Checking software version... failed checking - malformed file.
+[30/07/2014 19:51:07] 
+[30/07/2014 19:51:07] >> Loading config (config.lua)
+[30/07/2014 19:51:07] > Using plaintext passwords
+[30/07/2014 19:51:08] >> Loading RSA key
+[30/07/2014 19:51:08] >> Starting SQL connection
+[30/07/2014 19:51:08] >> Running Database Manager
+[30/07/2014 19:51:09] > Optimized database.
+[30/07/2014 19:51:10] >> Loading items
+[30/07/2014 19:51:10] >> Loading groups
+[30/07/2014 19:51:10] >> Loading vocations
+[30/07/2014 19:51:10] >> Loading script systems
+[30/07/2014 19:51:11] >> Loading chat channels
+[30/07/2014 19:51:12] >> Loading outfits
+[30/07/2014 19:51:12] >> Loading experience stages
+[30/07/2014 19:51:12] >> Loading monsters
+[30/07/2014 19:51:13] >> Loading map and spawns...
+[30/07/2014 19:51:14] > Map size: 65000x65000.
+[30/07/2014 19:51:14] > Map descriptions: 
+[30/07/2014 19:51:14] Saved with Remere's Map Editor 2.2
+[30/07/2014 19:51:14] No map description available.
+[30/07/2014 19:51:15] Duplicate uniqueId 2407
+[30/07/2014 19:51:19] > Map loading time: 6.328 seconds.
+[30/07/2014 19:51:20] > Data loading time: 0.355 seconds.
+[30/07/2014 19:51:20] > Unserialization time for houses: 0.018 seconds.
+[30/07/2014 19:51:47] > Unserialization time for map: 26.232 seconds.
+[30/07/2014 19:51:48] >> Checking world type... PvP
+[30/07/2014 19:51:48] >> Initializing game state modules and registering services...
+[30/07/2014 19:51:49] > Global address: deathpvp.no-ip.info
+[30/07/2014 19:51:50] > Local ports:
+[30/07/2014 19:51:50] 7171	7172	
+[30/07/2014 19:51:50] >> All modules were loaded, server starting up...
+[30/07/2014 19:51:51] >> OT Death server Online!
+[30/07/2014 19:51:51] 
+[30/07/2014 19:52:31] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[30/07/2014 19:52:32] Mateus has logged in.
+[30/07/2014 19:57:52] > Broadcasted message: "Para comprar bless digite !bless".
+[30/07/2014 19:58:34] Mateus has logged out.
+[30/07/2014 19:58:35] > Saving server...
+[30/07/2014 19:58:36] > SAVE: Complete in 1.509 seconds using relational house storage.
+[30/07/2014 19:58:37] Preparing to shutdown server..
+[30/07/2014 19:58:37] .
+[30/07/2014 19:58:37] Exiting
+[30/07/2014 19:58:52] The Forgotten Server, version 0.3.4 (Crying Damson)
+[30/07/2014 19:58:53] Sever Criado Por Alissow e Comedinha.
+[30/07/2014 19:58:54] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[30/07/2014 19:58:54] Bom Jogo!!!
+[30/07/2014 19:58:55] 
+[30/07/2014 19:58:55] >> Debugging: nothing.
+[30/07/2014 19:58:55] >> Checking software version... failed checking - malformed file.
+[30/07/2014 19:58:56] 
+[30/07/2014 19:58:56] >> Loading config (config.lua)
+[30/07/2014 19:58:57] > Using plaintext passwords
+[30/07/2014 19:58:57] >> Loading RSA key
+[30/07/2014 19:58:57] >> Starting SQL connection
+[30/07/2014 19:58:58] >> Running Database Manager
+[30/07/2014 19:58:58] > Optimized database.
+[30/07/2014 19:58:59] >> Loading items
+[30/07/2014 19:58:59] >> Loading groups
+[30/07/2014 19:58:59] >> Loading vocations
+[30/07/2014 19:59:00] >> Loading script systems
+[30/07/2014 19:59:01] >> Loading chat channels
+[30/07/2014 19:59:02] >> Loading outfits
+[30/07/2014 19:59:02] >> Loading experience stages
+[30/07/2014 19:59:02] >> Loading monsters
+[30/07/2014 19:59:03] >> Loading map and spawns...
+[30/07/2014 19:59:04] > Map size: 65000x65000.
+[30/07/2014 19:59:04] > Map descriptions: 
+[30/07/2014 19:59:05] Saved with Remere's Map Editor 2.2
+[30/07/2014 19:59:05] No map description available.
+[30/07/2014 19:59:06] Duplicate uniqueId 2407
+[30/07/2014 19:59:11] > Map loading time: 7.234 seconds.
+[30/07/2014 19:59:13] > Data loading time: 1.862 seconds.
+[30/07/2014 19:59:14] > Unserialization time for houses: 0.017 seconds.
+[30/07/2014 19:59:41] > Unserialization time for map: 26.102 seconds.
+[30/07/2014 19:59:42] >> Checking world type... PvP
+[30/07/2014 19:59:42] >> Initializing game state modules and registering services...
+[30/07/2014 19:59:43] > Global address: deathpvp.no-ip.info
+[30/07/2014 19:59:44] > Local ports:
+[30/07/2014 19:59:44] 7171	7172	
+[30/07/2014 19:59:45] >> All modules were loaded, server starting up...
+[30/07/2014 19:59:45] >> OT Death server Online!
+[30/07/2014 19:59:46] 
+[30/07/2014 19:59:48] Mateus has logged in.
+[30/07/2014 20:01:23] Mateus has logged out.
+[30/07/2014 20:01:23] > Saving server...
+[30/07/2014 20:01:25] sqlite3_step(): SQLITE ERROR: unable to open database file
+[30/07/2014 20:01:26] > SAVE: Complete in 3.035 seconds using relational house storage.
+[30/07/2014 20:01:27] Preparing to shutdown server..
+[30/07/2014 20:01:27] .
+[30/07/2014 20:01:27] Exiting
+[30/07/2014 20:01:43] The Forgotten Server, version 0.3.4 (Crying Damson)
+[30/07/2014 20:01:43] Sever Criado Por Alissow e Comedinha.
+[30/07/2014 20:01:44] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[30/07/2014 20:01:45] Bom Jogo!!!
+[30/07/2014 20:01:45] 
+[30/07/2014 20:01:45] >> Debugging: nothing.
+[30/07/2014 20:01:45] >> Checking software version... failed checking - malformed file.
+[30/07/2014 20:01:46] 
+[30/07/2014 20:01:46] >> Loading config (config.lua)
+[30/07/2014 20:01:46] > Using plaintext passwords
+[30/07/2014 20:01:47] >> Loading RSA key
+[30/07/2014 20:01:47] >> Starting SQL connection
+[30/07/2014 20:01:47] >> Running Database Manager
+[30/07/2014 20:01:48] > Optimized database.
+[30/07/2014 20:01:48] >> Loading items
+[30/07/2014 20:01:48] >> Loading groups
+[30/07/2014 20:01:49] >> Loading vocations
+[30/07/2014 20:01:49] >> Loading script systems
+[30/07/2014 20:01:50] >> Loading chat channels
+[30/07/2014 20:01:50] >> Loading outfits
+[30/07/2014 20:01:50] >> Loading experience stages
+[30/07/2014 20:01:51] >> Loading monsters
+[30/07/2014 20:01:52] >> Loading map and spawns...
+[30/07/2014 20:01:53] > Map size: 65000x65000.
+[30/07/2014 20:01:53] > Map descriptions: 
+[30/07/2014 20:01:54] Saved with Remere's Map Editor 2.2
+[30/07/2014 20:01:54] No map description available.
+[30/07/2014 20:01:55] Duplicate uniqueId 2407
+[30/07/2014 20:02:00] > Map loading time: 7.659 seconds.
+[30/07/2014 20:02:01] > Data loading time: 0.365 seconds.
+[30/07/2014 20:02:01] > Unserialization time for houses: 0.019 seconds.
+[30/07/2014 20:02:30] > Unserialization time for map: 28.455 seconds.
+[30/07/2014 20:02:31] >> Checking world type... PvP
+[30/07/2014 20:02:32] >> Initializing game state modules and registering services...
+[30/07/2014 20:02:33] > Global address: deathpvp.no-ip.info
+[30/07/2014 20:02:34] > Local ports:
+[30/07/2014 20:02:35] 7171	7172	
+[30/07/2014 20:02:35] >> All modules were loaded, server starting up...
+[30/07/2014 20:02:36] >> OT Death server Online!
+[30/07/2014 20:02:36] 
+[30/07/2014 20:02:36] Mateus has logged in.
+[30/07/2014 20:03:53] Mateus has logged out.
+[30/07/2014 20:03:54] > Saving server...
+[30/07/2014 20:03:55] > SAVE: Complete in 1.673 seconds using relational house storage.
+[30/07/2014 20:03:57] Preparing to shutdown server..
+[30/07/2014 20:03:57] .
+[30/07/2014 20:03:57] Exiting
+[30/07/2014 20:04:02] The Forgotten Server, version 0.3.4 (Crying Damson)
+[30/07/2014 20:04:04] Sever Criado Por Alissow e Comedinha.
+[30/07/2014 20:04:05] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[30/07/2014 20:04:06] Bom Jogo!!!
+[30/07/2014 20:04:06] 
+[30/07/2014 20:04:06] >> Debugging: nothing.
+[30/07/2014 20:04:06] >> Checking software version... failed checking - malformed file.
+[30/07/2014 20:04:09] 
+[30/07/2014 20:04:09] >> Loading config (config.lua)
+[30/07/2014 20:04:09] > Using plaintext passwords
+[30/07/2014 20:04:10] >> Loading RSA key
+[30/07/2014 20:04:10] >> Starting SQL connection
+[30/07/2014 20:04:10] >> Running Database Manager
+[30/07/2014 20:04:11] > Optimized database.
+[30/07/2014 20:04:12] >> Loading items
+[30/07/2014 20:04:12] >> Loading groups
+[30/07/2014 20:04:13] >> Loading vocations
+[30/07/2014 20:04:13] >> Loading script systems
+[30/07/2014 20:04:14] >> Loading chat channels
+[30/07/2014 20:04:15] >> Loading outfits
+[30/07/2014 20:04:15] >> Loading experience stages
+[30/07/2014 20:04:16] >> Loading monsters
+[30/07/2014 20:04:17] >> Loading map and spawns...
+[30/07/2014 20:04:18] > Map size: 65000x65000.
+[30/07/2014 20:04:18] > Map descriptions: 
+[30/07/2014 20:04:19] Saved with Remere's Map Editor 2.2
+[30/07/2014 20:04:19] No map description available.
+[30/07/2014 20:04:20] Duplicate uniqueId 2407
+[30/07/2014 20:04:25] > Map loading time: 7.91 seconds.
+[30/07/2014 20:04:26] > Data loading time: 0.362 seconds.
+[30/07/2014 20:04:26] > Unserialization time for houses: 0.017 seconds.
+[30/07/2014 20:04:56] > Unserialization time for map: 29.5 seconds.
+[30/07/2014 20:04:57] >> Checking world type... PvP
+[30/07/2014 20:04:57] >> Initializing game state modules and registering services...
+[30/07/2014 20:04:58] > Global address: deathpvp.no-ip.info
+[30/07/2014 20:04:59] > Local ports:
+[30/07/2014 20:05:00] 7171	7172	
+[30/07/2014 20:05:00] >> All modules were loaded, server starting up...
+[30/07/2014 20:05:00] >> OT Death server Online!
+[30/07/2014 20:05:01] 
+[30/07/2014 20:05:02] Mateus has logged in.
+[30/07/2014 20:09:47] Mateus has logged out.
+[30/07/2014 20:09:48] > Saving server...
+[30/07/2014 20:09:51] > SAVE: Complete in 1.766 seconds using relational house storage.
+[30/07/2014 20:09:53] Preparing to shutdown server..
+[30/07/2014 20:09:54] .
+[30/07/2014 20:09:54] Exiting

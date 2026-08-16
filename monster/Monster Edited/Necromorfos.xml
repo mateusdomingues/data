@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Necromorfos" nameDescription="a necromorfos" race="blood" experience="3000000" speed="9999" manacost="480">
+  <health now="600000000" max="600000000"/>
+  <look type="72" head="0" body="0" legs="0" feet="0" corpse="6064"/>
+  <targetchange interval="5000" chance="8"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="1"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="0"/>
+    <flag staticattack="90"/>
+    <flag targetdistance="1"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+    <attack name="Ice" interval="1000" min="-2000000" max="-5000000"/>
+    <attack name="Epic Freezer" interval="6000" chance="100" min="-2200000" max="-2200000" range="10">
+    </attack>
+  </attacks>
+  <defenses armor="188" defense="145">
+    <defense name="healing" interval="9000" chance="100" min="70000000" max="70000000">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+  </defenses>
+  <elements>
+	<element icePercent="9999"/>
+  </elements>
+  <immunities>
+    <immunity name="lifedrain"/>
+    <immunity name="outfit"/>
+    <immunity name="paralyze"/>
+    <immunity name="invisible"/>
+    <immunity name="drown"/>
+    <immunity name="drunk"/>
+  </immunities>
+  <voices interval="2000" chance="10">
+	<voice sentence="LULA LADRÃO!"/>
+  </voices>
+  <loot>
+    <item id="2148" countmax="90" chance1="100000" chancemax="0"/>
+  </loot>
+</monster>

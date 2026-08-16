@@ -1,0 +1,2698 @@
+[22/08/2014 12:59:28] The Forgotten Server, version 0.3.4 (Crying Damson)
+[22/08/2014 12:59:29] Sever Criado Por Alissow e Comedinha.
+[22/08/2014 12:59:29] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[22/08/2014 12:59:29] Bom Jogo!!!
+[22/08/2014 12:59:29] 
+[22/08/2014 12:59:29] >> Debugging: nothing.
+[22/08/2014 12:59:29] >> Checking software version... failed checking - malformed file.
+[22/08/2014 12:59:30] 
+[22/08/2014 12:59:30] >> Loading config (config.lua)
+[22/08/2014 12:59:31] > Using plaintext passwords
+[22/08/2014 12:59:31] >> Loading RSA key
+[22/08/2014 12:59:31] >> Starting SQL connection
+[22/08/2014 12:59:31] >> Running Database Manager
+[22/08/2014 12:59:31] > Optimized database.
+[22/08/2014 12:59:32] >> Loading items
+[22/08/2014 12:59:32] >> Loading groups
+[22/08/2014 12:59:32] >> Loading vocations
+[22/08/2014 12:59:32] >> Loading script systems
+[22/08/2014 12:59:34] >> Loading chat channels
+[22/08/2014 12:59:35] >> Loading outfits
+[22/08/2014 12:59:35] >> Loading experience stages
+[22/08/2014 12:59:35] >> Loading monsters
+[22/08/2014 12:59:37] >> Loading map and spawns...
+[22/08/2014 12:59:38] > Map size: 65000x65000.
+[22/08/2014 12:59:38] > Map descriptions: 
+[22/08/2014 12:59:38] Saved with Remere's Map Editor 2.2
+[22/08/2014 12:59:38] No map description available.
+[22/08/2014 12:59:39] Duplicate uniqueId 2407
+[22/08/2014 12:59:42] > Map loading time: 5.299 seconds.
+[22/08/2014 12:59:44] > Data loading time: 1.08 seconds.
+[22/08/2014 12:59:44] > Unserialization time for houses: 0.023 seconds.
+[22/08/2014 13:00:08] > Unserialization time for map: 24.254 seconds.
+[22/08/2014 13:00:09] >> Checking world type... PvP
+[22/08/2014 13:00:09] >> Initializing game state modules and registering services...
+[22/08/2014 13:00:09] > Global address: deathpvp.no-ip.info
+[22/08/2014 13:00:10] > Local ports:
+[22/08/2014 13:00:10] 7171	7172	
+[22/08/2014 13:00:10] >> All modules were loaded, server starting up...
+[22/08/2014 13:00:10] >> OT Death server Online!
+[22/08/2014 13:00:10] 
+[22/08/2014 13:00:13] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[22/08/2014 13:00:17] Account Manager has logged in.
+[22/08/2014 13:00:19] Account Manager has logged out.
+[22/08/2014 13:00:25] Duff Maluko has logged in.
+[22/08/2014 13:00:38] Duff Maluko has logged out.
+[22/08/2014 13:00:44] Porra Manw has logged in.
+[22/08/2014 13:00:57] Account Manager has logged in.
+[22/08/2014 13:00:58] Account Manager has logged out.
+[22/08/2014 13:01:35] Bob Dyller has logged in.
+[22/08/2014 13:03:54] Gotack has logged in.
+[22/08/2014 13:04:31] Mata Pally has logged in.
+[22/08/2014 13:04:42] Gotack has logged out.
+[22/08/2014 13:04:50] Gotak has logged in.
+[22/08/2014 13:05:04] Gotak has logged out.
+[22/08/2014 13:05:12] Juninhosza has logged in.
+[22/08/2014 13:05:13] Menino Mal has logged in.
+[22/08/2014 13:05:43] Gotack has logged in.
+[22/08/2014 13:06:15] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[22/08/2014 13:06:45] Gotack has logged out.
+[22/08/2014 13:07:04] Gotack has logged in.
+[22/08/2014 13:07:13] Juninhosza has logged out.
+[22/08/2014 13:07:19] Druidzerah Mythus has logged in.
+[22/08/2014 13:07:19] Vo recupera has logged in.
+[22/08/2014 13:07:28] Druidzerah Mythus has logged out.
+[22/08/2014 13:07:31] Druidzerah Mythus has logged in.
+[22/08/2014 13:09:16] Pally Brisado has logged in.
+[22/08/2014 13:10:42] Yakuza has logged in.
+[22/08/2014 13:11:39] Duff Maluko has logged in.
+[22/08/2014 13:12:07] Maluko duff has logged in.
+[22/08/2014 13:12:40] Menina Mal has logged in.
+[22/08/2014 13:12:56] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[22/08/2014 13:13:04] Druid Zughy has logged in.
+[22/08/2014 13:13:33] Menino Mal has logged out.
+[22/08/2014 13:13:35] Menino Mal has logged in.
+[22/08/2014 13:14:26] Arizinha Andrade has logged in.
+[22/08/2014 13:14:45] Vo recupera has logged out.
+[22/08/2014 13:14:47] Vo recupera has logged in.
+[22/08/2014 13:15:11] Gotack has logged out.
+[22/08/2014 13:15:14] Gotack has logged in.
+[22/08/2014 13:16:15] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 13:16:45] > CLEAN: Removed 1236 items from 862 tiles in 0.197 seconds.
+[22/08/2014 13:16:46] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 13:17:10] Porra Manw has logged out.
+[22/08/2014 13:19:37] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[22/08/2014 13:21:13] 
+[22/08/2014 13:21:13] Lua Script Error: [Action Interface] 
+[22/08/2014 13:21:13] data/actions/scripts/upgrade.lua:onUse
+[22/08/2014 13:21:13] 
+[22/08/2014 13:21:13] luaGetItemAttack(). Item not found
+[22/08/2014 13:21:14] 
+[22/08/2014 13:21:14] Lua Script Error: [Action Interface] 
+[22/08/2014 13:21:14] data/actions/scripts/upgrade.lua:onUse
+[22/08/2014 13:21:14] 
+[22/08/2014 13:21:14] data/actions/scripts/upgrade.lua:27: attempt to compare number with boolean
+[22/08/2014 13:21:14] stack traceback:
+[22/08/2014 13:21:14] 	data/actions/scripts/upgrade.lua:27: in function <data/actions/scripts/upgrade.lua:18>
+[22/08/2014 13:21:40] 
+[22/08/2014 13:21:40] Lua Script Error: [Action Interface] 
+[22/08/2014 13:21:40] data/actions/scripts/upgrade.lua:onUse
+[22/08/2014 13:21:40] 
+[22/08/2014 13:21:40] luaGetItemAttack(). Item not found
+[22/08/2014 13:21:40] 
+[22/08/2014 13:21:40] Lua Script Error: [Action Interface] 
+[22/08/2014 13:21:40] data/actions/scripts/upgrade.lua:onUse
+[22/08/2014 13:21:41] 
+[22/08/2014 13:21:41] data/actions/scripts/upgrade.lua:27: attempt to compare number with boolean
+[22/08/2014 13:21:41] stack traceback:
+[22/08/2014 13:21:41] 	data/actions/scripts/upgrade.lua:27: in function <data/actions/scripts/upgrade.lua:18>
+[22/08/2014 13:24:19] Gotack has logged out.
+[22/08/2014 13:24:20] Gotack has logged in.
+[22/08/2014 13:25:19] Vo recupera has logged out.
+[22/08/2014 13:25:22] Vo recupera has logged in.
+[22/08/2014 13:25:40] Druid Zughy has logged out.
+[22/08/2014 13:26:13] [Hoster] Jean has logged in.
+[22/08/2014 13:26:18] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[22/08/2014 13:26:33] Alvo Severo Potter has logged in.
+[22/08/2014 13:26:55] Duff Maluko has logged out.
+[22/08/2014 13:26:57] Duff Maluko has logged in.
+[22/08/2014 13:27:24] > Broadcasted message: "tirem mc".
+[22/08/2014 13:27:29] > Broadcasted message: "vo bani".
+[22/08/2014 13:27:41] Nadador Arqueiro has logged in.
+[22/08/2014 13:28:08] Alvo Severo Potter has logged out.
+[22/08/2014 13:28:11] Alvo Severo Potter has logged in.
+[22/08/2014 13:28:16] Alvo Severo Potter has logged out.
+[22/08/2014 13:28:38] Vo recupera has logged out.
+[22/08/2014 13:28:40] Vo recupera has logged in.
+[22/08/2014 13:29:33] Underdown has logged in.
+[22/08/2014 13:30:01] > Broadcasted message: "Demon lord minions are working on his return to the World. LEAVE at once, mortals.".
+[22/08/2014 13:30:11] > Broadcasted message: "Demon Lord is about to make his way into the mortal realm. Run for your lives!".
+[22/08/2014 13:30:21] > Broadcasted message: "Demon Lord has been summoned from hell to plague the lands of mortals once again.".
+[22/08/2014 13:30:27] Nadador Arqueiro has logged out.
+[22/08/2014 13:30:30] Nadador Arqueiro has logged in.
+[22/08/2014 13:31:11] Mata Pally has logged out.
+[22/08/2014 13:31:15] Mata Pally has logged in.
+[22/08/2014 13:31:27] Nadador Arqueiro has logged out.
+[22/08/2014 13:31:29] Nadador Arqueiro has logged in.
+[22/08/2014 13:32:37] > Saving server...
+[22/08/2014 13:32:41] > SAVE: Complete in 4.331 seconds using relational house storage.
+[22/08/2014 13:32:56] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 13:32:59] > Broadcasted message: "Para comprar bless digite !bless".
+[22/08/2014 13:33:00] > Saving server...
+[22/08/2014 13:33:05] > SAVE: Complete in 4.582 seconds using relational house storage.
+[22/08/2014 13:33:27] > CLEAN: Removed 318 items from 366 tiles in 0.32 seconds.
+[22/08/2014 13:33:28] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 13:33:34] [Hoster] Jean has logged out.
+[22/08/2014 13:34:22] Arizinha Andrade has logged out.
+[22/08/2014 13:34:24] Vo recupera has logged out.
+[22/08/2014 13:34:24] Arizinha Andrade has logged in.
+[22/08/2014 13:34:41] Underdown has logged out.
+[22/08/2014 13:34:50] Gotack has logged out.
+[22/08/2014 13:34:52] Gotack has logged in.
+[22/08/2014 13:35:39] Underdown has logged in.
+[22/08/2014 13:35:53] Honda has logged in.
+[22/08/2014 13:36:05] Honda has logged out.
+[22/08/2014 13:36:24] Honda has logged in.
+[22/08/2014 13:36:31] Honda has logged out.
+[22/08/2014 13:36:40] Account Manager has logged in.
+[22/08/2014 13:37:37] Account Manager has logged out.
+[22/08/2014 13:37:45] Honda has logged in.
+[22/08/2014 13:39:05] Gotack has logged out.
+[22/08/2014 13:39:06] Gotack has logged in.
+[22/08/2014 13:39:40] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/08/2014 13:39:58] Hegazy has logged in.
+[22/08/2014 13:40:53] Duff Maluko has logged out.
+[22/08/2014 13:40:54] Duff Maluko has logged in.
+[22/08/2014 13:41:28] Gotack has logged out.
+[22/08/2014 13:41:30] Gotack has logged in.
+[22/08/2014 13:41:38] Gotack has logged out.
+[22/08/2014 13:43:38] Underdown has logged out.
+[22/08/2014 13:43:40] Underdown has logged in.
+[22/08/2014 13:43:42] Menina Mal has logged out.
+[22/08/2014 13:44:18] Hegazy has logged out.
+[22/08/2014 13:44:40] Bob Dyller has logged out.
+[22/08/2014 13:46:10] Druidzerah Mythus has logged out.
+[22/08/2014 13:46:12] Druidzerah Mythus has logged in.
+[22/08/2014 13:46:21] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[22/08/2014 13:47:05] [Hoster] Jean has logged in.
+[22/08/2014 13:47:59] Mata Pally has logged out.
+[22/08/2014 13:48:19] Pally Brisado has logged out.
+[22/08/2014 13:48:21] Pally Brisado has logged in.
+[22/08/2014 13:49:37] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 13:49:39] Nadador Arqueiro has logged out.
+[22/08/2014 13:49:41] Nadador Arqueiro has logged in.
+[22/08/2014 13:50:06] Maluko duff has logged out.
+[22/08/2014 13:50:08] Maluko duff has logged in.
+[22/08/2014 13:50:08] > CLEAN: Removed 224 items from 256 tiles in 0.32 seconds.
+[22/08/2014 13:50:09] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 13:53:02] > Broadcasted message: "Para ver as noticias fale !notice".
+[22/08/2014 13:54:16] [Hoster] Jean has logged out.
+[22/08/2014 13:55:50] Nadador Arqueiro has logged out.
+[22/08/2014 13:55:52] Nadador Arqueiro has logged in.
+[22/08/2014 13:55:55] Account Manager has logged in.
+[22/08/2014 13:55:57] Arizinha Andrade has logged out.
+[22/08/2014 13:56:22] Account Manager has logged out.
+[22/08/2014 13:56:28] Account Manager has logged in.
+[22/08/2014 13:57:09] Account Manager has logged out.
+[22/08/2014 13:59:21] Genesis has logged in.
+[22/08/2014 13:59:43] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/08/2014 14:02:39] Mata Pally has logged in.
+[22/08/2014 14:03:53] Nadador Arqueiro has logged out.
+[22/08/2014 14:04:03] Nadador Kina has logged in.
+[22/08/2014 14:04:09] Gotack has logged in.
+[22/08/2014 14:05:09] Mutuca has logged in.
+[22/08/2014 14:05:25] Mutuca has logged out.
+[22/08/2014 14:06:18] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 14:06:21] > Saving server...
+[22/08/2014 14:06:24] > SAVE: Complete in 3.236 seconds using relational house storage.
+[22/08/2014 14:06:25] > Broadcasted message: "Para ver as noticias fale !notice".
+[22/08/2014 14:06:32] Underdown has logged out.
+[22/08/2014 14:06:33] Underdown has logged in.
+[22/08/2014 14:06:48] > CLEAN: Removed 4507 items from 2900 tiles in 0.235 seconds.
+[22/08/2014 14:06:49] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 14:07:09] Nadador Kina has logged out.
+[22/08/2014 14:07:17] Nadador Arqueiro has logged in.
+[22/08/2014 14:11:50] Duff Maluko has logged out.
+[22/08/2014 14:11:50] Pally Brisado has logged out.
+[22/08/2014 14:11:53] Pally Brisado has logged in.
+[22/08/2014 14:11:53] 
+[22/08/2014 14:11:53] Lua Script Error: [CreatureScript Interface] 
+[22/08/2014 14:11:53] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[22/08/2014 14:11:53] 
+[22/08/2014 14:11:53] luaGetCreatureName(). Creature not found
+[22/08/2014 14:11:54] Honda has logged out.
+[22/08/2014 14:11:56] Honda has logged in.
+[22/08/2014 14:13:06] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[22/08/2014 14:13:59] Mata Pally has logged out.
+[22/08/2014 14:14:01] Mata Pally has logged in.
+[22/08/2014 14:15:59] Porra Manw has logged in.
+[22/08/2014 14:16:50] Underdown has logged out.
+[22/08/2014 14:17:00] Down has logged in.
+[22/08/2014 14:17:52] Down has logged out.
+[22/08/2014 14:18:02] Underdown has logged in.
+[22/08/2014 14:18:29] Sorczinho Sapeca has logged in.
+[22/08/2014 14:19:35] Sorczinho Sapeca has logged out.
+[22/08/2014 14:19:40] Sorczinho Sapeca has logged in.
+[22/08/2014 14:19:47] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[22/08/2014 14:20:30] Nadador Arqueiro has logged out.
+[22/08/2014 14:20:40] Nadador Druid has logged in.
+[22/08/2014 14:21:48] Bob Dyller has logged in.
+[22/08/2014 14:22:09] Bob Dyller has logged out.
+[22/08/2014 14:22:23] Nadador Druid has logged out.
+[22/08/2014 14:22:30] Nadador Arqueiro has logged in.
+[22/08/2014 14:22:59] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 14:23:29] > CLEAN: Removed 5592 items from 3798 tiles in 0.242 seconds.
+[22/08/2014 14:23:29] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 14:24:15] Gotack has logged out.
+[22/08/2014 14:24:17] Gotack has logged in.
+[22/08/2014 14:24:28] Pally Brisado has logged out.
+[22/08/2014 14:25:01] Pally Brisado has logged in.
+[22/08/2014 14:25:23] Nadador Arqueiro has logged out.
+[22/08/2014 14:25:32] Nadador Druid has logged in.
+[22/08/2014 14:26:28] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[22/08/2014 14:26:31] Nadador Druid has logged out.
+[22/08/2014 14:26:37] Nadador Arqueiro has logged in.
+[22/08/2014 14:26:39] Gotack has logged out.
+[22/08/2014 14:26:41] Gotack has logged in.
+[22/08/2014 14:26:45] Maluko duff has logged out.
+[22/08/2014 14:29:28] Druidzerah Mythus has logged out.
+[22/08/2014 14:31:24] Palaziinho has logged in.
+[22/08/2014 14:31:42] 
+[22/08/2014 14:31:42] Lua Script Error: [Spell Interface] 
+[22/08/2014 14:31:42] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 14:31:42] 
+[22/08/2014 14:31:42] data/spells/scripts/animate.lua:23: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 14:31:42] stack traceback:
+[22/08/2014 14:31:42] 	data/spells/scripts/animate.lua:23: in function <data/spells/scripts/animate.lua:17>
+[22/08/2014 14:31:43] Mata Pally has logged out.
+[22/08/2014 14:31:55] Druidzerah Mythus has logged in.
+[22/08/2014 14:32:35] Porra Manw has logged out.
+[22/08/2014 14:33:09] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[22/08/2014 14:37:59] Yakuza has logged out.
+[22/08/2014 14:39:40] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 14:39:42] > Saving server...
+[22/08/2014 14:39:45] > SAVE: Complete in 2.766 seconds using relational house storage.
+[22/08/2014 14:39:46] Menina Mal has logged in.
+[22/08/2014 14:39:50] > Broadcasted message: "Para comprar bless digite !bless".
+[22/08/2014 14:40:11] > CLEAN: Removed 7774 items from 4502 tiles in 0.275 seconds.
+[22/08/2014 14:40:11] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 14:40:14] 
+[22/08/2014 14:40:14] Lua Script Error: [Spell Interface] 
+[22/08/2014 14:40:14] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 14:40:14] 
+[22/08/2014 14:40:14] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 14:40:14] stack traceback:
+[22/08/2014 14:40:14] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 14:40:15] 	(tail call): ?
+[22/08/2014 14:40:16] 
+[22/08/2014 14:40:16] Lua Script Error: [Spell Interface] 
+[22/08/2014 14:40:16] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 14:40:16] 
+[22/08/2014 14:40:16] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 14:40:17] stack traceback:
+[22/08/2014 14:40:17] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 14:40:17] 	(tail call): ?
+[22/08/2014 14:40:18] 
+[22/08/2014 14:40:18] Lua Script Error: [Spell Interface] 
+[22/08/2014 14:40:18] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 14:40:18] 
+[22/08/2014 14:40:18] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 14:40:19] stack traceback:
+[22/08/2014 14:40:19] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 14:40:19] 	(tail call): ?
+[22/08/2014 14:40:20] 
+[22/08/2014 14:40:20] Lua Script Error: [Spell Interface] 
+[22/08/2014 14:40:20] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 14:40:21] 
+[22/08/2014 14:40:21] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 14:40:21] stack traceback:
+[22/08/2014 14:40:21] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 14:40:21] 	(tail call): ?
+[22/08/2014 14:40:56] Honda has logged out.
+[22/08/2014 14:40:58] Honda has logged in.
+[22/08/2014 14:41:09] Genesis has logged out.
+[22/08/2014 14:41:23] Yakuza has logged in.
+[22/08/2014 14:42:33] Pally Brisado has logged out.
+[22/08/2014 14:43:07] Gotack has logged out.
+[22/08/2014 14:44:05] Yakuza has logged out.
+[22/08/2014 14:44:07] Yakuza has logged in.
+[22/08/2014 14:46:20] Bolt Action has logged in.
+[22/08/2014 14:46:31] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[22/08/2014 14:46:49] Palaziinho has logged out.
+[22/08/2014 14:46:50] Palaziinho has logged in.
+[22/08/2014 14:47:01] Palaziinho has logged out.
+[22/08/2014 14:47:03] Palaziinho has logged in.
+[22/08/2014 14:47:28] Palaziinho has logged out.
+[22/08/2014 14:47:33] Palaziinho has logged in.
+[22/08/2014 14:48:21] Bolt Action has logged out.
+[22/08/2014 14:48:40] Bolt Action has logged in.
+[22/08/2014 14:48:50] Bolt Action has logged out.
+[22/08/2014 14:48:54] Bolt Action has logged in.
+[22/08/2014 14:49:02] Bolt Action has logged out.
+[22/08/2014 14:49:05] Bolt Action has logged in.
+[22/08/2014 14:49:19] Bolt Action has logged out.
+[22/08/2014 14:49:22] Bolt Action has logged in.
+[22/08/2014 14:49:29] Bolt Action has logged out.
+[22/08/2014 14:49:32] Bolt Action has logged in.
+[22/08/2014 14:49:40] Bolt Action has logged out.
+[22/08/2014 14:49:42] Bolt Action has logged in.
+[22/08/2014 14:49:49] Bolt Action has logged out.
+[22/08/2014 14:50:51] Sorczinho Sapeca has logged out.
+[22/08/2014 14:50:52] Sorczinho Sapeca has logged in.
+[22/08/2014 14:52:12] 
+[22/08/2014 14:52:12] Lua Script Error: [Spell Interface] 
+[22/08/2014 14:52:12] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 14:52:13] 
+[22/08/2014 14:52:13] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 14:52:13] stack traceback:
+[22/08/2014 14:52:13] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 14:52:13] 	(tail call): ?
+[22/08/2014 14:52:29] 
+[22/08/2014 14:52:29] Lua Script Error: [Spell Interface] 
+[22/08/2014 14:52:29] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 14:52:30] 
+[22/08/2014 14:52:30] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 14:52:30] stack traceback:
+[22/08/2014 14:52:30] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 14:52:30] 	(tail call): ?
+[22/08/2014 14:52:32] 
+[22/08/2014 14:52:32] Lua Script Error: [Spell Interface] 
+[22/08/2014 14:52:32] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 14:52:32] 
+[22/08/2014 14:52:32] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 14:52:32] stack traceback:
+[22/08/2014 14:52:32] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 14:52:33] 	(tail call): ?
+[22/08/2014 14:52:34] 
+[22/08/2014 14:52:34] Lua Script Error: [Spell Interface] 
+[22/08/2014 14:52:34] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 14:52:34] 
+[22/08/2014 14:52:34] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 14:52:34] stack traceback:
+[22/08/2014 14:52:35] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 14:52:35] 	(tail call): ?
+[22/08/2014 14:53:12] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[22/08/2014 14:54:25] Nadador Arqueiro has logged out.
+[22/08/2014 14:54:34] Nadador Arqueiro has logged in.
+[22/08/2014 14:54:50] 
+[22/08/2014 14:54:50] Lua Script Error: [Spell Interface] 
+[22/08/2014 14:54:50] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 14:54:50] 
+[22/08/2014 14:54:50] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 14:54:50] stack traceback:
+[22/08/2014 14:54:50] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 14:54:51] 	(tail call): ?
+[22/08/2014 14:55:53] Honda has logged out.
+[22/08/2014 14:55:55] Honda has logged in.
+[22/08/2014 14:56:02] Honda has logged out.
+[22/08/2014 14:56:04] Honda has logged in.
+[22/08/2014 14:56:21] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 14:56:52] > CLEAN: Removed 5757 items from 3529 tiles in 0.255 seconds.
+[22/08/2014 14:56:52] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 14:57:55] Palaziinho has logged out.
+[22/08/2014 14:57:57] Palaziinho has logged in.
+[22/08/2014 14:59:17] 
+[22/08/2014 14:59:17] Lua Script Error: [Spell Interface] 
+[22/08/2014 14:59:17] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 14:59:17] 
+[22/08/2014 14:59:17] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 14:59:18] stack traceback:
+[22/08/2014 14:59:18] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 14:59:18] 	(tail call): ?
+[22/08/2014 14:59:19] 
+[22/08/2014 14:59:19] Lua Script Error: [Spell Interface] 
+[22/08/2014 14:59:19] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 14:59:19] 
+[22/08/2014 14:59:19] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 14:59:20] stack traceback:
+[22/08/2014 14:59:20] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 14:59:20] 	(tail call): ?
+[22/08/2014 14:59:22] 
+[22/08/2014 14:59:22] Lua Script Error: [Spell Interface] 
+[22/08/2014 14:59:22] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 14:59:22] 
+[22/08/2014 14:59:22] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 14:59:22] stack traceback:
+[22/08/2014 14:59:22] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 14:59:23] 	(tail call): ?
+[22/08/2014 14:59:36] 
+[22/08/2014 14:59:36] Lua Script Error: [Spell Interface] 
+[22/08/2014 14:59:36] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 14:59:36] 
+[22/08/2014 14:59:36] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 14:59:36] stack traceback:
+[22/08/2014 14:59:36] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 14:59:37] 	(tail call): ?
+[22/08/2014 14:59:39] 
+[22/08/2014 14:59:39] Lua Script Error: [Spell Interface] 
+[22/08/2014 14:59:39] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 14:59:39] 
+[22/08/2014 14:59:39] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 14:59:40] stack traceback:
+[22/08/2014 14:59:40] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 14:59:40] 	(tail call): ?
+[22/08/2014 14:59:53] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[22/08/2014 15:00:06] 
+[22/08/2014 15:00:06] Lua Script Error: [Spell Interface] 
+[22/08/2014 15:00:06] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 15:00:06] 
+[22/08/2014 15:00:06] data/spells/scripts/animate.lua:23: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 15:00:07] stack traceback:
+[22/08/2014 15:00:07] 	data/spells/scripts/animate.lua:23: in function <data/spells/scripts/animate.lua:17>
+[22/08/2014 15:00:15] Palaziinho has logged out.
+[22/08/2014 15:00:17] Palaziinho has logged in.
+[22/08/2014 15:00:43] 
+[22/08/2014 15:00:43] Lua Script Error: [Spell Interface] 
+[22/08/2014 15:00:43] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 15:00:43] 
+[22/08/2014 15:00:43] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 15:00:43] stack traceback:
+[22/08/2014 15:00:44] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 15:00:44] 	(tail call): ?
+[22/08/2014 15:00:45] 
+[22/08/2014 15:00:45] Lua Script Error: [Spell Interface] 
+[22/08/2014 15:00:45] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 15:00:45] 
+[22/08/2014 15:00:45] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 15:00:46] stack traceback:
+[22/08/2014 15:00:46] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 15:00:46] 	(tail call): ?
+[22/08/2014 15:00:52] Palaziinho has logged out.
+[22/08/2014 15:00:53] Palaziinho has logged in.
+[22/08/2014 15:01:10] 
+[22/08/2014 15:01:10] Lua Script Error: [Spell Interface] 
+[22/08/2014 15:01:10] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 15:01:10] 
+[22/08/2014 15:01:10] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 15:01:10] stack traceback:
+[22/08/2014 15:01:10] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 15:01:11] 	(tail call): ?
+[22/08/2014 15:01:12] 
+[22/08/2014 15:01:12] Lua Script Error: [Spell Interface] 
+[22/08/2014 15:01:12] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 15:01:12] 
+[22/08/2014 15:01:12] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 15:01:13] stack traceback:
+[22/08/2014 15:01:13] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 15:01:13] 	(tail call): ?
+[22/08/2014 15:01:16] 
+[22/08/2014 15:01:16] Lua Script Error: [Spell Interface] 
+[22/08/2014 15:01:17] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 15:01:17] 
+[22/08/2014 15:01:17] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 15:01:17] stack traceback:
+[22/08/2014 15:01:17] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 15:01:18] 	(tail call): ?
+[22/08/2014 15:01:19] Palaziinho has logged out.
+[22/08/2014 15:01:19] 
+[22/08/2014 15:01:19] Lua Script Error: [Spell Interface] 
+[22/08/2014 15:01:19] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 15:01:20] 
+[22/08/2014 15:01:20] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 15:01:20] stack traceback:
+[22/08/2014 15:01:20] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 15:01:20] 	(tail call): ?
+[22/08/2014 15:01:21] Palaziinho has logged in.
+[22/08/2014 15:01:28] Palaziinho has logged out.
+[22/08/2014 15:01:29] Palaziinho has logged in.
+[22/08/2014 15:02:13] Palaziinho has logged out.
+[22/08/2014 15:02:14] Palaziinho has logged in.
+[22/08/2014 15:02:58] Menina Mal has logged out.
+[22/08/2014 15:03:33] Palaziinho has logged out.
+[22/08/2014 15:03:35] Palaziinho has logged in.
+[22/08/2014 15:04:31] Underdown has logged out.
+[22/08/2014 15:04:35] Underdown has logged in.
+[22/08/2014 15:04:38] Mutuca has logged in.
+[22/08/2014 15:05:06] Yakuza has logged out.
+[22/08/2014 15:05:17] Mc Magrinho has logged in.
+[22/08/2014 15:06:09] Underdown has logged out.
+[22/08/2014 15:06:11] Underdown has logged in.
+[22/08/2014 15:06:34] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[22/08/2014 15:07:13] Menina Mal has logged in.
+[22/08/2014 15:08:30] Mc Magrinho has logged out.
+[22/08/2014 15:08:32] Mc Magrinho has logged in.
+[22/08/2014 15:08:43] Sorczinho Sapeca has logged out.
+[22/08/2014 15:08:53] Mc Magrinho has logged out.
+[22/08/2014 15:08:54] Mc Magrinho has logged in.
+[22/08/2014 15:09:05] Mc Magrinho has logged out.
+[22/08/2014 15:09:06] Mc Magrinho has logged in.
+[22/08/2014 15:10:14] Mc Magrinho has logged out.
+[22/08/2014 15:10:16] Mc Magrinho has logged in.
+[22/08/2014 15:11:14] Underdown has logged out.
+[22/08/2014 15:11:17] Underdown has logged in.
+[22/08/2014 15:11:40] Mc Magrinho has logged out.
+[22/08/2014 15:11:42] Mc Magrinho has logged in.
+[22/08/2014 15:12:46] Honda has logged out.
+[22/08/2014 15:13:02] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 15:13:03] > Saving server...
+[22/08/2014 15:13:05] > SAVE: Complete in 2.256 seconds using relational house storage.
+[22/08/2014 15:13:15] > Broadcasted message: "Para comprar bless digite !bless".
+[22/08/2014 15:13:32] > CLEAN: Removed 6032 items from 3888 tiles in 0.257 seconds.
+[22/08/2014 15:13:33] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 15:14:25] Yakuza has logged in.
+[22/08/2014 15:15:33] Yakuza has logged out.
+[22/08/2014 15:15:59] Black Jose has logged in.
+[22/08/2014 15:16:08] Honda has logged in.
+[22/08/2014 15:17:36] 
+[22/08/2014 15:17:36] Lua Script Error: [Spell Interface] 
+[22/08/2014 15:17:36] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 15:17:37] 
+[22/08/2014 15:17:37] data/spells/scripts/animate.lua:23: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 15:17:37] stack traceback:
+[22/08/2014 15:17:37] 	data/spells/scripts/animate.lua:23: in function <data/spells/scripts/animate.lua:17>
+[22/08/2014 15:17:56] Mc Magrinho has logged out.
+[22/08/2014 15:17:59] Mc Magrinho has logged in.
+[22/08/2014 15:18:35] 
+[22/08/2014 15:18:35] Lua Script Error: [Spell Interface] 
+[22/08/2014 15:18:35] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 15:18:35] 
+[22/08/2014 15:18:35] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 15:18:35] stack traceback:
+[22/08/2014 15:18:35] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 15:18:36] 	(tail call): ?
+[22/08/2014 15:19:22] Black Jose has logged out.
+[22/08/2014 15:19:34] 
+[22/08/2014 15:19:34] Lua Script Error: [Spell Interface] 
+[22/08/2014 15:19:34] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 15:19:34] 
+[22/08/2014 15:19:34] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 15:19:35] stack traceback:
+[22/08/2014 15:19:35] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 15:19:35] 	(tail call): ?
+[22/08/2014 15:19:56] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[22/08/2014 15:20:38] Mc Magrinho has logged out.
+[22/08/2014 15:20:44] Mc Magrinho has logged in.
+[22/08/2014 15:20:50] Honda has logged out.
+[22/08/2014 15:20:53] Honda has logged in.
+[22/08/2014 15:20:54] Nadador Arqueiro has logged out.
+[22/08/2014 15:21:02] Nadador Arqueiro has logged in.
+[22/08/2014 15:21:14] Nadador Arqueiro has logged out.
+[22/08/2014 15:21:26] Mc Magrinho has logged out.
+[22/08/2014 15:21:30] Mc Magrinho has logged in.
+[22/08/2014 15:21:55] Nadador Arqueiro has logged in.
+[22/08/2014 15:22:23] Nadador Arqueiro has logged out.
+[22/08/2014 15:22:40] Mc Magrinho has logged out.
+[22/08/2014 15:22:51] Account Manager has logged in.
+[22/08/2014 15:23:22] Account Manager has logged out.
+[22/08/2014 15:23:33] Striiker Da Xurupita has logged in.
+[22/08/2014 15:23:48] Striiker Da Xurupita has logged out.
+[22/08/2014 15:23:50] Skise Da Xurupita has logged in.
+[22/08/2014 15:26:21] Honda has logged out.
+[22/08/2014 15:26:37] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[22/08/2014 15:26:41] Lallana has logged in.
+[22/08/2014 15:26:59] Lallana has logged out.
+[22/08/2014 15:27:07] Honda has logged in.
+[22/08/2014 15:28:55] Porra Manw has logged in.
+[22/08/2014 15:29:43] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 15:30:13] > CLEAN: Removed 9925 items from 4534 tiles in 0.265 seconds.
+[22/08/2014 15:30:13] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 15:31:48] Underdown has logged out.
+[22/08/2014 15:31:50] Underdown has logged in.
+[22/08/2014 15:32:32] Pally Brisado has logged in.
+[22/08/2014 15:33:18] > Broadcasted message: "Para ver as noticias fale !notice".
+[22/08/2014 15:33:47] Yakuza has logged in.
+[22/08/2014 15:35:26] Underdown has logged out.
+[22/08/2014 15:35:28] Underdown has logged in.
+[22/08/2014 15:37:58] Yakuza has logged out.
+[22/08/2014 15:39:59] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[22/08/2014 15:40:04] Druidzerah Mythus has logged out.
+[22/08/2014 15:40:05] Account Manager has logged in.
+[22/08/2014 15:40:14] Account Manager has logged out.
+[22/08/2014 15:40:15] Account Manager has logged in.
+[22/08/2014 15:40:32] Honda has logged out.
+[22/08/2014 15:40:34] Account Manager has logged in.
+[22/08/2014 15:41:06] Account Manager has logged out.
+[22/08/2014 15:41:07] Druidzerah Mythus has logged in.
+[22/08/2014 15:41:54] Account Manager has logged out.
+[22/08/2014 15:41:55] Honda has logged in.
+[22/08/2014 15:45:30] Skise Da Xurupita has logged out.
+[22/08/2014 15:45:33] Skise Da Xurupita has logged in.
+[22/08/2014 15:46:24] > Saving server...
+[22/08/2014 15:46:27] > SAVE: Complete in 2.792 seconds using relational house storage.
+[22/08/2014 15:46:27] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 15:46:40] > Broadcasted message: "Para ver as noticias fale !notice".
+[22/08/2014 15:46:56] Druidzerah Mythus has logged out.
+[22/08/2014 15:46:58] > CLEAN: Removed 7698 items from 3991 tiles in 0.25 seconds.
+[22/08/2014 15:46:58] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 15:47:07] Hegazy has logged in.
+[22/08/2014 15:48:10] Mata Pally has logged in.
+[22/08/2014 15:48:19] Hegazy has logged out.
+[22/08/2014 15:48:21] Hegazy has logged in.
+[22/08/2014 15:48:25] Skise Da Xurupita has logged out.
+[22/08/2014 15:48:27] Skise Da Xurupita has logged in.
+[22/08/2014 15:49:19] Porra Manw has logged out.
+[22/08/2014 15:49:29] Hegazy has logged out.
+[22/08/2014 15:49:33] Hegazy has logged in.
+[22/08/2014 15:49:54] Hegazy has logged out.
+[22/08/2014 15:49:55] Hegazy has logged in.
+[22/08/2014 15:50:06] Mutuca has logged out.
+[22/08/2014 15:50:23] Hegazy has logged out.
+[22/08/2014 15:50:25] Hegazy has logged in.
+[22/08/2014 15:50:45] Hegazy has logged out.
+[22/08/2014 15:50:46] Hegazy has logged in.
+[22/08/2014 15:51:05] Hegazy has logged out.
+[22/08/2014 15:51:07] Hegazy has logged in.
+[22/08/2014 15:51:31] Hegazy has logged out.
+[22/08/2014 15:51:32] Hegazy has logged in.
+[22/08/2014 15:51:49] Hegazy has logged out.
+[22/08/2014 15:51:50] Hegazy has logged in.
+[22/08/2014 15:52:19] Mata Pally has logged out.
+[22/08/2014 15:52:25] Mlktop has logged in.
+[22/08/2014 15:52:26] Mlktop has logged out.
+[22/08/2014 15:52:27] Malkr has logged in.
+[22/08/2014 15:52:28] Hegazy has logged out.
+[22/08/2014 15:52:29] Hegazy has logged in.
+[22/08/2014 15:52:51] Hegazy has logged out.
+[22/08/2014 15:52:52] Hegazy has logged in.
+[22/08/2014 15:53:13] Hegazy has logged out.
+[22/08/2014 15:53:14] Hegazy has logged in.
+[22/08/2014 15:53:20] Hegazy has logged out.
+[22/08/2014 15:53:21] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/08/2014 15:53:25] Druidzerah Mythus has logged in.
+[22/08/2014 15:53:48] Malkr has logged out.
+[22/08/2014 15:54:00] Mata Pally has logged in.
+[22/08/2014 15:54:24] Manager has logged in.
+[22/08/2014 15:56:41] Honda has logged out.
+[22/08/2014 15:56:43] Keisuke has logged in.
+[22/08/2014 15:56:44] Keisuke has logged out.
+[22/08/2014 15:56:47] Mata Pally has logged out.
+[22/08/2014 15:57:01] Demonic has logged in.
+[22/08/2014 15:57:12] Demonic has logged out.
+[22/08/2014 15:57:14] Malkr has logged in.
+[22/08/2014 15:57:16] Malkr has logged out.
+[22/08/2014 15:57:16] Mlktop has logged in.
+[22/08/2014 15:57:18] Mlktop has logged out.
+[22/08/2014 15:57:25] Piroca Flambada has logged in.
+[22/08/2014 15:57:27] Piroca Flambada has logged out.
+[22/08/2014 15:57:33] Manager has logged out.
+[22/08/2014 15:57:43] Honda has logged in.
+[22/08/2014 15:57:43] Mutuca has logged in.
+[22/08/2014 15:57:43] Master Pally has logged in.
+[22/08/2014 15:57:45] Master Pally has logged out.
+[22/08/2014 15:57:46] Master Kina has logged in.
+[22/08/2014 15:57:48] Master Kina has logged out.
+[22/08/2014 15:57:55] Mata Pally has logged in.
+[22/08/2014 15:58:10] Druidzerah Mythus has logged out.
+[22/08/2014 15:58:13] Druidzerah Mythus has logged in.
+[22/08/2014 16:00:02] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[22/08/2014 16:02:26] Honda has logged out.
+[22/08/2014 16:02:32] Palaziinho has logged out.
+[22/08/2014 16:02:35] Affs has logged in.
+[22/08/2014 16:02:37] Affs has logged out.
+[22/08/2014 16:02:38] Catatal has logged in.
+[22/08/2014 16:02:42] Catatal has logged out.
+[22/08/2014 16:02:53] Potter has logged in.
+[22/08/2014 16:02:55] Potter has logged out.
+[22/08/2014 16:02:57] Alvo Severo Potter has logged in.
+[22/08/2014 16:03:08] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 16:03:10] Alvo Severo Potter has logged out.
+[22/08/2014 16:03:15] Account Manager has logged in.
+[22/08/2014 16:03:17] Account Manager has logged out.
+[22/08/2014 16:03:24] Honda has logged in.
+[22/08/2014 16:03:38] > CLEAN: Removed 5264 items from 1315 tiles in 0.203 seconds.
+[22/08/2014 16:03:38] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 16:04:25] Mata Pally has logged out.
+[22/08/2014 16:04:28] Honda has logged out.
+[22/08/2014 16:04:29] Keisuke has logged in.
+[22/08/2014 16:04:32] Malkr has logged in.
+[22/08/2014 16:04:50] Malkr has logged out.
+[22/08/2014 16:04:52] Mlktop has logged in.
+[22/08/2014 16:04:52] Keisuke has logged out.
+[22/08/2014 16:04:54] Honda has logged in.
+[22/08/2014 16:05:14] Mlktop has logged out.
+[22/08/2014 16:05:20] Mata Pally has logged in.
+[22/08/2014 16:06:43] > Broadcasted message: "Para comprar bless digite !bless".
+[22/08/2014 16:09:15] Sorczinho Sapeca has logged in.
+[22/08/2014 16:09:31] Skise Da Xurupita has logged out.
+[22/08/2014 16:13:24] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[22/08/2014 16:16:05] Honda has logged out.
+[22/08/2014 16:16:38] Honda has logged in.
+[22/08/2014 16:17:13] Underdown has logged out.
+[22/08/2014 16:17:13] Underdown has logged in.
+[22/08/2014 16:17:59] 
+[22/08/2014 16:17:59] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:17:59] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:17:59] 
+[22/08/2014 16:18:00] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:18:00] stack traceback:
+[22/08/2014 16:18:00] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:18:00] 	(tail call): ?
+[22/08/2014 16:18:24] Duff Maluko has logged in.
+[22/08/2014 16:18:37] Porra Manw has logged in.
+[22/08/2014 16:18:55] 
+[22/08/2014 16:18:55] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:18:55] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:18:55] 
+[22/08/2014 16:18:55] data/spells/scripts/animate.lua:23: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:18:55] stack traceback:
+[22/08/2014 16:18:55] 	data/spells/scripts/animate.lua:23: in function <data/spells/scripts/animate.lua:17>
+[22/08/2014 16:18:57] 
+[22/08/2014 16:18:57] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:18:57] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:18:58] 
+[22/08/2014 16:18:58] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:18:58] stack traceback:
+[22/08/2014 16:18:58] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:18:58] 	(tail call): ?
+[22/08/2014 16:19:05] Duff Maluko has logged out.
+[22/08/2014 16:19:27] 
+[22/08/2014 16:19:27] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:19:27] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:19:27] 
+[22/08/2014 16:19:27] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:19:28] stack traceback:
+[22/08/2014 16:19:28] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:19:28] 	(tail call): ?
+[22/08/2014 16:19:29] 
+[22/08/2014 16:19:29] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:19:29] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:19:30] 
+[22/08/2014 16:19:30] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:19:30] stack traceback:
+[22/08/2014 16:19:30] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:19:30] 	(tail call): ?
+[22/08/2014 16:19:32] 
+[22/08/2014 16:19:32] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:19:32] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:19:32] 
+[22/08/2014 16:19:32] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:19:32] stack traceback:
+[22/08/2014 16:19:32] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:19:33] 	(tail call): ?
+[22/08/2014 16:19:33] 
+[22/08/2014 16:19:33] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:19:33] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:19:33] 
+[22/08/2014 16:19:33] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:19:34] stack traceback:
+[22/08/2014 16:19:34] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:19:34] 	(tail call): ?
+[22/08/2014 16:19:35] 
+[22/08/2014 16:19:35] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:19:35] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:19:35] 
+[22/08/2014 16:19:35] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:19:36] stack traceback:
+[22/08/2014 16:19:36] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:19:36] 	(tail call): ?
+[22/08/2014 16:19:37] 
+[22/08/2014 16:19:37] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:19:37] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:19:38] 
+[22/08/2014 16:19:38] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:19:38] stack traceback:
+[22/08/2014 16:19:38] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:19:38] 	(tail call): ?
+[22/08/2014 16:19:39] 
+[22/08/2014 16:19:39] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:19:39] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:19:39] 
+[22/08/2014 16:19:39] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:19:40] stack traceback:
+[22/08/2014 16:19:40] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:19:40] 	(tail call): ?
+[22/08/2014 16:19:45] > Saving server...
+[22/08/2014 16:19:48] > SAVE: Complete in 2.761 seconds using relational house storage.
+[22/08/2014 16:19:49] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 16:20:02] 
+[22/08/2014 16:20:02] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:02] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:02] 
+[22/08/2014 16:20:02] data/spells/scripts/animate.lua:23: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:03] stack traceback:
+[22/08/2014 16:20:03] 	data/spells/scripts/animate.lua:23: in function <data/spells/scripts/animate.lua:17>
+[22/08/2014 16:20:05] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[22/08/2014 16:20:06] 
+[22/08/2014 16:20:06] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:07] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:07] 
+[22/08/2014 16:20:07] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:07] stack traceback:
+[22/08/2014 16:20:07] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:20:08] 	(tail call): ?
+[22/08/2014 16:20:09] 
+[22/08/2014 16:20:09] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:09] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:09] 
+[22/08/2014 16:20:09] data/spells/scripts/animate.lua:23: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:09] stack traceback:
+[22/08/2014 16:20:10] 	data/spells/scripts/animate.lua:23: in function <data/spells/scripts/animate.lua:17>
+[22/08/2014 16:20:10] 
+[22/08/2014 16:20:10] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:10] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:10] 
+[22/08/2014 16:20:10] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:11] stack traceback:
+[22/08/2014 16:20:11] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:20:11] 	(tail call): ?
+[22/08/2014 16:20:11] 
+[22/08/2014 16:20:11] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:11] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:11] 
+[22/08/2014 16:20:12] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:12] stack traceback:
+[22/08/2014 16:20:12] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:20:12] 	(tail call): ?
+[22/08/2014 16:20:12] 
+[22/08/2014 16:20:12] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:13] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:13] 
+[22/08/2014 16:20:13] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:13] stack traceback:
+[22/08/2014 16:20:13] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:20:14] 	(tail call): ?
+[22/08/2014 16:20:14] 
+[22/08/2014 16:20:14] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:14] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:14] 
+[22/08/2014 16:20:14] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:14] stack traceback:
+[22/08/2014 16:20:14] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:20:15] 	(tail call): ?
+[22/08/2014 16:20:15] 
+[22/08/2014 16:20:15] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:15] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:15] 
+[22/08/2014 16:20:15] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:16] stack traceback:
+[22/08/2014 16:20:16] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:20:16] 	(tail call): ?
+[22/08/2014 16:20:16] 
+[22/08/2014 16:20:16] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:16] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:17] 
+[22/08/2014 16:20:17] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:17] stack traceback:
+[22/08/2014 16:20:17] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:20:17] 	(tail call): ?
+[22/08/2014 16:20:17] 
+[22/08/2014 16:20:17] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:18] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:18] 
+[22/08/2014 16:20:18] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:18] stack traceback:
+[22/08/2014 16:20:18] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:20:19] 	(tail call): ?
+[22/08/2014 16:20:19] 
+[22/08/2014 16:20:19] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:19] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:19] 
+[22/08/2014 16:20:19] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:19] stack traceback:
+[22/08/2014 16:20:20] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:20:20] 	(tail call): ?
+[22/08/2014 16:20:20] 
+[22/08/2014 16:20:20] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:20] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:20] 
+[22/08/2014 16:20:20] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:21] stack traceback:
+[22/08/2014 16:20:21] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:20:21] 	(tail call): ?
+[22/08/2014 16:20:21] 
+[22/08/2014 16:20:21] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:21] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:22] 
+[22/08/2014 16:20:22] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:22] stack traceback:
+[22/08/2014 16:20:22] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:20:22] 	(tail call): ?
+[22/08/2014 16:20:23] > CLEAN: Removed 4107 items from 1162 tiles in 0.202 seconds.
+[22/08/2014 16:20:23] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 16:20:24] 
+[22/08/2014 16:20:24] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:24] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:24] 
+[22/08/2014 16:20:24] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:24] stack traceback:
+[22/08/2014 16:20:24] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:20:25] 	(tail call): ?
+[22/08/2014 16:20:26] 
+[22/08/2014 16:20:26] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:26] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:26] 
+[22/08/2014 16:20:26] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:26] stack traceback:
+[22/08/2014 16:20:26] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:20:27] 	(tail call): ?
+[22/08/2014 16:20:27] 
+[22/08/2014 16:20:27] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:27] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:27] 
+[22/08/2014 16:20:27] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:28] stack traceback:
+[22/08/2014 16:20:28] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:20:28] 	(tail call): ?
+[22/08/2014 16:20:28] 
+[22/08/2014 16:20:28] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:28] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:29] 
+[22/08/2014 16:20:29] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:29] stack traceback:
+[22/08/2014 16:20:29] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:20:29] 	(tail call): ?
+[22/08/2014 16:20:29] 
+[22/08/2014 16:20:29] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:30] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:30] 
+[22/08/2014 16:20:30] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:30] stack traceback:
+[22/08/2014 16:20:30] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:20:31] 	(tail call): ?
+[22/08/2014 16:20:31] 
+[22/08/2014 16:20:31] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:31] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:31] 
+[22/08/2014 16:20:31] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:31] stack traceback:
+[22/08/2014 16:20:32] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:20:32] 	(tail call): ?
+[22/08/2014 16:20:32] 
+[22/08/2014 16:20:32] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:32] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:32] 
+[22/08/2014 16:20:32] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:33] stack traceback:
+[22/08/2014 16:20:33] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:20:33] 	(tail call): ?
+[22/08/2014 16:20:34] 
+[22/08/2014 16:20:34] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:34] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:35] 
+[22/08/2014 16:20:35] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:35] stack traceback:
+[22/08/2014 16:20:35] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:20:35] 	(tail call): ?
+[22/08/2014 16:20:36] 
+[22/08/2014 16:20:36] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:36] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:37] 
+[22/08/2014 16:20:37] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:37] stack traceback:
+[22/08/2014 16:20:37] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:20:37] 	(tail call): ?
+[22/08/2014 16:20:37] 
+[22/08/2014 16:20:37] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:38] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:38] 
+[22/08/2014 16:20:38] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:38] stack traceback:
+[22/08/2014 16:20:38] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:20:39] 	(tail call): ?
+[22/08/2014 16:20:40] 
+[22/08/2014 16:20:40] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:40] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:40] 
+[22/08/2014 16:20:40] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:41] stack traceback:
+[22/08/2014 16:20:41] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:20:41] 	(tail call): ?
+[22/08/2014 16:20:42] 
+[22/08/2014 16:20:42] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:20:42] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:20:42] 
+[22/08/2014 16:20:42] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:20:43] stack traceback:
+[22/08/2014 16:20:43] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:20:43] 	(tail call): ?
+[22/08/2014 16:20:46] Porra Manw has logged out.
+[22/08/2014 16:20:47] Porra Manw has logged in.
+[22/08/2014 16:21:10] Pally Brisado has logged out.
+[22/08/2014 16:21:12] 
+[22/08/2014 16:21:12] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:21:12] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:21:12] 
+[22/08/2014 16:21:12] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:21:13] stack traceback:
+[22/08/2014 16:21:13] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:21:13] 	(tail call): ?
+[22/08/2014 16:21:35] Menina Mal has logged out.
+[22/08/2014 16:21:39] Menina Mal has logged in.
+[22/08/2014 16:22:32] Porra Manw has logged out.
+[22/08/2014 16:22:33] Porra Manw has logged in.
+[22/08/2014 16:25:37] Menino Mal has logged out.
+[22/08/2014 16:25:39] Menino Mal has logged in.
+[22/08/2014 16:25:43] 
+[22/08/2014 16:25:43] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:25:43] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:25:44] 
+[22/08/2014 16:25:44] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:25:44] stack traceback:
+[22/08/2014 16:25:44] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:25:44] 	(tail call): ?
+[22/08/2014 16:26:46] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/08/2014 16:26:55] Porra Manw has logged out.
+[22/08/2014 16:26:56] Porra Manw has logged in.
+[22/08/2014 16:29:59] Menino Mal has logged out.
+[22/08/2014 16:30:01] Menino Mal has logged in.
+[22/08/2014 16:30:18] Underdown has logged out.
+[22/08/2014 16:30:23] Yakuza has logged in.
+[22/08/2014 16:31:50] Mata Pally has logged out.
+[22/08/2014 16:31:55] Mata Pally has logged in.
+[22/08/2014 16:33:27] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/08/2014 16:34:41] Honda has logged out.
+[22/08/2014 16:34:43] Honda has logged in.
+[22/08/2014 16:35:42] Mutuca has logged out.
+[22/08/2014 16:36:10] Druidzerah Mythus has logged out.
+[22/08/2014 16:36:30] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 16:36:51] 
+[22/08/2014 16:36:51] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:36:51] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:36:51] 
+[22/08/2014 16:36:51] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:36:52] stack traceback:
+[22/08/2014 16:36:52] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:36:52] 	(tail call): ?
+[22/08/2014 16:37:00] > CLEAN: Removed 41 items from 114 tiles in 0.172 seconds.
+[22/08/2014 16:37:00] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 16:37:18] Mata Pally has logged out.
+[22/08/2014 16:37:19] Mata Pally has logged in.
+[22/08/2014 16:39:40] Druidzerah Mythus has logged in.
+[22/08/2014 16:40:08] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[22/08/2014 16:40:16] Druidzerah Mythus has logged out.
+[22/08/2014 16:40:43] Yakuza has logged out.
+[22/08/2014 16:40:44] Yakuza has logged in.
+[22/08/2014 16:40:54] Druidzerah Mythus has logged in.
+[22/08/2014 16:41:59] Porra Manw has logged out.
+[22/08/2014 16:42:01] Porra Manw has logged in.
+[22/08/2014 16:43:55] Mata Pally has logged out.
+[22/08/2014 16:43:57] Mata Pally has logged in.
+[22/08/2014 16:44:14] Yakuza has logged out.
+[22/08/2014 16:44:15] Menino Mal has logged out.
+[22/08/2014 16:44:16] Porra Manw has logged out.
+[22/08/2014 16:44:16] Yakuza has logged in.
+[22/08/2014 16:44:17] Menino Mal has logged in.
+[22/08/2014 16:44:17] Porra Manw has logged in.
+[22/08/2014 16:45:11] Porra Manw has logged out.
+[22/08/2014 16:45:12] Porra Manw has logged in.
+[22/08/2014 16:46:49] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[22/08/2014 16:47:04] Menina Mal has logged out.
+[22/08/2014 16:47:06] Menina Mal has logged in.
+[22/08/2014 16:49:59] Porra Manw has logged out.
+[22/08/2014 16:50:00] Porra Manw has logged in.
+[22/08/2014 16:50:16] Porra Manw has logged out.
+[22/08/2014 16:50:17] Porra Manw has logged in.
+[22/08/2014 16:50:30] Porra Manw has logged out.
+[22/08/2014 16:50:32] Porra Manw has logged in.
+[22/08/2014 16:51:54] Mata Pally has logged out.
+[22/08/2014 16:51:55] 
+[22/08/2014 16:51:55] Lua Script Error: [Spell Interface] 
+[22/08/2014 16:51:55] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 16:51:55] 
+[22/08/2014 16:51:55] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 16:51:56] stack traceback:
+[22/08/2014 16:51:56] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 16:51:56] 	(tail call): ?
+[22/08/2014 16:51:56] 
+[22/08/2014 16:51:56] Lua Script Error: [CreatureScript Interface] 
+[22/08/2014 16:51:56] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[22/08/2014 16:51:57] 
+[22/08/2014 16:51:57] luaGetCreatureName(). Creature not found
+[22/08/2014 16:51:57] 
+[22/08/2014 16:51:57] Lua Script Error: [CreatureScript Interface] 
+[22/08/2014 16:51:57] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[22/08/2014 16:51:57] 
+[22/08/2014 16:51:57] luaGetCreatureName(). Creature not found
+[22/08/2014 16:51:58] Porra Manw has logged out.
+[22/08/2014 16:51:58] 
+[22/08/2014 16:51:58] Lua Script Error: [CreatureScript Interface] 
+[22/08/2014 16:51:58] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[22/08/2014 16:51:58] 
+[22/08/2014 16:51:58] luaGetCreatureName(). Creature not found
+[22/08/2014 16:51:59] 
+[22/08/2014 16:51:59] Lua Script Error: [CreatureScript Interface] 
+[22/08/2014 16:51:59] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[22/08/2014 16:51:59] 
+[22/08/2014 16:51:59] luaGetCreatureName(). Creature not found
+[22/08/2014 16:51:59] Yakuza has logged out.
+[22/08/2014 16:52:00] Mata Pally has logged in.
+[22/08/2014 16:52:00] Porra Manw has logged in.
+[22/08/2014 16:52:04] Yakuza has logged in.
+[22/08/2014 16:53:06] > Saving server...
+[22/08/2014 16:53:08] > SAVE: Complete in 2.403 seconds using relational house storage.
+[22/08/2014 16:53:11] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 16:53:30] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[22/08/2014 16:53:41] > CLEAN: Removed 168 items from 230 tiles in 0.172 seconds.
+[22/08/2014 16:53:41] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 16:54:53] Yakuza has logged out.
+[22/08/2014 16:55:04] Yakuza has logged in.
+[22/08/2014 16:55:21] Menino Mal has logged out.
+[22/08/2014 16:55:22] Honda has logged out.
+[22/08/2014 16:55:22] 
+[22/08/2014 16:55:22] Lua Script Error: [CreatureScript Interface] 
+[22/08/2014 16:55:23] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[22/08/2014 16:55:23] 
+[22/08/2014 16:55:23] luaGetCreatureName(). Creature not found
+[22/08/2014 16:55:23] Yakuza has logged out.
+[22/08/2014 16:55:24] Menino Mal has logged in.
+[22/08/2014 16:55:25] Yakuza has logged in.
+[22/08/2014 16:55:25] Honda has logged in.
+[22/08/2014 16:55:50] Yakuza has logged out.
+[22/08/2014 16:55:51] Yakuza has logged in.
+[22/08/2014 16:56:03] Yakuza has logged out.
+[22/08/2014 16:56:10] Mutuca has logged in.
+[22/08/2014 16:58:08] Mutuca has logged out.
+[22/08/2014 16:58:09] Mutuca has logged in.
+[22/08/2014 16:58:17] Mutuca has logged out.
+[22/08/2014 16:58:17] Porra Manw has logged out.
+[22/08/2014 16:58:19] Porra Manw has logged in.
+[22/08/2014 16:58:40] Duff Maluko has logged in.
+[22/08/2014 16:59:26] Underdown has logged in.
+[22/08/2014 17:00:09] Honda has logged out.
+[22/08/2014 17:00:11] Honda has logged in.
+[22/08/2014 17:00:11] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/08/2014 17:03:11] Juninhosza has logged in.
+[22/08/2014 17:03:56] 
+[22/08/2014 17:03:56] Lua Script Error: [Spell Interface] 
+[22/08/2014 17:03:56] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 17:03:56] 
+[22/08/2014 17:03:56] data/spells/scripts/animate.lua:23: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 17:03:56] stack traceback:
+[22/08/2014 17:03:57] 	data/spells/scripts/animate.lua:23: in function <data/spells/scripts/animate.lua:17>
+[22/08/2014 17:04:09] 
+[22/08/2014 17:04:09] Lua Script Error: [Spell Interface] 
+[22/08/2014 17:04:09] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 17:04:09] 
+[22/08/2014 17:04:09] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 17:04:10] stack traceback:
+[22/08/2014 17:04:10] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 17:04:10] 	(tail call): ?
+[22/08/2014 17:04:59] 
+[22/08/2014 17:04:59] Lua Script Error: [Spell Interface] 
+[22/08/2014 17:04:59] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 17:05:00] 
+[22/08/2014 17:05:00] data/spells/scripts/animate.lua:23: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 17:05:00] stack traceback:
+[22/08/2014 17:05:00] 	data/spells/scripts/animate.lua:23: in function <data/spells/scripts/animate.lua:17>
+[22/08/2014 17:05:02] 
+[22/08/2014 17:05:02] Lua Script Error: [Spell Interface] 
+[22/08/2014 17:05:02] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 17:05:02] 
+[22/08/2014 17:05:02] data/spells/scripts/animate.lua:23: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 17:05:02] stack traceback:
+[22/08/2014 17:05:02] 	data/spells/scripts/animate.lua:23: in function <data/spells/scripts/animate.lua:17>
+[22/08/2014 17:06:18] Juninhosza has logged out.
+[22/08/2014 17:06:22] 
+[22/08/2014 17:06:22] Lua Script Error: [Spell Interface] 
+[22/08/2014 17:06:22] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 17:06:22] 
+[22/08/2014 17:06:22] data/spells/scripts/animate.lua:23: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 17:06:23] stack traceback:
+[22/08/2014 17:06:23] 	data/spells/scripts/animate.lua:23: in function <data/spells/scripts/animate.lua:17>
+[22/08/2014 17:06:26] Vo recupera has logged in.
+[22/08/2014 17:06:52] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[22/08/2014 17:07:10] Underdown has logged out.
+[22/08/2014 17:07:11] Vo recupera has logged out.
+[22/08/2014 17:07:22] Underdown has logged in.
+[22/08/2014 17:07:23] Juninhosza has logged in.
+[22/08/2014 17:07:30] Underdown has logged out.
+[22/08/2014 17:07:41] Underdown has logged in.
+[22/08/2014 17:08:42] 
+[22/08/2014 17:08:42] Lua Script Error: [Spell Interface] 
+[22/08/2014 17:08:42] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 17:08:43] 
+[22/08/2014 17:08:43] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 17:08:43] stack traceback:
+[22/08/2014 17:08:43] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 17:08:43] 	(tail call): ?
+[22/08/2014 17:08:45] 
+[22/08/2014 17:08:45] Lua Script Error: [Spell Interface] 
+[22/08/2014 17:08:46] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 17:08:46] 
+[22/08/2014 17:08:46] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 17:08:46] stack traceback:
+[22/08/2014 17:08:46] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 17:08:47] 	(tail call): ?
+[22/08/2014 17:09:52] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 17:10:22] > CLEAN: Removed 565 items from 468 tiles in 0.169 seconds.
+[22/08/2014 17:10:22] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 17:11:22] Honda has logged out.
+[22/08/2014 17:11:24] Honda has logged in.
+[22/08/2014 17:12:06] Juninhosza has logged out.
+[22/08/2014 17:12:29] Honda has logged out.
+[22/08/2014 17:12:30] Honda has logged in.
+[22/08/2014 17:13:33] > Broadcasted message: "Para ver as noticias fale !notice".
+[22/08/2014 17:15:26] Porra Manw has logged out.
+[22/08/2014 17:15:58] Mata Pally has logged out.
+[22/08/2014 17:16:41] Druidzerah Mythus has logged out.
+[22/08/2014 17:16:52] Hegazy has logged in.
+[22/08/2014 17:17:07] Hegazy has logged out.
+[22/08/2014 17:17:09] Hegazy has logged in.
+[22/08/2014 17:17:23] Hegazy has logged out.
+[22/08/2014 17:17:26] Hegazy has logged in.
+[22/08/2014 17:17:40] Hegazy has logged out.
+[22/08/2014 17:17:41] Hegazy has logged in.
+[22/08/2014 17:17:56] Hegazy has logged out.
+[22/08/2014 17:17:58] Hegazy has logged in.
+[22/08/2014 17:18:15] Hegazy has logged out.
+[22/08/2014 17:18:17] Hegazy has logged in.
+[22/08/2014 17:18:29] Hegazy has logged out.
+[22/08/2014 17:18:31] Hegazy has logged in.
+[22/08/2014 17:18:48] Duff Maluko has logged out.
+[22/08/2014 17:18:56] Honda has logged out.
+[22/08/2014 17:18:56] 
+[22/08/2014 17:18:56] Lua Script Error: [Spell Interface] 
+[22/08/2014 17:18:56] in a timer event called from: 
+[22/08/2014 17:18:57] data/spells/scripts/max power rune.lua:onCastSpell
+[22/08/2014 17:18:57] 
+[22/08/2014 17:18:57] luaDoCombat(). Creature not found
+[22/08/2014 17:18:57] 
+[22/08/2014 17:18:57] Lua Script Error: [Spell Interface] 
+[22/08/2014 17:18:57] in a timer event called from: 
+[22/08/2014 17:18:57] data/spells/scripts/max power rune.lua:onCastSpell
+[22/08/2014 17:18:58] 
+[22/08/2014 17:18:58] luaDoCombat(). Creature not found
+[22/08/2014 17:18:58] 
+[22/08/2014 17:18:58] Lua Script Error: [Spell Interface] 
+[22/08/2014 17:18:58] in a timer event called from: 
+[22/08/2014 17:18:58] data/spells/scripts/max power rune.lua:onCastSpell
+[22/08/2014 17:18:58] 
+[22/08/2014 17:18:58] luaDoCombat(). Creature not found
+[22/08/2014 17:18:58] 
+[22/08/2014 17:18:58] Lua Script Error: [Spell Interface] 
+[22/08/2014 17:18:59] in a timer event called from: 
+[22/08/2014 17:18:59] data/spells/scripts/max power rune.lua:onCastSpell
+[22/08/2014 17:18:59] 
+[22/08/2014 17:18:59] luaDoCombat(). Creature not found
+[22/08/2014 17:18:59] Hegazy has logged out.
+[22/08/2014 17:19:00] Hegazy has logged in.
+[22/08/2014 17:19:00] Honda has logged in.
+[22/08/2014 17:19:01] Hegazy has logged out.
+[22/08/2014 17:19:05] Hegazy has logged in.
+[22/08/2014 17:19:54] Hegazy has logged out.
+[22/08/2014 17:19:55] Hegazy has logged in.
+[22/08/2014 17:20:14] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[22/08/2014 17:20:14] Juninhosza has logged in.
+[22/08/2014 17:20:16] Hegazy has logged out.
+[22/08/2014 17:20:17] Hegazy has logged in.
+[22/08/2014 17:20:24] Pally Brisado has logged in.
+[22/08/2014 17:20:39] Hegazy has logged out.
+[22/08/2014 17:20:40] Hegazy has logged in.
+[22/08/2014 17:20:53] Hegazy has logged out.
+[22/08/2014 17:20:54] Hegazy has logged in.
+[22/08/2014 17:21:11] Juninhosza has logged out.
+[22/08/2014 17:21:13] Juninhosza has logged in.
+[22/08/2014 17:22:26] Hegazy has logged out.
+[22/08/2014 17:22:27] Hegazy has logged in.
+[22/08/2014 17:22:39] Hegazy has logged out.
+[22/08/2014 17:22:45] Hegazy has logged in.
+[22/08/2014 17:23:14] Hegazy has logged out.
+[22/08/2014 17:23:15] Sorczinho Sapeca has logged out.
+[22/08/2014 17:23:15] Hegazy has logged in.
+[22/08/2014 17:23:18] Hegazy has logged out.
+[22/08/2014 17:23:21] Palaziinho has logged in.
+[22/08/2014 17:23:24] Druidzerah Mythus has logged in.
+[22/08/2014 17:25:00] Underdown has logged out.
+[22/08/2014 17:26:25] 
+[22/08/2014 17:26:25] Lua Script Error: [Spell Interface] 
+[22/08/2014 17:26:25] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 17:26:25] 
+[22/08/2014 17:26:25] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 17:26:25] stack traceback:
+[22/08/2014 17:26:26] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 17:26:26] 	(tail call): ?
+[22/08/2014 17:26:27] 
+[22/08/2014 17:26:27] Lua Script Error: [Spell Interface] 
+[22/08/2014 17:26:27] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 17:26:27] 
+[22/08/2014 17:26:27] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 17:26:28] stack traceback:
+[22/08/2014 17:26:28] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 17:26:28] 	(tail call): ?
+[22/08/2014 17:26:28] > Saving server...
+[22/08/2014 17:26:31] > SAVE: Complete in 2.464 seconds using relational house storage.
+[22/08/2014 17:26:33] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 17:26:55] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[22/08/2014 17:27:04] > CLEAN: Removed 1757 items from 1104 tiles in 0.19 seconds.
+[22/08/2014 17:27:04] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 17:28:14] Juninhosza has logged out.
+[22/08/2014 17:28:19] Juninhosza has logged in.
+[22/08/2014 17:28:20] Menino Mal has logged out.
+[22/08/2014 17:28:24] Menino Mal has logged in.
+[22/08/2014 17:31:23] Honda has logged out.
+[22/08/2014 17:31:42] Menino Mal has logged out.
+[22/08/2014 17:32:15] Microbiio I has logged in.
+[22/08/2014 17:33:36] > Broadcasted message: "Para ver as noticias fale !notice".
+[22/08/2014 17:34:50] Honda has logged in.
+[22/08/2014 17:35:26] Microbiio I has logged out.
+[22/08/2014 17:36:06] Juninhosza has logged out.
+[22/08/2014 17:36:12] Juninhosza has logged in.
+[22/08/2014 17:36:45] Microbiio I has logged in.
+[22/08/2014 17:39:03] Microbiio I has logged out.
+[22/08/2014 17:39:05] Microbiio I has logged in.
+[22/08/2014 17:39:05] Microbiio I has logged out.
+[22/08/2014 17:39:10] Menino Mal has logged in.
+[22/08/2014 17:39:21] Underdown has logged in.
+[22/08/2014 17:39:32] Eternal Ozzot has logged in.
+[22/08/2014 17:40:17] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[22/08/2014 17:41:25] Eternal Ozzot has logged out.
+[22/08/2014 17:41:27] Menina Mal has logged out.
+[22/08/2014 17:41:50] Eternal Ozzot has logged in.
+[22/08/2014 17:43:03] Eternal Ozzot has logged out.
+[22/08/2014 17:43:14] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 17:43:25] Menina Mal has logged in.
+[22/08/2014 17:43:45] > CLEAN: Removed 4108 items from 2307 tiles in 0.397 seconds.
+[22/08/2014 17:43:45] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 17:44:04] Bob Dyller has logged in.
+[22/08/2014 17:44:16] Menino Mal has logged out.
+[22/08/2014 17:44:34] Pally Brisado has logged out.
+[22/08/2014 17:44:37] Pally Brisado has logged in.
+[22/08/2014 17:44:42] Underdown has logged out.
+[22/08/2014 17:45:02] Manager has logged in.
+[22/08/2014 17:45:26] Menino Mal has logged in.
+[22/08/2014 17:45:45] Manager has logged out.
+[22/08/2014 17:46:08] Underdown has logged in.
+[22/08/2014 17:46:58] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/08/2014 17:47:07] Bob Dyller has logged out.
+[22/08/2014 17:47:08] Menina Mal has logged out.
+[22/08/2014 17:47:10] Bob Dyller has logged in.
+[22/08/2014 17:47:13] Menina Mal has logged in.
+[22/08/2014 17:47:36] Druidzerah Mythus has logged out.
+[22/08/2014 17:47:42] Hegazy has logged in.
+[22/08/2014 17:48:28] Hegazy has logged out.
+[22/08/2014 17:48:29] Hegazy has logged in.
+[22/08/2014 17:49:18] Hegazy has logged out.
+[22/08/2014 17:49:19] Hegazy has logged in.
+[22/08/2014 17:49:22] Hegazy has logged out.
+[22/08/2014 17:49:34] Druidzerah Mythus has logged in.
+[22/08/2014 17:50:28] Palaziinho has logged out.
+[22/08/2014 17:50:46] Juninhosza has logged out.
+[22/08/2014 17:50:49] Juninhosza has logged in.
+[22/08/2014 17:53:39] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[22/08/2014 17:53:44] Menino Mal has logged out.
+[22/08/2014 17:53:45] Menino Mal has logged in.
+[22/08/2014 17:53:46] Menino Mal has logged out.
+[22/08/2014 17:53:51] Mlk Lokoo has logged in.
+[22/08/2014 17:54:08] Mlk Lokoo has logged out.
+[22/08/2014 17:54:09] Mlk Lokoo has logged in.
+[22/08/2014 17:54:09] Mlk Lokoo has logged out.
+[22/08/2014 17:54:14] Menino Mal has logged in.
+[22/08/2014 17:54:28] Menino Mal has logged out.
+[22/08/2014 17:54:29] Menino Mal has logged in.
+[22/08/2014 17:54:30] Menino Mal has logged out.
+[22/08/2014 17:54:35] Microbiio I has logged in.
+[22/08/2014 17:55:03] Menina Mal has logged out.
+[22/08/2014 17:55:11] Microbiio I has logged out.
+[22/08/2014 17:55:33] Menino Mal has logged in.
+[22/08/2014 17:59:48] > Saving server...
+[22/08/2014 17:59:51] > SAVE: Complete in 2.855 seconds using relational house storage.
+[22/08/2014 17:59:55] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 18:00:20] > Broadcasted message: "Para comprar bless digite !bless".
+[22/08/2014 18:00:26] > CLEAN: Removed 2185 items from 1531 tiles in 0.248 seconds.
+[22/08/2014 18:00:26] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 18:03:37] Yakuza has logged in.
+[22/08/2014 18:04:41] Honda has logged out.
+[22/08/2014 18:04:42] Honda has logged in.
+[22/08/2014 18:07:01] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[22/08/2014 18:07:23] Bob Dyller has logged out.
+[22/08/2014 18:07:27] Bob Dyller has logged in.
+[22/08/2014 18:07:56] Underdown has logged out.
+[22/08/2014 18:08:33] Sorczinho Sapeca has logged in.
+[22/08/2014 18:08:35] Underdown has logged in.
+[22/08/2014 18:09:10] Sorczinho Sapeca has logged out.
+[22/08/2014 18:09:18] Sorczinho Sapeca has logged in.
+[22/08/2014 18:11:03] 
+[22/08/2014 18:11:03] Lua Script Error: [Spell Interface] 
+[22/08/2014 18:11:03] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 18:11:04] 
+[22/08/2014 18:11:04] data/spells/scripts/animate.lua:23: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 18:11:04] stack traceback:
+[22/08/2014 18:11:04] 	data/spells/scripts/animate.lua:23: in function <data/spells/scripts/animate.lua:17>
+[22/08/2014 18:11:32] 
+[22/08/2014 18:11:33] Lua Script Error: [Spell Interface] 
+[22/08/2014 18:11:33] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 18:11:33] 
+[22/08/2014 18:11:33] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 18:11:34] stack traceback:
+[22/08/2014 18:11:34] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 18:11:35] 	(tail call): ?
+[22/08/2014 18:12:26] Bob Dyller has logged out.
+[22/08/2014 18:12:28] Bob Dyller has logged in.
+[22/08/2014 18:13:42] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/08/2014 18:16:36] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 18:17:07] > CLEAN: Removed 2867 items from 1788 tiles in 0.277 seconds.
+[22/08/2014 18:17:07] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 18:19:49] Bob Dyller has logged out.
+[22/08/2014 18:19:54] Bob Dyller has logged in.
+[22/08/2014 18:19:56] Bob Dyller has logged out.
+[22/08/2014 18:20:09] Pally Brisado has logged out.
+[22/08/2014 18:20:23] > Broadcasted message: "Para comprar bless digite !bless".
+[22/08/2014 18:21:20] Juninhosza has logged out.
+[22/08/2014 18:21:24] Underdown has logged out.
+[22/08/2014 18:21:26] Underdown has logged in.
+[22/08/2014 18:22:04] Menina Mal has logged in.
+[22/08/2014 18:26:41] Druid Da Morte has logged in.
+[22/08/2014 18:27:04] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[22/08/2014 18:27:37] Honda has logged out.
+[22/08/2014 18:31:09] Mateus has logged in.
+[22/08/2014 18:33:09] > Saving server...
+[22/08/2014 18:33:12] > SAVE: Complete in 2.823 seconds using relational house storage.
+[22/08/2014 18:33:17] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 18:33:22] Mateus has logged out.
+[22/08/2014 18:33:45] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/08/2014 18:33:47] > CLEAN: Removed 1292 items from 879 tiles in 0.229 seconds.
+[22/08/2014 18:33:48] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 18:40:26] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/08/2014 18:40:47] Yakuza has logged out.
+[22/08/2014 18:46:14] Menina Mal has logged out.
+[22/08/2014 18:47:07] > Broadcasted message: "Para ver as noticias fale !notice".
+[22/08/2014 18:47:16] Arizinha Andrade has logged in.
+[22/08/2014 18:47:49] Pally Brisado has logged in.
+[22/08/2014 18:49:10] Druid Da Morte has logged out.
+[22/08/2014 18:49:58] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 18:50:29] > CLEAN: Removed 749 items from 538 tiles in 0.185 seconds.
+[22/08/2014 18:50:29] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 18:51:17] Juninhosza has logged in.
+[22/08/2014 18:51:45] Pally Brisado has logged out.
+[22/08/2014 18:51:47] Pally Brisado has logged in.
+[22/08/2014 18:52:05] Underdown has logged out.
+[22/08/2014 18:53:22] Juninhosza has logged out.
+[22/08/2014 18:53:24] Juninhosza has logged in.
+[22/08/2014 18:53:48] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[22/08/2014 18:53:48] Mateus has logged in.
+[22/08/2014 18:55:56] 
+[22/08/2014 18:55:56] Lua Script Error: [Action Interface] 
+[22/08/2014 18:55:56] data/actions/scripts/upgrade.lua:onUse
+[22/08/2014 18:55:56] 
+[22/08/2014 18:55:56] luaGetItemAttack(). Item not found
+[22/08/2014 18:55:56] 
+[22/08/2014 18:55:57] Lua Script Error: [Action Interface] 
+[22/08/2014 18:55:57] data/actions/scripts/upgrade.lua:onUse
+[22/08/2014 18:55:57] 
+[22/08/2014 18:55:57] data/actions/scripts/upgrade.lua:27: attempt to compare number with boolean
+[22/08/2014 18:55:58] stack traceback:
+[22/08/2014 18:55:58] 	data/actions/scripts/upgrade.lua:27: in function <data/actions/scripts/upgrade.lua:18>
+[22/08/2014 18:56:06] 
+[22/08/2014 18:56:06] Lua Script Error: [Action Interface] 
+[22/08/2014 18:56:07] data/actions/scripts/upgrade.lua:onUse
+[22/08/2014 18:56:07] 
+[22/08/2014 18:56:07] luaGetItemAttack(). Item not found
+[22/08/2014 18:56:07] 
+[22/08/2014 18:56:07] Lua Script Error: [Action Interface] 
+[22/08/2014 18:56:08] data/actions/scripts/upgrade.lua:onUse
+[22/08/2014 18:56:08] 
+[22/08/2014 18:56:08] data/actions/scripts/upgrade.lua:27: attempt to compare number with boolean
+[22/08/2014 18:56:08] stack traceback:
+[22/08/2014 18:56:08] 	data/actions/scripts/upgrade.lua:27: in function <data/actions/scripts/upgrade.lua:18>
+[22/08/2014 18:56:19] Sorczinho Sapeca has logged out.
+[22/08/2014 18:56:43] Sorczinho Sapeca has logged in.
+[22/08/2014 18:59:20] Arizinha Andrade has logged out.
+[22/08/2014 19:00:00] Sorczinho Sapeca has logged out.
+[22/08/2014 19:00:25] Sorczinho Sapeca has logged in.
+[22/08/2014 19:00:29] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[22/08/2014 19:01:14] Sorczinho Sapeca has logged out.
+[22/08/2014 19:01:22] Arizinha Andrade has logged in.
+[22/08/2014 19:01:59] Account Manager has logged in.
+[22/08/2014 19:02:33] Account Manager has logged out.
+[22/08/2014 19:02:37] Account Manager has logged in.
+[22/08/2014 19:02:41] Account Manager has logged out.
+[22/08/2014 19:02:43] Sorczinho Sapeca has logged in.
+[22/08/2014 19:02:47] Druid Da Morte has logged in.
+[22/08/2014 19:06:30] > Saving server...
+[22/08/2014 19:06:34] > SAVE: Complete in 3.362 seconds using relational house storage.
+[22/08/2014 19:06:39] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 19:07:10] > CLEAN: Removed 967 items from 497 tiles in 0.695 seconds.
+[22/08/2014 19:07:11] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 19:07:12] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[22/08/2014 19:09:04] Menina Mal has logged in.
+[22/08/2014 19:09:36] Pally Brisado has logged out.
+[22/08/2014 19:10:26] Arizinha Andrade has logged out.
+[22/08/2014 19:10:28] Arizinha Andrade has logged in.
+[22/08/2014 19:13:53] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[22/08/2014 19:15:21] Arizinha Andrade has logged out.
+[22/08/2014 19:15:38] Druidzerah Mythus has logged out.
+[22/08/2014 19:16:37] Druidzerah Mythus has logged in.
+[22/08/2014 19:17:14] Mateus has logged out.
+[22/08/2014 19:17:21] Arizinha Andrade has logged in.
+[22/08/2014 19:17:48] Honda has logged in.
+[22/08/2014 19:20:34] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[22/08/2014 19:21:53] 
+[22/08/2014 19:21:53] Lua Script Error: [Spell Interface] 
+[22/08/2014 19:21:53] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 19:21:53] 
+[22/08/2014 19:21:53] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 19:21:54] stack traceback:
+[22/08/2014 19:21:54] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 19:21:55] 	(tail call): ?
+[22/08/2014 19:21:56] 
+[22/08/2014 19:21:56] Lua Script Error: [Spell Interface] 
+[22/08/2014 19:21:56] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 19:21:56] 
+[22/08/2014 19:21:56] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 19:21:57] stack traceback:
+[22/08/2014 19:21:57] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 19:21:57] 	(tail call): ?
+[22/08/2014 19:22:24] 
+[22/08/2014 19:22:24] Lua Script Error: [Spell Interface] 
+[22/08/2014 19:22:24] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 19:22:24] 
+[22/08/2014 19:22:24] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 19:22:25] stack traceback:
+[22/08/2014 19:22:25] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 19:22:25] 	(tail call): ?
+[22/08/2014 19:22:36] Menina Mal has logged out.
+[22/08/2014 19:22:39] Menina Mal has logged in.
+[22/08/2014 19:22:54] Sorczinho Sapeca has logged out.
+[22/08/2014 19:23:10] Pally Brisado has logged in.
+[22/08/2014 19:23:20] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 19:23:24] Legal Fera has logged in.
+[22/08/2014 19:23:50] > CLEAN: Removed 3301 items from 1671 tiles in 0.214 seconds.
+[22/08/2014 19:23:51] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 19:24:29] Druid Da Morte has logged out.
+[22/08/2014 19:24:31] Druid Da Morte has logged in.
+[22/08/2014 19:24:39] Legal Fera has logged out.
+[22/08/2014 19:24:51] 
+[22/08/2014 19:24:51] Lua Script Error: [Spell Interface] 
+[22/08/2014 19:24:51] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 19:24:51] 
+[22/08/2014 19:24:51] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 19:24:52] stack traceback:
+[22/08/2014 19:24:52] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 19:24:52] 	(tail call): ?
+[22/08/2014 19:24:53] 
+[22/08/2014 19:24:53] Lua Script Error: [Spell Interface] 
+[22/08/2014 19:24:54] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 19:24:54] 
+[22/08/2014 19:24:54] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 19:24:54] stack traceback:
+[22/08/2014 19:24:54] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 19:24:55] 	(tail call): ?
+[22/08/2014 19:24:56] 
+[22/08/2014 19:24:56] Lua Script Error: [Spell Interface] 
+[22/08/2014 19:24:56] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 19:24:56] 
+[22/08/2014 19:24:56] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 19:24:57] stack traceback:
+[22/08/2014 19:24:57] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 19:24:57] 	(tail call): ?
+[22/08/2014 19:24:58] 
+[22/08/2014 19:24:58] Lua Script Error: [Spell Interface] 
+[22/08/2014 19:24:58] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 19:24:59] 
+[22/08/2014 19:24:59] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 19:24:59] stack traceback:
+[22/08/2014 19:24:59] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 19:24:59] 	(tail call): ?
+[22/08/2014 19:25:00] 
+[22/08/2014 19:25:01] Lua Script Error: [Spell Interface] 
+[22/08/2014 19:25:01] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 19:25:01] 
+[22/08/2014 19:25:01] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 19:25:01] stack traceback:
+[22/08/2014 19:25:01] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 19:25:02] 	(tail call): ?
+[22/08/2014 19:25:25] 
+[22/08/2014 19:25:25] Lua Script Error: [Spell Interface] 
+[22/08/2014 19:25:26] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 19:25:26] 
+[22/08/2014 19:25:26] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 19:25:26] stack traceback:
+[22/08/2014 19:25:26] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 19:25:27] 	(tail call): ?
+[22/08/2014 19:25:28] 
+[22/08/2014 19:25:28] Lua Script Error: [Spell Interface] 
+[22/08/2014 19:25:28] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 19:25:28] 
+[22/08/2014 19:25:28] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 19:25:29] stack traceback:
+[22/08/2014 19:25:29] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 19:25:29] 	(tail call): ?
+[22/08/2014 19:25:34] 
+[22/08/2014 19:25:34] Lua Script Error: [Spell Interface] 
+[22/08/2014 19:25:34] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 19:25:34] 
+[22/08/2014 19:25:34] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 19:25:34] stack traceback:
+[22/08/2014 19:25:35] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 19:25:35] 	(tail call): ?
+[22/08/2014 19:25:54] 
+[22/08/2014 19:25:54] Lua Script Error: [Spell Interface] 
+[22/08/2014 19:25:54] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 19:25:54] 
+[22/08/2014 19:25:54] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 19:25:54] stack traceback:
+[22/08/2014 19:25:55] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 19:25:55] 	(tail call): ?
+[22/08/2014 19:25:56] 
+[22/08/2014 19:25:56] Lua Script Error: [Spell Interface] 
+[22/08/2014 19:25:56] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 19:25:56] 
+[22/08/2014 19:25:57] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 19:25:57] stack traceback:
+[22/08/2014 19:25:57] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 19:25:57] 	(tail call): ?
+[22/08/2014 19:25:58] Pally Brisado has logged out.
+[22/08/2014 19:26:36] Druid Da Morte has logged out.
+[22/08/2014 19:26:37] Druid Da Morte has logged in.
+[22/08/2014 19:26:50] 
+[22/08/2014 19:26:50] Lua Script Error: [Spell Interface] 
+[22/08/2014 19:26:50] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 19:26:50] 
+[22/08/2014 19:26:50] data/spells/scripts/animate.lua:23: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 19:26:51] stack traceback:
+[22/08/2014 19:26:51] 	data/spells/scripts/animate.lua:23: in function <data/spells/scripts/animate.lua:17>
+[22/08/2014 19:27:15] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[22/08/2014 19:28:49] 
+[22/08/2014 19:28:49] Lua Script Error: [Spell Interface] 
+[22/08/2014 19:28:49] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 19:28:50] 
+[22/08/2014 19:28:50] data/spells/scripts/animate.lua:23: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 19:28:50] stack traceback:
+[22/08/2014 19:28:50] 	data/spells/scripts/animate.lua:23: in function <data/spells/scripts/animate.lua:17>
+[22/08/2014 19:28:51] Arizinha Andrade has logged out.
+[22/08/2014 19:28:53] Arizinha Andrade has logged in.
+[22/08/2014 19:29:02] 
+[22/08/2014 19:29:02] Lua Script Error: [Spell Interface] 
+[22/08/2014 19:29:02] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 19:29:02] 
+[22/08/2014 19:29:02] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 19:29:02] stack traceback:
+[22/08/2014 19:29:03] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 19:29:03] 	(tail call): ?
+[22/08/2014 19:29:05] Juninhosza has logged out.
+[22/08/2014 19:30:04] Druid Da Morte has logged out.
+[22/08/2014 19:30:05] Druid Da Morte has logged in.
+[22/08/2014 19:30:52] 
+[22/08/2014 19:30:52] Lua Script Error: [Spell Interface] 
+[22/08/2014 19:30:52] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 19:30:53] 
+[22/08/2014 19:30:53] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 19:30:53] stack traceback:
+[22/08/2014 19:30:53] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 19:30:54] 	(tail call): ?
+[22/08/2014 19:33:39] Druid Da Morte has logged out.
+[22/08/2014 19:33:56] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[22/08/2014 19:34:40] 
+[22/08/2014 19:34:40] Lua Script Error: [CreatureScript Interface] 
+[22/08/2014 19:34:40] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[22/08/2014 19:34:41] 
+[22/08/2014 19:34:41] luaGetCreatureName(). Creature not found
+[22/08/2014 19:34:41] 
+[22/08/2014 19:34:41] Lua Script Error: [CreatureScript Interface] 
+[22/08/2014 19:34:41] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[22/08/2014 19:34:42] 
+[22/08/2014 19:34:42] luaGetCreatureName(). Creature not found
+[22/08/2014 19:34:43] Menina Mal has logged out.
+[22/08/2014 19:34:49] Menina Mal has logged in.
+[22/08/2014 19:35:59] Pally Brisado has logged in.
+[22/08/2014 19:36:07] Palyy has logged in.
+[22/08/2014 19:36:39] 
+[22/08/2014 19:36:39] Lua Script Error: [Spell Interface] 
+[22/08/2014 19:36:39] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 19:36:39] 
+[22/08/2014 19:36:39] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 19:36:40] stack traceback:
+[22/08/2014 19:36:40] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 19:36:40] 	(tail call): ?
+[22/08/2014 19:37:10] Mata Pally has logged in.
+[22/08/2014 19:37:37] Arizinha Andrade has logged out.
+[22/08/2014 19:37:42] Arizinha Andrade has logged in.
+[22/08/2014 19:38:34] Menina Mal has logged out.
+[22/08/2014 19:38:36] Menina Mal has logged in.
+[22/08/2014 19:39:14] Yakuza has logged in.
+[22/08/2014 19:39:28] Yakuza has logged out.
+[22/08/2014 19:39:33] Menina Mal has logged out.
+[22/08/2014 19:39:35] Menina Mal has logged in.
+[22/08/2014 19:39:51] > Saving server...
+[22/08/2014 19:39:54] > SAVE: Complete in 2.971 seconds using relational house storage.
+[22/08/2014 19:39:58] Druid Da Morte has logged in.
+[22/08/2014 19:40:01] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 19:40:32] > CLEAN: Removed 7098 items from 3639 tiles in 0.984 seconds.
+[22/08/2014 19:40:32] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 19:40:37] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/08/2014 19:41:01] Yakuza has logged in.
+[22/08/2014 19:42:54] Legal Fera has logged in.
+[22/08/2014 19:44:01] Druid Da Morte has logged out.
+[22/08/2014 19:44:03] Druid Da Morte has logged in.
+[22/08/2014 19:45:12] Palyy has logged out.
+[22/08/2014 19:45:12] Account Manager has logged in.
+[22/08/2014 19:45:14] Palyy has logged in.
+[22/08/2014 19:46:01] Account Manager has logged out.
+[22/08/2014 19:46:04] Account Manager has logged in.
+[22/08/2014 19:46:44] Account Manager has logged out.
+[22/08/2014 19:46:48] Account Manager has logged in.
+[22/08/2014 19:47:01] Menina Mal has logged out.
+[22/08/2014 19:47:08] Menina Mal has logged in.
+[22/08/2014 19:47:09] Pally Brisado has logged out.
+[22/08/2014 19:47:16] Pally Brisado has logged in.
+[22/08/2014 19:47:18] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[22/08/2014 19:47:36] Account Manager has logged out.
+[22/08/2014 19:47:50] Arizinha Andrade has logged out.
+[22/08/2014 19:48:09] Legal Fera has logged out.
+[22/08/2014 19:48:11] Legal Fera has logged in.
+[22/08/2014 19:48:14] Arizinha Andrade has logged in.
+[22/08/2014 19:48:37] Sorczinho Sapeca has logged in.
+[22/08/2014 19:49:30] Honda has logged out.
+[22/08/2014 19:49:33] Honda has logged in.
+[22/08/2014 19:49:35] Biozard has logged in.
+[22/08/2014 19:50:00] Biozard has logged out.
+[22/08/2014 19:50:03] Sorczinho Sapeca has logged out.
+[22/08/2014 19:50:03] Account Manager has logged in.
+[22/08/2014 19:50:06] Sorczinho Sapeca has logged in.
+[22/08/2014 19:50:31] Palyy has logged out.
+[22/08/2014 19:50:35] Palyy has logged in.
+[22/08/2014 19:51:06] Account Manager has logged out.
+[22/08/2014 19:51:36] Fastporra has logged in.
+[22/08/2014 19:52:22] Druid Da Morte has logged out.
+[22/08/2014 19:52:25] Druid Da Morte has logged in.
+[22/08/2014 19:53:08] Sorczinho Sapeca has logged out.
+[22/08/2014 19:53:32] > Saving server...
+[22/08/2014 19:53:36] > SAVE: Complete in 3.825 seconds using relational house storage.
+[22/08/2014 19:53:42] Yakuza has logged out.
+[22/08/2014 19:53:48] Yakuza has logged in.
+[22/08/2014 19:53:50] Legal Fera has logged out.
+[22/08/2014 19:53:52] Legal Fera has logged in.
+[22/08/2014 19:53:59] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[22/08/2014 19:54:33] Honda has logged out.
+[22/08/2014 19:54:36] Honda has logged in.
+[22/08/2014 19:54:39] Bob Dyller has logged in.
+[22/08/2014 19:55:20] Sorczinho Sapeca has logged in.
+[22/08/2014 19:55:48] Druid Da Morte has logged out.
+[22/08/2014 19:55:51] Druid Da Morte has logged in.
+[22/08/2014 19:55:59] Legal Fera has logged out.
+[22/08/2014 19:56:03] Legal Fera has logged in.
+[22/08/2014 19:56:08] Legal Fera has logged out.
+[22/08/2014 19:56:18] Fastporra has logged out.
+[22/08/2014 19:56:22] Fastporra has logged in.
+[22/08/2014 19:56:29] Fastporra has logged out.
+[22/08/2014 19:56:32] Account Manager has logged in.
+[22/08/2014 19:56:42] Menina Mal has logged out.
+[22/08/2014 19:56:42] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 19:56:45] Menina Mal has logged in.
+[22/08/2014 19:56:55] Druid Da Morte has logged out.
+[22/08/2014 19:56:57] Palyy has logged out.
+[22/08/2014 19:56:59] Druid Da Morte has logged in.
+[22/08/2014 19:57:01] Palyy has logged in.
+[22/08/2014 19:57:13] > CLEAN: Removed 1450 items from 1063 tiles in 0.197 seconds.
+[22/08/2014 19:57:13] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 19:57:54] Account Manager has logged out.
+[22/08/2014 19:58:03] sqlite3_step(): SQLITE ERROR: database is locked
+[22/08/2014 19:58:03] Bob Dyller has logged out.
+[22/08/2014 19:58:09] Biozard Zikao has logged in.
+[22/08/2014 19:58:35] Jean Domingues has logged in.
+[22/08/2014 19:59:11] Jean Domingues has logged out.
+[22/08/2014 19:59:14] Druid Da Morte has logged out.
+[22/08/2014 19:59:14] 
+[22/08/2014 19:59:14] Lua Script Error: [Spell Interface] 
+[22/08/2014 19:59:14] in a timer event called from: 
+[22/08/2014 19:59:14] data/spells/scripts/max power rune.lua:onCastSpell
+[22/08/2014 19:59:15] 
+[22/08/2014 19:59:15] luaDoCombat(). Creature not found
+[22/08/2014 19:59:15] 
+[22/08/2014 19:59:15] Lua Script Error: [Spell Interface] 
+[22/08/2014 19:59:15] in a timer event called from: 
+[22/08/2014 19:59:15] data/spells/scripts/max power rune.lua:onCastSpell
+[22/08/2014 19:59:16] 
+[22/08/2014 19:59:16] luaDoCombat(). Creature not found
+[22/08/2014 19:59:16] 
+[22/08/2014 19:59:16] Lua Script Error: [Spell Interface] 
+[22/08/2014 19:59:16] in a timer event called from: 
+[22/08/2014 19:59:16] data/spells/scripts/max power rune.lua:onCastSpell
+[22/08/2014 19:59:16] 
+[22/08/2014 19:59:16] luaDoCombat(). Creature not found
+[22/08/2014 19:59:17] 
+[22/08/2014 19:59:17] Lua Script Error: [Spell Interface] 
+[22/08/2014 19:59:17] in a timer event called from: 
+[22/08/2014 19:59:17] data/spells/scripts/max power rune.lua:onCastSpell
+[22/08/2014 19:59:17] 
+[22/08/2014 19:59:17] luaDoCombat(). Creature not found
+[22/08/2014 19:59:19] Druid Da Morte has logged in.
+[22/08/2014 19:59:26] Juninhosza has logged in.
+[22/08/2014 19:59:30] Jean has logged in.
+[22/08/2014 19:59:46] Menino Mal has logged out.
+[22/08/2014 19:59:48] Menino Mal has logged in.
+[22/08/2014 20:00:40] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[22/08/2014 20:00:55] Bob Dyller has logged in.
+[22/08/2014 20:00:57] Bob Dyller has logged out.
+[22/08/2014 20:00:58] Druid Da Morte has logged out.
+[22/08/2014 20:00:59] 
+[22/08/2014 20:00:59] Lua Script Error: [CreatureScript Interface] 
+[22/08/2014 20:00:59] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[22/08/2014 20:01:00] 
+[22/08/2014 20:01:00] luaGetCreatureName(). Creature not found
+[22/08/2014 20:01:01] 
+[22/08/2014 20:01:01] Lua Script Error: [CreatureScript Interface] 
+[22/08/2014 20:01:02] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[22/08/2014 20:01:02] 
+[22/08/2014 20:01:02] luaGetCreatureName(). Creature not found
+[22/08/2014 20:01:03] Arizinha Andrade has logged out.
+[22/08/2014 20:01:05] Druid Da Morte has logged in.
+[22/08/2014 20:01:07] Arizinha Andrade has logged in.
+[22/08/2014 20:01:36] Bob Dyller has logged in.
+[22/08/2014 20:01:50] 
+[22/08/2014 20:01:50] Lua Script Error: [Spell Interface] 
+[22/08/2014 20:01:50] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 20:01:50] 
+[22/08/2014 20:01:50] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 20:01:51] stack traceback:
+[22/08/2014 20:01:51] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 20:01:52] 	(tail call): ?
+[22/08/2014 20:04:10] Yakuza has logged out.
+[22/08/2014 20:04:11] 
+[22/08/2014 20:04:11] Lua Script Error: [Spell Interface] 
+[22/08/2014 20:04:11] in a timer event called from: 
+[22/08/2014 20:04:12] data/spells/scripts/anti-materia.lua:onCastSpell
+[22/08/2014 20:04:12] 
+[22/08/2014 20:04:12] luaDoCombat(). Creature not found
+[22/08/2014 20:04:13] 
+[22/08/2014 20:04:13] Lua Script Error: [Spell Interface] 
+[22/08/2014 20:04:13] in a timer event called from: 
+[22/08/2014 20:04:14] data/spells/scripts/anti-materia.lua:onCastSpell
+[22/08/2014 20:04:14] 
+[22/08/2014 20:04:14] luaDoCombat(). Creature not found
+[22/08/2014 20:04:15] 
+[22/08/2014 20:04:15] Lua Script Error: [Spell Interface] 
+[22/08/2014 20:04:15] in a timer event called from: 
+[22/08/2014 20:04:15] data/spells/scripts/anti-materia.lua:onCastSpell
+[22/08/2014 20:04:16] 
+[22/08/2014 20:04:16] luaDoCombat(). Creature not found
+[22/08/2014 20:04:17] 
+[22/08/2014 20:04:17] Lua Script Error: [Spell Interface] 
+[22/08/2014 20:04:17] in a timer event called from: 
+[22/08/2014 20:04:17] data/spells/scripts/anti-materia.lua:onCastSpell
+[22/08/2014 20:04:18] 
+[22/08/2014 20:04:18] luaDoCombat(). Creature not found
+[22/08/2014 20:04:19] 
+[22/08/2014 20:04:19] Lua Script Error: [Spell Interface] 
+[22/08/2014 20:04:19] in a timer event called from: 
+[22/08/2014 20:04:20] data/spells/scripts/anti-materia.lua:onCastSpell
+[22/08/2014 20:04:20] 
+[22/08/2014 20:04:20] luaDoCombat(). Creature not found
+[22/08/2014 20:04:21] 
+[22/08/2014 20:04:21] Lua Script Error: [Spell Interface] 
+[22/08/2014 20:04:22] in a timer event called from: 
+[22/08/2014 20:04:22] data/spells/scripts/anti-materia.lua:onCastSpell
+[22/08/2014 20:04:23] 
+[22/08/2014 20:04:23] luaDoCombat(). Creature not found
+[22/08/2014 20:04:35] Yakuza has logged in.
+[22/08/2014 20:05:12] Druid Da Morte has logged out.
+[22/08/2014 20:05:14] Druid Da Morte has logged in.
+[22/08/2014 20:06:04] Honda has logged out.
+[22/08/2014 20:06:05] Menina Mal has logged out.
+[22/08/2014 20:06:07] Menino Mal has logged out.
+[22/08/2014 20:06:07] Honda has logged in.
+[22/08/2014 20:06:09] Menino Mal has logged in.
+[22/08/2014 20:06:11] Menina Mal has logged in.
+[22/08/2014 20:06:55] Druid Da Morte has logged out.
+[22/08/2014 20:06:56] 
+[22/08/2014 20:06:56] Lua Script Error: [CreatureScript Interface] 
+[22/08/2014 20:06:56] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[22/08/2014 20:06:57] 
+[22/08/2014 20:06:57] luaGetCreatureName(). Creature not found
+[22/08/2014 20:06:57] Pally Brisado has logged out.
+[22/08/2014 20:06:59] Druid Da Morte has logged in.
+[22/08/2014 20:07:00] Pally Brisado has logged in.
+[22/08/2014 20:07:09] Rushonoinvisiblehur has logged in.
+[22/08/2014 20:07:21] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/08/2014 20:07:40] Palyy has logged out.
+[22/08/2014 20:07:42] Palyy has logged in.
+[22/08/2014 20:07:45] Rushonoinvisiblehur has logged out.
+[22/08/2014 20:07:56] Menino Mal has logged out.
+[22/08/2014 20:07:58] Rushonoinvisiblehur has logged in.
+[22/08/2014 20:07:59] Menino Mal has logged in.
+[22/08/2014 20:08:43] Rushonoinvisiblehur has logged out.
+[22/08/2014 20:08:46] Rushonoinvisiblehur has logged in.
+[22/08/2014 20:08:52] Palyy has logged out.
+[22/08/2014 20:08:55] Palyy has logged in.
+[22/08/2014 20:09:38] Menino Mal has logged out.
+[22/08/2014 20:10:05] Menino Mal has logged in.
+[22/08/2014 20:10:22] Menino Mal has logged out.
+[22/08/2014 20:10:24] Menino Mal has logged in.
+[22/08/2014 20:10:34] 
+[22/08/2014 20:10:34] Lua Script Error: [Spell Interface] 
+[22/08/2014 20:10:34] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 20:10:35] 
+[22/08/2014 20:10:35] data/spells/scripts/animate.lua:23: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 20:10:36] stack traceback:
+[22/08/2014 20:10:36] 	data/spells/scripts/animate.lua:23: in function <data/spells/scripts/animate.lua:17>
+[22/08/2014 20:10:48] Menino Mal has logged out.
+[22/08/2014 20:10:51] Menino Mal has logged in.
+[22/08/2014 20:10:58] Menina Mal has logged out.
+[22/08/2014 20:11:12] Rushonoinvisiblehur has logged out.
+[22/08/2014 20:11:15] Rushonoinvisiblehur has logged in.
+[22/08/2014 20:11:49] Rushonoinvisiblehur has logged out.
+[22/08/2014 20:11:52] Rushonoinvisiblehur has logged in.
+[22/08/2014 20:12:03] Yakuza has logged out.
+[22/08/2014 20:12:04] 
+[22/08/2014 20:12:04] Lua Script Error: [Spell Interface] 
+[22/08/2014 20:12:04] in a timer event called from: 
+[22/08/2014 20:12:05] data/spells/scripts/max power rune.lua:onCastSpell
+[22/08/2014 20:12:05] 
+[22/08/2014 20:12:05] luaDoCombat(). Creature not found
+[22/08/2014 20:12:06] 
+[22/08/2014 20:12:06] Lua Script Error: [Spell Interface] 
+[22/08/2014 20:12:06] in a timer event called from: 
+[22/08/2014 20:12:07] data/spells/scripts/max power rune.lua:onCastSpell
+[22/08/2014 20:12:07] 
+[22/08/2014 20:12:07] luaDoCombat(). Creature not found
+[22/08/2014 20:12:08] 
+[22/08/2014 20:12:08] Lua Script Error: [Spell Interface] 
+[22/08/2014 20:12:08] in a timer event called from: 
+[22/08/2014 20:12:09] data/spells/scripts/max power rune.lua:onCastSpell
+[22/08/2014 20:12:09] 
+[22/08/2014 20:12:09] luaDoCombat(). Creature not found
+[22/08/2014 20:12:10] 
+[22/08/2014 20:12:10] Lua Script Error: [Spell Interface] 
+[22/08/2014 20:12:10] in a timer event called from: 
+[22/08/2014 20:12:11] data/spells/scripts/max power rune.lua:onCastSpell
+[22/08/2014 20:12:11] 
+[22/08/2014 20:12:11] luaDoCombat(). Creature not found
+[22/08/2014 20:12:20] Yakuza has logged in.
+[22/08/2014 20:13:05] Rushonoinvisiblehur has logged out.
+[22/08/2014 20:13:12] Rushonoinvisiblehur has logged in.
+[22/08/2014 20:13:12] > Saving server...
+[22/08/2014 20:13:16] > SAVE: Complete in 4.134 seconds using relational house storage.
+[22/08/2014 20:13:23] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 20:13:27] Menino Mal has logged out.
+[22/08/2014 20:13:33] Rushonoinvisiblehur has logged out.
+[22/08/2014 20:13:39] Rushonoinvisiblehur has logged in.
+[22/08/2014 20:13:50] Palyy has logged out.
+[22/08/2014 20:13:52] Palyy has logged in.
+[22/08/2014 20:13:53] Yakuza has logged out.
+[22/08/2014 20:13:53] > CLEAN: Removed 108 items from 158 tiles in 0.279 seconds.
+[22/08/2014 20:13:54] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 20:13:55] Yakuza has logged in.
+[22/08/2014 20:14:00] Rushonoinvisiblehur has logged out.
+[22/08/2014 20:14:02] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[22/08/2014 20:14:04] Rushonoinvisiblehur has logged in.
+[22/08/2014 20:14:41] Palyy has logged out.
+[22/08/2014 20:14:44] Palyy has logged in.
+[22/08/2014 20:14:54] Fanta-limao has logged in.
+[22/08/2014 20:15:11] Fanta-limao has logged out.
+[22/08/2014 20:15:15] Fanta-limao has logged in.
+[22/08/2014 20:15:25] Druid Da Morte has logged out.
+[22/08/2014 20:15:28] Druid Da Morte has logged in.
+[22/08/2014 20:15:33] Fanta-limao has logged out.
+[22/08/2014 20:15:48] Druid Da Morte has logged out.
+[22/08/2014 20:15:59] Druid Da Morte has logged in.
+[22/08/2014 20:16:07] Pally Brisado has logged out.
+[22/08/2014 20:16:15] Druid Da Morte has logged out.
+[22/08/2014 20:16:18] Druid Da Morte has logged in.
+[22/08/2014 20:17:44] Arizinha Andrade has logged out.
+[22/08/2014 20:17:48] Yakuza has logged out.
+[22/08/2014 20:17:50] Yakuza has logged in.
+[22/08/2014 20:18:33] Fanta-limao has logged in.
+[22/08/2014 20:18:45] Palyy has logged out.
+[22/08/2014 20:18:48] Palyy has logged in.
+[22/08/2014 20:18:51] Fanta-limao has logged out.
+[22/08/2014 20:19:32] Palyy has logged out.
+[22/08/2014 20:19:34] Palyy has logged in.
+[22/08/2014 20:19:46] Rushonoinvisiblehur has logged out.
+[22/08/2014 20:19:48] Rushonoinvisiblehur has logged in.
+[22/08/2014 20:20:00] Yakuza has logged out.
+[22/08/2014 20:20:04] Yakuza has logged in.
+[22/08/2014 20:20:43] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[22/08/2014 20:20:53] Rushonoinvisiblehur has logged out.
+[22/08/2014 20:20:55] Rushonoinvisiblehur has logged in.
+[22/08/2014 20:21:13] Honda has logged out.
+[22/08/2014 20:21:15] Honda has logged in.
+[22/08/2014 20:21:32] Rushonoinvisiblehur has logged out.
+[22/08/2014 20:21:52] Rushonoinvisiblehur has logged in.
+[22/08/2014 20:22:11] Bob Dyller has logged out.
+[22/08/2014 20:22:14] Bob Dyller has logged in.
+[22/08/2014 20:23:01] Druidzerah Mythus has logged out.
+[22/08/2014 20:23:04] Druidzerah Mythus has logged in.
+[22/08/2014 20:23:47] Druid Da Morte has logged out.
+[22/08/2014 20:23:50] Druid Da Morte has logged in.
+[22/08/2014 20:24:14] Palyy has logged out.
+[22/08/2014 20:24:16] Palyy has logged in.
+[22/08/2014 20:24:44] Rushonoinvisiblehur has logged out.
+[22/08/2014 20:24:46] Rushonoinvisiblehur has logged in.
+[22/08/2014 20:25:32] Rushonoinvisiblehur has logged out.
+[22/08/2014 20:25:33] Rushonoinvisiblehur has logged in.
+[22/08/2014 20:26:21] Biozard Zikao has logged out.
+[22/08/2014 20:26:24] Biozard Zikao has logged in.
+[22/08/2014 20:27:24] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[22/08/2014 20:27:38] Yakuza has logged out.
+[22/08/2014 20:27:50] Yakuza has logged in.
+[22/08/2014 20:29:22] Yakuza has logged out.
+[22/08/2014 20:29:25] Yakuza has logged in.
+[22/08/2014 20:29:47] Rushonoinvisiblehur has logged out.
+[22/08/2014 20:29:50] Rushonoinvisiblehur has logged in.
+[22/08/2014 20:30:04] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 20:30:15] 
+[22/08/2014 20:30:15] Lua Script Error: [Spell Interface] 
+[22/08/2014 20:30:16] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 20:30:17] 
+[22/08/2014 20:30:17] data/spells/scripts/animate.lua:23: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 20:30:18] stack traceback:
+[22/08/2014 20:30:18] 	data/spells/scripts/animate.lua:23: in function <data/spells/scripts/animate.lua:17>
+[22/08/2014 20:30:19] Rushonoinvisiblehur has logged out.
+[22/08/2014 20:30:21] Rushonoinvisiblehur has logged in.
+[22/08/2014 20:30:36] > CLEAN: Removed 2118 items from 1734 tiles in 0.889 seconds.
+[22/08/2014 20:30:37] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 20:31:03] Rushonoinvisiblehur has logged out.
+[22/08/2014 20:31:05] Rushonoinvisiblehur has logged in.
+[22/08/2014 20:31:46] Honda has logged out.
+[22/08/2014 20:31:49] Honda has logged in.
+[22/08/2014 20:32:11] Honda has logged out.
+[22/08/2014 20:32:49] Keisuke has logged in.
+[22/08/2014 20:33:31] Keisuke has logged out.
+[22/08/2014 20:33:45] Honda has logged in.
+[22/08/2014 20:34:05] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[22/08/2014 20:35:02] Mata Pally has logged out.
+[22/08/2014 20:35:09] Mata Pally has logged in.
+[22/08/2014 20:35:18] Rushonoinvisiblehur has logged out.
+[22/08/2014 20:35:21] Rushonoinvisiblehur has logged in.
+[22/08/2014 20:35:24] Duff Maluko has logged in.
+[22/08/2014 20:35:51] Biozard Zikao has logged out.
+[22/08/2014 20:35:54] Biozard Zikao has logged in.
+[22/08/2014 20:36:43] Rushonoinvisiblehur has logged out.
+[22/08/2014 20:36:46] Rushonoinvisiblehur has logged in.
+[22/08/2014 20:37:28] Bob Dyller has logged out.
+[22/08/2014 20:37:30] Rushonoinvisiblehur has logged out.
+[22/08/2014 20:37:31] Bob Dyller has logged in.
+[22/08/2014 20:37:32] Rushonoinvisiblehur has logged in.
+[22/08/2014 20:37:54] Bob Dyller has logged out.
+[22/08/2014 20:37:56] Sorczinho Sapeca has logged out.
+[22/08/2014 20:37:58] Bob Dyller has logged in.
+[22/08/2014 20:37:59] Sorczinho Sapeca has logged in.
+[22/08/2014 20:38:38] Meele Pally has logged in.
+[22/08/2014 20:39:19] Mata Pally has logged out.
+[22/08/2014 20:39:34] Malkr has logged in.
+[22/08/2014 20:39:57] Meele Pally has logged out.
+[22/08/2014 20:40:00] Meele Pally has logged in.
+[22/08/2014 20:40:46] > Broadcasted message: "Para comprar bless digite !bless".
+[22/08/2014 20:41:43] Druid Da Morte has logged out.
+[22/08/2014 20:41:45] Druid Da Morte has logged in.
+[22/08/2014 20:41:56] Palyy has logged out.
+[22/08/2014 20:42:08] Nois Que Voa Bruxao has logged in.
+[22/08/2014 20:42:22] Malkr has logged out.
+[22/08/2014 20:42:26] Malkr has logged in.
+[22/08/2014 20:42:37] Juninhosza has logged out.
+[22/08/2014 20:42:54] Nois Que Voa Bruxao has logged out.
+[22/08/2014 20:43:05] Palyy has logged in.
+[22/08/2014 20:43:42] Malkr has logged out.
+[22/08/2014 20:43:45] Malkr has logged in.
+[22/08/2014 20:44:10] Duff Maluko has logged out.
+[22/08/2014 20:44:19] Malkr has logged out.
+[22/08/2014 20:44:25] Malkr has logged in.
+[22/08/2014 20:45:00] Malkr has logged out.
+[22/08/2014 20:45:03] Malkr has logged in.
+[22/08/2014 20:45:07] Malkr has logged out.
+[22/08/2014 20:45:13] Druid Da Morte has logged out.
+[22/08/2014 20:45:14] Account Manager has logged in.
+[22/08/2014 20:45:16] Mata Pally has logged in.
+[22/08/2014 20:45:25] Account Manager has logged out.
+[22/08/2014 20:45:32] Druid Da Morte has logged in.
+[22/08/2014 20:46:11] Rushonoinvisiblehur has logged out.
+[22/08/2014 20:46:12] Rushonoinvisiblehur has logged in.
+[22/08/2014 20:46:13] Rushonoinvisiblehur has logged out.
+[22/08/2014 20:46:24] Fanta-limao has logged in.
+[22/08/2014 20:46:33] > Saving server...
+[22/08/2014 20:46:36] > SAVE: Complete in 3.378 seconds using relational house storage.
+[22/08/2014 20:46:45] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 20:46:56] Fanta-limao has logged out.
+[22/08/2014 20:47:05] Rushonoinvisiblehur has logged in.
+[22/08/2014 20:47:15] > CLEAN: Removed 4536 items from 3388 tiles in 0.364 seconds.
+[22/08/2014 20:47:16] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 20:47:27] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[22/08/2014 20:48:03] Druid Da Morte has logged out.
+[22/08/2014 20:48:05] Druid Da Morte has logged in.
+[22/08/2014 20:48:41] Druidzerah Mythus has logged out.
+[22/08/2014 20:48:47] Palyy has logged out.
+[22/08/2014 20:48:48] Palyy has logged in.
+[22/08/2014 20:49:36] Druid Da Morte has logged out.
+[22/08/2014 20:49:39] Druid Da Morte has logged in.
+[22/08/2014 20:49:46] Juninhosza has logged in.
+[22/08/2014 20:50:08] Meele Pally has logged out.
+[22/08/2014 20:50:10] Meele Pally has logged in.
+[22/08/2014 20:50:25] Juninhosza has logged out.
+[22/08/2014 20:50:26] Palyy has logged out.
+[22/08/2014 20:50:27] Juninhosza has logged in.
+[22/08/2014 20:50:29] Palyy has logged in.
+[22/08/2014 20:50:43] Meele Pally has logged out.
+[22/08/2014 20:50:45] Meele Pally has logged in.
+[22/08/2014 20:50:49] Meele Pally has logged out.
+[22/08/2014 20:50:52] Druidzerah Mythus has logged in.
+[22/08/2014 20:52:20] Druidzerah Mythus has logged out.
+[22/08/2014 20:52:21] Druidzerah Mythus has logged in.
+[22/08/2014 20:52:55] Druidzerah Mythus has logged out.
+[22/08/2014 20:52:57] Druidzerah Mythus has logged in.
+[22/08/2014 20:53:01] Rushonoinvisiblehur has logged out.
+[22/08/2014 20:53:03] Rushonoinvisiblehur has logged in.
+[22/08/2014 20:53:03] Rushonoinvisiblehur has logged out.
+[22/08/2014 20:53:07] Fanta-limao has logged in.
+[22/08/2014 20:54:08] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[22/08/2014 20:54:12] Fanta-limao has logged out.
+[22/08/2014 20:54:18] Rushonoinvisiblehur has logged in.
+[22/08/2014 20:55:49] Druid Da Morte has logged out.
+[22/08/2014 20:55:51] Druid Da Morte has logged in.
+[22/08/2014 20:56:48] Sorczinho Sapeca has logged out.
+[22/08/2014 20:57:03] Druid Da Morte has logged out.
+[22/08/2014 20:57:05] Druid Da Morte has logged in.
+[22/08/2014 20:57:06] Rushonoinvisiblehur has logged out.
+[22/08/2014 20:57:08] Rushonoinvisiblehur has logged in.
+[22/08/2014 20:58:53] Honda has logged out.
+[22/08/2014 20:59:01] Pally Brisado has logged in.
+[22/08/2014 20:59:14] Druid Da Morte has logged out.
+[22/08/2014 20:59:16] Pally Brisado has logged out.
+[22/08/2014 20:59:16] Druid Da Morte has logged in.
+[22/08/2014 21:00:49] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[22/08/2014 21:02:17] Honda has logged in.
+[22/08/2014 21:02:53] Fanta-limao has logged in.
+[22/08/2014 21:03:26] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 21:03:57] > CLEAN: Removed 3581 items from 2936 tiles in 0.266 seconds.
+[22/08/2014 21:03:57] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 21:04:46] Biozard Zikao has logged out.
+[22/08/2014 21:04:50] Biozard Zikao has logged in.
+[22/08/2014 21:06:59] Juninhosza has logged out.
+[22/08/2014 21:07:18] Fanta-limao has logged out.
+[22/08/2014 21:07:30] > Broadcasted message: "Para comprar bless digite !bless".
+[22/08/2014 21:07:31] Account Manager has logged in.
+[22/08/2014 21:07:42] Account Manager has logged out.
+[22/08/2014 21:07:47] Account Manager has logged in.
+[22/08/2014 21:07:55] Account Manager has logged out.
+[22/08/2014 21:07:59] Fanta-limao has logged in.
+[22/08/2014 21:08:03] Druid Da Morte has logged out.
+[22/08/2014 21:08:05] Druid Da Morte has logged in.
+[22/08/2014 21:08:26] Rushonoinvisiblehur has logged out.
+[22/08/2014 21:08:29] Rushonoinvisiblehur has logged in.
+[22/08/2014 21:09:47] Fanta-limao has logged out.
+[22/08/2014 21:10:09] Duff Maluko has logged in.
+[22/08/2014 21:10:21] Porra Manw has logged in.
+[22/08/2014 21:10:42] Duff Maluko has logged out.
+[22/08/2014 21:11:00] Duff Maluko has logged in.
+[22/08/2014 21:11:06] Duff Maluko has logged out.
+[22/08/2014 21:14:11] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[22/08/2014 21:15:52] Sorczinho Sapeca has logged in.
+[22/08/2014 21:17:51] Yakuza has logged out.
+[22/08/2014 21:18:46] Druidzerah Mythus has logged out.
+[22/08/2014 21:19:18] > Saving server...
+[22/08/2014 21:19:22] > SAVE: Complete in 3.384 seconds using relational house storage.
+[22/08/2014 21:19:22] Jean has logged out.
+[22/08/2014 21:19:42] Palyy has logged out.
+[22/08/2014 21:19:43] Knightzin has logged in.
+[22/08/2014 21:19:50] Knightzin has logged out.
+[22/08/2014 21:19:51] Druidzin has logged in.
+[22/08/2014 21:19:54] > Saving server...
+[22/08/2014 21:19:58] > SAVE: Complete in 4.035 seconds using relational house storage.
+[22/08/2014 21:19:58] Druidzin has logged out.
+[22/08/2014 21:19:59] Rushonoinvisiblehur has logged out.
+[22/08/2014 21:20:01] Rushonoinvisiblehur has logged in.
+[22/08/2014 21:20:06] Druid Do Terror has logged in.
+[22/08/2014 21:20:07] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 21:20:37] > CLEAN: Removed 4684 items from 3218 tiles in 0.24 seconds.
+[22/08/2014 21:20:37] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 21:20:52] > Broadcasted message: "Para ver as noticias fale !notice".
+[22/08/2014 21:21:46] Duff Maluko has logged in.
+[22/08/2014 21:22:13] Duff Maluko has logged out.
+[22/08/2014 21:23:07] Druid Do Terror has logged out.
+[22/08/2014 21:23:09] Kaiozinho has logged in.
+[22/08/2014 21:23:19] Rushonoinvisiblehur has logged out.
+[22/08/2014 21:23:25] Druidzerah Mythus has logged in.
+[22/08/2014 21:23:34] Honda has logged out.
+[22/08/2014 21:25:53] Honda has logged in.
+[22/08/2014 21:26:03] Druidzerah Mythus has logged out.
+[22/08/2014 21:26:18] Druidzerah Mythus has logged in.
+[22/08/2014 21:26:19] Druidzerah Mythus has logged out.
+[22/08/2014 21:26:35] Account Manager has logged in.
+[22/08/2014 21:26:45] Account Manager has logged out.
+[22/08/2014 21:26:46] Druidzerah Mythus has logged in.
+[22/08/2014 21:27:12] Kaiozinho has logged out.
+[22/08/2014 21:27:13] Druid Do Terror has logged in.
+[22/08/2014 21:27:16] Druid Da Morte has logged out.
+[22/08/2014 21:27:23] Novinha Safadinha has logged in.
+[22/08/2014 21:27:33] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[22/08/2014 21:27:48] Porra Manw has logged out.
+[22/08/2014 21:29:43] Novinha Safadinha has logged out.
+[22/08/2014 21:29:44] Rei Daleste has logged in.
+[22/08/2014 21:32:40] Rei Daleste has logged out.
+[22/08/2014 21:33:08] Druid Da Morte has logged in.
+[22/08/2014 21:33:18] Druid Do Terror has logged out.
+[22/08/2014 21:33:28] Palyy has logged in.
+[22/08/2014 21:34:14] > Broadcasted message: "Para comprar bless digite !bless".
+[22/08/2014 21:34:41] Palyy has logged out.
+[22/08/2014 21:34:43] Palyy has logged in.
+[22/08/2014 21:35:07] Druid Da Morte has logged out.
+[22/08/2014 21:35:08] Druid Da Morte has logged in.
+[22/08/2014 21:36:48] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 21:37:14] Druid Da Morte has logged out.
+[22/08/2014 21:37:16] Palyy has logged out.
+[22/08/2014 21:37:18] > CLEAN: Removed 2591 items from 1367 tiles in 0.187 seconds.
+[22/08/2014 21:37:18] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 21:37:34] Kaiozinho has logged in.
+[22/08/2014 21:37:35] Palyy has logged in.
+[22/08/2014 21:38:00] Kaiozinho has logged out.
+[22/08/2014 21:38:02] Kaiozinho has logged in.
+[22/08/2014 21:38:21] Biozard Zikao has logged out.
+[22/08/2014 21:38:23] Biozard Zikao has logged in.
+[22/08/2014 21:39:21] Kaiozinho has logged out.
+[22/08/2014 21:39:22] Kaiozinho has logged in.
+[22/08/2014 21:39:28] Bob Dyller has logged out.
+[22/08/2014 21:39:30] Bob Dyller has logged in.
+[22/08/2014 21:39:45] Palyy has logged out.
+[22/08/2014 21:39:48] Palyy has logged in.
+[22/08/2014 21:40:18] Palyy has logged out.
+[22/08/2014 21:40:19] Palyy has logged in.
+[22/08/2014 21:40:55] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[22/08/2014 21:41:07] Palyy has logged out.
+[22/08/2014 21:41:09] Palyy has logged in.
+[22/08/2014 21:41:10] Kaiozinho has logged out.
+[22/08/2014 21:41:12] Kaiozinho has logged in.
+[22/08/2014 21:41:41] Palyy has logged out.
+[22/08/2014 21:41:43] Palyy has logged in.
+[22/08/2014 21:42:03] Palyy has logged out.
+[22/08/2014 21:42:05] Palyy has logged in.
+[22/08/2014 21:42:22] Palyy has logged out.
+[22/08/2014 21:42:24] Palyy has logged in.
+[22/08/2014 21:42:40] Palyy has logged out.
+[22/08/2014 21:42:42] Palyy has logged in.
+[22/08/2014 21:42:56] Palyy has logged out.
+[22/08/2014 21:42:58] Palyy has logged in.
+[22/08/2014 21:43:12] Palyy has logged out.
+[22/08/2014 21:43:13] Palyy has logged in.
+[22/08/2014 21:43:26] Palyy has logged out.
+[22/08/2014 21:43:27] Palyy has logged in.
+[22/08/2014 21:43:40] Palyy has logged out.
+[22/08/2014 21:43:41] Palyy has logged in.
+[22/08/2014 21:43:57] Kaiozinho has logged out.
+[22/08/2014 21:43:58] Kaiozinho has logged in.
+[22/08/2014 21:44:12] Kaiozinho has logged out.
+[22/08/2014 21:44:14] Palyy has logged out.
+[22/08/2014 21:44:15] Kaiozinho has logged in.
+[22/08/2014 21:44:16] Pally Brisado has logged in.
+[22/08/2014 21:44:17] Palyy has logged in.
+[22/08/2014 21:44:43] Palyy has logged out.
+[22/08/2014 21:44:46] Palyy has logged in.
+[22/08/2014 21:45:14] Palyy has logged out.
+[22/08/2014 21:45:15] Palyy has logged in.
+[22/08/2014 21:45:39] Palyy has logged out.
+[22/08/2014 21:45:41] Palyy has logged in.
+[22/08/2014 21:46:10] Palyy has logged out.
+[22/08/2014 21:46:11] Palyy has logged in.
+[22/08/2014 21:46:16] Honda has logged out.
+[22/08/2014 21:46:24] Palyy has logged out.
+[22/08/2014 21:46:25] Palyy has logged in.
+[22/08/2014 21:46:53] Palyy has logged out.
+[22/08/2014 21:46:54] Palyy has logged in.
+[22/08/2014 21:47:14] Palyy has logged out.
+[22/08/2014 21:47:15] Bob Dyller has logged out.
+[22/08/2014 21:47:16] Palyy has logged in.
+[22/08/2014 21:47:17] Bob Dyller has logged in.
+[22/08/2014 21:47:36] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[22/08/2014 21:47:50] Biozard Zikao has logged out.
+[22/08/2014 21:47:56] Biozard Zikao has logged in.
+[22/08/2014 21:48:21] Kaiozinho has logged out.
+[22/08/2014 21:48:23] Kaiozinho has logged in.
+[22/08/2014 21:48:26] Palyy has logged out.
+[22/08/2014 21:48:28] Palyy has logged in.
+[22/08/2014 21:48:38] Biozard Zikao has logged out.
+[22/08/2014 21:48:39] Palyy has logged out.
+[22/08/2014 21:48:40] Palyy has logged in.
+[22/08/2014 21:48:41] Biozard Zikao has logged in.
+[22/08/2014 21:48:56] Palyy has logged out.
+[22/08/2014 21:49:12] Kaiozinho has logged out.
+[22/08/2014 21:49:38] Palyy has logged in.
+[22/08/2014 21:49:43] Kaiozinho has logged in.
+[22/08/2014 21:50:01] Palyy has logged out.
+[22/08/2014 21:50:02] Palyy has logged in.
+[22/08/2014 21:50:39] Palyy has logged out.
+[22/08/2014 21:50:41] Palyy has logged in.
+[22/08/2014 21:50:41] Bob Dyller has logged out.
+[22/08/2014 21:50:43] Bob Dyller has logged in.
+[22/08/2014 21:50:52] Palyy has logged out.
+[22/08/2014 21:50:54] Palyy has logged in.
+[22/08/2014 21:51:08] Palyy has logged out.
+[22/08/2014 21:51:09] Palyy has logged in.
+[22/08/2014 21:51:41] Palyy has logged out.
+[22/08/2014 21:51:43] Palyy has logged in.
+[22/08/2014 21:52:29] Palyy has logged out.
+[22/08/2014 21:52:31] Palyy has logged in.
+[22/08/2014 21:52:48] Palyy has logged out.
+[22/08/2014 21:52:49] Palyy has logged in.
+[22/08/2014 21:52:52] Palyy has logged out.
+[22/08/2014 21:53:15] > Saving server...
+[22/08/2014 21:53:18] > SAVE: Complete in 2.605 seconds using relational house storage.
+[22/08/2014 21:53:21] Kaiozinho has logged out.
+[22/08/2014 21:53:23] Pallyzinho has logged in.
+[22/08/2014 21:53:29] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 21:53:36] Druid Da Morte has logged in.
+[22/08/2014 21:53:59] > CLEAN: Removed 4214 items from 1797 tiles in 0.203 seconds.
+[22/08/2014 21:54:00] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 21:54:05] Pallyzinho has logged out.
+[22/08/2014 21:54:06] Kaiozinho has logged in.
+[22/08/2014 21:54:17] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[22/08/2014 21:56:16] Bob Dyller has logged out.
+[22/08/2014 21:56:17] Bob Dyller has logged in.
+[22/08/2014 21:57:52] Duff Maluko has logged in.
+[22/08/2014 21:58:03] Duff Maluko has logged out.
+[22/08/2014 21:58:25] Druid Da Morte has logged out.
+[22/08/2014 21:58:27] Druid Da Morte has logged in.
+[22/08/2014 21:59:02] Pally Brisado has logged out.
+[22/08/2014 21:59:49] Kaiozinho has logged out.
+[22/08/2014 21:59:50] Kaiozinho has logged in.
+[22/08/2014 22:00:04] Honda has logged in.
+[22/08/2014 22:00:25] Bob Dyller has logged out.
+[22/08/2014 22:00:27] Bomb has logged in.
+[22/08/2014 22:00:33] Bomb has logged out.
+[22/08/2014 22:00:55] Druid Da Morte has logged out.
+[22/08/2014 22:00:58] Druid Da Morte has logged in.
+[22/08/2014 22:00:58] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[22/08/2014 22:01:15] Kaiozinho has logged out.
+[22/08/2014 22:01:16] 
+[22/08/2014 22:01:16] Lua Script Error: [CreatureScript Interface] 
+[22/08/2014 22:01:16] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[22/08/2014 22:01:16] 
+[22/08/2014 22:01:16] luaGetCreatureName(). Creature not found
+[22/08/2014 22:01:16] 
+[22/08/2014 22:01:16] Lua Script Error: [CreatureScript Interface] 
+[22/08/2014 22:01:17] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[22/08/2014 22:01:17] 
+[22/08/2014 22:01:17] luaGetCreatureName(). Creature not found
+[22/08/2014 22:01:17] Druid Da Morte has logged out.
+[22/08/2014 22:01:19] Kaiozinho has logged in.
+[22/08/2014 22:01:20] Druid Da Morte has logged in.
+[22/08/2014 22:01:27] Druid Da Morte has logged out.
+[22/08/2014 22:01:30] Druid Da Morte has logged in.
+[22/08/2014 22:01:35] Kaiozinho has logged out.
+[22/08/2014 22:01:35] Druid Da Morte has logged out.
+[22/08/2014 22:01:38] Kaiozinho has logged in.
+[22/08/2014 22:01:53] Soufoda has logged in.
+[22/08/2014 22:02:48] Soufoda has logged out.
+[22/08/2014 22:02:49] Nois Que Voa Bruxao has logged in.
+[22/08/2014 22:02:56] Biozard Zikao has logged out.
+[22/08/2014 22:02:59] Biozard Zikao has logged in.
+[22/08/2014 22:03:24] Nois Que Voa Bruxao has logged out.
+[22/08/2014 22:03:35] Druid Da Morte has logged in.
+[22/08/2014 22:05:18] Druid Da Morte has logged out.
+[22/08/2014 22:05:39] Soufoda has logged in.
+[22/08/2014 22:06:12] Soufoda has logged out.
+[22/08/2014 22:06:18] Druid Da Morte has logged in.
+[22/08/2014 22:07:39] > Broadcasted message: "Para comprar bless digite !bless".
+[22/08/2014 22:09:27] Underdown has logged in.
+[22/08/2014 22:10:00] Druid Da Morte has logged out.
+[22/08/2014 22:10:10] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 22:10:16] Druid Da Morte has logged in.
+[22/08/2014 22:10:41] > CLEAN: Removed 2913 items from 1459 tiles in 0.257 seconds.
+[22/08/2014 22:10:41] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 22:10:45] Kaiozinho has logged out.
+[22/08/2014 22:10:48] Kaiozinho has logged in.
+[22/08/2014 22:11:05] Account Manager has logged in.
+[22/08/2014 22:11:09] Account Manager has logged out.
+[22/08/2014 22:11:10] Porra Manw has logged in.
+[22/08/2014 22:11:23] Duff Maluko has logged in.
+[22/08/2014 22:11:28] Biozard Zikao has logged out.
+[22/08/2014 22:11:31] Biozard Zikao has logged in.
+[22/08/2014 22:11:38] Druid Da Morte has logged out.
+[22/08/2014 22:11:39] Druid Da Morte has logged in.
+[22/08/2014 22:12:38] Duff Maluko has logged out.
+[22/08/2014 22:14:20] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/08/2014 22:14:55] Druid Da Morte has logged out.
+[22/08/2014 22:15:36] Kaiozinho has logged out.
+[22/08/2014 22:15:53] Pally Brisado has logged in.
+[22/08/2014 22:16:19] Pally Brisado has logged out.
+[22/08/2014 22:17:59] Druidzerah Mythus has logged out.
+[22/08/2014 22:18:11] Pally Brisado has logged in.
+[22/08/2014 22:19:37] Druidzerah Mythus has logged in.
+[22/08/2014 22:21:01] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/08/2014 22:22:22] Biozard Zikao has logged out.
+[22/08/2014 22:22:25] Biozard Zikao has logged in.
+[22/08/2014 22:24:40] Biozard Zikao has logged out.
+[22/08/2014 22:24:44] Biozard Zikao has logged in.
+[22/08/2014 22:26:15] Mata Pally has logged out.
+[22/08/2014 22:26:36] > Saving server...
+[22/08/2014 22:26:38] > SAVE: Complete in 2.611 seconds using relational house storage.
+[22/08/2014 22:26:51] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 22:27:21] > CLEAN: Removed 6885 items from 2503 tiles in 0.279 seconds.
+[22/08/2014 22:27:22] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 22:27:29] Porra Manw has logged out.
+[22/08/2014 22:27:42] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[22/08/2014 22:27:57] Biozard Zikao has logged out.
+[22/08/2014 22:28:05] Account Manager has logged in.
+[22/08/2014 22:29:03] Account Manager has logged out.
+[22/08/2014 22:29:06] Account Manager has logged in.
+[22/08/2014 22:29:18] Juninhosza has logged in.
+[22/08/2014 22:30:28] Account Manager has logged out.
+[22/08/2014 22:30:31] Account Manager has logged in.
+[22/08/2014 22:31:00] Duff Maluko has logged in.
+[22/08/2014 22:31:15] Account Manager has logged out.
+[22/08/2014 22:31:18] Account Manager has logged in.
+[22/08/2014 22:31:45] Account Manager has logged out.
+[22/08/2014 22:31:45] Porra Manw has logged in.
+[22/08/2014 22:31:47] Account Manager has logged in.
+[22/08/2014 22:32:24] Account Manager has logged out.
+[22/08/2014 22:32:27] Account Manager has logged in.
+[22/08/2014 22:32:57] Account Manager has logged out.
+[22/08/2014 22:33:34] Account Manager has logged in.
+[22/08/2014 22:34:23] Honda has logged out.
+[22/08/2014 22:34:23] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/08/2014 22:34:25] Account Manager has logged out.
+[22/08/2014 22:34:42] Kinna Fera has logged in.
+[22/08/2014 22:35:22] Honda has logged in.
+[22/08/2014 22:35:23] Magezinho Sapeca has logged in.
+[22/08/2014 22:35:51] Lallana has logged in.
+[22/08/2014 22:36:19] Lallana has logged out.
+[22/08/2014 22:36:39] Pally Brisado has logged out.
+[22/08/2014 22:36:41] Underdown has logged out.
+[22/08/2014 22:36:44] Underdown has logged in.
+[22/08/2014 22:41:04] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[22/08/2014 22:41:35] Magezinho Sapeca has logged out.
+[22/08/2014 22:41:36] Palazinho has logged in.
+[22/08/2014 22:42:29] Knightzinho has logged in.
+[22/08/2014 22:43:11] Magezinho Sapeca has logged in.
+[22/08/2014 22:43:32] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 22:43:45] Menina Mal has logged in.
+[22/08/2014 22:44:02] Juninhosza has logged out.
+[22/08/2014 22:44:03] > CLEAN: Removed 3346 items from 2146 tiles in 0.285 seconds.
+[22/08/2014 22:44:03] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 22:44:04] Juninhosza has logged in.
+[22/08/2014 22:47:45] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[22/08/2014 22:48:05] Porra Manw has logged out.
+[22/08/2014 22:49:10] 
+[22/08/2014 22:49:10] Lua Script Error: [Spell Interface] 
+[22/08/2014 22:49:10] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 22:49:10] 
+[22/08/2014 22:49:11] data/spells/scripts/animate.lua:12: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 22:49:11] stack traceback:
+[22/08/2014 22:49:11] 	data/spells/scripts/animate.lua:12: in function <data/spells/scripts/animate.lua:1>
+[22/08/2014 22:49:12] 	(tail call): ?
+[22/08/2014 22:49:30] 
+[22/08/2014 22:49:30] Lua Script Error: [Spell Interface] 
+[22/08/2014 22:49:30] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 22:49:30] 
+[22/08/2014 22:49:31] data/spells/scripts/animate.lua:23: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 22:49:31] stack traceback:
+[22/08/2014 22:49:32] 	data/spells/scripts/animate.lua:23: in function <data/spells/scripts/animate.lua:17>
+[22/08/2014 22:49:40] 
+[22/08/2014 22:49:40] Lua Script Error: [Spell Interface] 
+[22/08/2014 22:49:40] data/spells/scripts/animate.lua:onCastSpell
+[22/08/2014 22:49:41] 
+[22/08/2014 22:49:41] data/spells/scripts/animate.lua:23: attempt to call global 'getThingPosition' (a nil value)
+[22/08/2014 22:49:41] stack traceback:
+[22/08/2014 22:49:42] 	data/spells/scripts/animate.lua:23: in function <data/spells/scripts/animate.lua:17>
+[22/08/2014 22:51:31] Kinna Fera has logged out.
+[22/08/2014 22:52:09] Porra Manw has logged in.
+[22/08/2014 22:53:01] Sorczinho Sapeca has logged out.
+[22/08/2014 22:53:03] Sorczinho Sapeca has logged in.
+[22/08/2014 22:53:14] Sorczinho Sapeca has logged out.
+[22/08/2014 22:53:37] Sorczinho Sapeca has logged in.
+[22/08/2014 22:53:47] Magezinho Sapeca has logged out.
+[22/08/2014 22:53:49] Magezinho Sapeca has logged in.
+[22/08/2014 22:54:26] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[22/08/2014 22:55:47] Mateus has logged in.
+[22/08/2014 22:55:50] > Saving server...
+[22/08/2014 22:55:56] > SAVE: Complete in 5.072 seconds using relational house storage.
+[22/08/2014 22:58:14] 
+[22/08/2014 22:58:15] Lua Script Error: [Action Interface] 
+[22/08/2014 22:58:15] data/actions/scripts/upgrade.lua:onUse
+[22/08/2014 22:58:15] 
+[22/08/2014 22:58:15] luaGetItemAttack(). Item not found
+[22/08/2014 22:58:16] 
+[22/08/2014 22:58:16] Lua Script Error: [Action Interface] 
+[22/08/2014 22:58:16] data/actions/scripts/upgrade.lua:onUse
+[22/08/2014 22:58:17] 
+[22/08/2014 22:58:17] data/actions/scripts/upgrade.lua:27: attempt to compare number with boolean
+[22/08/2014 22:58:17] stack traceback:
+[22/08/2014 22:58:17] 	data/actions/scripts/upgrade.lua:27: in function <data/actions/scripts/upgrade.lua:18>
+[22/08/2014 22:58:37] 
+[22/08/2014 22:58:37] Lua Script Error: [Action Interface] 
+[22/08/2014 22:58:37] data/actions/scripts/upgrade.lua:onUse
+[22/08/2014 22:58:38] 
+[22/08/2014 22:58:38] luaGetItemAttack(). Item not found
+[22/08/2014 22:58:38] 
+[22/08/2014 22:58:38] Lua Script Error: [Action Interface] 
+[22/08/2014 22:58:38] data/actions/scripts/upgrade.lua:onUse
+[22/08/2014 22:58:39] 
+[22/08/2014 22:58:39] data/actions/scripts/upgrade.lua:27: attempt to compare number with boolean
+[22/08/2014 22:58:39] stack traceback:
+[22/08/2014 22:58:40] 	data/actions/scripts/upgrade.lua:27: in function <data/actions/scripts/upgrade.lua:18>
+[22/08/2014 22:58:56] Palazinho has logged out.
+[22/08/2014 22:59:09] > Saving server...
+[22/08/2014 22:59:13] > SAVE: Complete in 3.408 seconds using relational house storage.
+[22/08/2014 22:59:24] 
+[22/08/2014 22:59:24] Lua Script Error: [Action Interface] 
+[22/08/2014 22:59:24] data/actions/scripts/upgrade.lua:onUse
+[22/08/2014 22:59:25] 
+[22/08/2014 22:59:25] luaGetItemAttack(). Item not found
+[22/08/2014 22:59:25] 
+[22/08/2014 22:59:25] Lua Script Error: [Action Interface] 
+[22/08/2014 22:59:25] data/actions/scripts/upgrade.lua:onUse
+[22/08/2014 22:59:26] 
+[22/08/2014 22:59:26] data/actions/scripts/upgrade.lua:27: attempt to compare number with boolean
+[22/08/2014 22:59:26] stack traceback:
+[22/08/2014 22:59:27] 	data/actions/scripts/upgrade.lua:27: in function <data/actions/scripts/upgrade.lua:18>
+[22/08/2014 22:59:32] Juninhosza has logged out.
+[22/08/2014 22:59:36] Juninhosza has logged in.
+[22/08/2014 22:59:39] Knightzinho has logged out.
+[22/08/2014 22:59:57] > Saving server...
+[22/08/2014 23:00:00] > SAVE: Complete in 3.149 seconds using relational house storage.
+[22/08/2014 23:00:13] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 23:00:44] > CLEAN: Removed 607 items from 535 tiles in 0.499 seconds.
+[22/08/2014 23:00:44] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 23:01:07] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[22/08/2014 23:02:51] Sorczinho Sapeca has logged out.
+[22/08/2014 23:02:52] Sorczinho Sapeca has logged in.
+[22/08/2014 23:03:30] 
+[22/08/2014 23:03:30] Lua Script Error: [Action Interface] 
+[22/08/2014 23:03:30] data/actions/scripts/upgrade.lua:onUse
+[22/08/2014 23:03:30] 
+[22/08/2014 23:03:31] data/actions/scripts/upgrade.lua:27: attempt to call field 'get' (a nil value)
+[22/08/2014 23:03:31] stack traceback:
+[22/08/2014 23:03:31] 	data/actions/scripts/upgrade.lua:27: in function <data/actions/scripts/upgrade.lua:18>
+[22/08/2014 23:03:35] 
+[22/08/2014 23:03:35] Lua Script Error: [Action Interface] 
+[22/08/2014 23:03:36] data/actions/scripts/upgrade.lua:onUse
+[22/08/2014 23:03:36] 
+[22/08/2014 23:03:36] data/actions/scripts/upgrade.lua:27: attempt to call field 'get' (a nil value)
+[22/08/2014 23:03:37] stack traceback:
+[22/08/2014 23:03:37] 	data/actions/scripts/upgrade.lua:27: in function <data/actions/scripts/upgrade.lua:18>
+[22/08/2014 23:04:08] Juninhosza has logged out.
+[22/08/2014 23:04:27] Mateus has logged out.
+[22/08/2014 23:04:28] Mateus has logged in.
+[22/08/2014 23:07:48] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/08/2014 23:07:52] Underdown has logged out.
+[22/08/2014 23:08:13] Mateus has logged out.
+[22/08/2014 23:09:18] Honda has logged out.
+[22/08/2014 23:09:19] Porra Manw has logged out.
+[22/08/2014 23:09:20] Honda has logged in.
+[22/08/2014 23:09:30] Duff Maluko has logged out.
+[22/08/2014 23:09:32] Duff Maluko has logged in.
+[22/08/2014 23:09:46] Maluko duff has logged in.
+[22/08/2014 23:13:31] > Saving server...
+[22/08/2014 23:13:34] > SAVE: Complete in 2.434 seconds using relational house storage.
+[22/08/2014 23:13:58] Porra Manw has logged in.
+[22/08/2014 23:14:29] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[22/08/2014 23:16:54] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 23:17:16] Underdown has logged in.
+[22/08/2014 23:17:25] > CLEAN: Removed 135 items from 138 tiles in 0.172 seconds.
+[22/08/2014 23:17:25] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 23:18:45] Druidzerah Mythus has logged out.
+[22/08/2014 23:18:48] Druidzerah Mythus has logged in.
+[22/08/2014 23:21:10] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[22/08/2014 23:21:33] Porra Manw has logged out.
+[22/08/2014 23:22:01] Druid Da Morte has logged in.
+[22/08/2014 23:22:49] Honda has logged out.
+[22/08/2014 23:22:51] Honda has logged in.
+[22/08/2014 23:26:29] Account Manager has logged in.
+[22/08/2014 23:26:30] Account Manager has logged out.
+[22/08/2014 23:26:35] Mauricio has logged in.
+[22/08/2014 23:26:52] Rushonoinvisiblehur has logged in.
+[22/08/2014 23:27:09] Duff Maluko has logged out.
+[22/08/2014 23:27:10] Duff Maluko has logged in.
+[22/08/2014 23:27:51] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[22/08/2014 23:31:28] Honda has logged out.
+[22/08/2014 23:33:18] > Saving server...
+[22/08/2014 23:33:21] > SAVE: Complete in 2.839 seconds using relational house storage.
+[22/08/2014 23:33:35] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 23:34:06] > CLEAN: Removed 1159 items from 741 tiles in 0.187 seconds.
+[22/08/2014 23:34:06] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 23:34:32] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[22/08/2014 23:37:49] Maluko duff has logged out.
+[22/08/2014 23:38:00] Maluko duff has logged in.
+[22/08/2014 23:39:37] Sorczinho Sapeca has logged out.
+[22/08/2014 23:39:37] 
+[22/08/2014 23:39:37] Lua Script Error: [Spell Interface] 
+[22/08/2014 23:39:37] in a timer event called from: 
+[22/08/2014 23:39:37] data/spells/scripts/anti-materia.lua:onCastSpell
+[22/08/2014 23:39:38] 
+[22/08/2014 23:39:38] luaDoCombat(). Creature not found
+[22/08/2014 23:39:38] 
+[22/08/2014 23:39:38] Lua Script Error: [Spell Interface] 
+[22/08/2014 23:39:38] in a timer event called from: 
+[22/08/2014 23:39:38] data/spells/scripts/anti-materia.lua:onCastSpell
+[22/08/2014 23:39:38] 
+[22/08/2014 23:39:38] luaDoCombat(). Creature not found
+[22/08/2014 23:39:39] 
+[22/08/2014 23:39:39] Lua Script Error: [Spell Interface] 
+[22/08/2014 23:39:39] in a timer event called from: 
+[22/08/2014 23:39:39] data/spells/scripts/anti-materia.lua:onCastSpell
+[22/08/2014 23:39:39] 
+[22/08/2014 23:39:39] luaDoCombat(). Creature not found
+[22/08/2014 23:39:40] 
+[22/08/2014 23:39:40] Lua Script Error: [Spell Interface] 
+[22/08/2014 23:39:40] in a timer event called from: 
+[22/08/2014 23:39:40] data/spells/scripts/anti-materia.lua:onCastSpell
+[22/08/2014 23:39:40] 
+[22/08/2014 23:39:40] luaDoCombat(). Creature not found
+[22/08/2014 23:39:40] 
+[22/08/2014 23:39:40] Lua Script Error: [Spell Interface] 
+[22/08/2014 23:39:41] in a timer event called from: 
+[22/08/2014 23:39:41] data/spells/scripts/anti-materia.lua:onCastSpell
+[22/08/2014 23:39:41] 
+[22/08/2014 23:39:41] luaDoCombat(). Creature not found
+[22/08/2014 23:39:41] 
+[22/08/2014 23:39:41] Lua Script Error: [Spell Interface] 
+[22/08/2014 23:39:42] in a timer event called from: 
+[22/08/2014 23:39:42] data/spells/scripts/anti-materia.lua:onCastSpell
+[22/08/2014 23:39:42] 
+[22/08/2014 23:39:42] luaDoCombat(). Creature not found
+[22/08/2014 23:39:50] Sorczinho Sapeca has logged in.
+[22/08/2014 23:40:19] Underdown has logged out.
+[22/08/2014 23:40:39] Duff Maluko has logged out.
+[22/08/2014 23:40:42] Duff Maluko has logged in.
+[22/08/2014 23:41:13] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/08/2014 23:43:02] Account Manager has logged in.
+[22/08/2014 23:43:05] Account Manager has logged out.
+[22/08/2014 23:43:06] Meele Pally has logged in.
+[22/08/2014 23:43:36] Rushonoinvisiblehur has logged out.
+[22/08/2014 23:43:37] Rushonoinvisiblehur has logged in.
+[22/08/2014 23:44:43] Meele Pally has logged out.
+[22/08/2014 23:44:44] Meele Pally has logged in.
+[22/08/2014 23:45:26] Rushonoinvisiblehur has logged out.
+[22/08/2014 23:45:28] Rushonoinvisiblehur has logged in.
+[22/08/2014 23:45:41] Maluko duff has logged out.
+[22/08/2014 23:45:42] Maluko duff has logged in.
+[22/08/2014 23:45:56] Magezinho Sapeca has logged out.
+[22/08/2014 23:45:57] Meele Pally has logged out.
+[22/08/2014 23:45:59] Meele Pally has logged in.
+[22/08/2014 23:46:29] Pally Da Morte has logged in.
+[22/08/2014 23:46:30] Pally Da Morte has logged out.
+[22/08/2014 23:46:36] Kaiozinho has logged in.
+[22/08/2014 23:46:45] Account Manager has logged in.
+[22/08/2014 23:46:46] Account Manager has logged out.
+[22/08/2014 23:46:50] Magezinho Sapeca has logged in.
+[22/08/2014 23:47:33] Kaiozinho has logged out.
+[22/08/2014 23:47:36] Kaiozinho has logged in.
+[22/08/2014 23:47:54] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[22/08/2014 23:48:46] Mauricio has logged out.
+[22/08/2014 23:48:48] Mauricio has logged in.
+[22/08/2014 23:49:10] Mauricio has logged out.
+[22/08/2014 23:49:11] Mauricio has logged in.
+[22/08/2014 23:49:51] Mauricio has logged out.
+[22/08/2014 23:49:52] Mauricio has logged in.
+[22/08/2014 23:50:12] Mauricio has logged out.
+[22/08/2014 23:50:14] Mauricio has logged in.
+[22/08/2014 23:50:16] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/08/2014 23:50:47] > CLEAN: Removed 167 items from 187 tiles in 0.172 seconds.
+[22/08/2014 23:50:47] > Broadcasted message: "Map Cleaned.".
+[22/08/2014 23:51:16] Maluko duff has logged out.
+[22/08/2014 23:51:17] Maluko duff has logged in.
+[22/08/2014 23:51:25] Maluko duff has logged out.
+[22/08/2014 23:51:38] Mauricio has logged out.
+[22/08/2014 23:51:40] Mauricio has logged in.
+[22/08/2014 23:51:52] Porra Manw has logged in.
+[22/08/2014 23:52:23] Kaiozinho has logged out.
+[22/08/2014 23:52:25] Kaiozinho has logged in.
+[22/08/2014 23:52:53] Duff Maluko has logged out.
+[22/08/2014 23:52:55] Kaiozinho has logged out.
+[22/08/2014 23:52:56] Kaiozinho has logged in.
+[22/08/2014 23:53:01] Mauricio has logged out.
+[22/08/2014 23:53:02] Mauricio has logged in.
+[22/08/2014 23:53:19] Meele Pally has logged out.
+[22/08/2014 23:53:21] Meele Pally has logged in.
+[22/08/2014 23:53:35] Druid Da Morte has logged out.
+[22/08/2014 23:53:36] Kaiozinho has logged out.
+[22/08/2014 23:53:37] Druid Da Morte has logged in.
+[22/08/2014 23:53:38] Kaiozinho has logged in.
+[22/08/2014 23:53:52] Sorczinho Sapeca has logged out.
+[22/08/2014 23:53:53] Mauricio has logged out.
+[22/08/2014 23:53:55] Mauricio has logged in.
+[22/08/2014 23:54:04] Rushonoinvisiblehur has logged out.
+[22/08/2014 23:54:06] Rushonoinvisiblehur has logged in.
+[22/08/2014 23:54:07] Meele Pally has logged out.
+[22/08/2014 23:54:09] Meele Pally has logged in.
+[22/08/2014 23:54:17] Meele Pally has logged out.
+[22/08/2014 23:54:18] Meele Pally has logged in.
+[22/08/2014 23:54:21] Sorczinho Sapeca has logged in.
+[22/08/2014 23:54:35] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/08/2014 23:57:15] Meele Pally has logged out.
+[22/08/2014 23:57:17] Meele Pally has logged in.
+[22/08/2014 23:57:25] Druid Da Morte has logged out.
+[22/08/2014 23:57:26] Druid Da Morte has logged in.
+[22/08/2014 23:57:29] Meele Pally has logged out.
+[22/08/2014 23:57:30] Meele Pally has logged in.
+[22/08/2014 23:58:52] Meele Pally has logged out.
+[22/08/2014 23:59:03] Druidzerah Mythus has logged out.
+[22/08/2014 23:59:35] Rushonoinvisiblehur has logged out.
+[22/08/2014 23:59:37] Rushonoinvisiblehur has logged in.

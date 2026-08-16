@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<monster name="The Count" nameDescription="The Count" experience="9999999955" speed="500" race="blood">
+  <health now="10400000" max="10400000"/>
+  <look type="287" corpse="3058"/>
+  <strategy attack="10000" defense="500"/>
+  <targetchange speed="10" chance="100"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="100"/>
+    <flag targetdistance="1"/>
+    <flag skull="4"/>
+  </flags>
+  <attacks>
+    <attack name="physical" interval="900" chance="100" min="-60000" max="-65000" range="1">
+    </attack>
+    <attack name="death" interval="900" chance="100" min="-50000" max="-55000" range="2">
+      <attribute key="areaEffect" value="mortarea"/>
+      <attribute key="shootEffect" value="suddendeath"/>
+    </attack>
+  </attacks>
+  <defenses defense="45" armor="10"/>
+  <immunities>
+    <immunity name="outfit"/>
+    <immunity name="invisible"/>
+    <immunity name="poison"/>
+    <immunity name="death"/>
+    <immunity name="fire"/>
+  </immunities>
+  <loot>
+    <item id="2160" countmax="1" chance="99999"/>
+    <item id="2000" countmax="21" chance="99999999999"/>
+    <item id="2459" countmax="21" chance="99999999999"/>
+  </loot>
+</monster>

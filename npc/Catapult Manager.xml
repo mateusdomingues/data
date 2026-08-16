@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<npc name="Catapult Manager" script="data/npc/scripts/boat_mystic.lua" access="3" walkinterval="0" floorchange="0">
+ 	<look type="247" head="20" body="30" legs="40" feet="50"/>
+<parameters>
+      <parameter key="module_travel" value="1"/>
+		<parameter key="message_greet" value="Blz |PLAYERNAME|. Quer ir para onde Demon3, Demon, Dragon Lord, Warlock2, Warlock, Dragon, Hydra2, Hydra, Giant Spider, Orc, Undead Dragon, Behemoth, Pharao, Hand of Cursed Fate, Human Fortress?"/>
+        <parameter key="travel_destinations" value="demon3,356,45,7,100;demon2,76,199,8,100;demon,146,94,7,100;dragon lord,81,146,7,100;warlock2,182,120,10,100;warlock,137,90,6,100;dragon,112,107,6,100;hydra2,174,173,7,100;hydra,129,197,7,100;giant spider,99,109,6,100;orc,140,127,7,100;undead dragon,155,128,7,100;behemoth,158,112,7,100;pharao,264,122,8,100;sea serpent,193,420,7,100;hand of cursed fate,390,119,8,100;human fortress,68,358,7,100"/>
+</parameters>
+</npc>

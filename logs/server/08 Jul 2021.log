@@ -1,0 +1,159 @@
+[08/07/2021 13:02:03] The Forgotten Server, version 0.3.4 (Crying Damson)
+[08/07/2021 13:02:03] Sever Criado Por Alissow e Comedinha.
+[08/07/2021 13:02:03] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[08/07/2021 13:02:03] Bom Jogo!!!
+[08/07/2021 13:02:03] 
+[08/07/2021 13:02:03] >> Debugging: nothing.
+[08/07/2021 13:02:03] >> Checking software version... failed - could not parse remote file (are you connected to the internet?)
+[08/07/2021 13:02:04] 
+[08/07/2021 13:02:04] >> Loading config (config.lua)
+[08/07/2021 13:02:04] > Using plaintext passwords
+[08/07/2021 13:02:04] >> Loading RSA key
+[08/07/2021 13:02:04] >> Starting SQL connection
+[08/07/2021 13:02:04] >> Running Database Manager
+[08/07/2021 13:02:04] > Optimized database.
+[08/07/2021 13:02:04] >> Loading items
+[08/07/2021 13:02:04] >> Loading groups
+[08/07/2021 13:02:04] >> Loading vocations
+[08/07/2021 13:02:04] >> Loading script systems
+[08/07/2021 13:02:04] >> Loading chat channels
+[08/07/2021 13:02:04] >> Loading outfits
+[08/07/2021 13:02:05] >> Loading experience stages
+[08/07/2021 13:02:05] >> Loading monsters
+[08/07/2021 13:02:06] >> Loading map and spawns...
+[08/07/2021 13:02:07] > Map size: 65000x65000.
+[08/07/2021 13:02:07] > Map descriptions: 
+[08/07/2021 13:02:07] Saved with Remere's Map Editor 2.2
+[08/07/2021 13:02:07] No map description available.
+[08/07/2021 13:02:08] Duplicate uniqueId 2407
+[08/07/2021 13:02:10] > Map loading time: 3.407 seconds.
+[08/07/2021 13:02:10] > Data loading time: 0.516 seconds.
+[08/07/2021 13:02:10] > Unserialization time for houses: 0.015 seconds.
+[08/07/2021 13:02:25] > Unserialization time for map: 14.207 seconds.
+[08/07/2021 13:02:25] >> Checking world type... PvP
+[08/07/2021 13:02:25] >> Initializing game state modules and registering services...
+[08/07/2021 13:02:25] > Global address: deathpvp.ddns.net
+[08/07/2021 13:02:25] > Local ports:
+[08/07/2021 13:02:25] 7171	7172	
+[08/07/2021 13:02:25] >> All modules were loaded, server starting up...
+[08/07/2021 13:02:25] >> OT Death server Online!
+[08/07/2021 13:02:25] 
+[08/07/2021 13:10:25] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[08/07/2021 13:12:07] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[08/07/2021 13:12:08] Account Manager has logged in.
+[08/07/2021 13:12:13] Account Manager has logged out.
+[08/07/2021 13:18:45] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/07/2021 13:18:46] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/07/2021 13:19:15] > CLEAN: Removed 0 items from 11 tiles in 0.015 seconds.
+[08/07/2021 13:19:15] > Broadcasted message: "Map Cleaned.".
+[08/07/2021 13:25:30] > Saving server...
+[08/07/2021 13:25:31] > SAVE: Complete in 0.66 seconds using relational house storage.
+[08/07/2021 13:27:07] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/07/2021 13:35:26] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/07/2021 13:35:28] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[08/07/2021 13:35:56] > CLEAN: Removed 0 items from 0 tiles in 0.016 seconds.
+[08/07/2021 13:35:56] > Broadcasted message: "Map Cleaned.".
+[08/07/2021 13:43:49] > Broadcasted message: "Para comprar bless digite !bless".
+[08/07/2021 13:48:51] > Saving server...
+[08/07/2021 13:48:52] > SAVE: Complete in 0.541 seconds using relational house storage.
+[08/07/2021 13:52:07] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/07/2021 13:52:10] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/07/2021 13:52:37] > CLEAN: Removed 0 items from 0 tiles in 0.025 seconds.
+[08/07/2021 13:52:37] > Broadcasted message: "Map Cleaned.".
+[08/07/2021 14:00:31] > Broadcasted message: "Para comprar bless digite !bless".
+[08/07/2021 14:08:48] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/07/2021 14:08:52] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/07/2021 14:09:18] > CLEAN: Removed 0 items from 0 tiles in 0.026 seconds.
+[08/07/2021 14:09:18] > Broadcasted message: "Map Cleaned.".
+[08/07/2021 14:09:46] Jean has logged in.
+[08/07/2021 14:10:21] Jean has logged out.
+[08/07/2021 14:12:12] > Saving server...
+[08/07/2021 14:12:13] > SAVE: Complete in 0.609 seconds using relational house storage.
+[08/07/2021 14:17:13] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/07/2021 14:25:29] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/07/2021 14:25:34] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/07/2021 14:25:59] > CLEAN: Removed 0 items from 0 tiles in 0.016 seconds.
+[08/07/2021 14:25:59] > Broadcasted message: "Map Cleaned.".
+[08/07/2021 14:33:55] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[08/07/2021 14:35:33] > Saving server...
+[08/07/2021 14:35:34] > SAVE: Complete in 0.5 seconds using relational house storage.
+[08/07/2021 14:42:10] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/07/2021 14:42:16] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/07/2021 14:42:40] > CLEAN: Removed 0 items from 0 tiles in 0.016 seconds.
+[08/07/2021 14:42:40] > Broadcasted message: "Map Cleaned.".
+[08/07/2021 15:51:46] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/07/2021 15:51:46] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/07/2021 15:51:51] > Saving server...
+[08/07/2021 15:51:51] > SAVE: Complete in 0.515 seconds using relational house storage.
+[08/07/2021 15:52:16] > CLEAN: Removed 0 items from 0 tiles in 0.016 seconds.
+[08/07/2021 15:52:16] > Broadcasted message: "Map Cleaned.".
+[08/07/2021 15:52:20] Account Manager has logged in.
+[08/07/2021 15:52:28] Account Manager has logged out.
+[08/07/2021 16:00:07] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[08/07/2021 16:08:27] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/07/2021 16:08:28] > Broadcasted message: "Para comprar bless digite !bless".
+[08/07/2021 16:08:57] > CLEAN: Removed 0 items from 0 tiles in 0.015 seconds.
+[08/07/2021 16:08:57] > Broadcasted message: "Map Cleaned.".
+[08/07/2021 16:15:12] > Saving server...
+[08/07/2021 16:15:12] > SAVE: Complete in 0.515 seconds using relational house storage.
+[08/07/2021 16:16:49] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/07/2021 16:41:55] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/07/2021 16:41:56] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/07/2021 16:42:00] > Saving server...
+[08/07/2021 16:42:01] > SAVE: Complete in 0.516 seconds using relational house storage.
+[08/07/2021 16:42:26] > CLEAN: Removed 0 items from 0 tiles in 0.015 seconds.
+[08/07/2021 16:42:26] > Broadcasted message: "Map Cleaned.".
+[08/07/2021 16:50:16] > Broadcasted message: "Para comprar bless digite !bless".
+[08/07/2021 16:58:36] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/07/2021 16:58:37] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[08/07/2021 16:59:06] > CLEAN: Removed 0 items from 0 tiles in 0.015 seconds.
+[08/07/2021 16:59:06] > Broadcasted message: "Map Cleaned.".
+[08/07/2021 17:05:21] > Saving server...
+[08/07/2021 17:05:21] > SAVE: Complete in 0.536 seconds using relational house storage.
+[08/07/2021 17:06:58] > Broadcasted message: "Para comprar bless digite !bless".
+[08/07/2021 17:15:17] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/07/2021 17:15:19] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[08/07/2021 17:15:47] > CLEAN: Removed 0 items from 0 tiles in 0.028 seconds.
+[08/07/2021 17:15:47] > Broadcasted message: "Map Cleaned.".
+[08/07/2021 17:23:40] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/07/2021 17:28:42] > Saving server...
+[08/07/2021 17:28:42] > SAVE: Complete in 0.541 seconds using relational house storage.
+[08/07/2021 17:31:58] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/07/2021 17:32:01] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/07/2021 17:32:28] > CLEAN: Removed 0 items from 0 tiles in 0.024 seconds.
+[08/07/2021 17:32:28] > Broadcasted message: "Map Cleaned.".
+[08/07/2021 17:40:22] > Broadcasted message: "Para ver as noticias fale !notice".
+[08/07/2021 17:48:39] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/07/2021 17:48:43] > Broadcasted message: "Para comprar bless digite !bless".
+[08/07/2021 17:49:09] > CLEAN: Removed 0 items from 0 tiles in 0.027 seconds.
+[08/07/2021 17:49:09] > Broadcasted message: "Map Cleaned.".
+[08/07/2021 17:52:03] > Saving server...
+[08/07/2021 17:52:04] > SAVE: Complete in 0.549 seconds using relational house storage.
+[08/07/2021 17:57:04] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[08/07/2021 18:05:20] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[08/07/2021 18:05:25] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[08/07/2021 18:05:50] > CLEAN: Removed 0 items from 0 tiles in 0.03 seconds.
+[08/07/2021 18:05:50] > Broadcasted message: "Map Cleaned.".
+[08/07/2021 18:08:41] > Saving server...
+[08/07/2021 18:08:42] > SAVE: Complete in 0.625 seconds using relational house storage.
+[08/07/2021 18:08:42] Preparing to shutdown server..
+[08/07/2021 18:08:42] .
+[08/07/2021 18:08:42] Exiting
+[08/07/2021 20:53:07] The Forgotten Server, version 0.3.4 (Crying Damson)
+[08/07/2021 20:53:07] Sever Criado Por Alissow e Comedinha.
+[08/07/2021 20:53:07] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[08/07/2021 20:53:07] Bom Jogo!!!
+[08/07/2021 20:53:07] 
+[08/07/2021 20:53:07] >> Debugging: nothing.
+[08/07/2021 20:53:07] >> Checking software version... failed - could not parse remote file (are you connected to the internet?)
+[08/07/2021 20:53:07] 
+[08/07/2021 20:53:07] >> Loading config (config.lua)
+[08/07/2021 20:53:07] > Using plaintext passwords
+[08/07/2021 20:53:07] >> Loading RSA key
+[08/07/2021 20:53:07] >> Starting SQL connection
+[08/07/2021 20:53:07] >> Running Database Manager
+[08/07/2021 20:53:07] > Optimized database.
+[08/07/2021 20:53:07] >> Loading items
+[08/07/2021 20:53:07] [Error - Items::loadFromOtb] Another (client) version of items.otb is required.
+[08/07/2021 20:53:07] 
+[08/07/2021 20:53:07] > ERROR: Unable to load items (OTB)!

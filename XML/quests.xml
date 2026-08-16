@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quests>
+	<quest name="Demon Legs Quest" startstorageid="2007" startstoragevalue="1">
+		<mission name="Demon Legs Quest" storageid="2007" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Demon Legs Quest. Premio: 1 Demon Legs."/>
+		</mission>
+	</quest>
+	<quest name="Vip Acess" startstorageid="13540" startstoragevalue="1">
+		<mission name="Vip Acess" storageid="13540" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce recebeu seu acesso vip. Premio: Acesso as vantagens VIP."/>
+		</mission>
+	</quest>
+	<quest name="Super Anihi Quest" startstorageid="3737" startstoragevalue="1">
+		<mission name="Super Anihi Quest" storageid="3737" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Super Anihi Quest. Premio: Full Helmet of the Ancients ou Golden Boots ou Demon Legs."/>
+		</mission>
+	</quest>
+	<quest name="Bonus de Knight" startstorageid="3090" startstoragevalue="1">
+		<mission name="Bonus de Knight" storageid="3090" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce pegou o Bonus de Knight. Premio: Salamandar Shield, Knight Axe, Dragon Hammer e Dijin Blade."/>
+		</mission>
+	</quest>
+	<quest name="Bonus de Sorcerer" startstorageid="2721" startstoragevalue="1">
+		<mission name="Bonus de Knight" storageid="2721" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce pegou o Bonus de Sorcerer. Premio: Salamandar Shield, Magician Hat e Wand of DragonBreath."/>
+		</mission>
+	</quest>
+	<quest name="Bonus de Paladin" startstorageid="1355" startstoragevalue="1">
+		<mission name="Bonus de Paladin" storageid="1355" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce pegou o Bonus de Paladin. Premio: Crossbow, Magician Hat e Bolt."/>
+		</mission>
+	</quest>
+	<quest name="Bonus de Druid" startstorageid="2699" startstoragevalue="1">
+		<mission name="Bonus de Druid" storageid="2699" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce pegou o Bonus de Druid. Premio: Salamandar Shield, Magician Hat, Moonlight Rod."/>
+		</mission>
+	</quest>
+	<quest name="Anihi Quest" startstorageid="5010" startstoragevalue="1">
+		<mission name="Anihi Quest" storageid="5010" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Anihi Quest. Premio: Magic Sword ou Thunder Hammer ou Demon Armor ou Stonecutter Axe."/>
+		</mission>
+	</quest>
+	<quest name="Demon Helmet Quest" startstorageid="1001" startstoragevalue="1">
+		<mission name="Demon Helmet Quest" storageid="1001" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Demon Helmet Quest. Premio: Demon Helmet, Steel Boots e Demon Shield."/>
+		</mission>
+	</quest>
+	<quest name="Steel Boots Quest" startstorageid="2645" startstoragevalue="1">
+		<mission name="Steel Boots Quest" storageid="2645" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Steel Boots Quest. Premio: Steel Boots."/>
+		</mission>
+	</quest>
+	<quest name="Amazon Shield Quest" startstorageid="2645" startstoragevalue="1">
+		<mission name="Amazon Shield Quest" storageid="2645" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Amazon Shield Quest. Premio: Amazon Shield."/>
+		</mission>
+	</quest>
+	<quest name="Horned Helmet Quest" startstorageid="2496" startstoragevalue="1">
+		<mission name="Horned Helmet Quest" storageid="2496" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Horned Helmet Quest. Premio: Horned Helmet."/>
+		</mission>
+	</quest>
+	<quest name="Phantasm Quest" startstorageid="2496" startstoragevalue="1">
+		<mission name="Phantasm Quest" storageid="2496" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Phantasm Quest. Premio: Crown Legs e Dragon Shield."/>
+		</mission>
+	</quest>
+	<quest name="Crusader Helmet Quest" startstorageid="2496" startstoragevalue="1">
+		<mission name="Crusader Helmet Quest" storageid="2496" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Crusader Helmet Quest. Premio: Crusader Helmet."/>
+		</mission>
+	</quest>
+	<quest name="Blue Set Quest" startstorageid="7500" startstoragevalue="1">
+		<mission name="Blue Set Quest" storageid="7500" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Blue Set Quest. Premio: Blue Robe, Blue Legs, Boots of Haste e Mystic Turban."/>
+		</mission>
+	</quest>
+	<quest name="Pits of Inferno Quest" startstorageid="9876" startstoragevalue="1">
+		<mission name="Pits of Inferno Quest" storageid="9876" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Pits of Inferno Quest. Premio: Celestial Blade ou Brutal Cutter ou Staff of Starlight ou Sling Shot ou ThunderRock Hammer, Infernal Bolt, Soft Boots e outros."/>
+		</mission>
+	</quest>
+	<quest name="Shield of Honor Quest" startstorageid="2517" startstoragevalue="1">
+		<mission name="Shield of Honor Quest" storageid="2517" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Shield of Honor Quest. Premio: Shield of Honor."/>
+		</mission>
+	</quest>
+	<quest name="Orc Fortress Quest" startstorageid="2517" startstoragevalue="1">
+		<mission name="Orc Fortress Quest" storageid="2517" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Orc Fortress Quest. Premio: Fire Sword, Knight e Golden Armor."/>
+		</mission>
+	</quest>
+	<quest name="Remix Inquisition e Arena Quest Part 1" startstorageid="9500" startstoragevalue="1">
+		<mission name="Remix Inquisition e Arena Quest Part 1" storageid="9500" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Remix Inquisition e Arena Quest Part 1. Premio: BlackSteel Sword ou Headchopper ou Orcish Maul."/>
+		</mission>
+	</quest>
+	<quest name="Remix Inquisition e Arena Quest Part 2" startstorageid="9501" startstoragevalue="1">
+		<mission name="Remix Inquisition e Arena Quest Part 2" storageid="9501" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Remix Inquisition e Arena Quest Part 2. Premio: Mystic Blade ou Cranial Basher ou Heroic Axe."/>
+		</mission>
+	</quest>
+	<quest name="Remix Inquisition e Arena Quest Part 3" startstorageid="9502" startstoragevalue="1">
+		<mission name="Remix Inquisition e Arena Quest Part 3" storageid="9502" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Remix Inquisition e Arena Quest Part 3. Premio: Justice Seeker ou Royal Axe ou Blessed Sceptre."/>
+		</mission>
+	</quest>
+	<quest name="Remix Inquisition e Arena Quest Part 4" startstorageid="8200" startstoragevalue="1">
+		<mission name="Remix Inquisition e Arena Quest Part 4" storageid="8200" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Remix Inquisition e Arena Quest Part 4. Premio: Crossbow ou Bow ou Book ou Sword ou Club ou Axe ou Pala Armor ou Kina Armor ou Mage Armor."/>
+		</mission>
+	</quest>
+	<quest name="Dragon Lord Quest" startstorageid="2432" startstoragevalue="1">
+		<mission name="Dragon Lord Quest" storageid="2432" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Dragon Lord Quest. Premio: Fire Axe."/>
+		</mission>
+	</quest>
+	<quest name="Demodras Quest" startstorageid="2506" startstoragevalue="1">
+		<mission name="Demodras Quest" storageid="2506" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Demodras Quest. Premio: Dragon Scale Helmet."/>
+		</mission>
+	</quest>
+	<quest name="Hell Quest" startstorageid="2471" startstoragevalue="1">
+		<mission name="Hell Quest" storageid="2471" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Hell Quest. Premio: Golden Helmet."/>
+		</mission>
+	</quest>
+	<quest name="Grim Reaper Quest" startstorageid="5861" startstoragevalue="1">
+		<mission name="Grim Reaper Quest" storageid="5861" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Grim Reaper Quest. Premio: 100 crystal coins e 1kk de experiencia."/>
+		</mission>
+	</quest>
+	<quest name="Ghazbaran Room Quest" startstorageid="1725" startstoragevalue="1">
+		<mission name="Ghazbaran Room Quest" storageid="1725" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Ghazbaran Room Quest. Premio: 100 crystal coins e 5kk de experiencia."/>
+		</mission>
+	</quest>
+	<quest name="Scion Quest" startstorageid="2491" startstoragevalue="1">
+		<mission name="Scion Quest" storageid="2491" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Scion Quest. Premio: Crown Armor, Crown Helmet e Crown Legs."/>
+		</mission>
+	</quest>
+	<quest name="Minotaur Quest" startstorageid="2476" startstoragevalue="1">
+		<mission name="Minotaur Quest" storageid="2476" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Minotaur Quest. Premio: Knight Armor, Knight Legs e Devil Helmet."/>
+		</mission>
+	</quest>
+	<quest name="Lizard Quest" startstorageid="2536" startstoragevalue="1">
+		<mission name="Lizard Quest" storageid="2536" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Lizard Quest. Premio: Medusa Shield."/>
+		</mission>
+	</quest>
+	<quest name="Magic Ape Quest" startstorageid="2534" startstoragevalue="1">
+		<mission name="Magic Ape" storageid="2534" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Magic Ape Quest. Premio: Vampire Shield."/>
+		</mission>
+	</quest>
+	<quest name="Nightmare Quest Part 1" startstorageid="6528" startstoragevalue="1">
+		<mission name="Nightmare Quest Part 1" storageid="6528" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Nightmare Quest Part 1. Premio: Avenger."/>
+		</mission>
+	</quest>
+	<quest name="Nightmare Quest Part 2" startstorageid="6528" startstoragevalue="1">
+		<mission name="Nightmare Quest Part 2" storageid="6528" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Nightmare Quest Part 2. Premio: Arcane Staff."/>
+		</mission>
+	</quest>
+	<quest name="Humanoid Quest" startstorageid="2492" startstoragevalue="1">
+		<mission name="Humanoid Quest" storageid="2492" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Humanoid Quest. Premio: Dragon Scale Mail."/>
+		</mission>
+	</quest>
+	<quest name="Warlock Quest" startstorageid="2470" startstoragevalue="1">
+		<mission name="Warlock Quest" storageid="2470" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Warlock Quest. Premio: Golden Armor."/>
+		</mission>
+	</quest>
+	<quest name="Magician Quest" startstorageid="2473" startstoragevalue="1">
+		<mission name="Magician Quest" storageid="2473" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Magician Quest. Premio: Magic Plate Armor."/>
+		</mission>
+	</quest>
+	<quest name="Boss Quest Part 1" startstorageid="2646" startstoragevalue="1">
+		<mission name="Boss Quest Part 1" storageid="2646" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Boss Quest Part 1. Premio: Golden Boots."/>
+		</mission>
+	</quest>
+	<quest name="Boss Quest Part 2" startstorageid="2522" startstoragevalue="1">
+		<mission name="Boss Quest Part 2" storageid="2522" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Boss Quest Part 2. Premio: Great Shield."/>
+		</mission>
+	</quest>
+	<quest name="Dwarfs Quest" startstorageid="2365" startstoragevalue="1">
+		<mission name="Dwarfs Quest" storageid="2365" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Dwarfs Quest. Premio: BackPack of Holding."/>
+		</mission>
+	</quest>
+	<quest name="Golden Rope Quest" startstorageid="7729" startstoragevalue="1">
+		<mission name="Golden Rope Quest" storageid="7729" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Golden Rope Quest. Premio: Golden Rope e Light Shovel."/>
+		</mission>
+	</quest>
+	<quest name="Behemoth Quest" startstorageid="2454" startstoragevalue="1">
+		<mission name="Behemoth Quest" storageid="2454" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Behemoth Quest. Premio: War Axe."/>
+		</mission>
+	</quest>
+	<quest name="Vampire Quest" startstorageid="7456" startstoragevalue="1">
+		<mission name="Vampire Quest" storageid="7456" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Vampire Quest. Premio: Noble Axe."/>
+		</mission>
+	</quest>
+	<quest name="Hero Quest" startstorageid="2444" startstoragevalue="1">
+		<mission name="Hero Quest" storageid="2444" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Hero Quest. Premio: Hammer of Wrath."/>
+		</mission>
+	</quest>
+	<quest name="Naturalistic Quest" startstorageid="8905" startstoragevalue="1">
+		<mission name="Naturalistic Quest" storageid="8905" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Naturalistic Quest. Premio: Rainbow Shield."/>
+		</mission>
+	</quest>
+	<quest name="Guard Quest" startstorageid="7383" startstoragevalue="1">
+		<mission name="Guard Quest" storageid="7383" startvalue="1" endvalue="1">
+			<missionstate id="1" description="Parabens voce completou a Guard Quest. Premio: Relic Sword."/>
+		</mission>
+	</quest>
+</quests>

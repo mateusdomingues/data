@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<monster name="The Darkness" nameDescription="The Darkness" experience="100000" speed="9999" race="Blood">
+  <health now="650000000" max="650000000"/>
+  <look type="41" corpse="5986"/>
+  <strategy attack="10000" defense="500"/>
+  <targetchange speed="5000" chance="100"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="100"/>
+    <flag targetdistance="1"/>
+    <flag skull="0"/>
+  </flags>
+  <attacks>
+    <attack name="physical" interval="1500" chance="100" min="-4000000" max="-5000000" range="15">
+    </attack>
+    <attack name="Exevo Gran Mas Poison" interval="11000" chance="50" min="-7000000" max="-7000000"/>
+   <attack name="Death" interval="2000" chance="100" min="-2000000" max="-5000000" range="15">
+     <attribute key="areaEffect" value="groundshaker"/>
+      <attribute key="shootEffect" value="whirlwindclub"/>
+    </attack>
+  </attacks>
+  <defenses armor="0" defense="0"> 
+  <defense name="healing" interval="7000" chance="100" min="50000000" max="50000000"/> 
+</defenses>
+  <immunities>
+    <immunity name="invisible"/>
+    <immunity name="poison"/>
+  </immunities>
+  <loot>
+  </loot>
+</monster>

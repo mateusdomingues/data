@@ -1,0 +1,334 @@
+[05/07/2021 00:00:56] Pestanaa has logged out.
+[05/07/2021 00:00:57] Pestanaa has logged in.
+[05/07/2021 00:02:21] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/07/2021 00:02:35] Poderoso Kina has logged out.
+[05/07/2021 00:02:36] Poderoso Kina has logged in.
+[05/07/2021 00:02:40] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/07/2021 00:02:52] > CLEAN: Removed 5074 items from 3204 tiles in 0.037 seconds.
+[05/07/2021 00:02:52] > Broadcasted message: "Map Cleaned.".
+[05/07/2021 00:11:01] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/07/2021 00:12:22] > Saving server...
+[05/07/2021 00:12:23] > SAVE: Complete in 0.555 seconds using relational house storage.
+[05/07/2021 00:17:25] 
+[05/07/2021 00:17:25] Lua Script Error: [Action Interface] 
+[05/07/2021 00:17:25] data/actions/scripts/upgrade1.lua:onUse
+[05/07/2021 00:17:25] 
+[05/07/2021 00:17:25] luaGetItemDefense(). Item not found
+[05/07/2021 00:17:25] 
+[05/07/2021 00:17:25] Lua Script Error: [Action Interface] 
+[05/07/2021 00:17:25] data/actions/scripts/upgrade1.lua:onUse
+[05/07/2021 00:17:25] 
+[05/07/2021 00:17:25] data/actions/scripts/upgrade1.lua:27: attempt to compare number with boolean
+[05/07/2021 00:17:25] stack traceback:
+[05/07/2021 00:17:25] 	data/actions/scripts/upgrade1.lua:27: in function <data/actions/scripts/upgrade1.lua:18>
+[05/07/2021 00:17:41] Pestanaa has logged out.
+[05/07/2021 00:17:41] Pestanaa has logged in.
+[05/07/2021 00:19:02] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/07/2021 00:19:22] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/07/2021 00:19:27] Poderoso Kina has logged out.
+[05/07/2021 00:19:28] Poderoso Kina has logged in.
+[05/07/2021 00:19:32] > CLEAN: Removed 6499 items from 3116 tiles in 0.053 seconds.
+[05/07/2021 00:19:32] > Broadcasted message: "Map Cleaned.".
+[05/07/2021 00:20:08] Kaiio has logged out.
+[05/07/2021 00:20:09] Kaiio has logged in.
+[05/07/2021 00:22:23] Poderoso Kina has logged out.
+[05/07/2021 00:22:25] Kaiio has logged out.
+[05/07/2021 00:22:33] Pestanaa has logged out.
+[05/07/2021 00:22:34] Kaiio has logged in.
+[05/07/2021 00:22:41] Pestanaa has logged in.
+[05/07/2021 00:22:48] Poderoso Kina has logged in.
+[05/07/2021 00:24:04] Pestanaa has logged out.
+[05/07/2021 00:24:05] Pestanaa has logged in.
+[05/07/2021 00:27:43] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/07/2021 00:35:43] > Saving server...
+[05/07/2021 00:35:44] > SAVE: Complete in 0.57 seconds using relational house storage.
+[05/07/2021 00:35:44] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/07/2021 00:36:04] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/07/2021 00:36:14] > CLEAN: Removed 2005 items from 1281 tiles in 0.031 seconds.
+[05/07/2021 00:36:14] > Broadcasted message: "Map Cleaned.".
+[05/07/2021 00:43:48] Pestanaa has logged out.
+[05/07/2021 00:44:25] > Broadcasted message: "Para comprar bless digite !bless".
+[05/07/2021 00:50:02] Poderoso Kina has logged out.
+[05/07/2021 00:52:25] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/07/2021 00:52:54] > Broadcasted message: "Para comprar bless digite !bless".
+[05/07/2021 00:52:55] > CLEAN: Removed 750 items from 273 tiles in 0.012 seconds.
+[05/07/2021 00:52:55] > Broadcasted message: "Map Cleaned.".
+[05/07/2021 00:53:11] > Saving server...
+[05/07/2021 00:53:11] > SAVE: Complete in 0.533 seconds using relational house storage.
+[05/07/2021 00:53:19] Kaiio has logged out.
+[05/07/2021 00:53:19] > Saving server...
+[05/07/2021 00:53:20] > SAVE: Complete in 0.511 seconds using relational house storage.
+[05/07/2021 00:53:20] Preparing to shutdown server..
+[05/07/2021 00:53:20] .
+[05/07/2021 00:53:20] Exiting
+[05/07/2021 12:15:16] The Forgotten Server, version 0.3.4 (Crying Damson)
+[05/07/2021 12:15:16] Sever Criado Por Alissow e Comedinha.
+[05/07/2021 12:15:17] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[05/07/2021 12:15:17] Bom Jogo!!!
+[05/07/2021 12:15:17] 
+[05/07/2021 12:15:17] >> Debugging: nothing.
+[05/07/2021 12:15:17] >> Checking software version... failed - could not parse remote file (are you connected to the internet?)
+[05/07/2021 12:15:17] 
+[05/07/2021 12:15:17] >> Loading config (config.lua)
+[05/07/2021 12:15:17] > Using plaintext passwords
+[05/07/2021 12:15:17] >> Loading RSA key
+[05/07/2021 12:15:17] >> Starting SQL connection
+[05/07/2021 12:15:17] >> Running Database Manager
+[05/07/2021 12:15:17] > Optimized database.
+[05/07/2021 12:15:17] >> Loading items
+[05/07/2021 12:15:17] >> Loading groups
+[05/07/2021 12:15:17] >> Loading vocations
+[05/07/2021 12:15:17] >> Loading script systems
+[05/07/2021 12:15:21] >> Loading chat channels
+[05/07/2021 12:15:21] >> Loading outfits
+[05/07/2021 12:15:21] >> Loading experience stages
+[05/07/2021 12:15:21] >> Loading monsters
+[05/07/2021 12:15:26] >> Loading map and spawns...
+[05/07/2021 12:15:27] > Map size: 65000x65000.
+[05/07/2021 12:15:27] > Map descriptions: 
+[05/07/2021 12:15:27] Saved with Remere's Map Editor 2.2
+[05/07/2021 12:15:27] No map description available.
+[05/07/2021 12:15:27] Duplicate uniqueId 2407
+[05/07/2021 12:15:29] > Map loading time: 3.048 seconds.
+[05/07/2021 12:15:30] > Data loading time: 0.688 seconds.
+[05/07/2021 12:15:30] > Unserialization time for houses: 0 seconds.
+[05/07/2021 12:15:44] > Unserialization time for map: 13.895 seconds.
+[05/07/2021 12:15:44] >> Checking world type... PvP
+[05/07/2021 12:15:44] >> Initializing game state modules and registering services...
+[05/07/2021 12:15:44] > Global address: deathpvp.ddns.net
+[05/07/2021 12:15:44] > Local ports:
+[05/07/2021 12:15:44] 7171	7172	
+[05/07/2021 12:15:44] >> All modules were loaded, server starting up...
+[05/07/2021 12:15:44] >> OT Death server Online!
+[05/07/2021 12:15:44] 
+[05/07/2021 12:19:19] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[05/07/2021 12:19:20] Account Manager has logged in.
+[05/07/2021 12:19:29] Account Manager has logged out.
+[05/07/2021 12:23:42] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/07/2021 12:32:02] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/07/2021 12:32:03] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/07/2021 12:32:32] > CLEAN: Removed 0 items from 11 tiles in 0.04 seconds.
+[05/07/2021 12:32:32] > Broadcasted message: "Map Cleaned.".
+[05/07/2021 12:35:23] Account Manager has logged in.
+[05/07/2021 12:35:38] Account Manager has logged out.
+[05/07/2021 12:35:43] Account Manager has logged in.
+[05/07/2021 12:35:55] Account Manager has logged out.
+[05/07/2021 12:35:59] Bobombox has logged in.
+[05/07/2021 12:38:47] > Saving server...
+[05/07/2021 12:38:48] > SAVE: Complete in 0.532 seconds using relational house storage.
+[05/07/2021 12:40:24] > Broadcasted message: "Para comprar bless digite !bless".
+[05/07/2021 12:44:11] Bobombox has logged out.
+[05/07/2021 12:44:12] Bobombox has logged in.
+[05/07/2021 12:48:43] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/07/2021 12:48:45] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/07/2021 12:49:13] > CLEAN: Removed 83 items from 142 tiles in 0.015 seconds.
+[05/07/2021 12:49:13] > Broadcasted message: "Map Cleaned.".
+[05/07/2021 12:49:30] Account Manager has logged in.
+[05/07/2021 12:49:48] Account Manager has logged out.
+[05/07/2021 12:49:49] Account Manager has logged in.
+[05/07/2021 12:49:50] Account Manager has logged out.
+[05/07/2021 12:50:09] Account Manager has logged in.
+[05/07/2021 12:50:30] Account Manager has logged out.
+[05/07/2021 12:50:30] Account Manager has logged in.
+[05/07/2021 12:50:31] Account Manager has logged out.
+[05/07/2021 12:50:36] Account Manager has logged in.
+[05/07/2021 12:51:18] Account Manager has logged out.
+[05/07/2021 12:51:19] Account Manager has logged in.
+[05/07/2021 12:51:20] Account Manager has logged out.
+[05/07/2021 12:51:21] Account Manager has logged in.
+[05/07/2021 12:51:23] Account Manager has logged out.
+[05/07/2021 12:51:46] Kina has logged in.
+[05/07/2021 12:56:08] Bobombox has logged out.
+[05/07/2021 12:56:09] Bobombox has logged in.
+[05/07/2021 12:56:41] Bobombox has logged out.
+[05/07/2021 12:56:42] Bobombox has logged in.
+[05/07/2021 12:57:06] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/07/2021 12:58:10] Bobombox has logged out.
+[05/07/2021 12:58:10] Account Manager has logged in.
+[05/07/2021 12:58:29] Account Manager has logged out.
+[05/07/2021 12:58:36] Marco Pirath has logged in.
+[05/07/2021 12:58:47] Marco Pirath has logged out.
+[05/07/2021 12:58:47] Bobombox has logged in.
+[05/07/2021 12:58:50] Bobombox has logged out.
+[05/07/2021 12:58:51] Marco Pirath has logged in.
+[05/07/2021 12:59:15] Marco Pirath has logged out.
+[05/07/2021 12:59:15] Bobombox has logged in.
+[05/07/2021 12:59:17] Bobombox has logged out.
+[05/07/2021 12:59:17] Marco Pirath has logged in.
+[05/07/2021 13:02:08] > Saving server...
+[05/07/2021 13:02:08] > SAVE: Complete in 0.531 seconds using relational house storage.
+[05/07/2021 13:05:24] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/07/2021 13:05:27] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/07/2021 13:05:54] > CLEAN: Removed 165 items from 299 tiles in 0.016 seconds.
+[05/07/2021 13:05:54] > Broadcasted message: "Map Cleaned.".
+[05/07/2021 13:13:48] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/07/2021 13:15:37] Kina has logged out.
+[05/07/2021 13:22:05] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/07/2021 13:22:09] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/07/2021 13:22:35] > CLEAN: Removed 34 items from 96 tiles in 0.015 seconds.
+[05/07/2021 13:22:35] > Broadcasted message: "Map Cleaned.".
+[05/07/2021 13:25:29] > Saving server...
+[05/07/2021 13:25:29] > SAVE: Complete in 0.516 seconds using relational house storage.
+[05/07/2021 13:30:30] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/07/2021 13:38:46] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/07/2021 13:38:51] > Broadcasted message: "Para comprar bless digite !bless".
+[05/07/2021 13:39:16] > CLEAN: Removed 0 items from 1 tile in 0.016 seconds.
+[05/07/2021 13:39:16] > Broadcasted message: "Map Cleaned.".
+[05/07/2021 13:47:12] > Broadcasted message: "Para comprar bless digite !bless".
+[05/07/2021 13:48:50] > Saving server...
+[05/07/2021 13:48:50] > SAVE: Complete in 0.516 seconds using relational house storage.
+[05/07/2021 13:48:54] Marco Pirath has logged out.
+[05/07/2021 13:55:27] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/07/2021 13:55:33] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/07/2021 13:55:57] > CLEAN: Removed 0 items from 1 tile in 0.015 seconds.
+[05/07/2021 13:55:57] > Broadcasted message: "Map Cleaned.".
+[05/07/2021 14:03:54] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/07/2021 14:12:08] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/07/2021 14:12:11] > Saving server...
+[05/07/2021 14:12:12] > SAVE: Complete in 0.625 seconds using relational house storage.
+[05/07/2021 14:12:15] > Broadcasted message: "Para comprar bless digite !bless".
+[05/07/2021 14:12:38] > CLEAN: Removed 0 items from 0 tiles in 0.015 seconds.
+[05/07/2021 14:12:38] > Broadcasted message: "Map Cleaned.".
+[05/07/2021 14:20:36] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/07/2021 14:28:49] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/07/2021 14:28:57] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/07/2021 14:29:19] > CLEAN: Removed 0 items from 0 tiles in 0.015 seconds.
+[05/07/2021 14:29:19] > Broadcasted message: "Map Cleaned.".
+[05/07/2021 14:35:42] > Saving server...
+[05/07/2021 14:35:43] > SAVE: Complete in 0.5 seconds using relational house storage.
+[05/07/2021 14:37:18] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[05/07/2021 14:40:08] Pestanaa has logged in.
+[05/07/2021 14:40:24] Kina has logged in.
+[05/07/2021 14:42:56] Pestanaa has logged out.
+[05/07/2021 14:42:56] Account Manager has logged in.
+[05/07/2021 14:43:14] Account Manager has logged out.
+[05/07/2021 14:43:21] Smurf Pestana has logged in.
+[05/07/2021 14:43:33] Smurf Pestana has logged out.
+[05/07/2021 14:43:33] Pestanaa has logged in.
+[05/07/2021 14:43:39] Pestanaa has logged out.
+[05/07/2021 14:43:40] Smurf Pestana has logged in.
+[05/07/2021 14:45:30] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/07/2021 14:45:39] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/07/2021 14:46:00] > CLEAN: Removed 79 items from 234 tiles in 0.015 seconds.
+[05/07/2021 14:46:00] > Broadcasted message: "Map Cleaned.".
+[05/07/2021 14:46:30] Kina has logged out.
+[05/07/2021 14:46:32] Kina has logged in.
+[05/07/2021 14:51:23] Kina has logged out.
+[05/07/2021 14:51:24] Smurf Pestana has logged out.
+[05/07/2021 14:51:24] Pestanaa has logged in.
+[05/07/2021 14:51:33] Ozzy has logged in.
+[05/07/2021 14:53:32] Mateus has logged in.
+[05/07/2021 14:53:51] Pestanaa has logged out.
+[05/07/2021 14:53:51] Pestanaa has logged in.
+[05/07/2021 14:54:00] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/07/2021 14:54:07] Pestanaa has logged out.
+[05/07/2021 14:54:11] Pestanaa has logged in.
+[05/07/2021 14:54:27] Ozzy has logged out.
+[05/07/2021 14:54:29] Upstart Goblin has logged in.
+[05/07/2021 14:54:40] Upstart Goblin has logged out.
+[05/07/2021 14:54:41] Ozzy has logged in.
+[05/07/2021 14:54:47] Ozzy has logged out.
+[05/07/2021 14:55:03] > Mateus broadcasted: "OT Server vai ficar offline por alguns minutos. Voltaremos logo!".
+[05/07/2021 14:55:03] > Mateus broadcasted: "OT Server vai ficar offline por alguns minutos. Voltaremos logo!".
+[05/07/2021 14:55:04] > Mateus broadcasted: "OT Server vai ficar offline por alguns minutos. Voltaremos logo!".
+[05/07/2021 14:55:04] > Mateus broadcasted: "OT Server vai ficar offline por alguns minutos. Voltaremos logo!".
+[05/07/2021 14:55:20] > Saving server...
+[05/07/2021 14:55:20] > SAVE: Complete in 0.738 seconds using relational house storage.
+[05/07/2021 14:55:23] Mateus has logged out.
+[05/07/2021 14:55:23] Pestanaa has logged out.
+[05/07/2021 14:55:23] > Saving server...
+[05/07/2021 14:55:23] > SAVE: Complete in 0.628 seconds using relational house storage.
+[05/07/2021 14:55:23] Preparing to shutdown server..
+[05/07/2021 14:55:23] .
+[05/07/2021 14:55:23] Exiting
+[05/07/2021 15:08:18] The Forgotten Server, version 0.3.4 (Crying Damson)
+[05/07/2021 15:08:18] Sever Criado Por Alissow e Comedinha.
+[05/07/2021 15:08:18] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[05/07/2021 15:08:18] Bom Jogo!!!
+[05/07/2021 15:08:18] 
+[05/07/2021 15:08:18] >> Debugging: nothing.
+[05/07/2021 15:08:18] >> Checking software version... failed - could not parse remote file (are you connected to the internet?)
+[05/07/2021 15:08:19] 
+[05/07/2021 15:08:19] >> Loading config (config.lua)
+[05/07/2021 15:08:19] > Using plaintext passwords
+[05/07/2021 15:08:19] >> Loading RSA key
+[05/07/2021 15:08:19] >> Starting SQL connection
+[05/07/2021 15:08:19] >> Running Database Manager
+[05/07/2021 15:08:19] > Optimized database.
+[05/07/2021 15:08:19] >> Loading items
+[05/07/2021 15:08:19] >> Loading groups
+[05/07/2021 15:08:19] >> Loading vocations
+[05/07/2021 15:08:19] >> Loading script systems
+[05/07/2021 15:08:20] >> Loading chat channels
+[05/07/2021 15:08:20] >> Loading outfits
+[05/07/2021 15:08:20] >> Loading experience stages
+[05/07/2021 15:08:20] >> Loading monsters
+[05/07/2021 15:08:20] >> Loading map and spawns...
+[05/07/2021 15:08:21] > Map size: 65000x65000.
+[05/07/2021 15:08:21] > Map descriptions: 
+[05/07/2021 15:08:21] Saved with Remere's Map Editor 2.2
+[05/07/2021 15:08:21] No map description available.
+[05/07/2021 15:08:21] Duplicate uniqueId 2407
+[05/07/2021 15:08:23] > Map loading time: 3.063 seconds.
+[05/07/2021 15:08:23] > Data loading time: 0.235 seconds.
+[05/07/2021 15:08:23] > Unserialization time for houses: 0 seconds.
+[05/07/2021 15:08:38] > Unserialization time for map: 14.004 seconds.
+[05/07/2021 15:08:38] >> Checking world type... PvP
+[05/07/2021 15:08:38] >> Initializing game state modules and registering services...
+[05/07/2021 15:08:38] > Global address: deathpvp.ddns.net
+[05/07/2021 15:08:38] > Local ports:
+[05/07/2021 15:08:38] 7171	7172	
+[05/07/2021 15:08:38] >> All modules were loaded, server starting up...
+[05/07/2021 15:08:38] >> OT Death server Online!
+[05/07/2021 15:08:38] 
+[05/07/2021 15:09:01] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[05/07/2021 15:09:01] Account Manager has logged in.
+[05/07/2021 15:09:04] Account Manager has logged out.
+[05/07/2021 15:15:53] Account Manager has logged in.
+[05/07/2021 15:15:59] Account Manager has logged out.
+[05/07/2021 15:16:30] Pestanaa has logged in.
+[05/07/2021 15:16:41] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/07/2021 15:17:16] Ozzy has logged in.
+[05/07/2021 15:25:01] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/07/2021 15:25:02] > Broadcasted message: "Para comprar bless digite !bless".
+[05/07/2021 15:25:31] > CLEAN: Removed 66 items from 84 tiles in 0.015 seconds.
+[05/07/2021 15:25:31] > Broadcasted message: "Map Cleaned.".
+[05/07/2021 15:27:58] Pestanaa has logged out.
+[05/07/2021 15:31:46] > Saving server...
+[05/07/2021 15:31:46] > SAVE: Complete in 0.516 seconds using relational house storage.
+[05/07/2021 15:32:23] Pestanaa has logged in.
+[05/07/2021 15:33:23] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/07/2021 15:41:42] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/07/2021 15:41:44] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[05/07/2021 15:42:12] > CLEAN: Removed 76 items from 38 tiles in 0.015 seconds.
+[05/07/2021 15:42:12] > Broadcasted message: "Map Cleaned.".
+[05/07/2021 15:50:05] > Broadcasted message: "Para comprar bless digite !bless".
+[05/07/2021 15:55:07] > Saving server...
+[05/07/2021 15:55:08] > SAVE: Complete in 0.531 seconds using relational house storage.
+[05/07/2021 15:55:27] Pestanaa has logged out.
+[05/07/2021 15:55:40] Pestanaa has logged in.
+[05/07/2021 15:58:23] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/07/2021 15:58:26] > Broadcasted message: "Para comprar bless digite !bless".
+[05/07/2021 15:58:53] > CLEAN: Removed 986 items from 884 tiles in 0.035 seconds.
+[05/07/2021 15:58:53] > Broadcasted message: "Map Cleaned.".
+[05/07/2021 16:00:00] Pestanaa has logged out.
+[05/07/2021 16:00:01] Pestanaa has logged in.
+[05/07/2021 16:00:24] Pestanaa has logged out.
+[05/07/2021 16:00:35] Pestanaa has logged in.
+[05/07/2021 16:03:09] Ozzy has logged out.
+[05/07/2021 16:06:47] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/07/2021 16:15:04] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[05/07/2021 16:15:08] > Broadcasted message: "Para comprar bless digite !bless".
+[05/07/2021 16:15:34] > CLEAN: Removed 2192 items from 346 tiles in 0.03 seconds.
+[05/07/2021 16:15:34] > Broadcasted message: "Map Cleaned.".
+[05/07/2021 16:15:47] Pestanaa has logged out.
+[05/07/2021 16:18:28] > Saving server...
+[05/07/2021 16:18:28] > SAVE: Complete in 0.526 seconds using relational house storage.
+[05/07/2021 16:23:29] > Broadcasted message: "Para ver as noticias fale !notice".
+[05/07/2021 16:24:02] > Saving server...
+[05/07/2021 16:24:03] > SAVE: Complete in 0.54 seconds using relational house storage.
+[05/07/2021 16:24:12] > Saving server...
+[05/07/2021 16:24:13] > SAVE: Complete in 0.514 seconds using relational house storage.
+[05/07/2021 16:24:13] Preparing to shutdown server..
+[05/07/2021 16:24:13] .
+[05/07/2021 16:24:13] Exiting

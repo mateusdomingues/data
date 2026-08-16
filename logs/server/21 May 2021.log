@@ -1,0 +1,280 @@
+[21/05/2021 19:59:50] The Forgotten Server, version 0.3.4 (Crying Damson)
+[21/05/2021 19:59:50] Sever Criado Por Alissow e Comedinha.
+[21/05/2021 19:59:50] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[21/05/2021 19:59:50] Bom Jogo!!!
+[21/05/2021 19:59:50] 
+[21/05/2021 19:59:50] >> Debugging: nothing.
+[21/05/2021 19:59:50] >> Checking software version... failed - could not parse remote file (are you connected to the internet?)
+[21/05/2021 19:59:50] 
+[21/05/2021 19:59:50] >> Loading config (config.lua)
+[21/05/2021 19:59:50] > Using plaintext passwords
+[21/05/2021 19:59:50] >> Loading RSA key
+[21/05/2021 19:59:50] >> Starting SQL connection
+[21/05/2021 19:59:50] >> Running Database Manager
+[21/05/2021 19:59:51] > Optimized database.
+[21/05/2021 19:59:51] >> Loading items
+[21/05/2021 19:59:51] >> Loading groups
+[21/05/2021 19:59:51] >> Loading vocations
+[21/05/2021 19:59:51] >> Loading script systems
+[21/05/2021 19:59:51] >> Loading chat channels
+[21/05/2021 19:59:51] >> Loading outfits
+[21/05/2021 19:59:51] >> Loading experience stages
+[21/05/2021 19:59:51] >> Loading monsters
+[21/05/2021 19:59:52] >> Loading map and spawns...
+[21/05/2021 19:59:52] > Map size: 65000x65000.
+[21/05/2021 19:59:52] > Map descriptions: 
+[21/05/2021 19:59:52] Saved with Remere's Map Editor 2.2
+[21/05/2021 19:59:52] No map description available.
+[21/05/2021 19:59:53] Duplicate uniqueId 2407
+[21/05/2021 19:59:55] > Map loading time: 3.36 seconds.
+[21/05/2021 19:59:56] > Data loading time: 0.514 seconds.
+[21/05/2021 19:59:56] > Unserialization time for houses: 0.015 seconds.
+[21/05/2021 20:00:11] > Unserialization time for map: 15.793 seconds.
+[21/05/2021 20:00:11] >> Checking world type... PvP
+[21/05/2021 20:00:11] >> Initializing game state modules and registering services...
+[21/05/2021 20:00:12] > Global address: 192.168.15.16
+[21/05/2021 20:00:12] > Local ports:
+[21/05/2021 20:00:12] 7171	7172	
+[21/05/2021 20:00:12] >> All modules were loaded, server starting up...
+[21/05/2021 20:00:12] >> OT Death server Online!
+[21/05/2021 20:00:12] 
+[21/05/2021 20:08:12] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[21/05/2021 20:08:44] > Saving server...
+[21/05/2021 20:08:45] > SAVE: Complete in 1.018 seconds using relational house storage.
+[21/05/2021 20:08:45] Preparing to shutdown server..
+[21/05/2021 20:08:45] .
+[21/05/2021 20:08:45] Exiting
+[21/05/2021 20:09:22] The Forgotten Server, version 0.3.4 (Crying Damson)
+[21/05/2021 20:09:22] Sever Criado Por Alissow e Comedinha.
+[21/05/2021 20:09:22] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[21/05/2021 20:09:22] Bom Jogo!!!
+[21/05/2021 20:09:22] 
+[21/05/2021 20:09:22] >> Debugging: nothing.
+[21/05/2021 20:09:22] >> Checking software version... failed - could not parse remote file (are you connected to the internet?)
+[21/05/2021 20:09:23] 
+[21/05/2021 20:09:23] >> Loading config (config.lua)
+[21/05/2021 20:09:23] > Using plaintext passwords
+[21/05/2021 20:09:23] >> Loading RSA key
+[21/05/2021 20:09:23] >> Starting SQL connection
+[21/05/2021 20:09:23] >> Running Database Manager
+[21/05/2021 20:09:23] > Optimized database.
+[21/05/2021 20:09:23] >> Loading items
+[21/05/2021 20:09:23] >> Loading groups
+[21/05/2021 20:09:23] >> Loading vocations
+[21/05/2021 20:09:23] >> Loading script systems
+[21/05/2021 20:09:24] >> Loading chat channels
+[21/05/2021 20:09:24] >> Loading outfits
+[21/05/2021 20:09:24] >> Loading experience stages
+[21/05/2021 20:09:24] >> Loading monsters
+[21/05/2021 20:09:24] >> Loading map and spawns...
+[21/05/2021 20:09:25] > Map size: 65000x65000.
+[21/05/2021 20:09:25] > Map descriptions: 
+[21/05/2021 20:09:25] Saved with Remere's Map Editor 2.2
+[21/05/2021 20:09:25] No map description available.
+[21/05/2021 20:09:25] Duplicate uniqueId 2407
+[21/05/2021 20:09:27] > Map loading time: 3.208 seconds.
+[21/05/2021 20:09:28] > Data loading time: 0.229 seconds.
+[21/05/2021 20:09:28] > Unserialization time for houses: 0.015 seconds.
+[21/05/2021 20:09:44] > Unserialization time for map: 16.735 seconds.
+[21/05/2021 20:09:44] >> Checking world type... PvP
+[21/05/2021 20:09:44] >> Initializing game state modules and registering services...
+[21/05/2021 20:09:45] > Global address: deathpvp.servegame.com
+[21/05/2021 20:09:45] > Local ports:
+[21/05/2021 20:09:45] 7171	7172	
+[21/05/2021 20:09:45] >> All modules were loaded, server starting up...
+[21/05/2021 20:09:45] >> OT Death server Online!
+[21/05/2021 20:09:45] 
+[21/05/2021 20:10:41] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[21/05/2021 20:10:42] Account Manager has logged in.
+[21/05/2021 20:10:46] Account Manager has logged out.
+[21/05/2021 20:10:53] Mateus has logged in.
+[21/05/2021 20:17:45] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[21/05/2021 20:20:07] Mateus has logged out.
+[21/05/2021 20:20:07] > Saving server...
+[21/05/2021 20:20:08] > SAVE: Complete in 0.991 seconds using relational house storage.
+[21/05/2021 20:20:08] Preparing to shutdown server..
+[21/05/2021 20:20:08] .
+[21/05/2021 20:20:08] Exiting
+[21/05/2021 20:20:46] The Forgotten Server, version 0.3.4 (Crying Damson)
+[21/05/2021 20:20:46] Sever Criado Por Alissow e Comedinha.
+[21/05/2021 20:20:46] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[21/05/2021 20:20:46] Bom Jogo!!!
+[21/05/2021 20:20:46] 
+[21/05/2021 20:20:46] >> Debugging: nothing.
+[21/05/2021 20:20:46] >> Checking software version... failed - could not parse remote file (are you connected to the internet?)
+[21/05/2021 20:20:46] 
+[21/05/2021 20:20:46] >> Loading config (config.lua)
+[21/05/2021 20:20:46] > Using plaintext passwords
+[21/05/2021 20:20:46] >> Loading RSA key
+[21/05/2021 20:20:46] >> Starting SQL connection
+[21/05/2021 20:20:46] >> Running Database Manager
+[21/05/2021 20:20:46] > Optimized database.
+[21/05/2021 20:20:46] >> Loading items
+[21/05/2021 20:20:47] >> Loading groups
+[21/05/2021 20:20:47] >> Loading vocations
+[21/05/2021 20:20:47] >> Loading script systems
+[21/05/2021 20:20:47] >> Loading chat channels
+[21/05/2021 20:20:47] >> Loading outfits
+[21/05/2021 20:20:47] >> Loading experience stages
+[21/05/2021 20:20:47] >> Loading monsters
+[21/05/2021 20:20:47] >> Loading map and spawns...
+[21/05/2021 20:20:48] > Map size: 65000x65000.
+[21/05/2021 20:20:48] > Map descriptions: 
+[21/05/2021 20:20:48] Saved with Remere's Map Editor 2.2
+[21/05/2021 20:20:48] No map description available.
+[21/05/2021 20:20:48] Duplicate uniqueId 2407
+[21/05/2021 20:20:51] > Map loading time: 3.391 seconds.
+[21/05/2021 20:20:51] > Data loading time: 0.199 seconds.
+[21/05/2021 20:20:51] > Unserialization time for houses: 0.016 seconds.
+[21/05/2021 20:21:08] > Unserialization time for map: 16.791 seconds.
+[21/05/2021 20:21:08] >> Checking world type... PvP
+[21/05/2021 20:21:08] >> Initializing game state modules and registering services...
+[21/05/2021 20:21:08] > Global address: 127.0.0.1
+[21/05/2021 20:21:08] > Local ports:
+[21/05/2021 20:21:08] 7171	7172	
+[21/05/2021 20:21:08] >> All modules were loaded, server starting up...
+[21/05/2021 20:21:08] >> OT Death server Online!
+[21/05/2021 20:21:08] 
+[21/05/2021 20:22:19] Mateus has logged in.
+[21/05/2021 20:24:55] Mateus has logged out.
+[21/05/2021 20:24:55] > Saving server...
+[21/05/2021 20:24:56] > SAVE: Complete in 0.989 seconds using relational house storage.
+[21/05/2021 20:24:56] Preparing to shutdown server..
+[21/05/2021 20:24:56] .
+[21/05/2021 20:24:56] Exiting
+[21/05/2021 20:27:48] The Forgotten Server, version 0.3.4 (Crying Damson)
+[21/05/2021 20:27:48] Sever Criado Por Alissow e Comedinha.
+[21/05/2021 20:27:48] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[21/05/2021 20:27:48] Bom Jogo!!!
+[21/05/2021 20:27:48] 
+[21/05/2021 20:27:48] >> Debugging: nothing.
+[21/05/2021 20:27:48] >> Checking software version... failed - could not parse remote file (are you connected to the internet?)
+[21/05/2021 20:27:48] 
+[21/05/2021 20:27:48] >> Loading config (config.lua)
+[21/05/2021 20:27:48] > Using plaintext passwords
+[21/05/2021 20:27:48] >> Loading RSA key
+[21/05/2021 20:27:48] >> Starting SQL connection
+[21/05/2021 20:27:48] >> Running Database Manager
+[21/05/2021 20:27:49] > Optimized database.
+[21/05/2021 20:27:49] >> Loading items
+[21/05/2021 20:27:49] >> Loading groups
+[21/05/2021 20:27:49] >> Loading vocations
+[21/05/2021 20:27:49] >> Loading script systems
+[21/05/2021 20:27:49] >> Loading chat channels
+[21/05/2021 20:27:49] >> Loading outfits
+[21/05/2021 20:27:49] >> Loading experience stages
+[21/05/2021 20:27:49] >> Loading monsters
+[21/05/2021 20:27:50] >> Loading map and spawns...
+[21/05/2021 20:27:50] > Map size: 65000x65000.
+[21/05/2021 20:27:50] > Map descriptions: 
+[21/05/2021 20:27:50] Saved with Remere's Map Editor 2.2
+[21/05/2021 20:27:50] No map description available.
+[21/05/2021 20:27:51] Duplicate uniqueId 2407
+[21/05/2021 20:27:53] > Map loading time: 3.341 seconds.
+[21/05/2021 20:27:53] > Data loading time: 0.191 seconds.
+[21/05/2021 20:27:53] > Unserialization time for houses: 0.016 seconds.
+[21/05/2021 20:28:15] > Unserialization time for map: 21.575 seconds.
+[21/05/2021 20:28:15] >> Checking world type... PvP
+[21/05/2021 20:28:15] >> Initializing game state modules and registering services...
+[21/05/2021 20:28:15] > Global address: 127.0.0.1
+[21/05/2021 20:28:15] > Local ports:
+[21/05/2021 20:28:15] 7171	7172	
+[21/05/2021 20:28:15] >> All modules were loaded, server starting up...
+[21/05/2021 20:28:15] >> OT Death server Online!
+[21/05/2021 20:28:15] 
+[21/05/2021 20:28:19] > Saving server...
+[21/05/2021 20:28:20] > SAVE: Complete in 0.95 seconds using relational house storage.
+[21/05/2021 20:28:20] Preparing to shutdown server..
+[21/05/2021 20:28:20] .
+[21/05/2021 20:28:20] Exiting
+[21/05/2021 20:28:28] The Forgotten Server, version 0.3.4 (Crying Damson)
+[21/05/2021 20:28:28] Sever Criado Por Alissow e Comedinha.
+[21/05/2021 20:28:28] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[21/05/2021 20:28:28] Bom Jogo!!!
+[21/05/2021 20:28:28] 
+[21/05/2021 20:28:28] >> Debugging: nothing.
+[21/05/2021 20:28:28] >> Checking software version... failed - could not parse remote file (are you connected to the internet?)
+[21/05/2021 20:28:28] 
+[21/05/2021 20:28:28] >> Loading config (config.lua)
+[21/05/2021 20:28:28] > Using plaintext passwords
+[21/05/2021 20:28:28] >> Loading RSA key
+[21/05/2021 20:28:28] >> Starting SQL connection
+[21/05/2021 20:28:28] >> Running Database Manager
+[21/05/2021 20:28:28] > Optimized database.
+[21/05/2021 20:28:28] >> Loading items
+[21/05/2021 20:28:29] >> Loading groups
+[21/05/2021 20:28:29] >> Loading vocations
+[21/05/2021 20:28:29] >> Loading script systems
+[21/05/2021 20:28:29] >> Loading chat channels
+[21/05/2021 20:28:29] >> Loading outfits
+[21/05/2021 20:28:29] >> Loading experience stages
+[21/05/2021 20:28:29] >> Loading monsters
+[21/05/2021 20:28:29] >> Loading map and spawns...
+[21/05/2021 20:28:30] > Map size: 65000x65000.
+[21/05/2021 20:28:30] > Map descriptions: 
+[21/05/2021 20:28:30] Saved with Remere's Map Editor 2.2
+[21/05/2021 20:28:30] No map description available.
+[21/05/2021 20:28:30] Duplicate uniqueId 2407
+[21/05/2021 20:28:32] > Map loading time: 3.099 seconds.
+[21/05/2021 20:28:33] > Data loading time: 0.204 seconds.
+[21/05/2021 20:28:33] > Unserialization time for houses: 0.018 seconds.
+[21/05/2021 20:28:53] > Unserialization time for map: 20.698 seconds.
+[21/05/2021 20:28:53] >> Checking world type... PvP
+[21/05/2021 20:28:53] >> Initializing game state modules and registering services...
+[21/05/2021 20:28:54] > Global address: deathpvp.servegame.com
+[21/05/2021 20:28:54] > Local ports:
+[21/05/2021 20:28:54] 7171	7172	
+[21/05/2021 20:28:54] >> All modules were loaded, server starting up...
+[21/05/2021 20:28:54] >> OT Death server Online!
+[21/05/2021 20:28:54] 
+[21/05/2021 20:36:50] > Broadcasted message: "Para ver as noticias fale !notice".
+[21/05/2021 20:39:28] > Saving server...
+[21/05/2021 20:39:29] > SAVE: Complete in 1.156 seconds using relational house storage.
+[21/05/2021 20:39:29] Preparing to shutdown server..
+[21/05/2021 20:39:29] .
+[21/05/2021 20:39:29] Exiting
+[21/05/2021 20:59:54] The Forgotten Server, version 0.3.4 (Crying Damson)
+[21/05/2021 20:59:54] Sever Criado Por Alissow e Comedinha.
+[21/05/2021 20:59:54] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[21/05/2021 20:59:54] Bom Jogo!!!
+[21/05/2021 20:59:54] 
+[21/05/2021 20:59:54] >> Debugging: nothing.
+[21/05/2021 20:59:54] >> Checking software version... failed - could not parse remote file (are you connected to the internet?)
+[21/05/2021 20:59:55] 
+[21/05/2021 20:59:55] >> Loading config (config.lua)
+[21/05/2021 20:59:55] > Using plaintext passwords
+[21/05/2021 20:59:55] >> Loading RSA key
+[21/05/2021 20:59:55] >> Starting SQL connection
+[21/05/2021 20:59:55] >> Running Database Manager
+[21/05/2021 20:59:55] > Optimized database.
+[21/05/2021 20:59:55] >> Loading items
+[21/05/2021 20:59:55] >> Loading groups
+[21/05/2021 20:59:55] >> Loading vocations
+[21/05/2021 20:59:55] >> Loading script systems
+[21/05/2021 21:00:00] >> Loading chat channels
+[21/05/2021 21:00:00] >> Loading outfits
+[21/05/2021 21:00:00] >> Loading experience stages
+[21/05/2021 21:00:00] >> Loading monsters
+[21/05/2021 21:00:06] >> Loading map and spawns...
+[21/05/2021 21:00:06] > Map size: 65000x65000.
+[21/05/2021 21:00:06] > Map descriptions: 
+[21/05/2021 21:00:06] Saved with Remere's Map Editor 2.2
+[21/05/2021 21:00:06] No map description available.
+[21/05/2021 21:00:07] Duplicate uniqueId 2407
+[21/05/2021 21:00:09] > Map loading time: 3.254 seconds.
+[21/05/2021 21:00:10] > Data loading time: 0.669 seconds.
+[21/05/2021 21:00:10] > Unserialization time for houses: 0.019 seconds.
+[21/05/2021 21:00:26] > Unserialization time for map: 16.337 seconds.
+[21/05/2021 21:00:26] >> Checking world type... PvP
+[21/05/2021 21:00:26] >> Initializing game state modules and registering services...
+[21/05/2021 21:00:26] > Global address: deathpvp.servegame.com
+[21/05/2021 21:00:26] > Local ports:
+[21/05/2021 21:00:26] 7171	7172	
+[21/05/2021 21:00:26] >> All modules were loaded, server starting up...
+[21/05/2021 21:00:26] >> OT Death server Online!
+[21/05/2021 21:00:26] 
+[21/05/2021 21:05:23] > Saving server...
+[21/05/2021 21:05:24] > SAVE: Complete in 1.031 seconds using relational house storage.
+[21/05/2021 21:05:24] Preparing to shutdown server..
+[21/05/2021 21:05:24] .
+[21/05/2021 21:05:24] Exiting

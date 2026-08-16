@@ -1,0 +1,449 @@
+[07/07/2021 19:20:00] The Forgotten Server, version 0.3.4 (Crying Damson)
+[07/07/2021 19:20:00] Sever Criado Por Alissow e Comedinha.
+[07/07/2021 19:20:00] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[07/07/2021 19:20:00] Bom Jogo!!!
+[07/07/2021 19:20:00] 
+[07/07/2021 19:20:00] >> Debugging: nothing.
+[07/07/2021 19:20:00] >> Checking software version... failed - could not parse remote file (are you connected to the internet?)
+[07/07/2021 19:20:00] 
+[07/07/2021 19:20:00] >> Loading config (config.lua)
+[07/07/2021 19:20:00] > Using plaintext passwords
+[07/07/2021 19:20:00] >> Loading RSA key
+[07/07/2021 19:20:00] >> Starting SQL connection
+[07/07/2021 19:20:00] >> Running Database Manager
+[07/07/2021 19:20:00] > Optimized database.
+[07/07/2021 19:20:00] >> Loading items
+[07/07/2021 19:20:01] >> Loading groups
+[07/07/2021 19:20:01] >> Loading vocations
+[07/07/2021 19:20:01] >> Loading script systems
+[07/07/2021 19:20:04] >> Loading chat channels
+[07/07/2021 19:20:04] >> Loading outfits
+[07/07/2021 19:20:04] >> Loading experience stages
+[07/07/2021 19:20:04] >> Loading monsters
+[07/07/2021 19:20:09] >> Loading map and spawns...
+[07/07/2021 19:20:10] > Map size: 65000x65000.
+[07/07/2021 19:20:10] > Map descriptions: 
+[07/07/2021 19:20:10] Saved with Remere's Map Editor 2.2
+[07/07/2021 19:20:10] No map description available.
+[07/07/2021 19:20:10] Duplicate uniqueId 2407
+[07/07/2021 19:20:12] > Map loading time: 3.046 seconds.
+[07/07/2021 19:20:13] > Data loading time: 0.706 seconds.
+[07/07/2021 19:20:13] > Unserialization time for houses: 0 seconds.
+[07/07/2021 19:20:26] > Unserialization time for map: 13.439 seconds.
+[07/07/2021 19:20:27] >> Checking world type... PvP
+[07/07/2021 19:20:27] >> Initializing game state modules and registering services...
+[07/07/2021 19:20:32] > Global address: deathpvp.ddns.net
+[07/07/2021 19:20:33] > Local ports:
+[07/07/2021 19:20:33] 7171	7172	
+[07/07/2021 19:20:33] >> All modules were loaded, server starting up...
+[07/07/2021 19:20:33] >> OT Death server Online!
+[07/07/2021 19:20:33] 
+[07/07/2021 19:21:48] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[07/07/2021 19:21:51] Account Manager has logged in.
+[07/07/2021 19:21:54] Account Manager has logged out.
+[07/07/2021 19:28:25] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[07/07/2021 19:33:34] Foxkinha has logged in.
+[07/07/2021 19:34:06] Jean has logged in.
+[07/07/2021 19:36:45] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/07/2021 19:36:46] > Broadcasted message: "Para ver as noticias fale !notice".
+[07/07/2021 19:37:02] Account Manager has logged in.
+[07/07/2021 19:37:15] > CLEAN: Removed 10 items from 56 tiles in 0.016 seconds.
+[07/07/2021 19:37:15] > Broadcasted message: "Map Cleaned.".
+[07/07/2021 19:37:22] Account Manager has logged out.
+[07/07/2021 19:37:26] Kaio has logged in.
+[07/07/2021 19:37:30] Kaio has logged out.
+[07/07/2021 19:37:31] Kaiio has logged in.
+[07/07/2021 19:42:51] Foxkinha has logged out.
+[07/07/2021 19:42:54] Foxkinha has logged in.
+[07/07/2021 19:43:30] > Saving server...
+[07/07/2021 19:43:30] > SAVE: Complete in 0.668 seconds using relational house storage.
+[07/07/2021 19:45:07] > Broadcasted message: "Para ver as noticias fale !notice".
+[07/07/2021 19:46:16] Foxkinha has logged out.
+[07/07/2021 19:46:17] Foxkinha has logged in.
+[07/07/2021 19:46:33] Pestanaa has logged in.
+[07/07/2021 19:46:50] Ozzy has logged in.
+[07/07/2021 19:47:12] Foxkinha has logged out.
+[07/07/2021 19:47:13] Foxkinha has logged in.
+[07/07/2021 19:52:45] Foxkinha has logged out.
+[07/07/2021 19:52:48] Account Manager has logged in.
+[07/07/2021 19:52:51] Account Manager has logged out.
+[07/07/2021 19:52:53] Account Manager has logged in.
+[07/07/2021 19:53:00] Account Manager has logged out.
+[07/07/2021 19:53:04] Account Manager has logged in.
+[07/07/2021 19:53:12] Account Manager has logged out.
+[07/07/2021 19:53:26] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/07/2021 19:53:28] > Broadcasted message: "Para comprar bless digite !bless".
+[07/07/2021 19:53:42] Account Manager has logged in.
+[07/07/2021 19:53:43] Account Manager has logged out.
+[07/07/2021 19:53:48] Mateus has logged in.
+[07/07/2021 19:53:56] > CLEAN: Removed 1354 items from 752 tiles in 0.022 seconds.
+[07/07/2021 19:53:56] > Broadcasted message: "Map Cleaned.".
+[07/07/2021 19:54:07] Pestanaa has logged out.
+[07/07/2021 19:54:08] Pestanaa has logged in.
+[07/07/2021 19:56:58] Mateus has logged out.
+[07/07/2021 19:57:12] Foxkinha has logged in.
+[07/07/2021 19:57:19] Foxkinha has logged out.
+[07/07/2021 19:57:23] Mateus has logged in.
+[07/07/2021 19:58:40] The Forgotten Server, version 0.3.4 (Crying Damson)
+[07/07/2021 19:58:40] Sever Criado Por Alissow e Comedinha.
+[07/07/2021 19:58:40] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[07/07/2021 19:58:40] Bom Jogo!!!
+[07/07/2021 19:58:40] 
+[07/07/2021 19:58:40] >> Debugging: nothing.
+[07/07/2021 19:58:40] >> Checking software version... failed - could not parse remote file (are you connected to the internet?)
+[07/07/2021 19:58:41] 
+[07/07/2021 19:58:41] >> Loading config (config.lua)
+[07/07/2021 19:58:41] > Using plaintext passwords
+[07/07/2021 19:58:41] >> Loading RSA key
+[07/07/2021 19:58:41] >> Starting SQL connection
+[07/07/2021 19:58:41] >> Running Database Manager
+[07/07/2021 19:58:41] > Optimized database.
+[07/07/2021 19:58:41] >> Loading items
+[07/07/2021 19:58:41] >> Loading groups
+[07/07/2021 19:58:41] >> Loading vocations
+[07/07/2021 19:58:41] >> Loading script systems
+[07/07/2021 19:58:42] >> Loading chat channels
+[07/07/2021 19:58:42] >> Loading outfits
+[07/07/2021 19:58:42] >> Loading experience stages
+[07/07/2021 19:58:42] >> Loading monsters
+[07/07/2021 19:58:42] >> Loading map and spawns...
+[07/07/2021 19:58:43] > Map size: 65000x65000.
+[07/07/2021 19:58:43] > Map descriptions: 
+[07/07/2021 19:58:43] Saved with Remere's Map Editor 2.2
+[07/07/2021 19:58:43] No map description available.
+[07/07/2021 19:58:43] Duplicate uniqueId 2407
+[07/07/2021 19:58:45] > Map loading time: 3.088 seconds.
+[07/07/2021 19:58:45] > Data loading time: 0.231 seconds.
+[07/07/2021 19:58:45] > Unserialization time for houses: 0 seconds.
+[07/07/2021 19:59:00] > Unserialization time for map: 14.241 seconds.
+[07/07/2021 19:59:00] >> Checking world type... PvP
+[07/07/2021 19:59:00] >> Initializing game state modules and registering services...
+[07/07/2021 19:59:00] > Global address: deathpvp.ddns.net
+[07/07/2021 19:59:00] > Local ports:
+[07/07/2021 19:59:00] 7171	7172	
+[07/07/2021 19:59:00] >> All modules were loaded, server starting up...
+[07/07/2021 19:59:00] >> OT Death server Online!
+[07/07/2021 19:59:00] 
+[07/07/2021 19:59:07] Account Manager has logged in.
+[07/07/2021 19:59:07] Mateus has logged in.
+[07/07/2021 19:59:12] Jean has logged in.
+[07/07/2021 19:59:13] Account Manager has logged out.
+[07/07/2021 19:59:14] Kaiio has logged in.
+[07/07/2021 20:01:16] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[07/07/2021 20:01:22] Muthcka has logged in.
+[07/07/2021 20:01:44] Pestanaa has logged in.
+[07/07/2021 20:02:01] Mateus has logged out.
+[07/07/2021 20:02:09] Foxkinha has logged in.
+[07/07/2021 20:02:21] Foxkinha has logged out.
+[07/07/2021 20:02:22] Foxkinha has logged in.
+[07/07/2021 20:03:13] Pestanaa has logged out.
+[07/07/2021 20:03:13] Pestanaa has logged in.
+[07/07/2021 20:05:13] Kaiio has logged out.
+[07/07/2021 20:05:15] Kaiio has logged in.
+[07/07/2021 20:05:54] Ozzy has logged in.
+[07/07/2021 20:07:03] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[07/07/2021 20:08:32] Ozzy has logged out.
+[07/07/2021 20:08:33] Ozzy has logged in.
+[07/07/2021 20:10:56] Pestanaa has logged out.
+[07/07/2021 20:10:56] Pestanaa has logged in.
+[07/07/2021 20:13:54] Ozzy has logged out.
+[07/07/2021 20:15:23] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/07/2021 20:15:24] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[07/07/2021 20:15:33] Ozzy has logged in.
+[07/07/2021 20:15:53] > CLEAN: Removed 512 items from 684 tiles in 0.03 seconds.
+[07/07/2021 20:15:53] > Broadcasted message: "Map Cleaned.".
+[07/07/2021 20:18:13] Jean has logged out.
+[07/07/2021 20:18:41] JD has logged in.
+[07/07/2021 20:22:08] > Saving server...
+[07/07/2021 20:22:09] > SAVE: Complete in 0.639 seconds using relational house storage.
+[07/07/2021 20:23:45] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[07/07/2021 20:24:15] Foxkinha has logged out.
+[07/07/2021 20:24:17] Foxkinha has logged in.
+[07/07/2021 20:26:22] Foxkinha has logged out.
+[07/07/2021 20:26:23] Foxkinha has logged in.
+[07/07/2021 20:30:19] Muthcka has logged out.
+[07/07/2021 20:31:12] Kaiio has logged out.
+[07/07/2021 20:31:14] Kaiio has logged in.
+[07/07/2021 20:32:04] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/07/2021 20:32:06] > Broadcasted message: "Para comprar bless digite !bless".
+[07/07/2021 20:32:34] > CLEAN: Removed 3353 items from 1459 tiles in 0.031 seconds.
+[07/07/2021 20:32:34] > Broadcasted message: "Map Cleaned.".
+[07/07/2021 20:32:45] Pestanaa has logged out.
+[07/07/2021 20:40:27] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[07/07/2021 20:40:49] Foxkinha has logged out.
+[07/07/2021 20:40:50] Foxkinha has logged in.
+[07/07/2021 20:42:49] Foxkinha has logged out.
+[07/07/2021 20:42:50] Foxkinha has logged in.
+[07/07/2021 20:45:29] > Saving server...
+[07/07/2021 20:45:30] > SAVE: Complete in 0.794 seconds using relational house storage.
+[07/07/2021 20:48:45] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/07/2021 20:48:48] > Broadcasted message: "Para comprar bless digite !bless".
+[07/07/2021 20:49:15] > CLEAN: Removed 511 items from 728 tiles in 0.029 seconds.
+[07/07/2021 20:49:15] > Broadcasted message: "Map Cleaned.".
+[07/07/2021 20:53:24] Foxkinha has logged out.
+[07/07/2021 20:53:25] Foxkinha has logged in.
+[07/07/2021 20:53:48] Foxkinha has logged out.
+[07/07/2021 20:53:51] Account Manager has logged in.
+[07/07/2021 20:53:56] Account Manager has logged out.
+[07/07/2021 20:54:00] Account Manager has logged in.
+[07/07/2021 20:54:04] Account Manager has logged out.
+[07/07/2021 20:54:07] Mateus has logged in.
+[07/07/2021 20:56:14] Kaiio has logged out.
+[07/07/2021 20:56:15] Account Manager has logged in.
+[07/07/2021 20:56:22] Account Manager has logged out.
+[07/07/2021 20:56:31] Kaiio has logged in.
+[07/07/2021 20:57:09] > Broadcasted message: "Para ver as noticias fale !notice".
+[07/07/2021 21:04:49] Muthcka has logged in.
+[07/07/2021 21:05:26] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[07/07/2021 21:05:30] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[07/07/2021 21:05:56] > CLEAN: Removed 847 items from 745 tiles in 0.029 seconds.
+[07/07/2021 21:05:56] > Broadcasted message: "Map Cleaned.".
+[07/07/2021 21:08:50] > Saving server...
+[07/07/2021 21:08:50] > SAVE: Complete in 0.626 seconds using relational house storage.
+[07/07/2021 21:10:00] Kaiio has logged out.
+[07/07/2021 21:10:01] Kaiio has logged in.
+[07/07/2021 21:10:11] Kaiio has logged out.
+[07/07/2021 21:10:12] Kaiio has logged in.
+[07/07/2021 21:10:16] JD has logged out.
+[07/07/2021 21:10:18] Jean has logged in.
+[07/07/2021 21:13:49] Mateus has logged out.
+[07/07/2021 21:13:49] Mateus has logged in.
+[07/07/2021 21:13:51] > Broadcasted message: "Para comprar bless digite !bless".
+[07/07/2021 21:14:11] Jean has logged out.
+[07/07/2021 21:14:12] Jean has logged in.
+[07/07/2021 21:14:16] Jean has logged out.
+[07/07/2021 21:14:19] JD has logged in.
+[07/07/2021 21:14:21] JD has logged out.
+[07/07/2021 21:14:31] Jean has logged in.
+[07/07/2021 21:16:12] Ozzy has logged out.
+[07/07/2021 21:16:12] Muthcka has logged out.
+[07/07/2021 21:16:12] Kaiio has logged out.
+[07/07/2021 21:16:12] Mateus has logged out.
+[07/07/2021 21:16:12] Jean has logged out.
+[07/07/2021 21:16:12] > Saving server...
+[07/07/2021 21:16:13] > SAVE: Complete in 0.537 seconds using relational house storage.
+[07/07/2021 21:16:13] Preparing to shutdown server..
+[07/07/2021 21:16:13] .
+[07/07/2021 21:16:13] Exiting
+[07/07/2021 21:16:17] The Forgotten Server, version 0.3.4 (Crying Damson)
+[07/07/2021 21:16:17] Sever Criado Por Alissow e Comedinha.
+[07/07/2021 21:16:17] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[07/07/2021 21:16:17] Bom Jogo!!!
+[07/07/2021 21:16:17] 
+[07/07/2021 21:16:17] >> Debugging: nothing.
+[07/07/2021 21:16:17] >> Checking software version... failed - could not parse remote file (are you connected to the internet?)
+[07/07/2021 21:16:17] 
+[07/07/2021 21:16:17] >> Loading config (config.lua)
+[07/07/2021 21:16:17] 
+[07/07/2021 21:16:17] > ERROR: Another instance of The Forgotten Server is already running with the same worldId.
+[07/07/2021 21:16:17] If you want to run multiple servers, please change the worldId in configuration file.
+[07/07/2021 21:16:37] The Forgotten Server, version 0.3.4 (Crying Damson)
+[07/07/2021 21:16:37] Sever Criado Por Alissow e Comedinha.
+[07/07/2021 21:16:37] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[07/07/2021 21:16:37] Bom Jogo!!!
+[07/07/2021 21:16:37] 
+[07/07/2021 21:16:37] >> Debugging: nothing.
+[07/07/2021 21:16:37] >> Checking software version... failed - could not parse remote file (are you connected to the internet?)
+[07/07/2021 21:16:37] 
+[07/07/2021 21:16:37] >> Loading config (config.lua)
+[07/07/2021 21:16:37] > Using plaintext passwords
+[07/07/2021 21:16:37] >> Loading RSA key
+[07/07/2021 21:16:37] >> Starting SQL connection
+[07/07/2021 21:16:37] >> Running Database Manager
+[07/07/2021 21:16:38] > Optimized database.
+[07/07/2021 21:16:38] >> Loading items
+[07/07/2021 21:16:38] >> Loading groups
+[07/07/2021 21:16:38] >> Loading vocations
+[07/07/2021 21:16:38] >> Loading script systems
+[07/07/2021 21:16:38] >> Loading chat channels
+[07/07/2021 21:16:38] >> Loading outfits
+[07/07/2021 21:16:38] >> Loading experience stages
+[07/07/2021 21:16:38] >> Loading monsters
+[07/07/2021 21:16:39] >> Loading map and spawns...
+[07/07/2021 21:16:39] > Map size: 65000x65000.
+[07/07/2021 21:16:39] > Map descriptions: 
+[07/07/2021 21:16:39] Saved with Remere's Map Editor 2.2
+[07/07/2021 21:16:39] No map description available.
+[07/07/2021 21:16:40] Duplicate uniqueId 2407
+[07/07/2021 21:16:42] > Map loading time: 3.238 seconds.
+[07/07/2021 21:16:42] > Data loading time: 0.233 seconds.
+[07/07/2021 21:16:42] > Unserialization time for houses: 0.006 seconds.
+[07/07/2021 21:16:57] > Unserialization time for map: 14.558 seconds.
+[07/07/2021 21:16:57] >> Checking world type... PvP
+[07/07/2021 21:16:57] >> Initializing game state modules and registering services...
+[07/07/2021 21:16:57] > Global address: deathpvp.ddns.net
+[07/07/2021 21:16:57] > Local ports:
+[07/07/2021 21:16:57] 7171	7172	
+[07/07/2021 21:16:57] >> All modules were loaded, server starting up...
+[07/07/2021 21:16:57] >> OT Death server Online!
+[07/07/2021 21:16:57] 
+[07/07/2021 21:17:04] Kaiio has logged in.
+[07/07/2021 21:17:04] Jean has logged in.
+[07/07/2021 21:17:20] Muthcka has logged in.
+[07/07/2021 21:18:09] Upstart Goblin has logged in.
+[07/07/2021 21:18:31] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[07/07/2021 21:18:32] Account Manager has logged in.
+[07/07/2021 21:18:34] Account Manager has logged out.
+[07/07/2021 21:18:44] Foxkinha has logged in.
+[07/07/2021 21:18:53] Upstart Goblin has logged out.
+[07/07/2021 21:19:18] Foxkinha has logged out.
+[07/07/2021 21:19:19] Foxkinha has logged in.
+[07/07/2021 21:23:36] sqlite3_step(): SQLITE ERROR: database is locked
+[07/07/2021 21:23:36] Foxkinha has logged out.
+[07/07/2021 21:23:36] sqlite3_step(): SQLITE ERROR: database is locked
+[07/07/2021 21:23:36] sqlite3_step(): SQLITE ERROR: cannot start a transaction within a transaction
+[07/07/2021 21:23:36] sqlite3_step(): SQLITE ERROR: database is locked
+[07/07/2021 21:23:36] Error while saving player: Foxkinha.
+[07/07/2021 21:23:37] Account Manager has logged in.
+[07/07/2021 21:23:47] Account Manager has logged out.
+[07/07/2021 21:23:47] sqlite3_step(): SQLITE ERROR: cannot start a transaction within a transaction
+[07/07/2021 21:23:55] sqlite3_step(): SQLITE ERROR: database is locked
+[07/07/2021 21:23:55] > ERROR: Failed to save account: eumesmo!
+[07/07/2021 21:23:56] Foxkinha has logged in.
+[07/07/2021 21:24:22] Kaiio has logged out.
+[07/07/2021 21:24:23] Foxkinha has logged out.
+[07/07/2021 21:24:26] Account Manager has logged in.
+[07/07/2021 21:24:26] Denuky has logged in.
+[07/07/2021 21:24:34] Account Manager has logged out.
+[07/07/2021 21:24:42] Account Manager has logged in.
+[07/07/2021 21:24:47] Account Manager has logged out.
+[07/07/2021 21:24:52] Mateus has logged in.
+[07/07/2021 21:24:59] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/cfxSV4o7ce/Death_PVP.html".
+[07/07/2021 21:25:02] Mateus has logged out.
+[07/07/2021 21:25:31] Denuky has logged out.
+[07/07/2021 21:25:32] Foxkinha has logged in.
+[07/07/2021 21:25:34] Kaiio has logged in.
+[07/07/2021 21:26:21] Kaiio has logged out.
+[07/07/2021 21:26:23] Kaiio has logged in.
+[07/07/2021 21:26:35] Foxkinha has logged out.
+[07/07/2021 21:26:35] Foxkinha has logged in.
+[07/07/2021 21:26:51] Foxkinha has logged out.
+[07/07/2021 21:26:51] Foxkinha has logged in.
+[07/07/2021 21:29:20] Jean has logged out.
+[07/07/2021 21:29:20] Muthcka has logged out.
+[07/07/2021 21:29:20] Kaiio has logged out.
+[07/07/2021 21:29:20] Foxkinha has logged out.
+[07/07/2021 21:29:20] > Saving server...
+[07/07/2021 21:29:21] > SAVE: Complete in 0.664 seconds using relational house storage.
+[07/07/2021 21:29:21] Preparing to shutdown server..
+[07/07/2021 21:29:21] .
+[07/07/2021 21:29:21] Exiting
+[07/07/2021 21:54:54] The Forgotten Server, version 0.3.4 (Crying Damson)
+[07/07/2021 21:54:54] Sever Criado Por Alissow e Comedinha.
+[07/07/2021 21:54:54] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[07/07/2021 21:54:54] Bom Jogo!!!
+[07/07/2021 21:54:54] 
+[07/07/2021 21:54:54] >> Debugging: nothing.
+[07/07/2021 21:54:54] >> Checking software version... failed - could not parse remote file (are you connected to the internet?)
+[07/07/2021 21:54:54] 
+[07/07/2021 21:54:54] >> Loading config (config.lua)
+[07/07/2021 21:54:54] > Using plaintext passwords
+[07/07/2021 21:54:54] >> Loading RSA key
+[07/07/2021 21:54:54] >> Starting SQL connection
+[07/07/2021 21:54:54] >> Running Database Manager
+[07/07/2021 21:54:54] > Optimized database.
+[07/07/2021 21:54:54] >> Loading items
+[07/07/2021 21:54:54] >> Loading groups
+[07/07/2021 21:54:54] >> Loading vocations
+[07/07/2021 21:54:54] >> Loading script systems
+[07/07/2021 21:54:54] >> Loading chat channels
+[07/07/2021 21:54:55] >> Loading outfits
+[07/07/2021 21:54:55] >> Loading experience stages
+[07/07/2021 21:54:55] >> Loading monsters
+[07/07/2021 21:54:55] >> Loading map and spawns...
+[07/07/2021 21:54:55] > Map size: 65000x65000.
+[07/07/2021 21:54:55] > Map descriptions: 
+[07/07/2021 21:54:55] Saved with Remere's Map Editor 2.2
+[07/07/2021 21:54:55] No map description available.
+[07/07/2021 21:54:56] Duplicate uniqueId 2407
+[07/07/2021 21:54:58] > Map loading time: 3.057 seconds.
+[07/07/2021 21:54:58] > Data loading time: 0.216 seconds.
+[07/07/2021 21:54:58] > Unserialization time for houses: 0 seconds.
+[07/07/2021 21:55:13] > Unserialization time for map: 14.631 seconds.
+[07/07/2021 21:55:13] >> Checking world type... PvP
+[07/07/2021 21:55:13] >> Initializing game state modules and registering services...
+[07/07/2021 21:55:13] > Global address: deathpvp.ddns.net
+[07/07/2021 21:55:13] > Local ports:
+[07/07/2021 21:55:13] 7171	7172	
+[07/07/2021 21:55:13] >> All modules were loaded, server starting up...
+[07/07/2021 21:55:13] >> OT Death server Online!
+[07/07/2021 21:55:13] 
+[07/07/2021 21:55:54] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[07/07/2021 21:57:16] Account Manager has logged in.
+[07/07/2021 21:57:17] Account Manager has logged out.
+[07/07/2021 21:57:19] Kaiio has logged in.
+[07/07/2021 21:57:48] Kaiio has logged out.
+[07/07/2021 21:57:50] Account Manager has logged in.
+[07/07/2021 21:58:20] Account Manager has logged out.
+[07/07/2021 21:58:21] Kaiio has logged in.
+[07/07/2021 21:58:36] Kaiio has logged out.
+[07/07/2021 21:58:38] Account Manager has logged in.
+[07/07/2021 21:58:49] Account Manager has logged out.
+[07/07/2021 21:59:20] Mateus has logged in.
+[07/07/2021 21:59:22] Mateus has logged out.
+[07/07/2021 21:59:23] Account Manager has logged in.
+[07/07/2021 21:59:36] Account Manager has logged out.
+[07/07/2021 21:59:49] > Saving server...
+[07/07/2021 21:59:50] > SAVE: Complete in 0.528 seconds using relational house storage.
+[07/07/2021 22:01:21] Foxkinha has logged in.
+[07/07/2021 22:01:29] Foxkinha has logged out.
+[07/07/2021 22:01:32] Account Manager has logged in.
+[07/07/2021 22:01:47] Account Manager has logged out.
+[07/07/2021 22:01:48] Account Manager has logged in.
+[07/07/2021 22:01:57] Account Manager has logged out.
+[07/07/2021 22:02:09] > Saving server...
+[07/07/2021 22:02:09] > SAVE: Complete in 0.512 seconds using relational house storage.
+[07/07/2021 22:02:09] Preparing to shutdown server..
+[07/07/2021 22:02:09] .
+[07/07/2021 22:02:09] Exiting
+[07/07/2021 22:03:17] The Forgotten Server, version 0.3.4 (Crying Damson)
+[07/07/2021 22:03:17] Sever Criado Por Alissow e Comedinha.
+[07/07/2021 22:03:17] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[07/07/2021 22:03:18] Bom Jogo!!!
+[07/07/2021 22:03:18] 
+[07/07/2021 22:03:18] >> Debugging: nothing.
+[07/07/2021 22:03:18] >> Checking software version... failed - could not parse remote file (are you connected to the internet?)
+[07/07/2021 22:03:18] 
+[07/07/2021 22:03:18] >> Loading config (config.lua)
+[07/07/2021 22:03:18] > Using plaintext passwords
+[07/07/2021 22:03:18] >> Loading RSA key
+[07/07/2021 22:03:18] >> Starting SQL connection
+[07/07/2021 22:03:18] >> Running Database Manager
+[07/07/2021 22:03:18] > Optimized database.
+[07/07/2021 22:03:18] >> Loading items
+[07/07/2021 22:03:18] >> Loading groups
+[07/07/2021 22:03:18] >> Loading vocations
+[07/07/2021 22:03:18] >> Loading script systems
+[07/07/2021 22:03:18] >> Loading chat channels
+[07/07/2021 22:03:18] >> Loading outfits
+[07/07/2021 22:03:18] >> Loading experience stages
+[07/07/2021 22:03:18] >> Loading monsters
+[07/07/2021 22:03:19] >> Loading map and spawns...
+[07/07/2021 22:03:19] > Map size: 65000x65000.
+[07/07/2021 22:03:19] > Map descriptions: 
+[07/07/2021 22:03:19] Saved with Remere's Map Editor 2.2
+[07/07/2021 22:03:20] No map description available.
+[07/07/2021 22:03:20] Duplicate uniqueId 2407
+[07/07/2021 22:03:22] > Map loading time: 3.327 seconds.
+[07/07/2021 22:03:22] > Data loading time: 0.23 seconds.
+[07/07/2021 22:03:23] > Unserialization time for houses: 0 seconds.
+[07/07/2021 22:03:37] > Unserialization time for map: 14.853 seconds.
+[07/07/2021 22:03:37] >> Checking world type... PvP
+[07/07/2021 22:03:37] >> Initializing game state modules and registering services...
+[07/07/2021 22:03:38] > Global address: deathpvp.ddns.net
+[07/07/2021 22:03:38] > Local ports:
+[07/07/2021 22:03:38] 7171	7172	
+[07/07/2021 22:03:38] >> All modules were loaded, server starting up...
+[07/07/2021 22:03:38] >> OT Death server Online!
+[07/07/2021 22:03:38] 
+[07/07/2021 22:03:47] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[07/07/2021 22:03:48] Account Manager has logged in.
+[07/07/2021 22:03:51] Account Manager has logged out.
+[07/07/2021 22:04:24] Account Manager has logged in.
+[07/07/2021 22:04:28] Account Manager has logged out.
+[07/07/2021 22:11:39] > Broadcasted message: "Para ver as noticias fale !notice".
+[07/07/2021 22:19:02] > Saving server...
+[07/07/2021 22:19:03] > SAVE: Complete in 0.503 seconds using relational house storage.
+[07/07/2021 22:19:03] Preparing to shutdown server..
+[07/07/2021 22:19:03] .
+[07/07/2021 22:19:03] Exiting

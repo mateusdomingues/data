@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<monster name="Mulher Maravilha" nameDescription="Mulher Maravilha" experience="695000000" speed="420" race="blood">
+  <health now="15009000" max="15009000"/>
+  <look type="156" head="114" body="94" legs="88" feet="94" addons="2" corpse="3065"/>
+  <strategy attack="10000" defense="500"/>
+  <targetchange speed="10" chance="100"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="100"/>
+    <flag targetdistance="1"/>
+  </flags>
+  <attacks>
+    <attack name="physical" interval="1000" chance="100" min="-20000" max="-22000" range="1">
+    </attack>
+    <attack name="physical" interval="400" chance="50" min="-10000" max="-20000"/>
+    <attack name="physical" interval="750" chance="50" min="-30000" max="-50000"/>
+  </attacks>
+  <defenses defense="45" armor="10"/>
+  <immunities>
+    <immunity name="outfit"/>
+    <immunity name="invisible"/>
+  </immunities>
+  <loot>
+    <item id="5949" countmax="1" chance1="999999999" chancemax="9999999999"/>
+    <item id="2499" countmax="1" chance1="999999999" chancemax="9999999999"/>
+    <item id="2500" countmax="1" chance1="999999999" chancemax="9999999999"/>
+  </loot>
+</monster>

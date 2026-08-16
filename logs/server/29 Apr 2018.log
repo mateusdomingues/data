@@ -1,0 +1,55 @@
+[29/04/2018 13:19:11] The Forgotten Server, version 0.3.4 (Crying Damson)
+[29/04/2018 13:19:11] Sever Criado Por Alissow e Comedinha.
+[29/04/2018 13:19:11] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[29/04/2018 13:19:11] Bom Jogo!!!
+[29/04/2018 13:19:11] 
+[29/04/2018 13:19:11] >> Debugging: nothing.
+[29/04/2018 13:19:11] >> Checking software version... failed - could not parse remote file (are you connected to the internet?)
+[29/04/2018 13:19:11] 
+[29/04/2018 13:19:11] >> Loading config (config.lua)
+[29/04/2018 13:19:11] > Using plaintext passwords
+[29/04/2018 13:19:11] >> Loading RSA key
+[29/04/2018 13:19:11] >> Starting SQL connection
+[29/04/2018 13:19:11] >> Running Database Manager
+[29/04/2018 13:19:12] > Optimized database.
+[29/04/2018 13:19:12] >> Loading items
+[29/04/2018 13:19:12] >> Loading groups
+[29/04/2018 13:19:12] >> Loading vocations
+[29/04/2018 13:19:12] >> Loading script systems
+[29/04/2018 13:19:12] >> Loading chat channels
+[29/04/2018 13:19:12] >> Loading outfits
+[29/04/2018 13:19:12] >> Loading experience stages
+[29/04/2018 13:19:12] >> Loading monsters
+[29/04/2018 13:19:13] >> Loading map and spawns...
+[29/04/2018 13:19:13] > Map size: 65000x65000.
+[29/04/2018 13:19:13] > Map descriptions: 
+[29/04/2018 13:19:13] Saved with Remere's Map Editor 2.2
+[29/04/2018 13:19:13] No map description available.
+[29/04/2018 13:19:14] Duplicate uniqueId 2407
+[29/04/2018 13:19:17] > Map loading time: 4.609 seconds.
+[29/04/2018 13:19:18] > Data loading time: 0.973 seconds.
+[29/04/2018 13:19:18] > Unserialization time for houses: 0.021 seconds.
+[29/04/2018 13:19:41] > Unserialization time for map: 23.012 seconds.
+[29/04/2018 13:19:41] >> Checking world type... PvP
+[29/04/2018 13:19:41] >> Initializing game state modules and registering services...
+[29/04/2018 13:19:42] > Global address: deathpvp.servegame.com
+[29/04/2018 13:19:42] > Local ports:
+[29/04/2018 13:19:42] 7171	7172	
+[29/04/2018 13:19:42] >> All modules were loaded, server starting up...
+[29/04/2018 13:19:42] >> OT Death server Online!
+[29/04/2018 13:19:42] 
+[29/04/2018 13:20:20] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[29/04/2018 13:20:21] Account Manager has logged in.
+[29/04/2018 13:20:24] Account Manager has logged out.
+[29/04/2018 13:20:30] Jean has logged in.
+[29/04/2018 13:22:04] Jean has logged out.
+[29/04/2018 13:22:05] Fakedoi has logged in.
+[29/04/2018 13:23:16] Fakedoi has logged out.
+[29/04/2018 13:24:27] Fakedoi has logged in.
+[29/04/2018 13:27:33] > Broadcasted message: "Para comprar bless digite !bless".
+[29/04/2018 13:27:38] Fakedoi has logged out.
+[29/04/2018 13:27:47] > Saving server...
+[29/04/2018 13:27:48] > SAVE: Complete in 1.312 seconds using relational house storage.
+[29/04/2018 13:27:48] Preparing to shutdown server..
+[29/04/2018 13:27:48] .
+[29/04/2018 13:27:48] Exiting

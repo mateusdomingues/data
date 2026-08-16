@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<monster name="Master Of Nature" nameDescription="Master Of Nature" experience="20000" speed="1500" race="Blood">
+  <health now="7000000" max="7000000"/>
+  <look type="133" head="114" body="114" legs="114" feet="114" corpse="3058"/>
+  <strategy attack="720" defense="450"/>
+  <targetchange speed="10" chance="75"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="1"/>
+    <flag targetdistance="1"/>
+  </flags>
+  <attacks>
+    <attack name="poison" interval="5000" chance="100" min="-20000" max="-40000" range="1">
+    </attack>
+    <attack name="terra wave" interval="3000" chance="50" min="-20000" max="-50000"/>
+    <attack name="physical" interval="1000" chance="50" min="-45000" max="-60000"/>
+  </attacks>
+  <defenses defense="20" armor="20"/>
+  <immunities>
+    <immunity name="outfit"/>
+    <immunity name="invisible"/>
+    <immunity name="poison"/>
+  </immunities>
+  <loot/>
+</monster>

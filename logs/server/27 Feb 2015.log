@@ -1,0 +1,199 @@
+[27/02/2015 13:30:48] The Forgotten Server, version 0.3.4 (Crying Damson)
+[27/02/2015 13:30:48] Sever Criado Por Alissow e Comedinha.
+[27/02/2015 13:30:49] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[27/02/2015 13:30:49] Bom Jogo!!!
+[27/02/2015 13:30:49] 
+[27/02/2015 13:30:49] >> Debugging: nothing.
+[27/02/2015 13:30:49] >> Checking software version... failed checking - malformed file.
+[27/02/2015 13:30:50] 
+[27/02/2015 13:30:50] >> Loading config (config.lua)
+[27/02/2015 13:30:50] > Using plaintext passwords
+[27/02/2015 13:30:50] >> Loading RSA key
+[27/02/2015 13:30:50] >> Starting SQL connection
+[27/02/2015 13:30:50] >> Running Database Manager
+[27/02/2015 13:30:51] > Optimized database.
+[27/02/2015 13:30:51] >> Loading items
+[27/02/2015 13:30:52] >> Loading groups
+[27/02/2015 13:30:52] >> Loading vocations
+[27/02/2015 13:30:52] >> Loading script systems
+[27/02/2015 13:30:57] [Warning - Event::loadScript] Cannot load script (data/globalevents/scripts/mensagem.lua)
+[27/02/2015 13:30:58] data/globalevents/scripts/mensagem.lua:19: unexpected symbol near '<'
+[27/02/2015 13:30:58] >> Loading chat channels
+[27/02/2015 13:30:58] >> Loading outfits
+[27/02/2015 13:30:58] >> Loading experience stages
+[27/02/2015 13:30:59] >> Loading monsters
+[27/02/2015 13:31:14] >> Loading map and spawns...
+[27/02/2015 13:31:16] > Map size: 65000x65000.
+[27/02/2015 13:31:17] > Map descriptions: 
+[27/02/2015 13:31:19] Saved with Remere's Map Editor 2.2
+[27/02/2015 13:31:21] No map description available.
+[27/02/2015 13:31:22] Duplicate uniqueId 2407
+[27/02/2015 13:31:26] > Map loading time: 11.627 seconds.
+[27/02/2015 13:31:29] > Data loading time: 1.428 seconds.
+[27/02/2015 13:31:29] > Unserialization time for houses: 0.046 seconds.
+[27/02/2015 13:32:01] > Unserialization time for map: 31.111 seconds.
+[27/02/2015 13:32:01] >> Checking world type... PvP
+[27/02/2015 13:32:01] >> Initializing game state modules and registering services...
+[27/02/2015 13:32:02] > Global address: 127.0.0.1
+[27/02/2015 13:32:02] > Local ports:
+[27/02/2015 13:32:02] 7171	7172	
+[27/02/2015 13:32:02] >> All modules were loaded, server starting up...
+[27/02/2015 13:32:03] >> OT Death server Online!
+[27/02/2015 13:32:03] 
+[27/02/2015 13:32:38] > Saving server...
+[27/02/2015 13:32:39] > SAVE: Complete in 1.295 seconds using relational house storage.
+[27/02/2015 13:32:40] Preparing to shutdown server..
+[27/02/2015 13:32:40] .
+[27/02/2015 13:32:40] Exiting
+[27/02/2015 13:33:50] The Forgotten Server, version 0.3.4 (Crying Damson)
+[27/02/2015 13:33:50] Sever Criado Por Alissow e Comedinha.
+[27/02/2015 13:33:50] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[27/02/2015 13:33:51] Bom Jogo!!!
+[27/02/2015 13:33:51] 
+[27/02/2015 13:33:51] >> Debugging: nothing.
+[27/02/2015 13:33:51] >> Checking software version... failed checking - malformed file.
+[27/02/2015 13:33:52] 
+[27/02/2015 13:33:52] >> Loading config (config.lua)
+[27/02/2015 13:33:52] > Using plaintext passwords
+[27/02/2015 13:33:52] >> Loading RSA key
+[27/02/2015 13:33:52] >> Starting SQL connection
+[27/02/2015 13:33:52] >> Running Database Manager
+[27/02/2015 13:33:53] > Optimized database.
+[27/02/2015 13:33:53] >> Loading items
+[27/02/2015 13:33:53] >> Loading groups
+[27/02/2015 13:33:53] >> Loading vocations
+[27/02/2015 13:33:53] >> Loading script systems
+[27/02/2015 13:33:54] [Warning - Event::loadScript] Cannot load script (data/globalevents/scripts/mensagem.lua)
+[27/02/2015 13:33:54] data/globalevents/scripts/mensagem.lua:19: unexpected symbol near '<'
+[27/02/2015 13:33:55] >> Loading chat channels
+[27/02/2015 13:33:55] >> Loading outfits
+[27/02/2015 13:33:55] >> Loading experience stages
+[27/02/2015 13:33:55] >> Loading monsters
+[27/02/2015 13:33:58] >> Loading map and spawns...
+[27/02/2015 13:33:59] > Map size: 65000x65000.
+[27/02/2015 13:33:59] > Map descriptions: 
+[27/02/2015 13:33:59] Saved with Remere's Map Editor 2.2
+[27/02/2015 13:33:59] No map description available.
+[27/02/2015 13:34:00] Duplicate uniqueId 2407
+[27/02/2015 13:34:03] > Map loading time: 5.036 seconds.
+[27/02/2015 13:34:03] > Data loading time: 0.292 seconds.
+[27/02/2015 13:34:04] > Unserialization time for houses: 0.047 seconds.
+[27/02/2015 13:34:28] > Unserialization time for map: 24.559 seconds.
+[27/02/2015 13:34:29] >> Checking world type... PvP
+[27/02/2015 13:34:29] >> Initializing game state modules and registering services...
+[27/02/2015 13:34:29] > Global address: 127.0.0.1
+[27/02/2015 13:34:29] > Local ports:
+[27/02/2015 13:34:29] 7171	7172	
+[27/02/2015 13:34:29] >> All modules were loaded, server starting up...
+[27/02/2015 13:34:29] >> OT Death server Online!
+[27/02/2015 13:34:30] 
+[27/02/2015 13:35:35] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[27/02/2015 13:35:40] Account Manager has logged in.
+[27/02/2015 13:37:21] Account Manager has logged out.
+[27/02/2015 13:37:27] Jean has logged in.
+[27/02/2015 13:38:06] Jean has logged out.
+[27/02/2015 13:38:15] > Saving server...
+[27/02/2015 13:38:16] > SAVE: Complete in 1.357 seconds using relational house storage.
+[27/02/2015 13:38:17] Preparing to shutdown server..
+[27/02/2015 13:38:17] .
+[27/02/2015 13:38:17] Exiting
+[27/02/2015 18:39:22] The Forgotten Server, version 0.3.4 (Crying Damson)
+[27/02/2015 18:39:22] Sever Criado Por Alissow e Comedinha.
+[27/02/2015 18:39:22] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[27/02/2015 18:39:23] Bom Jogo!!!
+[27/02/2015 18:39:23] 
+[27/02/2015 18:39:23] >> Debugging: nothing.
+[27/02/2015 18:39:23] >> Checking software version... failed checking - malformed file.
+[27/02/2015 18:39:24] 
+[27/02/2015 18:39:24] >> Loading config (config.lua)
+[27/02/2015 18:39:24] > Using plaintext passwords
+[27/02/2015 18:39:24] >> Loading RSA key
+[27/02/2015 18:39:24] >> Starting SQL connection
+[27/02/2015 18:39:24] >> Running Database Manager
+[27/02/2015 18:39:25] > Optimized database.
+[27/02/2015 18:39:25] >> Loading items
+[27/02/2015 18:39:26] >> Loading groups
+[27/02/2015 18:39:26] >> Loading vocations
+[27/02/2015 18:39:26] >> Loading script systems
+[27/02/2015 18:39:27] >> Loading chat channels
+[27/02/2015 18:39:27] >> Loading outfits
+[27/02/2015 18:39:27] >> Loading experience stages
+[27/02/2015 18:39:27] >> Loading monsters
+[27/02/2015 18:39:29] >> Loading map and spawns...
+[27/02/2015 18:39:29] > Map size: 65000x65000.
+[27/02/2015 18:39:29] > Map descriptions: 
+[27/02/2015 18:39:30] Saved with Remere's Map Editor 2.2
+[27/02/2015 18:39:30] No map description available.
+[27/02/2015 18:39:30] Duplicate uniqueId 2407
+[27/02/2015 18:39:34] > Map loading time: 5.31 seconds.
+[27/02/2015 18:39:35] > Data loading time: 1.228 seconds.
+[27/02/2015 18:39:36] > Unserialization time for houses: 0.03 seconds.
+[27/02/2015 18:40:00] > Unserialization time for map: 24.534 seconds.
+[27/02/2015 18:40:01] >> Checking world type... PvP
+[27/02/2015 18:40:01] >> Initializing game state modules and registering services...
+[27/02/2015 18:40:01] > Global address: 127.0.0.1
+[27/02/2015 18:40:01] > Local ports:
+[27/02/2015 18:40:02] 7171	7172	
+[27/02/2015 18:40:02] >> All modules were loaded, server starting up...
+[27/02/2015 18:40:02] >> OT Death server Online!
+[27/02/2015 18:40:02] 
+[27/02/2015 18:40:47] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[27/02/2015 18:40:48] Account Manager has logged in.
+[27/02/2015 18:40:53] Account Manager has logged out.
+[27/02/2015 18:40:55] > Saving server...
+[27/02/2015 18:40:57] > SAVE: Complete in 1.42 seconds using relational house storage.
+[27/02/2015 18:40:57] Preparing to shutdown server..
+[27/02/2015 18:40:57] .
+[27/02/2015 18:40:57] Exiting
+[27/02/2015 18:59:47] The Forgotten Server, version 0.3.4 (Crying Damson)
+[27/02/2015 18:59:48] Sever Criado Por Alissow e Comedinha.
+[27/02/2015 18:59:48] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[27/02/2015 18:59:48] Bom Jogo!!!
+[27/02/2015 18:59:49] 
+[27/02/2015 18:59:49] >> Debugging: nothing.
+[27/02/2015 18:59:49] >> Checking software version... failed checking - malformed file.
+[27/02/2015 18:59:50] 
+[27/02/2015 18:59:50] >> Loading config (config.lua)
+[27/02/2015 18:59:50] > Using plaintext passwords
+[27/02/2015 18:59:50] >> Loading RSA key
+[27/02/2015 18:59:50] >> Starting SQL connection
+[27/02/2015 18:59:50] >> Running Database Manager
+[27/02/2015 18:59:51] > Optimized database.
+[27/02/2015 18:59:51] >> Loading items
+[27/02/2015 18:59:52] >> Loading groups
+[27/02/2015 18:59:52] >> Loading vocations
+[27/02/2015 18:59:52] >> Loading script systems
+[27/02/2015 18:59:53] >> Loading chat channels
+[27/02/2015 18:59:53] >> Loading outfits
+[27/02/2015 18:59:53] >> Loading experience stages
+[27/02/2015 18:59:53] >> Loading monsters
+[27/02/2015 18:59:54] >> Loading map and spawns...
+[27/02/2015 18:59:54] > Map size: 65000x65000.
+[27/02/2015 18:59:55] > Map descriptions: 
+[27/02/2015 18:59:55] Saved with Remere's Map Editor 2.2
+[27/02/2015 18:59:55] No map description available.
+[27/02/2015 18:59:55] Duplicate uniqueId 2407
+[27/02/2015 18:59:59] > Map loading time: 5.444 seconds.
+[27/02/2015 19:00:00] > Data loading time: 0.312 seconds.
+[27/02/2015 19:00:00] > Unserialization time for houses: 0.031 seconds.
+[27/02/2015 19:00:26] > Unserialization time for map: 25.647 seconds.
+[27/02/2015 19:00:26] >> Checking world type... PvP
+[27/02/2015 19:00:26] >> Initializing game state modules and registering services...
+[27/02/2015 19:00:27] > Global address: 127.0.0.1
+[27/02/2015 19:00:27] > Local ports:
+[27/02/2015 19:00:27] 7171	7172	
+[27/02/2015 19:00:27] >> All modules were loaded, server starting up...
+[27/02/2015 19:00:27] >> OT Death server Online!
+[27/02/2015 19:00:27] 
+[27/02/2015 19:00:37] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[27/02/2015 19:00:38] Jean has logged in.
+[27/02/2015 19:00:42] > Saving server...
+[27/02/2015 19:00:44] > SAVE: Complete in 1.467 seconds using relational house storage.
+[27/02/2015 19:06:09] Jean has logged out.
+[27/02/2015 19:06:09] Jean has logged in.
+[27/02/2015 19:07:04] Jean has logged out.
+[27/02/2015 19:07:04] > Saving server...
+[27/02/2015 19:07:05] > SAVE: Complete in 1.279 seconds using relational house storage.
+[27/02/2015 19:07:06] Preparing to shutdown server..
+[27/02/2015 19:07:06] .
+[27/02/2015 19:07:06] Exiting

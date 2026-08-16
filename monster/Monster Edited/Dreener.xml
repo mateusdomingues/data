@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<monster name="Dreener" nameDescription="Dreener" experience="6000" speed="750" race="blood">
+  <health now="1337" max="1337"/>
+  <look type="109" corpse="3058"/>
+  <strategy attack="10000" defense="500"/>
+  <targetchange speed="10" chance="100"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="100"/>
+    <flag targetdistance="1"/>
+    <flag targetdistance="2"/>
+  </flags>
+  <attacks>
+    <attack name="Mana Drain" interval="3000" chance="100" min="-20000" max="-50000" range="1">
+    </attack>
+    <attack name="Mana Drain" interval="3000" chance="100" min="20000" max="-40000"/>
+    <attack name="Physical" interval="3000" chance="100" min="-8000" max="-10000"/>
+  </attacks>
+  <defenses defense="45" armor="10"/>
+  <immunities>
+    <immunity name="earth"/>
+    <immunity name="energy"/>
+    <immunity name="death"/>
+    <immunity name="physical"/>
+    <immunity name="lifedrain"/>
+    <immunity name="outfit"/>
+    <immunity name="ice"/>
+    <immunity name="fire"/>
+    <immunity name="holy"/>
+    <immunity name="paralyze"/>
+    <immunity name="invisible"/>
+    <immunity name="drown"/>
+    <immunity name="drunk"/>
+  </immunities>
+  <loot/>
+</monster>

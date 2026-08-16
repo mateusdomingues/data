@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Nemesis" nameDescription="a nemesis" race="blood" experience="6000000" speed="9999" manacost="0">
+  <health now="750000000" max="750000000"/>
+  <look type="20" head="0" body="0" legs="0" feet="0" corpse="6067"/>
+  <targetchange interval="5000" chance="8"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag staticattack="90"/>
+    <flag targetdistance="1"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+    <attack name="Energy" interval="1000" min="-2000000" max="-5000000"/>
+    <attack name="X Vis" interval="6000" chance="100" min="-2800000" max="-2800000" range="10">
+    </attack>
+  </attacks>
+  <defenses armor="188" defense="145">
+    <defense name="healing" interval="9000" chance="100" min="82000000" max="82000000">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+  </defenses>
+  <elements>
+	<element energyPercent="9999"/>
+  </elements>
+  <immunities>
+    <immunity name="lifedrain"/>
+    <immunity name="outfit"/>
+    <immunity name="paralyze"/>
+    <immunity name="invisible"/>
+    <immunity name="drown"/>
+    <immunity name="drunk"/>
+  </immunities>
+  <voices interval="2000" chance="10">
+	<voice sentence="ELA É BRANCA?"/>
+  </voices>
+  <loot>
+    <item id="2148" countmax="90" chance1="100000" chancemax="0"/>
+  </loot>
+</monster>

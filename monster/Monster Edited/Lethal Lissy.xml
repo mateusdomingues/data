@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<monster name="Lethal Lissy" nameDescription="Lethal Lissy" experience="9999999955" speed="500" race="Blood">
+  <health now="9923000" max="9923000"/>
+  <look type="141" body="79" legs="114" feet="1" addons="3" corpse="3065"/>
+  <strategy attack="10000" defense="500"/>
+  <targetchange speed="10" chance="100"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="100"/>
+    <flag targetdistance="1"/>
+    <flag skull="3"/>
+  </flags>
+  <attacks>
+    <attack name="Ice" interval="500" chance="100" min="-75000" max="-85000" range="1">
+    </attack>
+    <attack name="physical" interval="850" chance="100" min="-50000" max="-60000" range="1">
+      <attribute key="areaEffect" value="fire"/>
+      <attribute key="shootEffect" value="fire"/>
+    </attack>
+  </attacks>
+  <defenses defense="45" armor="10"/>
+  <immunities>
+    <immunity name="outfit"/>
+    <immunity name="invisible"/>
+    <immunity name="poison"/>
+    <immunity name="death"/>
+    <immunity name="fire"/>
+  </immunities>
+  <loot>
+    <item id="3940" countmax="1" chance="99999"/>
+    <item id="2466" countmax="1" chance="99999"/>
+    <item id="2459" countmax="1" chance="99999"/>
+    <item id="2160" countmax="20" chance="9999"/>
+  </loot>
+</monster>

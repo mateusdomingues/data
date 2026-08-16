@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<monster name="Mana Eater" nameDescription="Mana Eater" experience="6000" speed="99999" race="blood">
+  <health now="300500000" max="300500000"/>
+  <look type="216" corpse="3058"/>
+  <strategy attack="10000" defense="500"/>
+  <targetchange speed="10" chance="100"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="100"/>
+    <flag targetdistance="1"/>
+  </flags>
+  <attacks>
+    <attack name="Death Exori" interval="800" chance="100" min="-500000" max="-1000000" range="1">
+    </attack>
+    <attack name="Death Exori" interval="800" chance="100" min="-500000" max="-1000000"/>
+  </attacks>
+  <defenses armor="0" defense="0"> 
+  <defense name="healing" interval="5000" chance="100" min="300000" max="1000000"/> 
+</defenses>
+  <immunities>
+    <immunity name="paralyze"/>
+    <immunity name="invisible"/>
+  </immunities>
+  <loot>
+    <item id="8306" countmax="1" chance1="999999999" chancemax="9999999999"/>
+  </loot>
+</monster>

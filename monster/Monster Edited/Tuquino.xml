@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<monster name="Tuquino" nameDescription="Tuquino" experience="6000" speed="50" race="blood">
+  <health now="300500000" max="300500000"/>
+  <look type="114" corpse="3058"/>
+  <strategy attack="10000" defense="500"/>
+  <targetchange speed="100" chance="100"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="100"/>
+    <flag targetdistance="1"/>
+  </flags>
+  <attacks>
+    <attack name="Physical" interval="1500" chance="100" min="-8000000" max="-8000000" range="1">
+    </attack>
+    <attack name="Physical" interval="1500" chance="100" min="-8000000" max="-8000000" range="1">
+    </attack>
+  </attacks>
+  <defenses armor="0" defense="0"> 
+  <defense name="healing" interval="5000" chance="100" min="0" max="0"/> 
+</defenses>
+  <immunities>
+    <immunity name="earth"/>
+    <immunity name="energy"/>
+    <immunity name="death"/>
+    <immunity name="physical"/>
+    <immunity name="lifedrain"/>
+    <immunity name="outfit"/>
+    <immunity name="ice"/>
+    <immunity name="fire"/>
+    <immunity name="holy"/>
+    <immunity name="paralyze"/>
+    <immunity name="invisible"/>
+    <immunity name="drown"/>
+    <immunity name="drunk"/>
+  </immunities>
+  <loot/>
+</monster>

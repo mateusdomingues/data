@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<monster name="The Teleportener" nameDescription="The Teleportener" experience="5000000" speed="400" race="blood">
+  <health now="500500000" max="500500000"/>
+  <look type="256" corpse="6080"/>
+  <strategy attack="10000" defense="500"/>
+  <targetchange speed="10" chance="100"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="100"/>
+    <flag targetdistance="1"/>
+  </flags>
+  <attacks>
+    <attack name="Fire" interval="2500" chance="100" min="-600000" max="-800000" range="8">
+    </attack>
+    <attack name="Holy" interval="5000" chance="50" min="-2000000" max="-2000000" range="8">
+    </attack>
+    <attack name="physical" interval="800" chance="50" min="-700000" max="-1000000" range="8">
+    </attack>
+    <attack name="Hells Core" interval="10000" chance="100" min="-3000000" max="-3000000" range="8">
+      <attribute key="areaEffect" value="fire"/>
+      <attribute key="shootEffect" value="fire"/>
+    </attack>
+  </attacks>
+  <defenses armor="0" defense="0"> 
+  <defense name="healing" interval="9000" chance="100" min="35000000" max="35000000"/> 
+</defenses>
+  <immunities>
+    <immunity name="outfit"/>
+    <immunity name="invisible"/>
+    <immunity name="poison"/>
+  </immunities>
+        <summons maxSummons="8">
+                <summon name="dreener" interval="50" chance="100" max="2"/>
+        </summons>
+  <loot>
+    <item id="1987" countmax="1" chance="99999999999"/>
+    <item id="10064" countmax="1" chance="99999999999"/>
+  </loot>
+</monster>

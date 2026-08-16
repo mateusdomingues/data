@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<monster name="Death Blob" nameDescription="Death Blob" experience="500000" speed="300" race="Blood">
+  <health now="620000" max="620000"/>
+  <look type="315" corpse="9936"/>
+  <strategy attack="10000" defense="500"/>
+  <targetchange speed="10" chance="100"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="100"/>
+    <flag targetdistance="1"/>
+    <flag skull="3"/>
+  </flags>
+  <attacks>
+    <attack name="Physical" interval="750" chance="100" min="-30000" max="-50000" range="1">
+    </attack>
+    <attack name="Physical" interval="750" chance="100" min="-60000" max="-80000" range="1">
+    </attack>
+  </attacks>
+  <defenses defense="45" armor="10"/>
+  <immunities>
+    <immunity name="outfit"/>
+    <immunity name="invisible"/>
+    <immunity name="poison"/>
+    <immunity name="death"/>
+  </immunities>
+  <loot>
+  </loot>
+</monster>

@@ -1,0 +1,1261 @@
+----- 08/07/2021 21:27:07 - Mateus (177.9.232.20) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD RYZEN 3 2
+Video Card: ATI Radeon AMD (TM) 
+Last Packet Types: 110 030 131 131 131 131 131 131 131 131
+Last Packet: 110 000 133 037 014 000 067 114 111 119 110 032 066 097 099 107
+Player Position: [158,51,7]
+Player Name: Mateus (Level: 8 Voc: K)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 110) (MainWindow = 45187936), reason:
+Communication.cpp 2177: exception occurred (Container = 0), reason:
+Objects.cpp 280: exception occurred (Type = 64268) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 64268) (ObjectProperties->high() = 11703), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Thu Jul 08 21:25:51 2021
+Debug Assertion 8.60 Objects.cpp 277
+
+----- 08/07/2021 21:28:42 - Mateus (177.9.232.20) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD RYZEN 3 2
+Video Card: ATI Radeon AMD (TM) 
+Last Packet Types: 110 131 131 131 131 131 131 131 131 131
+Last Packet: 110 000 133 037 014 000 067 114 111 119 110 032 066 097 099 107
+Player Position: [157,57,7]
+Player Name: Mateus (Level: 8 Voc: K)
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 048 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 110) (MainWindow = 43484000), reason:
+Communication.cpp 2177: exception occurred (Container = 0), reason:
+Objects.cpp 280: exception occurred (Type = 64268) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 64268) (ObjectProperties->high() = 11703), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Thu Jul 08 21:27:17 2021
+Debug Assertion 8.60 Objects.cpp 277
+
+----- 09/07/2021 14:16:43 - Teste (177.9.232.20) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD RYZEN 3 2
+Video Card: ATI Radeon AMD (TM) 
+Last Packet Types: 110 131 131 131 131 131 131 131 131 131
+Last Packet: 110 000 133 037 000 000 008 000 008 091 012 088 012 222 028 237
+Player Position: [157,50,7]
+Player Name: Teste (Level: 100 Voc: K)
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 048 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 110) (MainWindow = 43418464), reason:
+Communication.cpp 2177: exception occurred (Container = 0), reason:
+Objects.cpp 280: exception occurred (Type = 56844) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 56844) (ObjectProperties->high() = 11703), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Fri Jul 09 14:16:23 2021
+Debug Assertion 8.60 Objects.cpp 277
+
+----- 09/07/2021 14:17:20 - Teste (177.9.232.20) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD RYZEN 3 2
+Video Card: ATI Radeon AMD (TM) 
+Last Packet Types: 110 160 106 121 131 132 140 131 131 131
+Last Packet: 121 010 106 157 000 051 000 007 001 133 037 160 029 006 029 006
+Player Position: [157,50,7]
+Player Name: Teste (Level: 100 Voc: K)
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 048 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 110) (MainWindow = 41911136), reason:
+Communication.cpp 2177: exception occurred (Container = 0), reason:
+Objects.cpp 280: exception occurred (Type = 56844) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 56844) (ObjectProperties->high() = 11703), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Fri Jul 09 14:16:48 2021
+Debug Assertion 8.60 Objects.cpp 277
+
+----- 10/07/2021 14:49:47 - Tester (177.9.232.20) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD RYZEN 3 2
+Video Card: ATI Radeon AMD (TM) 
+Last Packet Types: 101 109 104 109 131 100 108 102 109 131
+Last Packet: 109 034 003 010 004 007 001 034 003 009 004 007 101 006 018 106
+Player Position: [802,1033,7]
+Player Name: Mateus (Level: 8 Voc: K)
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 048 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = -1) (MainWindow = 41320280), reason:
+Network.cpp 445: exception occurred, reason:
+Network.cpp 432: exception occurred, reason:
+Network.cpp 398: packet size does not fit to symmetric encryption (PacketSize = 15341)
+Sat Jul 10 14:49:32 2021
+Debug Assertion 8.60 Network.cpp 398
+
+----- 10/07/2021 22:03:55 - Mateus (127.0.0.1) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD RYZEN 3 2
+Video Card: ATI Radeon AMD (TM) 
+Last Packet Types: 104 109 030 101 109 104 109 102 109 131
+Last Packet: 109 035 003 009 004 007 001 034 003 009 004 007 104 002 018 106
+Player Position: [802,1033,7]
+Player Name: Mateus (Level: 8 Voc: K)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = -1) (MainWindow = 40533816), reason:
+Network.cpp 445: exception occurred, reason:
+Network.cpp 432: exception occurred, reason:
+Network.cpp 398: packet size does not fit to symmetric encryption (PacketSize = 15341)
+Sat Jul 10 22:03:34 2021
+Debug Assertion 8.60 Network.cpp 398
+
+----- 13/07/2021 14:22:36 - Lord Biel (177.134.222.194) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD FX -6300 
+Video Card: NVIDIA GeForce GTX 1050 TI
+Last Packet Types: 021 162 141 130 161 160 120 121 121 120
+Last Packet: 010 034 068 000 016 050 000 000 100 160 000 054 000 007 245 001
+Player Position: [160,54,7]
+Player Name: Lord Biel (Level: 19833 Voc: P)
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 048 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 1 MaW: 27CB290 MoW: 276D9B0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+GUI.cpp 1314: exception occurred (Surface = 1) (i = 3), reason:
+GUI.cpp 1288: dialog origin outside main window (surface: 1 x: -2 y: 102 DrawingListLength: 9 i: 3 DrawingList.Skin: 47 DrawingList.x: 0 DrawingList.y: 17 DrawingList.width: 4 DrawingList.height: 225 DrawingList.srcx: 0 DrawingList.srcy: 0)
+Tue Jul 13 14:20:58 2021
+Debug Assertion 8.60 GUI.cpp 1288
+
+----- 18/07/2021 19:07:32 - Mateus (127.0.0.1) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD RYZEN 3 2
+Video Card: ATI Radeon AMD (TM) 
+Last Packet Types: 101 109 104 109 131 100 108 162 100 108
+Last Packet: 109 034 003 010 004 007 001 034 003 009 004 007 101 247 017 106
+Player Position: [802,1033,7]
+Player Name: Mateus (Level: 10000 Voc: K)
+Player Action: 049 050 055 046 048 046 048 046 049 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = -1) (MainWindow = 41385784), reason:
+Network.cpp 445: exception occurred, reason:
+Network.cpp 432: exception occurred, reason:
+Network.cpp 398: packet size does not fit to symmetric encryption (PacketSize = 15341)
+Sun Jul 18 19:07:22 2021
+Debug Assertion 8.60 Network.cpp 398
+
+----- 19/07/2021 22:55:09 - Covid (201.43.42.118) -----
+Comment: 
+Graphic Engine: OpenGL (1)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i7 -8550U @ 
+Video Card: Intel (R) UHD G
+Last Packet Types: 160 160 140 030 160 160 140 160 160 140
+Last Packet: 140 091 069 000 016 100 160 195 024 195 024 079 127 218 000 255
+Player Position: [340,114,7]
+Player Name: Covid (Level: 11971 Voc: D)
+Player Action: 049 055 055 046 049 056 057 046 049 057 057 046 052 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2868220 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 969BA3F5)
+Mon Jul 19 22:54:45 2021
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 20/07/2021 17:29:57 - Kawan Silva (138.0.114.159) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Ultimate Edition 64 Bit in BRA
+Processor: Intel CORE I3 5
+Video Card: NVIDIA GeForce GT 710
+Last Packet Types: 107 109 109 131 131 131 131 131 131 131
+Last Packet: 109 157 000 058 000 008 001 158 000 058 000 008 107 158 000 058
+Player Position: [154,57,8]
+Player Name: Kawan Silva (Level: 100 Voc: P)
+Player Action: 049 055 055 046 049 056 057 046 049 057 057 046 052 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2767F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000045)
+Tue Jul 20 17:29:25 2021
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 21/07/2021 00:17:59 - Covid (201.43.42.118) -----
+
+Graphic Engine: OpenGL (1)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i7 -8550U @ 
+Video Card: Intel (R) UHD G
+Last Packet Types: 109 132 140 131 132 140 131 131 131 131
+Last Packet: 109 158 000 052 000 006 002 158 000 051 000 006 000 000 000 000
+Player Position: [156,51,7]
+Player Name: Money (Level: 100 Voc: D)
+Player Action: 049 055 055 046 049 056 057 046 049 057 057 046 052 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2818238 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+ConsoleWindow.cpp 1682: exception occurred (Surface = 1), reason:
+GUI.cpp 1559: exception occurred (Surface = 1), reason:
+GUI.cpp 1314: exception occurred (Surface = 1) (i = 8), reason:
+GUI.cpp 87: exception occurred (skin = 193), reason:
+Graphics.cpp 1280: exception occurred (Surface = 1) (PictureNumber = 4), reason:
+SurfaceGL.cpp 1472: exception occurred, reason:
+SurfaceGL.cpp 1375: exception occurred, reason:
+SurfaceGL.cpp 1449: exception ocurred (ToSurface: 1 FromSurface: 12 Texture: 11 DebuggingProgress: 2), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 00000000)
+Wed Jul 21 00:03:37 2021
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 21/07/2021 13:13:59 - Lindinhaa (131.72.69.149) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD A6-7400K 
+Video Card: ATI Radeon AMD (TM) 
+Last Packet Types: 100 010 180 031 100 020 132 107 107 107
+Last Packet: 180 019 032 000 083 112 101 099 116 097 116 111 114 032 091 051
+Player Name: Psicopata (64000)
+Player Action: 053 052 046 051 057 046 049 051 048 046 050 051 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 100) (MainWindow = 2064216), reason:
+Communication.cpp 1681: exception occurred (PlayerX = 38046) (PlayerY = 34426), reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 97) (OldType = 416), reason:
+Communication.cpp 1592: exception occurred (Type = 97) (CreatureID = 268435476), reason:
+Objects.cpp 604: exception occurred (Number = 401), reason:
+Container.h 226: index out of range (original i: 401, i: 400, min: 1, d: 367)
+Wed Jul 21 12:43:58 2021
+Debug Assertion 8.60 Container.h 226
+
+----- 21/07/2021 19:32:27 - Mateus (177.189.199.43) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -7200U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 101 109 101 109 103 109 162 100 108 162
+Last Packet: 109 072 002 023 012 007 001 072 002 022 012 007 101 215 002 000
+Player Position: [584,3094,7]
+Player Name: Mateus (Level: 10000 Voc: K)
+Player Action: 049 055 055 046 049 056 057 046 049 057 057 046 052 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = -1) (MainWindow = 15040344), reason:
+Network.cpp 445: exception occurred, reason:
+Network.cpp 432: exception occurred, reason:
+Network.cpp 398: packet size does not fit to symmetric encryption (PacketSize = 15341)
+Wed Jul 21 19:31:55 2021
+Debug Assertion 8.60 Network.cpp 398
+
+----- 22/07/2021 20:00:25 - Luan (189.25.119.243) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows 7 Home Premium Edition 64 Bit in BRA
+Processor: Intel Celeron J1900 @ 1
+Video Card: Intel (R) HD GR
+Last Packet Types: 100 010 031 100 020 010 010 010 010 010
+Last Packet: 010 190 003 000 016 050 000 000 100 113 126 241 125 007 154 001
+Player Name: Dwight (DEMOLIDORES 2)
+Player Action: 053 052 046 051 057 046 049 051 048 046 050 051 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = 100) (MainWindow = 3243864), reason:
+Communication.cpp 1681: exception occurred (PlayerX = 32369) (PlayerY = 32241), reason:
+Communication.cpp 1659: exception occurred (xmin = 0) (ymin = 0), reason:
+Communication.cpp 1638: exception occurred (Type = 11706) (OldType = 9641), reason:
+Objects.cpp 280: exception occurred (Type = 11706) (Flag = 10), reason:
+Objects.cpp 277: assertion failed (Type = 11706) (ObjectProperties->high() = 11703), reason:
+In(Type,ObjectProperties->low(),ObjectProperties->high())
+Thu Jul 22 19:59:05 2021
+Debug Assertion 8.60 Objects.cpp 277
+
+----- 25/07/2021 16:43:03 - Mateus (201.95.145.245) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -7200U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 104 109 131 100 108 102 103 109 030 131
+Last Packet: 109 035 003 010 004 007 001 034 003 010 004 007 104 248 017 106
+Player Position: [802,1034,7]
+Player Name: Mateus (Level: 10000 Voc: K)
+Player Action: 050 048 049 046 057 053 046 049 052 053 046 050 052 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = -1) (MainWindow = 42303320), reason:
+Network.cpp 445: exception occurred, reason:
+Network.cpp 432: exception occurred, reason:
+Network.cpp 398: packet size does not fit to symmetric encryption (PacketSize = 15341)
+Sun Jul 25 16:42:42 2021
+Debug Assertion 8.60 Network.cpp 398
+
+----- 25/07/2021 16:46:39 - Mateus (201.95.145.245) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -7200U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 101 109 104 109 131 100 108 102 103 109
+Last Packet: 109 034 003 010 004 007 001 034 003 009 004 007 101 005 018 106
+Player Position: [802,1033,7]
+Player Name: Mateus (Level: 10000 Voc: K)
+Player Action: 050 048 049 046 057 053 046 049 052 053 046 050 052 053 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = -1) (MainWindow = 10126176), reason:
+Network.cpp 445: exception occurred, reason:
+Network.cpp 432: exception occurred, reason:
+Network.cpp 398: packet size does not fit to symmetric encryption (PacketSize = 15341)
+Sun Jul 25 16:46:17 2021
+Debug Assertion 8.60 Network.cpp 398
+
+----- 30/07/2021 16:08:59 - Knight Down (179.125.55.1) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Quad Core AMD FX -4300
+Video Card: NVIDIA GeForce GT 630
+Last Packet Types: 106 101 109 131 131 131 131 131 131 131
+Last Packet: 106 145 000 050 000 007 001 098 000 012 004 000 128 100 002 143
+Player Position: [153,56,7]
+Player Name: Knight Down (Level: 100 Voc: K)
+Player Action: 049 055 055 046 054 056 046 049 048 048 046 052 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: B17F48 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4EA5B499)
+Fri Jul 30 16:08:46 2021
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 01/08/2021 14:04:02 - Jean (177.68.100.48) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD RYZEN 3 2
+Video Card: ATI Radeon AMD (TM) 
+Last Packet Types: 131 108 132 030 109 109 109 109 109 106
+Last Packet: 132 223 000 049 000 000 112 002 000 043 049 108 223 000 049 000
+Player Position: [220,49,4]
+Player Name: Jean (Level: 10000 Voc: D)
+Player Action: 049 055 055 046 054 056 046 049 048 048 046 052 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = -1) (MainWindow = 42173280), reason:
+Network.cpp 445: exception occurred, reason:
+Network.cpp 432: exception occurred, reason:
+Network.cpp 398: packet size does not fit to symmetric encryption (PacketSize = 15341)
+Sun Aug 01 14:03:48 2021
+Debug Assertion 8.60 Network.cpp 398
+
+----- 01/08/2021 14:06:43 - Jean (177.68.100.48) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD RYZEN 3 2
+Video Card: ATI Radeon AMD (TM) 
+Last Packet Types: 102 109 101 109 104 109 101 109 102 109
+Last Packet: 109 074 003 143 010 007 002 075 003 143 010 007 102 072 003 000
+Player Position: [843,2703,7]
+Player Name: Jean (Level: 10000 Voc: D)
+Player Action: 049 055 055 046 054 056 046 049 048 048 046 052 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = -1) (MainWindow = 42173280), reason:
+Network.cpp 445: exception occurred, reason:
+Network.cpp 432: exception occurred, reason:
+Network.cpp 398: packet size does not fit to symmetric encryption (PacketSize = 15341)
+Sun Aug 01 14:06:27 2021
+Debug Assertion 8.60 Network.cpp 398
+
+----- 01/08/2021 14:24:43 - Jean (177.68.100.48) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD RYZEN 3 2
+Video Card: ATI Radeon AMD (TM) 
+Last Packet Types: 104 109 104 109 104 109 103 109 102 109
+Last Packet: 109 209 002 077 011 007 002 208 002 077 011 007 104 154 001 157
+Player Position: [720,2893,7]
+Player Name: Jean (Level: 10000 Voc: D)
+Player Action: 049 055 055 046 054 056 046 049 048 048 046 052 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = -1) (MainWindow = 15172448), reason:
+Network.cpp 445: exception occurred, reason:
+Network.cpp 432: exception occurred, reason:
+Network.cpp 398: packet size does not fit to symmetric encryption (PacketSize = 15341)
+Sun Aug 01 14:24:19 2021
+Debug Assertion 8.60 Network.cpp 398
+
+----- 02/08/2021 18:08:01 - Morris (177.32.171.211) -----
+Comment: 
+Graphic Engine: OpenGL (1)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i7 -2600 @ 3
+Video Card: NVIDIA GeForce GT 710
+Last Packet Types: 107 109 109 107 109 107 107 109 109 109
+Last Packet: 109 059 001 190 004 006 001 060 001 190 004 006 109 066 001 193
+Player Position: [322,1210,7]
+Player Name: Morris (Level: 94413 Voc: )
+Player Action: 049 055 055 046 054 056 046 049 048 048 046 052 056 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 27A3F10 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000018)
+Mon Aug 02 18:06:32 2021
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 08/08/2021 10:28:27 - Rei Pally (201.71.134.138) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -7400 @ 3
+Video Card: NVIDIA GeForce GTX 1060 6GB
+Last Packet Types: 132 140 030 108 109 131 132 131 131 131
+Last Packet: 140 150 006 000 064 100 132 151 000 044 000 006 018 009 000 043
+Player Position: [155,47,6]
+Player Name: Rei Pally (Level: 513562 Voc: )
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 051 055 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 26D7F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000018)
+Sun Aug 08 10:26:34 2021
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 08/08/2021 17:36:28 - Jean (177.9.232.237) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD RYZEN 3 2
+Video Card: ATI Radeon AMD (TM) 
+Last Packet Types: 131 134 131 134 132 140 132 140 132 140
+Last Packet: 140 235 017 000 064 100 132 113 004 004 002 007 018 009 000 043
+Player Position: [1131,513,7]
+Player Name: Demonic Striker (Level: 372325 Voc: )
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 051 055 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2637F38 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4EA5B499)
+Sun Aug 08 17:36:15 2021
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 08/08/2021 17:37:24 - Demonic Striker (177.9.232.237) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD RYZEN 3 2
+Video Card: ATI Radeon AMD (TM) 
+Last Packet Types: 131 134 132 140 131 134 132 140 131 132
+Last Packet: 134 225 017 000 064 000 131 107 004 001 002 007 004 000 000 000
+Player Position: [1131,513,7]
+Player Name: Demonic Striker (Level: 372325 Voc: )
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 051 055 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: A28360 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (write attempt at 4EA5B499)
+Sun Aug 08 17:36:48 2021
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 08/08/2021 21:32:12 - Muthcka (191.177.167.121) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-1
+Video Card: Intel (R) UHD G
+Last Packet Types: 102 109 108 109 101 109 102 109 102 109
+Last Packet: 109 221 000 050 000 008 001 222 000 050 000 008 102 013 255 117
+Player Position: [222,50,8]
+Player Name: Muthcka (Level: 476375 Voc: )
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 051 055 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2817EF8 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at 00000018)
+Sun Aug 08 21:31:50 2021
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 11/08/2021 19:10:16 - Mage Do Caralho (191.177.167.121) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-1
+Video Card: Intel (R) UHD G
+Last Packet Types: 162 141 130 161 160 120 121 120 120 120
+Last Packet: 010 017 157 003 016 050 000 000 100 217 000 233 011 007 215 002
+Player Position: [217,3049,7]
+Player Name: Muthcka (Level: 100 Voc: )
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 051 055 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1499: exception occurred (MaW: E67EF8 MoW: 0 ), reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 122: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 707: exception occurred (Surface = 1) ((int) Child = 131943744), reason:
+ContentWindows.cpp 2206: exception occurred (Surface = 1), reason:
+ContentWindows.cpp 2465: exception occurred (NumberOfLine = 6), reason:
+ContentWindows.cpp 2461: assertion failed (Value = -20688478) (NumberOfLine = 6), reason:
+Value>=0 [bug0000996]
+Wed Aug 11 19:09:44 2021
+Debug Assertion 8.60 ContentWindows.cpp 2461
+
+----- 11/08/2021 19:15:35 - Muthcka (191.177.167.121) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-1
+Video Card: Intel (R) UHD G
+Last Packet Types: 021 131 132 162 141 130 161 160 120 121
+Last Packet: 010 205 178 003 016 050 000 000 100 218 000 231 011 007 215 002
+Player Position: [218,3047,7]
+Player Name: Muthcka (Level: 173336 Voc: )
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 051 055 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1499: exception occurred (MaW: 2742D70 MoW: 0 ), reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 122: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 707: exception occurred (Surface = 1) ((int) Child = 131875192), reason:
+ContentWindows.cpp 2206: exception occurred (Surface = 1), reason:
+ContentWindows.cpp 2465: exception occurred (NumberOfLine = 6), reason:
+ContentWindows.cpp 2461: assertion failed (Value = -20688478) (NumberOfLine = 6), reason:
+Value>=0 [bug0000996]
+Wed Aug 11 19:13:54 2021
+Debug Assertion 8.60 ContentWindows.cpp 2461
+
+----- 11/08/2021 19:15:52 - Muthcka (177.9.232.237) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD RYZEN 3 2
+Video Card: ATI Radeon AMD (TM) 
+Last Packet Types: 132 140 132 140 131 131 131 131 131 131
+Last Packet: 140 036 007 000 064 100 132 151 000 053 000 006 018 009 000 043
+Player Position: [158,54,7]
+Player Name: Muthcka (Level: 173336 Voc: )
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 051 055 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+MainFrm.cpp 642: exception occurred (point.x = 1443) (point.y = 336), reason:
+Control.cpp 592: exception occurred (x = 1443) (y = 336), reason:
+GUI.cpp 1647: exception occurred (x = 1443) (y = 336), reason:
+GUI.cpp 1647: exception occurred (x = 23) (y = 336), reason:
+GUI.cpp 1647: exception occurred (x = 21) (y = 334), reason:
+DialogWindow.cpp 783: exception occurred (x = 21) (y = 15), reason:
+GUI.cpp 1647: exception occurred (x = 21) (y = 15), reason:
+DialogElements.cpp 1637: exception occurred, reason:
+GUI.cpp 2090: exception occurred, reason:
+MainWindow.cpp 353: exception occurred (Event = 14), reason:
+MainWindow.cpp 833: exception occurred (Identifier = 6), reason:
+ContentWindows.cpp 200: exception occurred, reason:
+ContentWindows.cpp 2104: exception occurred, reason:
+ContentWindows.cpp 2344: exception occurred, reason:
+ContentWindows.cpp 2396: exception occurred, reason:
+ContentWindows.cpp 2465: exception occurred (NumberOfLine = 6), reason:
+ContentWindows.cpp 2461: assertion failed (Value = -20688478) (NumberOfLine = 6), reason:
+Value>=0 [bug0000996]
+Wed Aug 11 19:14:59 2021
+Debug Assertion 8.60 ContentWindows.cpp 2461
+
+----- 11/08/2021 19:16:25 - Muthcka (177.9.232.237) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD RYZEN 3 2
+Video Card: ATI Radeon AMD (TM) 
+Last Packet Types: 030 132 140 132 140 131 109 132 140 131
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [158,54,7]
+Player Name: Muthcka (Level: 173336 Voc: )
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 051 055 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+MainFrm.cpp 642: exception occurred (point.x = 1437) (point.y = 327), reason:
+Control.cpp 592: exception occurred (x = 1437) (y = 327), reason:
+GUI.cpp 1647: exception occurred (x = 1437) (y = 327), reason:
+GUI.cpp 1647: exception occurred (x = 17) (y = 327), reason:
+GUI.cpp 1647: exception occurred (x = 15) (y = 325), reason:
+DialogWindow.cpp 783: exception occurred (x = 15) (y = 6), reason:
+GUI.cpp 1647: exception occurred (x = 15) (y = 6), reason:
+DialogElements.cpp 1637: exception occurred, reason:
+GUI.cpp 2090: exception occurred, reason:
+MainWindow.cpp 353: exception occurred (Event = 14), reason:
+MainWindow.cpp 833: exception occurred (Identifier = 6), reason:
+ContentWindows.cpp 200: exception occurred, reason:
+ContentWindows.cpp 2104: exception occurred, reason:
+ContentWindows.cpp 2344: exception occurred, reason:
+ContentWindows.cpp 2396: exception occurred, reason:
+ContentWindows.cpp 2465: exception occurred (NumberOfLine = 6), reason:
+ContentWindows.cpp 2461: assertion failed (Value = -20688478) (NumberOfLine = 6), reason:
+Value>=0 [bug0000996]
+Wed Aug 11 19:16:11 2021
+Debug Assertion 8.60 ContentWindows.cpp 2461
+
+----- 11/08/2021 19:16:38 - Muthcka (191.177.167.121) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-1
+Video Card: Intel (R) UHD G
+Last Packet Types: 162 141 130 161 160 120 121 120 120 120
+Last Packet: 010 205 178 003 016 050 000 000 100 158 000 054 000 007 174 029
+Player Position: [158,54,7]
+Player Name: Muthcka (Level: 173336 Voc: )
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 051 055 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1499: exception occurred (MaW: E87EF8 MoW: 0 ), reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 122: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 707: exception occurred (Surface = 1) ((int) Child = 131811840), reason:
+ContentWindows.cpp 2206: exception occurred (Surface = 1), reason:
+ContentWindows.cpp 2465: exception occurred (NumberOfLine = 6), reason:
+ContentWindows.cpp 2461: assertion failed (Value = -20688478) (NumberOfLine = 6), reason:
+Value>=0 [bug0000996]
+Wed Aug 11 19:16:12 2021
+Debug Assertion 8.60 ContentWindows.cpp 2461
+
+----- 11/08/2021 20:29:54 - Muthcka (191.177.167.121) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-1
+Video Card: Intel (R) UHD G
+Last Packet Types: 162 141 130 161 160 120 121 120 120 120
+Last Packet: 010 002 187 003 016 050 000 000 100 156 000 054 000 007 175 029
+Player Position: [156,54,7]
+Player Name: Muthcka (Level: 217737 Voc: )
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 051 055 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1499: exception occurred (MaW: 2778340 MoW: 0 ), reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 122: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 707: exception occurred (Surface = 1) ((int) Child = 131944064), reason:
+ContentWindows.cpp 2206: exception occurred (Surface = 1), reason:
+ContentWindows.cpp 2465: exception occurred (NumberOfLine = 6), reason:
+ContentWindows.cpp 2461: assertion failed (Value = -16891903) (NumberOfLine = 6), reason:
+Value>=0 [bug0000996]
+Wed Aug 11 19:21:37 2021
+Debug Assertion 8.60 ContentWindows.cpp 2461
+
+----- 11/08/2021 20:31:46 - Muthcka (191.177.167.121) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-1
+Video Card: Intel (R) UHD G
+Last Packet Types: 030 132 140 111 111 132 140 132 140 131
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [156,51,7]
+Player Name: Muthcka (Level: 325200 Voc: )
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 051 055 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+MainFrm.cpp 642: exception occurred (point.x = 1226) (point.y = 161), reason:
+Control.cpp 592: exception occurred (x = 1226) (y = 161), reason:
+GUI.cpp 1647: exception occurred (x = 1226) (y = 161), reason:
+GUI.cpp 1647: exception occurred (x = 40) (y = 161), reason:
+GUI.cpp 1647: exception occurred (x = 38) (y = 159), reason:
+DialogWindow.cpp 783: exception occurred (x = 38) (y = 10), reason:
+GUI.cpp 1647: exception occurred (x = 38) (y = 10), reason:
+DialogElements.cpp 1637: exception occurred, reason:
+GUI.cpp 2090: exception occurred, reason:
+MainWindow.cpp 353: exception occurred (Event = 14), reason:
+MainWindow.cpp 833: exception occurred (Identifier = 6), reason:
+ContentWindows.cpp 200: exception occurred, reason:
+ContentWindows.cpp 2104: exception occurred, reason:
+ContentWindows.cpp 2344: exception occurred, reason:
+ContentWindows.cpp 2396: exception occurred, reason:
+ContentWindows.cpp 2465: exception occurred (NumberOfLine = 6), reason:
+ContentWindows.cpp 2461: assertion failed (Value = -16891878) (NumberOfLine = 6), reason:
+Value>=0 [bug0000996]
+Wed Aug 11 20:31:01 2021
+Debug Assertion 8.60 ContentWindows.cpp 2461
+
+----- 11/08/2021 20:32:37 - Muthcka (191.177.167.121) -----
+Comment: arumaaaaaaaaa
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-1
+Video Card: Intel (R) UHD G
+Last Packet Types: 132 140 132 140 131 131 131 131 131 131
+Last Packet: 140 036 007 000 064 100 132 151 000 053 000 006 018 009 000 043
+Player Position: [158,54,7]
+Player Name: Muthcka (Level: 325200 Voc: )
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 051 055 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+MainFrm.cpp 642: exception occurred (point.x = 1227) (point.y = 159), reason:
+Control.cpp 592: exception occurred (x = 1227) (y = 159), reason:
+GUI.cpp 1647: exception occurred (x = 1227) (y = 159), reason:
+GUI.cpp 1647: exception occurred (x = 37) (y = 159), reason:
+GUI.cpp 1647: exception occurred (x = 35) (y = 157), reason:
+DialogWindow.cpp 783: exception occurred (x = 35) (y = 8), reason:
+GUI.cpp 1647: exception occurred (x = 35) (y = 8), reason:
+DialogElements.cpp 1637: exception occurred, reason:
+GUI.cpp 2090: exception occurred, reason:
+MainWindow.cpp 353: exception occurred (Event = 14), reason:
+MainWindow.cpp 833: exception occurred (Identifier = 6), reason:
+ContentWindows.cpp 200: exception occurred, reason:
+ContentWindows.cpp 2104: exception occurred, reason:
+ContentWindows.cpp 2344: exception occurred, reason:
+ContentWindows.cpp 2396: exception occurred, reason:
+ContentWindows.cpp 2465: exception occurred (NumberOfLine = 6), reason:
+ContentWindows.cpp 2461: assertion failed (Value = -16891878) (NumberOfLine = 6), reason:
+Value>=0 [bug0000996]
+Wed Aug 11 20:31:55 2021
+Debug Assertion 8.60 ContentWindows.cpp 2461
+
+----- 11/08/2021 21:09:23 - Harbout Kina (177.32.171.211) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i7 -2600 @ 3
+Video Card: NVIDIA GeForce GT 710
+Last Packet Types: 109 130 131 132 132 132 132 132 132 132
+Last Packet: 109 157 000 052 000 006 002 158 000 052 000 006 000 000 000 000
+Player Position: [160,54,7]
+Player Name: Harbout Kina (Level: 632341 Voc: )
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 051 055 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: E87F58 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Wed Aug 11 21:09:00 2021
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 11/08/2021 22:13:20 - Muthcka (191.177.167.121) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-1
+Video Card: Intel (R) UHD G
+Last Packet Types: 162 131 132 160 140 180 162 131 180 162
+Last Packet: 180 025 034 000 085 115 105 110 103 032 116 104 101 032 108 097
+Player Position: [158,59,7]
+Player Name: Muthcka (Level: 325200 Voc: )
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 051 055 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+MainFrm.cpp 642: exception occurred (point.x = 1214) (point.y = 159), reason:
+Control.cpp 592: exception occurred (x = 1214) (y = 159), reason:
+GUI.cpp 1647: exception occurred (x = 1214) (y = 159), reason:
+GUI.cpp 1647: exception occurred (x = 28) (y = 159), reason:
+GUI.cpp 1647: exception occurred (x = 26) (y = 157), reason:
+DialogWindow.cpp 783: exception occurred (x = 26) (y = 8), reason:
+GUI.cpp 1647: exception occurred (x = 26) (y = 8), reason:
+DialogElements.cpp 1637: exception occurred, reason:
+GUI.cpp 2090: exception occurred, reason:
+MainWindow.cpp 353: exception occurred (Event = 14), reason:
+MainWindow.cpp 833: exception occurred (Identifier = 6), reason:
+ContentWindows.cpp 200: exception occurred, reason:
+ContentWindows.cpp 2104: exception occurred, reason:
+ContentWindows.cpp 2344: exception occurred, reason:
+ContentWindows.cpp 2396: exception occurred, reason:
+ContentWindows.cpp 2465: exception occurred (NumberOfLine = 6), reason:
+ContentWindows.cpp 2461: assertion failed (Value = -16891878) (NumberOfLine = 6), reason:
+Value>=0 [bug0000996]
+Wed Aug 11 22:13:08 2021
+Debug Assertion 8.60 ContentWindows.cpp 2461
+
+----- 11/08/2021 22:16:42 - Muthcka (191.177.167.121) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-1
+Video Card: Intel (R) UHD G
+Last Packet Types: 132 140 030 131 131 131 131 131 131 131
+Last Packet: 140 036 007 000 064 100 132 151 000 053 000 006 018 009 000 043
+Player Position: [157,56,7]
+Player Name: Muthcka (Level: 325200 Voc: )
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 051 055 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+MainFrm.cpp 642: exception occurred (point.x = 1204) (point.y = 164), reason:
+Control.cpp 592: exception occurred (x = 1204) (y = 164), reason:
+GUI.cpp 1647: exception occurred (x = 1204) (y = 164), reason:
+GUI.cpp 1647: exception occurred (x = 18) (y = 164), reason:
+GUI.cpp 1647: exception occurred (x = 16) (y = 162), reason:
+DialogWindow.cpp 783: exception occurred (x = 16) (y = 13), reason:
+GUI.cpp 1647: exception occurred (x = 16) (y = 13), reason:
+DialogElements.cpp 1637: exception occurred, reason:
+GUI.cpp 2090: exception occurred, reason:
+MainWindow.cpp 353: exception occurred (Event = 14), reason:
+MainWindow.cpp 833: exception occurred (Identifier = 6), reason:
+ContentWindows.cpp 200: exception occurred, reason:
+ContentWindows.cpp 2104: exception occurred, reason:
+ContentWindows.cpp 2344: exception occurred, reason:
+ContentWindows.cpp 2396: exception occurred, reason:
+ContentWindows.cpp 2465: exception occurred (NumberOfLine = 6), reason:
+ContentWindows.cpp 2461: assertion failed (Value = -16891878) (NumberOfLine = 6), reason:
+Value>=0 [bug0000996]
+Wed Aug 11 22:16:02 2021
+Debug Assertion 8.60 ContentWindows.cpp 2461
+
+----- 12/08/2021 19:55:58 - Pestana Paly (177.104.87.215) -----
+Comment: 
+Graphic Engine: OpenGL (1)
+Operating System: Windows Vista Family in BRA
+Processor: AMD RYZEN 5 3
+Video Card: AMD 15D8:
+Last Packet Types: 180 109 109 109 107 107 133 131 132 131
+Last Packet: 109 057 003 035 004 007 002 057 003 034 004 007 180 025 034 000
+Player Position: [823,1060,7]
+Player Name: Pestana Paly (Level: 436637 Voc: )
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 051 055 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+MainFrm.cpp 642: exception occurred (point.x = 1432) (point.y = 341), reason:
+Control.cpp 592: exception occurred (x = 1432) (y = 341), reason:
+GUI.cpp 1647: exception occurred (x = 1432) (y = 341), reason:
+GUI.cpp 1647: exception occurred (x = 12) (y = 341), reason:
+GUI.cpp 1647: exception occurred (x = 10) (y = 339), reason:
+DialogWindow.cpp 783: exception occurred (x = 10) (y = 20), reason:
+GUI.cpp 1647: exception occurred (x = 10) (y = 20), reason:
+DialogElements.cpp 1637: exception occurred, reason:
+GUI.cpp 2090: exception occurred, reason:
+MainWindow.cpp 353: exception occurred (Event = 14), reason:
+MainWindow.cpp 833: exception occurred (Identifier = 6), reason:
+ContentWindows.cpp 200: exception occurred, reason:
+ContentWindows.cpp 2104: exception occurred, reason:
+ContentWindows.cpp 2344: exception occurred, reason:
+ContentWindows.cpp 2396: exception occurred, reason:
+ContentWindows.cpp 2465: exception occurred (NumberOfLine = 6), reason:
+ContentWindows.cpp 2461: assertion failed (Value = -19691175) (NumberOfLine = 6), reason:
+Value>=0 [bug0000996]
+Thu Aug 12 19:55:45 2021
+Debug Assertion 8.60 ContentWindows.cpp 2461
+
+----- 12/08/2021 20:39:22 - Muthcka (191.177.167.121) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-1
+Video Card: Intel (R) UHD G
+Last Packet Types: 030 131 132 132 140 132 140 111 111 131
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [156,54,7]
+Player Name: Muthcka (Level: 338365 Voc: )
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 051 055 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+MainFrm.cpp 642: exception occurred (point.x = 1208) (point.y = 157), reason:
+Control.cpp 592: exception occurred (x = 1208) (y = 157), reason:
+GUI.cpp 1647: exception occurred (x = 1208) (y = 157), reason:
+GUI.cpp 1647: exception occurred (x = 22) (y = 157), reason:
+GUI.cpp 1647: exception occurred (x = 20) (y = 155), reason:
+DialogWindow.cpp 783: exception occurred (x = 20) (y = 6), reason:
+GUI.cpp 1647: exception occurred (x = 20) (y = 6), reason:
+DialogElements.cpp 1637: exception occurred, reason:
+GUI.cpp 2090: exception occurred, reason:
+MainWindow.cpp 353: exception occurred (Event = 14), reason:
+MainWindow.cpp 833: exception occurred (Identifier = 6), reason:
+ContentWindows.cpp 200: exception occurred, reason:
+ContentWindows.cpp 2104: exception occurred, reason:
+ContentWindows.cpp 2344: exception occurred, reason:
+ContentWindows.cpp 2396: exception occurred, reason:
+ContentWindows.cpp 2465: exception occurred (NumberOfLine = 6), reason:
+ContentWindows.cpp 2461: assertion failed (Value = -16562778) (NumberOfLine = 6), reason:
+Value>=0 [bug0000996]
+Thu Aug 12 20:39:11 2021
+Debug Assertion 8.60 ContentWindows.cpp 2461
+
+----- 12/08/2021 20:49:48 - Muthcka (191.177.167.121) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-1
+Video Card: Intel (R) UHD G
+Last Packet Types: 109 109 180 180 106 109 101 109 108 180
+Last Packet: 109 004 001 070 010 007 002 005 001 070 010 007 109 001 001 074
+Player Position: [265,2629,7]
+Player Name: Muthcka (Level: 338484 Voc: )
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 051 055 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+MainFrm.cpp 642: exception occurred (point.x = 542) (point.y = 165), reason:
+Control.cpp 592: exception occurred (x = 542) (y = 165), reason:
+GUI.cpp 1647: exception occurred (x = 542) (y = 165), reason:
+GUI.cpp 1647: exception occurred (x = 28) (y = 165), reason:
+GUI.cpp 1647: exception occurred (x = 26) (y = 163), reason:
+DialogWindow.cpp 783: exception occurred (x = 26) (y = 14), reason:
+GUI.cpp 1647: exception occurred (x = 26) (y = 14), reason:
+DialogElements.cpp 1637: exception occurred, reason:
+GUI.cpp 2090: exception occurred, reason:
+MainWindow.cpp 353: exception occurred (Event = 14), reason:
+MainWindow.cpp 833: exception occurred (Identifier = 6), reason:
+ContentWindows.cpp 200: exception occurred, reason:
+ContentWindows.cpp 2104: exception occurred, reason:
+ContentWindows.cpp 2344: exception occurred, reason:
+ContentWindows.cpp 2396: exception occurred, reason:
+ContentWindows.cpp 2465: exception occurred (NumberOfLine = 6), reason:
+ContentWindows.cpp 2461: assertion failed (Value = -16432828) (NumberOfLine = 6), reason:
+Value>=0 [bug0000996]
+Thu Aug 12 20:49:36 2021
+Debug Assertion 8.60 ContentWindows.cpp 2461
+
+----- 12/08/2021 20:51:23 - Muthcka (191.177.167.121) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-1
+Video Card: Intel (R) UHD G
+Last Packet Types: 132 140 104 109 104 109 109 104 109 132
+Last Packet: 140 168 006 000 064 100 132 151 000 050 000 006 018 009 000 043
+Player Position: [157,54,7]
+Player Name: Muthcka (Level: 342865 Voc: )
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 051 055 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+MainFrm.cpp 642: exception occurred (point.x = 1205) (point.y = 157), reason:
+Control.cpp 592: exception occurred (x = 1205) (y = 157), reason:
+GUI.cpp 1647: exception occurred (x = 1205) (y = 157), reason:
+GUI.cpp 1647: exception occurred (x = 19) (y = 157), reason:
+GUI.cpp 1647: exception occurred (x = 17) (y = 155), reason:
+DialogWindow.cpp 783: exception occurred (x = 17) (y = 6), reason:
+GUI.cpp 1647: exception occurred (x = 17) (y = 6), reason:
+DialogElements.cpp 1637: exception occurred, reason:
+GUI.cpp 2090: exception occurred, reason:
+MainWindow.cpp 353: exception occurred (Event = 14), reason:
+MainWindow.cpp 833: exception occurred (Identifier = 6), reason:
+ContentWindows.cpp 200: exception occurred, reason:
+ContentWindows.cpp 2104: exception occurred, reason:
+ContentWindows.cpp 2344: exception occurred, reason:
+ContentWindows.cpp 2396: exception occurred, reason:
+ContentWindows.cpp 2465: exception occurred (NumberOfLine = 6), reason:
+ContentWindows.cpp 2461: assertion failed (Value = -16482074) (NumberOfLine = 6), reason:
+Value>=0 [bug0000996]
+Thu Aug 12 20:50:53 2021
+Debug Assertion 8.60 ContentWindows.cpp 2461
+
+----- 12/08/2021 20:51:36 - Muthcka (191.177.167.121) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-1
+Video Card: Intel (R) UHD G
+Last Packet Types: 109 132 140 132 140 131 131 131 131 131
+Last Packet: 109 157 000 051 000 006 003 158 000 051 000 006 000 000 000 000
+Player Position: [157,54,7]
+Player Name: Muthcka (Level: 341592 Voc: )
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 051 055 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+MainFrm.cpp 642: exception occurred (point.x = 549) (point.y = 163), reason:
+Control.cpp 592: exception occurred (x = 549) (y = 163), reason:
+GUI.cpp 1647: exception occurred (x = 549) (y = 163), reason:
+GUI.cpp 1647: exception occurred (x = 35) (y = 163), reason:
+GUI.cpp 1647: exception occurred (x = 33) (y = 161), reason:
+DialogWindow.cpp 783: exception occurred (x = 33) (y = 12), reason:
+GUI.cpp 1647: exception occurred (x = 33) (y = 12), reason:
+DialogElements.cpp 1637: exception occurred, reason:
+GUI.cpp 2090: exception occurred, reason:
+MainWindow.cpp 353: exception occurred (Event = 14), reason:
+MainWindow.cpp 833: exception occurred (Identifier = 6), reason:
+ContentWindows.cpp 200: exception occurred, reason:
+ContentWindows.cpp 2104: exception occurred, reason:
+ContentWindows.cpp 2344: exception occurred, reason:
+ContentWindows.cpp 2396: exception occurred, reason:
+ContentWindows.cpp 2465: exception occurred (NumberOfLine = 6), reason:
+ContentWindows.cpp 2461: assertion failed (Value = -16482074) (NumberOfLine = 6), reason:
+Value>=0 [bug0000996]
+Thu Aug 12 20:51:25 2021
+Debug Assertion 8.60 ContentWindows.cpp 2461
+
+----- 12/08/2021 23:09:53 - Morris (177.32.171.211) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i7 -2600 @ 3
+Video Card: NVIDIA GeForce GT 710
+Last Packet Types: 131 131 170 131 131 143 143 131 131 143
+Last Packet: 131 234 000 121 002 007 014 131 234 000 121 002 007 014 000 000
+Player Position: [229,637,7]
+Player Name: Morris (Level: 180709 Voc: )
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 051 055 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2783F10 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Thu Aug 12 23:09:25 2021
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 13/08/2021 00:04:45 - Harbout Kina (177.32.171.211) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i7 -2600 @ 3
+Video Card: NVIDIA GeForce GT 710
+Last Packet Types: 133 131 132 131 106 108 140 180 160 160
+Last Packet: 107 090 000 155 010 007 001 099 000 233 141 005 064 000 109 088
+Player Position: [93,2710,7]
+Player Name: Harbout Kina (Level: 705331 Voc: )
+Player Action: 049 055 055 046 057 046 050 051 050 046 050 051 055 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2863F10 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 122: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 707: exception occurred (Surface = 1) ((int) Child = 195330920), reason:
+ContentWindows.cpp 2206: exception occurred (Surface = 1), reason:
+ContentWindows.cpp 2465: exception occurred (NumberOfLine = 6), reason:
+ContentWindows.cpp 2461: assertion failed (Value = -21474610) (NumberOfLine = 6), reason:
+Value>=0 [bug0000996]
+Thu Aug 12 23:53:34 2021
+Debug Assertion 8.60 ContentWindows.cpp 2461
+
+----- 14/08/2021 10:59:05 - Mage Do Caralho (191.177.167.121) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-1
+Video Card: Intel (R) UHD G
+Last Packet Types: 021 131 132 162 141 130 161 160 120 121
+Last Packet: 010 150 066 000 016 050 000 000 100 033 002 053 000 007 152 001
+Player Position: [545,53,7]
+Player Name: Muthcka (Level: 341592 Voc: )
+Player Action: 049 056 057 046 055 056 046 049 050 051 046 050 050 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1499: exception occurred (MaW: 2537EF8 MoW: 0 ), reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 122: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 707: exception occurred (Surface = 1) ((int) Child = 130703240), reason:
+ContentWindows.cpp 2206: exception occurred (Surface = 1), reason:
+ContentWindows.cpp 2465: exception occurred (NumberOfLine = 6), reason:
+ContentWindows.cpp 2461: assertion failed (Value = -16482078) (NumberOfLine = 6), reason:
+Value>=0 [bug0000996]
+Sat Aug 14 10:58:46 2021
+Debug Assertion 8.60 ContentWindows.cpp 2461
+
+----- 14/08/2021 11:00:40 - Muthcka (191.177.167.121) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-1
+Video Card: Intel (R) UHD G
+Last Packet Types: 132 140 132 140 132 140 132 140 132 140
+Last Packet: 140 193 012 000 064 100 132 038 002 055 000 007 018 009 000 043
+Player Position: [545,53,7]
+Player Name: Muthcka (Level: 341592 Voc: )
+Player Action: 049 056 057 046 055 056 046 049 050 051 046 050 050 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 2B18340 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 122: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 707: exception occurred (Surface = 1) ((int) Child = 131352896), reason:
+ContentWindows.cpp 2206: exception occurred (Surface = 1), reason:
+ContentWindows.cpp 2465: exception occurred (NumberOfLine = 6), reason:
+ContentWindows.cpp 2461: assertion failed (Value = -16482078) (NumberOfLine = 6), reason:
+Value>=0 [bug0000996]
+Sat Aug 14 11:00:24 2021
+Debug Assertion 8.60 ContentWindows.cpp 2461
+
+----- 14/08/2021 13:03:55 - Harbout Kina (177.32.171.211) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i7 -2600 @ 3
+Video Card: NVIDIA GeForce GT 710
+Last Packet Types: 210 210 210 210 210 162 141 130 161 160
+Last Packet: 010 151 066 000 016 050 000 000 100 203 001 204 011 007 094 032
+Player Position: [459,3020,7]
+Player Name: Harbout Kina (Level: 141052 Voc: )
+Player Action: 049 056 057 046 055 056 046 049 050 051 046 050 050 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1499: exception occurred (MaW: 2618360 MoW: 0 ), reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 122: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 707: exception occurred (Surface = 1) ((int) Child = 41406600), reason:
+ContentWindows.cpp 2206: exception occurred (Surface = 1), reason:
+ContentWindows.cpp 2465: exception occurred (NumberOfLine = 6), reason:
+ContentWindows.cpp 2461: assertion failed (Value = -21472585) (NumberOfLine = 6), reason:
+Value>=0 [bug0000996]
+Sat Aug 14 12:27:59 2021
+Debug Assertion 8.60 ContentWindows.cpp 2461
+
+----- 14/08/2021 13:04:37 - Harbout Kina (177.32.171.211) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i7 -2600 @ 3
+Video Card: NVIDIA GeForce GT 710
+Last Packet Types: 030 109 132 132 131 131 131 131 131 131
+Last Packet: 030 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [160,54,7]
+Player Name: Harbout Kina (Level: 140545 Voc: )
+Player Action: 049 056 057 046 055 056 046 049 050 051 046 050 050 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 289C338 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Sat Aug 14 13:04:09 2021
+Debug Assertion 8.60 NWin32Exception.cpp 50
+
+----- 14/08/2021 14:19:43 - Harbout Kina (177.32.171.211) -----
+
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i7 -2600 @ 3
+Video Card: NVIDIA GeForce GT 710
+Last Packet Types: 109 107 107 107 107 107 107 109 109 109
+Last Packet: 109 072 000 126 010 007 001 073 000 126 010 007 109 061 000 125
+Player Position: [65,2685,7]
+Player Name: Harbout Kina (Level: 140545 Voc: )
+Player Action: 049 056 057 046 055 056 046 049 050 051 046 050 050 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 26D8360 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 122: exception occurred (Surface = 1), reason:
+DialogWindow.cpp 707: exception occurred (Surface = 1) ((int) Child = 41931208), reason:
+ContentWindows.cpp 2206: exception occurred (Surface = 1), reason:
+ContentWindows.cpp 2465: exception occurred (NumberOfLine = 6), reason:
+ContentWindows.cpp 2461: assertion failed (Value = -21474184) (NumberOfLine = 6), reason:
+Value>=0 [bug0000996]
+Sat Aug 14 13:06:57 2021
+Debug Assertion 8.60 ContentWindows.cpp 2461
+
+----- 14/08/2021 14:28:57 - Jean (189.78.123.223) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: AMD RYZEN 3 2
+Video Card: ATI Radeon AMD (TM) 
+Last Packet Types: 102 109 102 109 030 101 109 102 109 102
+Last Packet: 109 032 002 186 009 007 001 033 002 186 009 007 102 215 002 000
+Player Position: [545,2490,7]
+Player Name: Jean (Level: 10000 Voc: D)
+Player Action: 049 056 057 046 055 056 046 049 050 051 046 050 050 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Network.cpp 946: exception occurred (ErrorCode = 0), reason:
+Control.cpp 1331: exception occurred (Type = -1) (MainWindow = 41123640), reason:
+Network.cpp 445: exception occurred, reason:
+Network.cpp 432: exception occurred, reason:
+Network.cpp 398: packet size does not fit to symmetric encryption (PacketSize = 15341)
+Sat Aug 14 14:28:45 2021
+Debug Assertion 8.60 Network.cpp 398
+
+----- 14/08/2021 17:48:33 - Muthcka (191.177.167.121) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel CORE I3-1
+Video Card: Intel (R) UHD G
+Last Packet Types: 132 140 132 140 131 131 131 131 131 131
+Last Packet: 140 168 006 000 064 100 132 151 000 050 000 006 018 009 000 043
+Player Position: [156,54,7]
+Player Name: Muthcka (Level: 341592 Voc: )
+Player Action: 049 056 057 046 055 056 046 049 050 051 046 050 050 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Control.cpp 505: exception occurred (GetActionState() = 1), reason:
+GUI.cpp 1599: exception occurred (x = 1234) (y = 404), reason:
+GUI.cpp 1599: exception occurred (x = 48) (y = 55), reason:
+DialogWindow.cpp 986: exception occurred (x = 48) (y = 55), reason:
+DialogElements.cpp 127: exception occurred (x = 48) (y = 2), reason:
+DialogWindow.cpp 876: exception occurred (Width = 176) (Height = 58), reason:
+GUI.cpp 1849: exception occurred, reason:
+ContentWindows.cpp 2331: exception occurred (Width = 168) (Height = 39), reason:
+ContentWindows.cpp 2377: exception occurred, reason:
+ContentWindows.cpp 2396: exception occurred, reason:
+ContentWindows.cpp 2465: exception occurred (NumberOfLine = 6), reason:
+ContentWindows.cpp 2461: assertion failed (Value = -16482078) (NumberOfLine = 6), reason:
+Value>=0 [bug0000996]
+Sat Aug 14 11:00:56 2021
+Debug Assertion 8.60 ContentWindows.cpp 2461
+
+----- 14/08/2021 23:10:31 - Harbout Kina (177.32.171.211) -----
+Comment: 
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i7 -2600 @ 3
+Video Card: NVIDIA GeForce GT 710
+Last Packet Types: 132 140 132 140 132 140 132 140 132 140
+Last Packet: 140 178 012 000 064 100 132 024 002 055 000 007 018 009 000 043
+Player Position: [541,54,7]
+Player Name: Harbout Kina (Level: 141137 Voc: )
+Player Action: 049 056 057 046 055 056 046 049 050 051 046 050 050 051 058 055 049 055 050
+Player.cpp 361: exception occurred, reason:
+Player.cpp 465: exception occurred, reason:
+Control.cpp 1728: exception occurred (MessageType: 0 MaW: 27F3F10 MoW: 0), reason:
+Control.cpp 1723: exception occurred, reason:
+Control.cpp 386: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 138: exception occurred (Surface = 1), reason:
+NWin32Exception.cpp 50: win32 exception occurred, reason:
+access violation (read attempt at FFFFFFE9)
+Sat Aug 14 23:10:15 2021
+Debug Assertion 8.60 NWin32Exception.cpp 50
+

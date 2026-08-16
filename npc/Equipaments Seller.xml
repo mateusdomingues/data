@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Equipaments Seller" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="143" head="0" body="126" legs="87" feet="87" addons="3"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Ola |PLAYERNAME|. Eu vendo equipamentos. Diga {trade}."/>
+		<parameter key="shop_buyable" value="backpack,1988,20;pick,2553,10;shovel,2554,20;rope,2120,50"/>
+	</parameters>
+</npc>

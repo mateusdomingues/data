@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Slayer Seller" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="266" head="0" body="114" legs="94" feet="0" addons="3"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Ola |PLAYERNAME|. Eu vendo Itens Vips. Diga {trade} para comprar."/>
+		<parameter key="shop_sellable" value="blue orb,7632,100000"/>
+		<parameter key="shop_buyable" value="Slayer Bag,9775,100000;Slayer BackPack,9774,100000;Slayer Medal,8979,5000000;Slayer Shield,6391,2500000;Slayer Staff,7424,5000000;Slayer Crossbow,8851,5000000;Slayer Punch,8929,5000000;Slayer Axe,8293,5000000;Slayer Blade,8931,5000000;Slayer Boots,9933,2000000;Blessed Legs,2504,3000000;Blessed Armor,2503,3000000;Blessed Helmet,2474,3000000;Magician Legs,9777,3000000;Magician Coat,9776,3000000;Magician Mask,9778,3000000"/>
+	</parameters>
+</npc>

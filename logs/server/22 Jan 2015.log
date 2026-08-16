@@ -1,0 +1,142 @@
+[22/01/2015 14:16:59] The Forgotten Server, version 0.3.4 (Crying Damson)
+[22/01/2015 14:16:59] Sever Criado Por Alissow e Comedinha.
+[22/01/2015 14:16:59] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[22/01/2015 14:16:59] Bom Jogo!!!
+[22/01/2015 14:16:59] 
+[22/01/2015 14:16:59] >> Debugging: nothing.
+[22/01/2015 14:16:59] >> Checking software version... failed - could not parse remote file (are you connected to the internet?)
+[22/01/2015 14:17:12] 
+[22/01/2015 14:17:12] >> Loading config (config.lua)
+[22/01/2015 14:17:12] > Using plaintext passwords
+[22/01/2015 14:17:12] >> Loading RSA key
+[22/01/2015 14:17:12] >> Starting SQL connection
+[22/01/2015 14:17:12] >> Running Database Manager
+[22/01/2015 14:17:14] > Optimized database.
+[22/01/2015 14:17:14] >> Loading items
+[22/01/2015 14:17:14] >> Loading groups
+[22/01/2015 14:17:14] >> Loading vocations
+[22/01/2015 14:17:14] >> Loading script systems
+[22/01/2015 14:17:20] >> Loading chat channels
+[22/01/2015 14:17:20] >> Loading outfits
+[22/01/2015 14:17:20] >> Loading experience stages
+[22/01/2015 14:17:20] >> Loading monsters
+[22/01/2015 14:17:26] >> Loading map and spawns...
+[22/01/2015 14:17:27] > Map size: 65000x65000.
+[22/01/2015 14:17:27] > Map descriptions: 
+[22/01/2015 14:17:27] Saved with Remere's Map Editor 2.2
+[22/01/2015 14:17:27] No map description available.
+[22/01/2015 14:17:28] Duplicate uniqueId 2407
+[22/01/2015 14:17:32] > Map loading time: 5.897 seconds.
+[22/01/2015 14:17:33] > Data loading time: 0.936 seconds.
+[22/01/2015 14:17:33] > Unserialization time for houses: 0.032 seconds.
+[22/01/2015 14:17:59] > Unserialization time for map: 25.256 seconds.
+[22/01/2015 14:17:59] >> Checking world type... PvP
+[22/01/2015 14:17:59] >> Initializing game state modules and registering services...
+[22/01/2015 14:18:00] > Global address: deathpvp.no-ip.info
+[22/01/2015 14:18:12] 
+[22/01/2015 14:18:12] > ERROR: Cannot resolve deathpvp.no-ip.info!
+[22/01/2015 14:18:50] The Forgotten Server, version 0.3.4 (Crying Damson)
+[22/01/2015 14:18:50] Sever Criado Por Alissow e Comedinha.
+[22/01/2015 14:18:50] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[22/01/2015 14:18:51] Bom Jogo!!!
+[22/01/2015 14:18:51] 
+[22/01/2015 14:18:51] >> Debugging: nothing.
+[22/01/2015 14:18:51] >> Checking software version... failed - could not parse remote file (are you connected to the internet?)
+[22/01/2015 14:19:04] 
+[22/01/2015 14:19:04] >> Loading config (config.lua)
+[22/01/2015 14:19:04] > Using plaintext passwords
+[22/01/2015 14:19:04] >> Loading RSA key
+[22/01/2015 14:19:04] >> Starting SQL connection
+[22/01/2015 14:19:05] >> Running Database Manager
+[22/01/2015 14:19:06] > Optimized database.
+[22/01/2015 14:19:06] >> Loading items
+[22/01/2015 14:19:06] >> Loading groups
+[22/01/2015 14:19:06] >> Loading vocations
+[22/01/2015 14:19:07] >> Loading script systems
+[22/01/2015 14:19:08] >> Loading chat channels
+[22/01/2015 14:19:08] >> Loading outfits
+[22/01/2015 14:19:08] >> Loading experience stages
+[22/01/2015 14:19:09] >> Loading monsters
+[22/01/2015 14:19:11] >> Loading map and spawns...
+[22/01/2015 14:19:12] > Map size: 65000x65000.
+[22/01/2015 14:19:12] > Map descriptions: 
+[22/01/2015 14:19:12] Saved with Remere's Map Editor 2.2
+[22/01/2015 14:19:13] No map description available.
+[22/01/2015 14:19:13] Duplicate uniqueId 2407
+[22/01/2015 14:19:17] > Map loading time: 5.616 seconds.
+[22/01/2015 14:19:18] > Data loading time: 0.468 seconds.
+[22/01/2015 14:19:18] > Unserialization time for houses: 0.047 seconds.
+[22/01/2015 14:19:43] > Unserialization time for map: 25.1 seconds.
+[22/01/2015 14:19:44] >> Checking world type... PvP
+[22/01/2015 14:19:44] >> Initializing game state modules and registering services...
+[22/01/2015 14:19:44] > Global address: 127.0.0.1
+[22/01/2015 14:19:45] > Local ports:
+[22/01/2015 14:19:45] 7171	7172	
+[22/01/2015 14:19:45] >> All modules were loaded, server starting up...
+[22/01/2015 14:19:45] >> OT Death server Online!
+[22/01/2015 14:19:45] 
+[22/01/2015 14:20:06] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[22/01/2015 14:20:08] Mateus has logged in.
+[22/01/2015 14:20:49] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[22/01/2015 14:21:02] Account Manager has logged in.
+[22/01/2015 14:21:27] Account Manager has logged out.
+[22/01/2015 14:21:28] Account Manager has logged in.
+[22/01/2015 14:21:43] Account Manager has logged out.
+[22/01/2015 14:21:50] Account Manager has logged in.
+[22/01/2015 14:22:30] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[22/01/2015 14:23:19] Account Manager has logged out.
+[22/01/2015 14:23:24] Jack Violeiro has logged in.
+[22/01/2015 14:24:11] > Broadcasted message: "Para comprar bless digite !bless".
+[22/01/2015 14:24:38] Jack Violeiro has logged out.
+[22/01/2015 14:24:43] > Saving server...
+[22/01/2015 14:24:44] > SAVE: Complete in 1.529 seconds using relational house storage.
+[22/01/2015 14:25:31] Jack Violeiro has logged in.
+[22/01/2015 14:25:49] > Broadcasted message: "Para comprar bless digite !bless".
+[22/01/2015 14:25:52] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/01/2015 14:27:33] > Broadcasted message: "Para ver as noticias fale !notice".
+[22/01/2015 14:29:14] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[22/01/2015 14:30:55] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[22/01/2015 14:32:30] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/01/2015 14:32:36] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[22/01/2015 14:34:17] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[22/01/2015 14:35:49] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/01/2015 14:35:58] > Broadcasted message: "Para ver as noticias fale !notice".
+[22/01/2015 14:36:20] > CLEAN: Removed 7 items from 106 tiles in 1.466 seconds.
+[22/01/2015 14:36:21] > Broadcasted message: "Map Cleaned.".
+[22/01/2015 14:37:39] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/01/2015 14:39:11] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[22/01/2015 14:39:20] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[22/01/2015 14:41:01] > Broadcasted message: "Para comprar bless digite !bless".
+[22/01/2015 14:42:34] > Saving server...
+[22/01/2015 14:42:37] > SAVE: Complete in 2.075 seconds using relational house storage.
+[22/01/2015 14:42:42] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/01/2015 14:44:23] > Broadcasted message: "Para ver as noticias fale !notice".
+[22/01/2015 14:45:52] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/01/2015 14:46:04] > Broadcasted message: "Para comprar bless digite !bless".
+[22/01/2015 14:47:45] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/01/2015 14:49:26] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[22/01/2015 14:51:07] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[22/01/2015 14:52:30] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/01/2015 14:52:40] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/01/2015 14:53:14] > CLEAN: Removed 201 items from 238 tiles in 2.45 seconds.
+[22/01/2015 14:53:18] > Broadcasted message: "Map Cleaned.".
+[22/01/2015 14:53:25] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[22/01/2015 14:54:24] > Broadcasted message: "Mestre Dos Magos esta atacando o templo com sua ring e amulet da imortalidade.".
+[22/01/2015 14:55:06] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[22/01/2015 14:56:47] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/01/2015 14:58:28] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[22/01/2015 14:59:21] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[22/01/2015 14:59:49] [Warning - Event::loadScript] Cannot load script (data/globalevents/scripts/mensagem.lua)
+[22/01/2015 14:59:52] data/globalevents/scripts/mensagem.lua:19: unexpected symbol near '<'
+[22/01/2015 15:00:20] Jack Violeiro has logged out.
+[22/01/2015 15:00:22] Jack Violeiro has logged in.
+[22/01/2015 15:16:30] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[22/01/2015 15:17:03] > CLEAN: Removed 20 items from 120 tiles in 0.842 seconds.
+[22/01/2015 15:17:04] > Broadcasted message: "Map Cleaned.".
+[22/01/2015 15:22:50] Jack Violeiro has logged out.
+[22/01/2015 15:22:52] Mateus has logged out.
+[22/01/2015 15:22:58] > Saving server...
+[22/01/2015 15:23:00] > SAVE: Complete in 1.357 seconds using relational house storage.
+[22/01/2015 15:23:00] Preparing to shutdown server..
+[22/01/2015 15:23:00] .
+[22/01/2015 15:23:00] Exiting

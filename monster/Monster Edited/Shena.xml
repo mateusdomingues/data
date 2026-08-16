@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<monster name="Shena" nameDescription="Shena" experience="720000000" speed="420" race="blood">
+  <health now="20000000" max="20000000"/>
+  <look type="147" body="114" feet="114" addons="3" corpse="3065"/>
+  <strategy attack="10000" defense="500"/>
+  <targetchange speed="10" chance="100"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="100"/>
+    <flag targetdistance="1"/>
+  </flags>
+  <attacks>
+    <attack name="physical" interval="400" chance="100" min="-6000" max="-11000" range="1">
+      <attribute key="areaEffect" value="poison"/>
+    </attack>
+    <attack name="physical" interval="400" chance="50" min="-6000" max="-11000"/>
+  </attacks>
+  <defenses defense="45" armor="10"/>
+  <immunities>
+    <immunity name="outfit"/>
+    <immunity name="invisible"/>
+    <immunity name="poison"/>
+    <immunity name="death"/>
+    <immunity name="fire"/>
+  </immunities>
+  <loot/>
+</monster>

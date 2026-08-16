@@ -1,0 +1,6 @@
+<raid>
+<announce delay="500" type="event" message="Mestre Dos Magos esta atacando o templo com sua ring e amulet da imortalidade."/>
+
+<singlespawn delay="30000" name="Mestre dos Magos" x="156" y="57" z="7"/>
+
+</raid>

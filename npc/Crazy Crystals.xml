@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Crazy Crystals" script="data/npc/scripts/crazy crystals.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+        <look type="149" body="114" legs="94" addons="3" corpse="3058"/>
+	<parameters>
+		<parameter key="message_greet" value="Ola |PLAYERNAME|. Eu so muito louco por cristais, como pode ver em minha casa ja tenho muitos, porem ainda falta um o {Crystal Bar} quero muito ele se voce tiver algum eu o compro por 50kk."/>
+	</parameters>
+</npc>
+

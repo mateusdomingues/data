@@ -1,0 +1,1729 @@
+[25/08/2014 13:05:12] The Forgotten Server, version 0.3.4 (Crying Damson)
+[25/08/2014 13:05:12] Sever Criado Por Alissow e Comedinha.
+[25/08/2014 13:05:12] Publicidade: www.sotserv.blogspot.com <- <- <- Tudo sobre otserv.
+[25/08/2014 13:05:13] Bom Jogo!!!
+[25/08/2014 13:05:13] 
+[25/08/2014 13:05:13] >> Debugging: nothing.
+[25/08/2014 13:05:13] >> Checking software version... failed checking - malformed file.
+[25/08/2014 13:05:14] 
+[25/08/2014 13:05:14] >> Loading config (config.lua)
+[25/08/2014 13:05:14] > Using plaintext passwords
+[25/08/2014 13:05:14] >> Loading RSA key
+[25/08/2014 13:05:14] >> Starting SQL connection
+[25/08/2014 13:05:14] >> Running Database Manager
+[25/08/2014 13:05:15] > Optimized database.
+[25/08/2014 13:05:15] >> Loading items
+[25/08/2014 13:05:15] >> Loading groups
+[25/08/2014 13:05:15] >> Loading vocations
+[25/08/2014 13:05:15] >> Loading script systems
+[25/08/2014 13:05:17] >> Loading chat channels
+[25/08/2014 13:05:17] >> Loading outfits
+[25/08/2014 13:05:17] >> Loading experience stages
+[25/08/2014 13:05:17] >> Loading monsters
+[25/08/2014 13:05:20] >> Loading map and spawns...
+[25/08/2014 13:05:21] > Map size: 65000x65000.
+[25/08/2014 13:05:21] > Map descriptions: 
+[25/08/2014 13:05:21] Saved with Remere's Map Editor 2.2
+[25/08/2014 13:05:21] No map description available.
+[25/08/2014 13:05:22] Duplicate uniqueId 2407
+[25/08/2014 13:05:25] > Map loading time: 5.507 seconds.
+[25/08/2014 13:05:28] > Data loading time: 2.324 seconds.
+[25/08/2014 13:05:28] > Unserialization time for houses: 0.016 seconds.
+[25/08/2014 13:05:50] > Unserialization time for map: 21.731 seconds.
+[25/08/2014 13:05:50] >> Checking world type... PvP
+[25/08/2014 13:05:51] >> Initializing game state modules and registering services...
+[25/08/2014 13:05:52] > Global address: deathpvp.no-ip.info
+[25/08/2014 13:05:52] > Local ports:
+[25/08/2014 13:05:52] 7171	7172	
+[25/08/2014 13:05:52] >> All modules were loaded, server starting up...
+[25/08/2014 13:05:53] >> OT Death server Online!
+[25/08/2014 13:05:53] 
+[25/08/2014 13:05:53] sqlite3_step(): SQLITE ERROR: columns id, world_id are not unique
+[25/08/2014 13:06:04] Menino Mal has logged in.
+[25/08/2014 13:06:14] Yakuza has logged in.
+[25/08/2014 13:06:45] Yakuza has logged out.
+[25/08/2014 13:06:46] Yakuza has logged in.
+[25/08/2014 13:06:56] Yakuza has logged out.
+[25/08/2014 13:06:59] Yakuza has logged in.
+[25/08/2014 13:11:00] Yakuza has logged out.
+[25/08/2014 13:11:03] Menino Mal has logged out.
+[25/08/2014 13:11:04] Menino Mal has logged in.
+[25/08/2014 13:11:12] Yakuza has logged in.
+[25/08/2014 13:11:37] Yakuza has logged out.
+[25/08/2014 13:11:39] Yakuza has logged in.
+[25/08/2014 13:11:58] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[25/08/2014 13:14:43] Magezinho Sapeca has logged in.
+[25/08/2014 13:14:55] Magezinho Sapeca has logged out.
+[25/08/2014 13:15:02] Knightzinho has logged in.
+[25/08/2014 13:18:39] > Broadcasted message: "Para ver as noticias fale !notice".
+[25/08/2014 13:18:39] Underdown has logged in.
+[25/08/2014 13:19:20] To De Boa has logged in.
+[25/08/2014 13:20:51] To De Boa has logged out.
+[25/08/2014 13:21:01] Foxter Fox has logged in.
+[25/08/2014 13:21:31] Legal Fera has logged in.
+[25/08/2014 13:21:58] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 13:22:28] > CLEAN: Removed 3486 items from 1539 tiles in 0.234 seconds.
+[25/08/2014 13:22:28] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 13:24:23] Gotack has logged in.
+[25/08/2014 13:24:24] Duff Maluko has logged in.
+[25/08/2014 13:24:45] Meele Pally has logged in.
+[25/08/2014 13:25:20] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[25/08/2014 13:27:00] Duff Maluko has logged out.
+[25/08/2014 13:28:32] Knightzinho has logged out.
+[25/08/2014 13:28:34] Knightzinho has logged in.
+[25/08/2014 13:29:12] Foxter Fox has logged out.
+[25/08/2014 13:29:17] Account Manager has logged in.
+[25/08/2014 13:29:18] Account Manager has logged out.
+[25/08/2014 13:30:36] To De Boa has logged in.
+[25/08/2014 13:31:03] Underdown has logged out.
+[25/08/2014 13:31:04] Underdown has logged in.
+[25/08/2014 13:31:23] Knightzinho has logged out.
+[25/08/2014 13:31:25] Knightzinho has logged in.
+[25/08/2014 13:31:27] To De Boa has logged out.
+[25/08/2014 13:31:29] To De Boa has logged in.
+[25/08/2014 13:32:01] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[25/08/2014 13:32:23] Duff Maluko has logged in.
+[25/08/2014 13:32:32] Meele Pally has logged out.
+[25/08/2014 13:32:34] Meele Pally has logged in.
+[25/08/2014 13:32:37] Garoto Nestle has logged in.
+[25/08/2014 13:33:01] To De Boa has logged out.
+[25/08/2014 13:33:03] To De Boa has logged in.
+[25/08/2014 13:33:19] Menino Mal has logged out.
+[25/08/2014 13:33:20] Menino Mal has logged in.
+[25/08/2014 13:33:30] Hegazy has logged in.
+[25/08/2014 13:33:39] Gotack has logged out.
+[25/08/2014 13:33:41] Gotack has logged in.
+[25/08/2014 13:34:17] Garoto Nestle has logged out.
+[25/08/2014 13:35:08] Gotack has logged out.
+[25/08/2014 13:35:09] Gotack has logged in.
+[25/08/2014 13:35:33] Gotack has logged out.
+[25/08/2014 13:35:34] Gotack has logged in.
+[25/08/2014 13:35:44] To De Boa has logged out.
+[25/08/2014 13:35:46] To De Boa has logged in.
+[25/08/2014 13:35:51] Knightzinho has logged out.
+[25/08/2014 13:35:52] Knightzinho has logged in.
+[25/08/2014 13:36:05] Legal Fera has logged out.
+[25/08/2014 13:36:06] Legal Fera has logged in.
+[25/08/2014 13:36:28] > Saving server...
+[25/08/2014 13:36:31] > SAVE: Complete in 2.886 seconds using relational house storage.
+[25/08/2014 13:36:32] Pally Brisado has logged in.
+[25/08/2014 13:37:02] Gotack has logged out.
+[25/08/2014 13:37:03] Gotack has logged in.
+[25/08/2014 13:38:20] Hegazy has logged out.
+[25/08/2014 13:38:25] Hegazy has logged in.
+[25/08/2014 13:38:39] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 13:38:41] Menino Mal has logged out.
+[25/08/2014 13:38:42] > Broadcasted message: "Para comprar bless digite !bless".
+[25/08/2014 13:38:44] > Saving server...
+[25/08/2014 13:38:46] > SAVE: Complete in 2.683 seconds using relational house storage.
+[25/08/2014 13:39:07] Gotack has logged out.
+[25/08/2014 13:39:09] > CLEAN: Removed 2542 items from 2117 tiles in 0.203 seconds.
+[25/08/2014 13:39:09] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 13:39:09] Gotack has logged in.
+[25/08/2014 13:39:55] Gotack has logged out.
+[25/08/2014 13:39:56] Gotack has logged in.
+[25/08/2014 13:40:01] Knightzinho has logged out.
+[25/08/2014 13:40:02] 
+[25/08/2014 13:40:02] Lua Script Error: [CreatureScript Interface] 
+[25/08/2014 13:40:02] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[25/08/2014 13:40:03] 
+[25/08/2014 13:40:03] luaGetCreatureName(). Creature not found
+[25/08/2014 13:40:03] 
+[25/08/2014 13:40:03] Lua Script Error: [CreatureScript Interface] 
+[25/08/2014 13:40:03] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[25/08/2014 13:40:03] 
+[25/08/2014 13:40:03] luaGetCreatureName(). Creature not found
+[25/08/2014 13:40:03] Hegazy has logged out.
+[25/08/2014 13:40:05] Mutuca has logged in.
+[25/08/2014 13:40:05] Knightzinho has logged in.
+[25/08/2014 13:40:05] Hegazy has logged in.
+[25/08/2014 13:40:18] Menino Mal has logged in.
+[25/08/2014 13:40:33] Underdown has logged out.
+[25/08/2014 13:41:15] Knightzinho has logged out.
+[25/08/2014 13:41:16] Underdown has logged in.
+[25/08/2014 13:41:16] Knightzinho has logged in.
+[25/08/2014 13:41:25] Pally Brisado has logged out.
+[25/08/2014 13:41:26] Meele Pally has logged out.
+[25/08/2014 13:41:28] Meele Pally has logged in.
+[25/08/2014 13:41:50] Pally Brisado has logged in.
+[25/08/2014 13:41:59] Mata Pally has logged in.
+[25/08/2014 13:42:00] Mata Pally has logged out.
+[25/08/2014 13:42:02] Mata Pally has logged in.
+[25/08/2014 13:42:03] Mata Pally has logged out.
+[25/08/2014 13:42:04] Mata Pally has logged in.
+[25/08/2014 13:42:05] Gotack has logged out.
+[25/08/2014 13:42:07] Gotack has logged in.
+[25/08/2014 13:42:08] Gotack has logged out.
+[25/08/2014 13:42:10] Gotack has logged in.
+[25/08/2014 13:42:11] Gotack has logged out.
+[25/08/2014 13:42:51] Gotack has logged in.
+[25/08/2014 13:42:52] Mutuca has logged out.
+[25/08/2014 13:42:55] Mutuca has logged in.
+[25/08/2014 13:44:47] Menino Mal has logged out.
+[25/08/2014 13:45:23] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[25/08/2014 13:45:32] Gotack has logged out.
+[25/08/2014 13:45:34] Gotack has logged in.
+[25/08/2014 13:45:35] Gotack has logged out.
+[25/08/2014 13:45:36] Jean has logged in.
+[25/08/2014 13:45:45] Gotack has logged in.
+[25/08/2014 13:45:59] Knightzinho has logged out.
+[25/08/2014 13:46:02] Knightzinho has logged in.
+[25/08/2014 13:46:31] Gotack has logged out.
+[25/08/2014 13:46:31] Menino Mal has logged in.
+[25/08/2014 13:46:32] Gotack has logged in.
+[25/08/2014 13:46:34] Gotack has logged out.
+[25/08/2014 13:46:47] Gotack has logged in.
+[25/08/2014 13:46:48] Gotack has logged out.
+[25/08/2014 13:46:51] Gotack has logged in.
+[25/08/2014 13:46:52] Gotack has logged out.
+[25/08/2014 13:46:53] Gotack has logged in.
+[25/08/2014 13:46:54] Gotack has logged out.
+[25/08/2014 13:47:05] Gotack has logged in.
+[25/08/2014 13:47:19] Knightzinho has logged out.
+[25/08/2014 13:47:20] Hegazy has logged out.
+[25/08/2014 13:47:21] Knightzinho has logged in.
+[25/08/2014 13:47:22] Hegazy has logged in.
+[25/08/2014 13:48:02] Underdown has logged out.
+[25/08/2014 13:48:12] Jean has logged out.
+[25/08/2014 13:49:41] To De Boa has logged out.
+[25/08/2014 13:49:53] Pally Brisado has logged out.
+[25/08/2014 13:49:56] Menino Mal has logged out.
+[25/08/2014 13:51:20] To De Boa has logged in.
+[25/08/2014 13:51:31] Gotack has logged out.
+[25/08/2014 13:51:33] Gotack has logged in.
+[25/08/2014 13:51:34] Gotack has logged out.
+[25/08/2014 13:51:54] Gotack has logged in.
+[25/08/2014 13:52:04] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[25/08/2014 13:52:44] Menino Mal has logged in.
+[25/08/2014 13:52:54] Pally Brisado has logged in.
+[25/08/2014 13:53:27] To De Boa has logged out.
+[25/08/2014 13:53:29] To De Boa has logged in.
+[25/08/2014 13:53:44] To De Boa has logged out.
+[25/08/2014 13:53:46] To De Boa has logged in.
+[25/08/2014 13:54:45] To De Boa has logged out.
+[25/08/2014 13:54:47] To De Boa has logged in.
+[25/08/2014 13:55:20] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 13:55:24] Knightzinho has logged out.
+[25/08/2014 13:55:25] Knightzinho has logged in.
+[25/08/2014 13:55:41] Hegazy has logged out.
+[25/08/2014 13:55:48] Honda has logged in.
+[25/08/2014 13:55:49] Mutuca has logged out.
+[25/08/2014 13:55:51] > CLEAN: Removed 3770 items from 1750 tiles in 0.203 seconds.
+[25/08/2014 13:55:51] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 13:55:52] Gotack has logged out.
+[25/08/2014 13:55:53] Pally Brisado has logged out.
+[25/08/2014 13:55:56] Mutuca has logged in.
+[25/08/2014 13:55:58] Pally Brisado has logged in.
+[25/08/2014 13:56:01] Gotack has logged in.
+[25/08/2014 13:56:03] Gotack has logged out.
+[25/08/2014 13:56:05] Gotack has logged in.
+[25/08/2014 13:56:06] Gotack has logged out.
+[25/08/2014 13:56:06] Honda has logged out.
+[25/08/2014 13:56:18] Hegazy has logged in.
+[25/08/2014 13:56:22] Gotack has logged in.
+[25/08/2014 13:57:20] Pally Brisado has logged out.
+[25/08/2014 13:57:25] Knightzinho has logged out.
+[25/08/2014 13:57:26] Knightzinho has logged in.
+[25/08/2014 13:58:45] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[25/08/2014 14:00:00] Knightzinho has logged out.
+[25/08/2014 14:00:01] Knightzinho has logged in.
+[25/08/2014 14:01:46] To De Boa has logged out.
+[25/08/2014 14:01:48] To De Boa has logged in.
+[25/08/2014 14:02:30] Legal Fera has logged out.
+[25/08/2014 14:02:32] Legal Fera has logged in.
+[25/08/2014 14:02:34] Legal Fera has logged out.
+[25/08/2014 14:02:35] Legal Fera has logged in.
+[25/08/2014 14:02:37] Legal Fera has logged out.
+[25/08/2014 14:02:38] Legal Fera has logged in.
+[25/08/2014 14:02:39] Legal Fera has logged out.
+[25/08/2014 14:02:41] Legal Fera has logged in.
+[25/08/2014 14:02:42] Legal Fera has logged out.
+[25/08/2014 14:02:43] Legal Fera has logged in.
+[25/08/2014 14:02:45] Legal Fera has logged out.
+[25/08/2014 14:02:54] Legal Fera has logged in.
+[25/08/2014 14:02:55] Legal Fera has logged out.
+[25/08/2014 14:03:05] Legal Fera has logged in.
+[25/08/2014 14:03:14] To De Boa has logged out.
+[25/08/2014 14:03:22] Data has logged in.
+[25/08/2014 14:03:23] Data has logged out.
+[25/08/2014 14:03:24] Foxter Fox has logged in.
+[25/08/2014 14:03:27] Mutuca has logged out.
+[25/08/2014 14:03:29] Mutuca has logged in.
+[25/08/2014 14:03:48] Menina Mal has logged in.
+[25/08/2014 14:03:59] Gotack has logged out.
+[25/08/2014 14:04:01] Gotack has logged in.
+[25/08/2014 14:04:12] Mata Pally has logged out.
+[25/08/2014 14:04:16] Mata Pally has logged in.
+[25/08/2014 14:04:17] Mata Pally has logged out.
+[25/08/2014 14:04:19] Mata Pally has logged in.
+[25/08/2014 14:04:20] Foxter Fox has logged out.
+[25/08/2014 14:04:20] Mata Pally has logged out.
+[25/08/2014 14:04:23] Mata Pally has logged in.
+[25/08/2014 14:04:25] Mata Pally has logged out.
+[25/08/2014 14:04:26] Mata Pally has logged in.
+[25/08/2014 14:04:28] Mata Pally has logged out.
+[25/08/2014 14:04:29] Account Manager has logged in.
+[25/08/2014 14:04:31] To De Boa has logged in.
+[25/08/2014 14:04:31] Account Manager has logged out.
+[25/08/2014 14:04:33] Account Manager has logged in.
+[25/08/2014 14:04:34] Account Manager has logged out.
+[25/08/2014 14:04:39] Mata Pally has logged in.
+[25/08/2014 14:04:40] Mata Pally has logged out.
+[25/08/2014 14:04:41] Mata Pally has logged in.
+[25/08/2014 14:04:42] Mata Pally has logged out.
+[25/08/2014 14:04:45] Mata Pally has logged in.
+[25/08/2014 14:04:55] Mutuca has logged out.
+[25/08/2014 14:04:56] Mutuca has logged in.
+[25/08/2014 14:05:26] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[25/08/2014 14:06:52] Knightzinho has logged out.
+[25/08/2014 14:06:54] Knightzinho has logged in.
+[25/08/2014 14:07:22] Knightzinho has logged out.
+[25/08/2014 14:07:24] Knightzinho has logged in.
+[25/08/2014 14:07:24] To De Boa has logged out.
+[25/08/2014 14:07:27] To De Boa has logged in.
+[25/08/2014 14:07:34] Knightzinho has logged out.
+[25/08/2014 14:07:57] To De Boa has logged out.
+[25/08/2014 14:07:59] To De Boa has logged in.
+[25/08/2014 14:08:00] Palazinho has logged in.
+[25/08/2014 14:08:39] To De Boa has logged out.
+[25/08/2014 14:08:41] To De Boa has logged in.
+[25/08/2014 14:09:09] Palazinho has logged out.
+[25/08/2014 14:09:10] 
+[25/08/2014 14:09:10] Lua Script Error: [CreatureScript Interface] 
+[25/08/2014 14:09:10] data/creaturescripts/scripts/playerdeath.lua:onDeath
+[25/08/2014 14:09:10] 
+[25/08/2014 14:09:10] luaGetCreatureName(). Creature not found
+[25/08/2014 14:09:10] Menino Mal has logged out.
+[25/08/2014 14:09:12] Palazinho has logged in.
+[25/08/2014 14:09:12] Menino Mal has logged in.
+[25/08/2014 14:10:43] To De Boa has logged out.
+[25/08/2014 14:10:45] Tlx Do Bagui has logged in.
+[25/08/2014 14:10:56] Meele Pally has logged out.
+[25/08/2014 14:10:58] Meele Pally has logged in.
+[25/08/2014 14:11:43] Yakuza has logged out.
+[25/08/2014 14:11:45] Yakuza has logged in.
+[25/08/2014 14:12:01] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 14:12:05] > Saving server...
+[25/08/2014 14:12:08] > SAVE: Complete in 2.98 seconds using relational house storage.
+[25/08/2014 14:12:09] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[25/08/2014 14:12:32] > CLEAN: Removed 1652 items from 1132 tiles in 0.187 seconds.
+[25/08/2014 14:12:32] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 14:13:10] Meele Pally has logged out.
+[25/08/2014 14:13:12] Meele Pally has logged in.
+[25/08/2014 14:13:31] Menino Mal has logged out.
+[25/08/2014 14:13:54] Yakuza has logged out.
+[25/08/2014 14:13:55] Yakuza has logged in.
+[25/08/2014 14:14:55] Mata Pally has logged out.
+[25/08/2014 14:14:57] Mata Pally has logged in.
+[25/08/2014 14:14:58] Mata Pally has logged out.
+[25/08/2014 14:14:59] Mata Pally has logged in.
+[25/08/2014 14:15:00] Mata Pally has logged out.
+[25/08/2014 14:15:02] Mata Pally has logged in.
+[25/08/2014 14:15:03] Mata Pally has logged out.
+[25/08/2014 14:15:05] Menino Mal has logged in.
+[25/08/2014 14:15:05] Gotack has logged out.
+[25/08/2014 14:15:07] Mata Pally has logged in.
+[25/08/2014 14:15:07] Gotack has logged in.
+[25/08/2014 14:15:08] Mata Pally has logged out.
+[25/08/2014 14:15:14] Mata Pally has logged in.
+[25/08/2014 14:15:15] Mata Pally has logged out.
+[25/08/2014 14:15:22] Mata Pally has logged in.
+[25/08/2014 14:15:27] Menino Mal has logged out.
+[25/08/2014 14:15:29] Menino Mal has logged in.
+[25/08/2014 14:15:58] Tlx Do Bagui has logged out.
+[25/08/2014 14:16:00] Tlx Do Bagui has logged in.
+[25/08/2014 14:16:35] Tlx Do Bagui has logged out.
+[25/08/2014 14:16:36] To De Boa has logged in.
+[25/08/2014 14:18:50] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[25/08/2014 14:19:39] To De Boa has logged out.
+[25/08/2014 14:19:41] To De Boa has logged in.
+[25/08/2014 14:19:44] Yakuza has logged out.
+[25/08/2014 14:19:45] Yakuza has logged in.
+[25/08/2014 14:19:51] Menino Mal has logged out.
+[25/08/2014 14:19:53] Menino Mal has logged in.
+[25/08/2014 14:20:26] Meele Pally has logged out.
+[25/08/2014 14:20:26] Palazinho has logged out.
+[25/08/2014 14:20:27] Meele Pally has logged in.
+[25/08/2014 14:20:28] Palazinho has logged in.
+[25/08/2014 14:20:39] To De Boa has logged out.
+[25/08/2014 14:20:40] Yakuza has logged out.
+[25/08/2014 14:20:40] 
+[25/08/2014 14:20:40] Lua Script Error: [Spell Interface] 
+[25/08/2014 14:20:40] in a timer event called from: 
+[25/08/2014 14:20:40] data/spells/scripts/anti-materia.lua:onCastSpell
+[25/08/2014 14:20:41] 
+[25/08/2014 14:20:41] luaDoCombat(). Creature not found
+[25/08/2014 14:20:41] 
+[25/08/2014 14:20:41] Lua Script Error: [Spell Interface] 
+[25/08/2014 14:20:41] in a timer event called from: 
+[25/08/2014 14:20:41] data/spells/scripts/anti-materia.lua:onCastSpell
+[25/08/2014 14:20:41] 
+[25/08/2014 14:20:41] luaDoCombat(). Creature not found
+[25/08/2014 14:20:41] 
+[25/08/2014 14:20:41] Lua Script Error: [Spell Interface] 
+[25/08/2014 14:20:41] in a timer event called from: 
+[25/08/2014 14:20:42] data/spells/scripts/anti-materia.lua:onCastSpell
+[25/08/2014 14:20:42] 
+[25/08/2014 14:20:42] luaDoCombat(). Creature not found
+[25/08/2014 14:20:42] 
+[25/08/2014 14:20:42] Lua Script Error: [Spell Interface] 
+[25/08/2014 14:20:42] in a timer event called from: 
+[25/08/2014 14:20:42] data/spells/scripts/anti-materia.lua:onCastSpell
+[25/08/2014 14:20:42] 
+[25/08/2014 14:20:42] luaDoCombat(). Creature not found
+[25/08/2014 14:20:42] 
+[25/08/2014 14:20:43] Lua Script Error: [Spell Interface] 
+[25/08/2014 14:20:43] in a timer event called from: 
+[25/08/2014 14:20:43] data/spells/scripts/anti-materia.lua:onCastSpell
+[25/08/2014 14:20:43] 
+[25/08/2014 14:20:43] luaDoCombat(). Creature not found
+[25/08/2014 14:20:43] 
+[25/08/2014 14:20:43] Lua Script Error: [Spell Interface] 
+[25/08/2014 14:20:43] in a timer event called from: 
+[25/08/2014 14:20:43] data/spells/scripts/anti-materia.lua:onCastSpell
+[25/08/2014 14:20:44] 
+[25/08/2014 14:20:44] luaDoCombat(). Creature not found
+[25/08/2014 14:20:44] To De Boa has logged in.
+[25/08/2014 14:20:45] Yakuza has logged in.
+[25/08/2014 14:21:23] Duff Maluko has logged out.
+[25/08/2014 14:21:26] Duff Maluko has logged in.
+[25/08/2014 14:22:23] To De Boa has logged out.
+[25/08/2014 14:22:25] To De Boa has logged in.
+[25/08/2014 14:24:35] Yakuza has logged out.
+[25/08/2014 14:24:36] Yakuza has logged in.
+[25/08/2014 14:25:31] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[25/08/2014 14:25:37] Duff Maluko has logged out.
+[25/08/2014 14:25:37] Yakuza has logged out.
+[25/08/2014 14:25:38] Duff Maluko has logged in.
+[25/08/2014 14:25:39] Yakuza has logged in.
+[25/08/2014 14:25:42] Gotack has logged out.
+[25/08/2014 14:25:43] Palazinho has logged out.
+[25/08/2014 14:25:44] Gotack has logged in.
+[25/08/2014 14:25:45] Palazinho has logged in.
+[25/08/2014 14:25:45] Gotack has logged out.
+[25/08/2014 14:25:46] Mutuca has logged out.
+[25/08/2014 14:26:00] Gotack has logged in.
+[25/08/2014 14:26:01] Gotack has logged out.
+[25/08/2014 14:26:03] Gotack has logged in.
+[25/08/2014 14:26:35] Yakuza has logged out.
+[25/08/2014 14:26:42] Yakuza has logged in.
+[25/08/2014 14:26:54] Yakuza has logged out.
+[25/08/2014 14:26:57] Yakuza has logged in.
+[25/08/2014 14:27:33] To De Boa has logged out.
+[25/08/2014 14:27:36] To De Boa has logged in.
+[25/08/2014 14:28:04] To De Boa has logged out.
+[25/08/2014 14:28:06] To De Boa has logged in.
+[25/08/2014 14:28:28] To De Boa has logged out.
+[25/08/2014 14:28:30] To De Boa has logged in.
+[25/08/2014 14:28:42] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 14:29:03] To De Boa has logged out.
+[25/08/2014 14:29:04] Yakuza has logged out.
+[25/08/2014 14:29:05] To De Boa has logged in.
+[25/08/2014 14:29:05] Yakuza has logged in.
+[25/08/2014 14:29:13] > CLEAN: Removed 128 items from 199 tiles in 0.171 seconds.
+[25/08/2014 14:29:13] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 14:30:46] Palazinho has logged out.
+[25/08/2014 14:30:47] Palazinho has logged in.
+[25/08/2014 14:32:12] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[25/08/2014 14:32:19] Palazinho has logged out.
+[25/08/2014 14:32:20] Palazinho has logged in.
+[25/08/2014 14:32:28] Yakuza has logged out.
+[25/08/2014 14:32:30] Yakuza has logged in.
+[25/08/2014 14:33:03] Yakuza has logged out.
+[25/08/2014 14:33:04] Yakuza has logged in.
+[25/08/2014 14:33:46] Gotack has logged out.
+[25/08/2014 14:33:48] Gotack has logged in.
+[25/08/2014 14:33:49] Gotack has logged out.
+[25/08/2014 14:33:56] Mata Pally has logged out.
+[25/08/2014 14:33:58] Gotack has logged in.
+[25/08/2014 14:34:02] Mata Pally has logged in.
+[25/08/2014 14:34:03] Mata Pally has logged out.
+[25/08/2014 14:34:06] Mata Pally has logged in.
+[25/08/2014 14:34:07] Mata Pally has logged out.
+[25/08/2014 14:34:33] Mata Pally has logged in.
+[25/08/2014 14:37:32] Palazinho has logged out.
+[25/08/2014 14:37:34] Palazinho has logged in.
+[25/08/2014 14:38:53] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[25/08/2014 14:39:03] Menina Mal has logged out.
+[25/08/2014 14:39:05] Menina Mal has logged in.
+[25/08/2014 14:39:12] Gotack has logged out.
+[25/08/2014 14:39:14] Gotack has logged in.
+[25/08/2014 14:39:15] Gotack has logged out.
+[25/08/2014 14:39:18] Palazinho has logged out.
+[25/08/2014 14:39:20] Palazinho has logged in.
+[25/08/2014 14:39:37] Palazinho has logged out.
+[25/08/2014 14:39:37] Gotack has logged in.
+[25/08/2014 14:40:04] Palazinho has logged in.
+[25/08/2014 14:40:34] To De Boa has logged out.
+[25/08/2014 14:40:36] To De Boa has logged in.
+[25/08/2014 14:41:42] Magezinho Sapeca has logged in.
+[25/08/2014 14:45:23] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 14:45:26] > Saving server...
+[25/08/2014 14:45:29] > SAVE: Complete in 2.886 seconds using relational house storage.
+[25/08/2014 14:45:34] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[25/08/2014 14:45:54] > CLEAN: Removed 1770 items from 1329 tiles in 0.202 seconds.
+[25/08/2014 14:45:54] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 14:46:45] Duff Maluko has logged out.
+[25/08/2014 14:46:47] Duff Maluko has logged in.
+[25/08/2014 14:46:51] Duff Maluko has logged out.
+[25/08/2014 14:47:03] Mata Pally has logged out.
+[25/08/2014 14:47:44] Mutuca has logged in.
+[25/08/2014 14:48:12] Mata Pally has logged in.
+[25/08/2014 14:50:24] Mutuca has logged out.
+[25/08/2014 14:50:48] Mutuca has logged in.
+[25/08/2014 14:51:00] Mutuca has logged out.
+[25/08/2014 14:51:01] Mutuca has logged in.
+[25/08/2014 14:51:05] Magezinho Sapeca has logged out.
+[25/08/2014 14:51:11] Knightzinho has logged in.
+[25/08/2014 14:51:12] Black Jose has logged in.
+[25/08/2014 14:51:59] Hegazy has logged out.
+[25/08/2014 14:52:15] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[25/08/2014 14:52:17] Black Jose has logged out.
+[25/08/2014 14:52:18] To De Boa has logged out.
+[25/08/2014 14:52:23] Black Jose has logged in.
+[25/08/2014 14:52:34] Black Jose has logged out.
+[25/08/2014 14:52:44] Legal Fera has logged out.
+[25/08/2014 14:53:20] Mata Pally has logged out.
+[25/08/2014 14:53:21] Mata Pally has logged in.
+[25/08/2014 14:56:55] Mata Pally has logged out.
+[25/08/2014 14:56:58] Mata Pally has logged in.
+[25/08/2014 14:58:56] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[25/08/2014 15:00:54] Mata Pally has logged out.
+[25/08/2014 15:00:55] Mata Pally has logged in.
+[25/08/2014 15:02:04] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 15:02:32] Sorczinho Sapeca has logged in.
+[25/08/2014 15:02:35] > CLEAN: Removed 8488 items from 3872 tiles in 0.25 seconds.
+[25/08/2014 15:02:35] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 15:04:12] Gotack has logged out.
+[25/08/2014 15:05:37] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[25/08/2014 15:08:27] Legal Fera has logged in.
+[25/08/2014 15:08:31] Menina Mal has logged out.
+[25/08/2014 15:08:33] Menina Mal has logged in.
+[25/08/2014 15:08:49] Yakuza has logged out.
+[25/08/2014 15:12:11] Hegazy has logged in.
+[25/08/2014 15:12:18] Palazinho has logged out.
+[25/08/2014 15:12:18] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[25/08/2014 15:12:19] Palazinho has logged in.
+[25/08/2014 15:12:33] Menino Mal has logged out.
+[25/08/2014 15:12:36] Menino Mal has logged in.
+[25/08/2014 15:14:32] Mata Pally has logged out.
+[25/08/2014 15:14:33] Mata Pally has logged in.
+[25/08/2014 15:15:47] Hegazy has logged out.
+[25/08/2014 15:15:55] Honda has logged in.
+[25/08/2014 15:18:45] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 15:18:47] > Saving server...
+[25/08/2014 15:18:50] > SAVE: Complete in 2.637 seconds using relational house storage.
+[25/08/2014 15:18:59] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[25/08/2014 15:19:08] Menina Mal has logged out.
+[25/08/2014 15:19:10] Menina Mal has logged in.
+[25/08/2014 15:19:15] > CLEAN: Removed 3710 items from 2159 tiles in 0.219 seconds.
+[25/08/2014 15:19:16] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 15:21:57] Mata Pally has logged out.
+[25/08/2014 15:21:58] Mata Pally has logged in.
+[25/08/2014 15:22:43] Honda has logged out.
+[25/08/2014 15:22:53] Hegazy has logged in.
+[25/08/2014 15:23:13] Palazinho has logged out.
+[25/08/2014 15:23:15] Palazinho has logged in.
+[25/08/2014 15:23:46] Mata Pally has logged out.
+[25/08/2014 15:23:48] Mata Pally has logged in.
+[25/08/2014 15:24:28] Tlx Do Bagui has logged in.
+[25/08/2014 15:24:35] Tlx Do Bagui has logged out.
+[25/08/2014 15:24:37] To De Boa has logged in.
+[25/08/2014 15:25:40] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[25/08/2014 15:26:15] Palazinho has logged out.
+[25/08/2014 15:26:16] Palazinho has logged in.
+[25/08/2014 15:27:35] To De Boa has logged out.
+[25/08/2014 15:27:36] To De Boa has logged in.
+[25/08/2014 15:30:52] Hegazy has logged out.
+[25/08/2014 15:30:55] Hegazy has logged in.
+[25/08/2014 15:31:04] Hegazy has logged out.
+[25/08/2014 15:31:14] Honda has logged in.
+[25/08/2014 15:31:39] Honda has logged out.
+[25/08/2014 15:31:48] Hegazy has logged in.
+[25/08/2014 15:32:21] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[25/08/2014 15:32:42] 
+[25/08/2014 15:32:42] Lua Script Error: [Action Interface] 
+[25/08/2014 15:32:42] data/actions/scripts/upgrade.lua:onUse
+[25/08/2014 15:32:43] 
+[25/08/2014 15:32:43] luaGetItemAttack(). Item not found
+[25/08/2014 15:32:43] 
+[25/08/2014 15:32:43] Lua Script Error: [Action Interface] 
+[25/08/2014 15:32:43] data/actions/scripts/upgrade.lua:onUse
+[25/08/2014 15:32:43] 
+[25/08/2014 15:32:43] data/actions/scripts/upgrade.lua:27: attempt to compare number with boolean
+[25/08/2014 15:32:43] stack traceback:
+[25/08/2014 15:32:43] 	data/actions/scripts/upgrade.lua:27: in function <data/actions/scripts/upgrade.lua:18>
+[25/08/2014 15:33:36] Menino Mal has logged out.
+[25/08/2014 15:33:55] Gotack has logged in.
+[25/08/2014 15:34:17] To De Boa has logged out.
+[25/08/2014 15:34:18] To De Boa has logged in.
+[25/08/2014 15:35:26] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 15:35:51] Sorczinho Sapeca has logged out.
+[25/08/2014 15:35:57] > CLEAN: Removed 4865 items from 1208 tiles in 0.202 seconds.
+[25/08/2014 15:35:57] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 15:36:56] Gotack has logged out.
+[25/08/2014 15:37:01] Gotack has logged in.
+[25/08/2014 15:38:38] Palazinho has logged out.
+[25/08/2014 15:38:40] Palazinho has logged in.
+[25/08/2014 15:39:02] > Broadcasted message: "Para ver as noticias fale !notice".
+[25/08/2014 15:40:37] Gotack has logged out.
+[25/08/2014 15:40:39] Gotack has logged in.
+[25/08/2014 15:41:59] Hegazy has logged out.
+[25/08/2014 15:42:08] Honda has logged in.
+[25/08/2014 15:42:09] Honda has logged out.
+[25/08/2014 15:42:14] Lallana has logged in.
+[25/08/2014 15:42:22] Lallana has logged out.
+[25/08/2014 15:42:23] Lallana has logged in.
+[25/08/2014 15:42:50] Legal Fera has logged out.
+[25/08/2014 15:43:06] Lallana has logged out.
+[25/08/2014 15:43:07] Lallana has logged in.
+[25/08/2014 15:43:19] Lallana has logged out.
+[25/08/2014 15:43:20] Lallana has logged in.
+[25/08/2014 15:43:31] Lallana has logged out.
+[25/08/2014 15:43:33] Lallana has logged in.
+[25/08/2014 15:43:49] Lallana has logged out.
+[25/08/2014 15:43:50] Lallana has logged in.
+[25/08/2014 15:44:05] Lallana has logged out.
+[25/08/2014 15:44:06] Lallana has logged in.
+[25/08/2014 15:44:10] Lallana has logged out.
+[25/08/2014 15:45:06] Palazinho has logged out.
+[25/08/2014 15:45:43] > Broadcasted message: "Para comprar bless digite !bless".
+[25/08/2014 15:46:01] Knightzinho has logged out.
+[25/08/2014 15:46:04] Palazinho has logged in.
+[25/08/2014 15:46:39] Knightzinho has logged in.
+[25/08/2014 15:51:53] Gotack has logged out.
+[25/08/2014 15:51:54] Gotack has logged in.
+[25/08/2014 15:52:07] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 15:52:08] > Saving server...
+[25/08/2014 15:52:11] > SAVE: Complete in 2.324 seconds using relational house storage.
+[25/08/2014 15:52:24] > Broadcasted message: "Para comprar bless digite !bless".
+[25/08/2014 15:52:28] Legal Fera has logged in.
+[25/08/2014 15:52:30] Mata Pally has logged out.
+[25/08/2014 15:52:38] > CLEAN: Removed 6091 items from 2929 tiles in 0.218 seconds.
+[25/08/2014 15:52:38] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 15:54:51] Menina Mal has logged out.
+[25/08/2014 15:54:53] Menina Mal has logged in.
+[25/08/2014 15:56:21] To De Boa has logged out.
+[25/08/2014 15:56:21] Gotack has logged out.
+[25/08/2014 15:56:23] Gotack has logged in.
+[25/08/2014 15:56:27] Palazinho has logged out.
+[25/08/2014 15:56:34] Palazinho has logged in.
+[25/08/2014 15:58:02] Palazinho has logged out.
+[25/08/2014 15:59:02] Boss-sykes has logged in.
+[25/08/2014 15:59:05] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[25/08/2014 15:59:42] Boss-sykes has logged out.
+[25/08/2014 16:00:02] The Lord Kina has logged in.
+[25/08/2014 16:00:47] Gotack has logged out.
+[25/08/2014 16:00:49] Gotack has logged in.
+[25/08/2014 16:05:21] Meele Pally has logged out.
+[25/08/2014 16:05:24] Meele Pally has logged in.
+[25/08/2014 16:05:46] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[25/08/2014 16:06:48] The Lord Kina has logged out.
+[25/08/2014 16:06:50] The Lord Kina has logged in.
+[25/08/2014 16:08:48] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 16:09:18] > CLEAN: Removed 3101 items from 2096 tiles in 0.203 seconds.
+[25/08/2014 16:09:18] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 16:09:24] Menino Mal has logged in.
+[25/08/2014 16:10:25] Gotack has logged out.
+[25/08/2014 16:10:27] Gotack has logged in.
+[25/08/2014 16:11:55] Gotack has logged out.
+[25/08/2014 16:11:57] Gotack has logged in.
+[25/08/2014 16:12:27] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[25/08/2014 16:12:41] Meele Pally has logged out.
+[25/08/2014 16:12:43] Meele Pally has logged in.
+[25/08/2014 16:14:44] Gotack has logged out.
+[25/08/2014 16:14:46] Gotack has logged in.
+[25/08/2014 16:16:54] Mutuca has logged out.
+[25/08/2014 16:16:55] Mutuca has logged in.
+[25/08/2014 16:17:13] The Lord Kina has logged out.
+[25/08/2014 16:17:15] The Lord Kina has logged in.
+[25/08/2014 16:18:03] Mutuca has logged out.
+[25/08/2014 16:18:04] Mutuca has logged in.
+[25/08/2014 16:18:26] Gotack has logged out.
+[25/08/2014 16:18:27] Gotack has logged in.
+[25/08/2014 16:19:08] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[25/08/2014 16:19:40] Mutuca has logged out.
+[25/08/2014 16:19:42] Mutuca has logged in.
+[25/08/2014 16:19:56] Mutuca has logged out.
+[25/08/2014 16:19:57] Mutuca has logged in.
+[25/08/2014 16:20:10] Knightzinho has logged out.
+[25/08/2014 16:20:16] Mata Pally has logged in.
+[25/08/2014 16:20:39] Mutuca has logged out.
+[25/08/2014 16:20:40] Mutuca has logged in.
+[25/08/2014 16:21:54] Gotack has logged out.
+[25/08/2014 16:21:56] Gotack has logged in.
+[25/08/2014 16:22:32] Gotack has logged out.
+[25/08/2014 16:22:33] Gotack has logged in.
+[25/08/2014 16:22:54] Gotack has logged out.
+[25/08/2014 16:24:09] Duff Maluko has logged in.
+[25/08/2014 16:24:11] Gotack has logged in.
+[25/08/2014 16:24:26] Duff Maluko has logged out.
+[25/08/2014 16:24:27] Duff Maluko has logged in.
+[25/08/2014 16:24:59] Duff Maluko has logged out.
+[25/08/2014 16:25:29] > Saving server...
+[25/08/2014 16:25:31] > SAVE: Complete in 2.371 seconds using relational house storage.
+[25/08/2014 16:25:31] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 16:25:49] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[25/08/2014 16:26:02] > CLEAN: Removed 930 items from 1099 tiles in 0.203 seconds.
+[25/08/2014 16:26:02] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 16:32:30] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[25/08/2014 16:38:31] Account Manager has logged in.
+[25/08/2014 16:38:48] Account Manager has logged out.
+[25/08/2014 16:39:12] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[25/08/2014 16:39:13] Account Manager has logged in.
+[25/08/2014 16:39:17] Mlk Piranha has logged in.
+[25/08/2014 16:39:22] Mlk Piranha has logged out.
+[25/08/2014 16:39:24] Yakuza has logged in.
+[25/08/2014 16:39:37] Account Manager has logged out.
+[25/08/2014 16:39:58] Voltei has logged in.
+[25/08/2014 16:40:39] Menina Mal has logged out.
+[25/08/2014 16:40:41] Menina Mal has logged in.
+[25/08/2014 16:40:42] Mutuca has logged out.
+[25/08/2014 16:40:44] Mutuca has logged in.
+[25/08/2014 16:40:51] Mutuca has logged out.
+[25/08/2014 16:42:12] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 16:42:41] Voltei has logged out.
+[25/08/2014 16:42:43] > CLEAN: Removed 8912 items from 2825 tiles in 0.234 seconds.
+[25/08/2014 16:42:43] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 16:42:43] Voltei has logged in.
+[25/08/2014 16:43:13] Legal Fera has logged out.
+[25/08/2014 16:43:29] Voltei has logged out.
+[25/08/2014 16:43:45] Menino Mal has logged out.
+[25/08/2014 16:45:14] Menino Mal has logged in.
+[25/08/2014 16:45:28] The Lord Kina has logged out.
+[25/08/2014 16:45:53] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[25/08/2014 16:46:53] Magezinho Sapeca has logged in.
+[25/08/2014 16:52:34] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[25/08/2014 16:56:27] To De Boa has logged in.
+[25/08/2014 16:57:23] To De Boa has logged out.
+[25/08/2014 16:57:24] To De Boa has logged in.
+[25/08/2014 16:58:47] To De Boa has logged out.
+[25/08/2014 16:58:50] > Saving server...
+[25/08/2014 16:58:53] > SAVE: Complete in 2.168 seconds using relational house storage.
+[25/08/2014 16:58:53] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 16:59:15] > Broadcasted message: "Para comprar bless digite !bless".
+[25/08/2014 16:59:23] > CLEAN: Removed 2940 items from 1879 tiles in 0.187 seconds.
+[25/08/2014 16:59:24] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 17:04:45] Magezinho Sapeca has logged out.
+[25/08/2014 17:05:08] Magezinho Sapeca has logged in.
+[25/08/2014 17:05:17] Gotack has logged out.
+[25/08/2014 17:05:22] Magezinho Sapeca has logged out.
+[25/08/2014 17:05:28] Knightzinho has logged in.
+[25/08/2014 17:05:56] > Broadcasted message: "Para comprar bless digite !bless".
+[25/08/2014 17:06:27] Gotack has logged in.
+[25/08/2014 17:08:22] Yakuza has logged out.
+[25/08/2014 17:12:37] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[25/08/2014 17:13:53] Account Manager has logged in.
+[25/08/2014 17:13:59] Account Manager has logged out.
+[25/08/2014 17:14:05] Sorczinho Sapeca has logged in.
+[25/08/2014 17:15:34] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 17:16:05] > CLEAN: Removed 3460 items from 1220 tiles in 0.188 seconds.
+[25/08/2014 17:16:05] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 17:16:24] Meele Pally has logged out.
+[25/08/2014 17:16:35] Sorczinho Sapeca has logged out.
+[25/08/2014 17:16:38] Blackgt has logged in.
+[25/08/2014 17:19:18] > Broadcasted message: "Para comprar bless digite !bless".
+[25/08/2014 17:20:41] Blackgt has logged out.
+[25/08/2014 17:20:56] Meele Pally has logged in.
+[25/08/2014 17:24:37] Gotack has logged out.
+[25/08/2014 17:25:00] Gotack has logged in.
+[25/08/2014 17:25:11] Gotack has logged out.
+[25/08/2014 17:25:25] Gotack has logged in.
+[25/08/2014 17:25:59] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[25/08/2014 17:32:11] > Saving server...
+[25/08/2014 17:32:13] > SAVE: Complete in 2.155 seconds using relational house storage.
+[25/08/2014 17:32:15] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 17:32:40] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[25/08/2014 17:32:45] > CLEAN: Removed 2645 items from 1200 tiles in 0.198 seconds.
+[25/08/2014 17:32:45] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 17:34:42] Meele Pally has logged out.
+[25/08/2014 17:34:44] Meele Pally has logged in.
+[25/08/2014 17:36:09] Gotack has logged out.
+[25/08/2014 17:36:11] Gotack has logged in.
+[25/08/2014 17:37:00] Meele Pally has logged out.
+[25/08/2014 17:37:01] Meele Pally has logged in.
+[25/08/2014 17:38:59] Mata Pally has logged out.
+[25/08/2014 17:39:21] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[25/08/2014 17:41:04] Menina Mal has logged out.
+[25/08/2014 17:41:06] Menina Mal has logged in.
+[25/08/2014 17:41:54] Meele Pally has logged out.
+[25/08/2014 17:41:56] Meele Pally has logged in.
+[25/08/2014 17:45:06] Voltei has logged in.
+[25/08/2014 17:46:02] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[25/08/2014 17:48:56] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 17:49:27] > CLEAN: Removed 1300 items from 921 tiles in 0.193 seconds.
+[25/08/2014 17:49:27] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 17:51:40] Gotack has logged out.
+[25/08/2014 17:51:44] Gotack has logged in.
+[25/08/2014 17:52:43] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[25/08/2014 17:52:45] Voltei has logged out.
+[25/08/2014 17:53:32] Gotack has logged out.
+[25/08/2014 17:55:11] Mata Pally has logged in.
+[25/08/2014 17:55:45] Gotack has logged in.
+[25/08/2014 17:56:09] Gotack has logged out.
+[25/08/2014 17:56:31] Gotack has logged in.
+[25/08/2014 17:56:46] Meele Pally has logged out.
+[25/08/2014 17:56:47] Meele Pally has logged in.
+[25/08/2014 17:56:54] Meele Pally has logged out.
+[25/08/2014 17:56:56] Meele Pally has logged in.
+[25/08/2014 17:56:57] Mata Pally has logged out.
+[25/08/2014 17:56:59] Mata Pally has logged in.
+[25/08/2014 17:57:19] Menina Mal has logged out.
+[25/08/2014 17:57:27] Knightzinho has logged out.
+[25/08/2014 17:57:29] Knightzinho has logged in.
+[25/08/2014 17:57:47] Yakuza has logged in.
+[25/08/2014 17:58:09] Knightzinho has logged out.
+[25/08/2014 17:59:24] > Broadcasted message: "Para comprar bless digite !bless".
+[25/08/2014 17:59:35] Palazinho has logged in.
+[25/08/2014 17:59:39] Palazinho has logged out.
+[25/08/2014 17:59:48] Knightzinho has logged in.
+[25/08/2014 18:02:24] Menino Mal has logged out.
+[25/08/2014 18:02:26] Menino Mal has logged in.
+[25/08/2014 18:03:23] Yakuza has logged out.
+[25/08/2014 18:03:26] Yakuza has logged in.
+[25/08/2014 18:05:11] Knightzinho has logged out.
+[25/08/2014 18:05:12] Knightzinho has logged in.
+[25/08/2014 18:05:32] > Saving server...
+[25/08/2014 18:05:34] > SAVE: Complete in 1.856 seconds using relational house storage.
+[25/08/2014 18:05:37] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 18:06:05] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[25/08/2014 18:06:07] > CLEAN: Removed 1336 items from 1436 tiles in 0.188 seconds.
+[25/08/2014 18:06:07] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 18:07:20] Meele Pally has logged out.
+[25/08/2014 18:07:22] Meele Pally has logged in.
+[25/08/2014 18:08:10] Garoto Nestle has logged in.
+[25/08/2014 18:08:24] Mata Pally has logged out.
+[25/08/2014 18:08:25] Mata Pally has logged in.
+[25/08/2014 18:08:52] Mata Pally has logged out.
+[25/08/2014 18:08:53] Mata Pally has logged in.
+[25/08/2014 18:09:08] Kinna Zikinha has logged in.
+[25/08/2014 18:09:47] Garoto Nestle has logged out.
+[25/08/2014 18:09:49] Garoto Nestle has logged in.
+[25/08/2014 18:10:21] Garoto Nestle has logged out.
+[25/08/2014 18:10:23] Garoto Nestle has logged in.
+[25/08/2014 18:11:00] Garoto Nestle has logged out.
+[25/08/2014 18:11:02] Garoto Nestle has logged in.
+[25/08/2014 18:11:32] Knightzinho has logged out.
+[25/08/2014 18:11:34] Knightzinho has logged in.
+[25/08/2014 18:12:17] Menino Mal has logged out.
+[25/08/2014 18:12:19] Menino Mal has logged in.
+[25/08/2014 18:12:46] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[25/08/2014 18:12:56] Knightzinho has logged out.
+[25/08/2014 18:12:57] Knightzinho has logged in.
+[25/08/2014 18:13:35] Menino Mal has logged out.
+[25/08/2014 18:13:39] Menino Mal has logged in.
+[25/08/2014 18:15:10] Knightzinho has logged out.
+[25/08/2014 18:15:12] Knightzinho has logged in.
+[25/08/2014 18:15:13] Mata Pally has logged out.
+[25/08/2014 18:15:14] Mata Pally has logged in.
+[25/08/2014 18:15:29] Mata Pally has logged out.
+[25/08/2014 18:15:31] Mata Pally has logged in.
+[25/08/2014 18:16:09] Yakuza has logged out.
+[25/08/2014 18:16:10] Yakuza has logged in.
+[25/08/2014 18:16:36] Knightzinho has logged out.
+[25/08/2014 18:16:37] Knightzinho has logged in.
+[25/08/2014 18:16:52] Knightzinho has logged out.
+[25/08/2014 18:16:53] Knightzinho has logged in.
+[25/08/2014 18:17:44] Mata Pally has logged out.
+[25/08/2014 18:17:45] Mata Pally has logged in.
+[25/08/2014 18:17:59] Garoto Nestle has logged out.
+[25/08/2014 18:18:04] Garoto Nestle has logged in.
+[25/08/2014 18:18:23] Yakuza has logged out.
+[25/08/2014 18:18:24] Yakuza has logged in.
+[25/08/2014 18:18:25] Menino Mal has logged out.
+[25/08/2014 18:18:26] Menino Mal has logged in.
+[25/08/2014 18:18:39] Knightzinho has logged out.
+[25/08/2014 18:18:43] Magezinho Sapeca has logged in.
+[25/08/2014 18:18:46] Magezinho Sapeca has logged out.
+[25/08/2014 18:18:52] Knightzinho has logged in.
+[25/08/2014 18:19:28] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[25/08/2014 18:19:54] Menino Mal has logged out.
+[25/08/2014 18:19:55] Menino Mal has logged in.
+[25/08/2014 18:20:00] Mata Pally has logged out.
+[25/08/2014 18:20:01] Mata Pally has logged in.
+[25/08/2014 18:20:40] Yakuza has logged out.
+[25/08/2014 18:20:42] Yakuza has logged in.
+[25/08/2014 18:21:52] Yakuza has logged out.
+[25/08/2014 18:21:52] 
+[25/08/2014 18:21:52] Lua Script Error: [Spell Interface] 
+[25/08/2014 18:21:52] in a timer event called from: 
+[25/08/2014 18:21:52] data/spells/scripts/anti-materia.lua:onCastSpell
+[25/08/2014 18:21:53] 
+[25/08/2014 18:21:53] luaDoCombat(). Creature not found
+[25/08/2014 18:21:53] 
+[25/08/2014 18:21:53] Lua Script Error: [Spell Interface] 
+[25/08/2014 18:21:53] in a timer event called from: 
+[25/08/2014 18:21:53] data/spells/scripts/anti-materia.lua:onCastSpell
+[25/08/2014 18:21:53] 
+[25/08/2014 18:21:53] luaDoCombat(). Creature not found
+[25/08/2014 18:21:53] 
+[25/08/2014 18:21:53] Lua Script Error: [Spell Interface] 
+[25/08/2014 18:21:54] in a timer event called from: 
+[25/08/2014 18:21:54] data/spells/scripts/anti-materia.lua:onCastSpell
+[25/08/2014 18:21:54] 
+[25/08/2014 18:21:54] luaDoCombat(). Creature not found
+[25/08/2014 18:21:54] 
+[25/08/2014 18:21:54] Lua Script Error: [Spell Interface] 
+[25/08/2014 18:21:54] in a timer event called from: 
+[25/08/2014 18:21:54] data/spells/scripts/anti-materia.lua:onCastSpell
+[25/08/2014 18:21:55] 
+[25/08/2014 18:21:55] luaDoCombat(). Creature not found
+[25/08/2014 18:21:55] 
+[25/08/2014 18:21:55] Lua Script Error: [Spell Interface] 
+[25/08/2014 18:21:55] in a timer event called from: 
+[25/08/2014 18:21:55] data/spells/scripts/anti-materia.lua:onCastSpell
+[25/08/2014 18:21:55] 
+[25/08/2014 18:21:55] luaDoCombat(). Creature not found
+[25/08/2014 18:21:55] 
+[25/08/2014 18:21:55] Lua Script Error: [Spell Interface] 
+[25/08/2014 18:21:56] in a timer event called from: 
+[25/08/2014 18:21:56] data/spells/scripts/anti-materia.lua:onCastSpell
+[25/08/2014 18:21:56] 
+[25/08/2014 18:21:56] luaDoCombat(). Creature not found
+[25/08/2014 18:21:57] Yakuza has logged in.
+[25/08/2014 18:22:18] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 18:22:26] Yakuza has logged out.
+[25/08/2014 18:22:35] Gotack has logged out.
+[25/08/2014 18:22:37] Black Jose has logged in.
+[25/08/2014 18:22:49] > CLEAN: Removed 3099 items from 1285 tiles in 0.203 seconds.
+[25/08/2014 18:22:49] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 18:23:02] Mata Pally has logged out.
+[25/08/2014 18:23:02] Black Jose has logged out.
+[25/08/2014 18:23:04] Black Jose has logged in.
+[25/08/2014 18:23:08] Black Jose has logged out.
+[25/08/2014 18:23:14] Yakuza has logged in.
+[25/08/2014 18:24:00] Garoto Nestle has logged out.
+[25/08/2014 18:24:02] Garoto Nestle has logged in.
+[25/08/2014 18:24:21] Meele Pally has logged out.
+[25/08/2014 18:24:23] Meele Pally has logged in.
+[25/08/2014 18:24:46] Garoto Nestle has logged out.
+[25/08/2014 18:24:48] Garoto Nestle has logged in.
+[25/08/2014 18:24:59] Yakuza has logged out.
+[25/08/2014 18:25:23] Yakuza has logged in.
+[25/08/2014 18:25:58] Garoto Nestle has logged out.
+[25/08/2014 18:26:02] Garoto Nestle has logged in.
+[25/08/2014 18:26:09] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[25/08/2014 18:26:54] Mata Pally has logged in.
+[25/08/2014 18:27:59] Mata Pally has logged out.
+[25/08/2014 18:29:24] Mata Pally has logged in.
+[25/08/2014 18:32:50] > Broadcasted message: "Para comprar bless digite !bless".
+[25/08/2014 18:33:12] Garoto Nestle has logged out.
+[25/08/2014 18:33:23] Garoto Nestle has logged in.
+[25/08/2014 18:33:34] Garoto Nestle has logged out.
+[25/08/2014 18:34:06] Garoto Nestle has logged in.
+[25/08/2014 18:34:15] Druidzerah Mythus has logged in.
+[25/08/2014 18:37:40] Garoto Nestle has logged out.
+[25/08/2014 18:38:07] Meele Pally has logged out.
+[25/08/2014 18:38:08] Meele Pally has logged in.
+[25/08/2014 18:38:53] > Saving server...
+[25/08/2014 18:38:55] > SAVE: Complete in 2.231 seconds using relational house storage.
+[25/08/2014 18:38:59] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 18:39:30] > CLEAN: Removed 5072 items from 3667 tiles in 0.234 seconds.
+[25/08/2014 18:39:30] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 18:39:31] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[25/08/2014 18:40:24] Hegazy has logged in.
+[25/08/2014 18:40:41] Hegazy has logged out.
+[25/08/2014 18:41:38] Hegazy has logged in.
+[25/08/2014 18:41:42] Hegazy has logged out.
+[25/08/2014 18:42:19] Hegazy has logged in.
+[25/08/2014 18:42:56] Hegazy has logged out.
+[25/08/2014 18:43:49] Hegazy has logged in.
+[25/08/2014 18:44:05] Meele Pally has logged out.
+[25/08/2014 18:44:06] Meele Pally has logged in.
+[25/08/2014 18:46:12] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[25/08/2014 18:47:32] Magezinho Sapeca has logged in.
+[25/08/2014 18:49:59] Mata Pally has logged out.
+[25/08/2014 18:50:51] Juninhosza has logged in.
+[25/08/2014 18:52:53] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[25/08/2014 18:53:14] Blackgt has logged in.
+[25/08/2014 18:53:50] Account Manager has logged in.
+[25/08/2014 18:53:53] Account Manager has logged out.
+[25/08/2014 18:53:54] Sorczinho Sapeca has logged in.
+[25/08/2014 18:54:51] Juninhosza has logged out.
+[25/08/2014 18:55:17] Kinna Zikinha has logged out.
+[25/08/2014 18:55:40] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 18:56:11] > CLEAN: Removed 9891 items from 3888 tiles in 0.594 seconds.
+[25/08/2014 18:56:11] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 18:56:32] Yakuza has logged out.
+[25/08/2014 18:56:57] Yakuza has logged in.
+[25/08/2014 18:57:17] Knightzinho has logged out.
+[25/08/2014 18:57:26] Menino Mal has logged out.
+[25/08/2014 18:58:28] Magezinho Sapeca has logged out.
+[25/08/2014 18:58:51] Menino Mal has logged in.
+[25/08/2014 18:59:34] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[25/08/2014 18:59:55] Juninhosza has logged in.
+[25/08/2014 18:59:57] Magezinho Sapeca has logged in.
+[25/08/2014 19:00:55] Juninhosza has logged out.
+[25/08/2014 19:01:18] Mata Pally has logged in.
+[25/08/2014 19:01:50] Yakuza has logged out.
+[25/08/2014 19:01:52] Yakuza has logged in.
+[25/08/2014 19:02:12] Blackgt has logged out.
+[25/08/2014 19:02:14] Blackgt has logged in.
+[25/08/2014 19:02:26] Blackgt has logged out.
+[25/08/2014 19:02:28] Blackgt has logged in.
+[25/08/2014 19:02:29] Yakuza has logged out.
+[25/08/2014 19:02:30] Yakuza has logged in.
+[25/08/2014 19:03:25] Blackgt has logged out.
+[25/08/2014 19:03:27] Blackgt has logged in.
+[25/08/2014 19:05:21] Yakuza has logged out.
+[25/08/2014 19:05:27] Yakuza has logged in.
+[25/08/2014 19:06:15] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[25/08/2014 19:07:03] Menino Mal has logged out.
+[25/08/2014 19:07:06] Menino Mal has logged in.
+[25/08/2014 19:08:28] Meele Pally has logged out.
+[25/08/2014 19:08:43] Blackgt has logged out.
+[25/08/2014 19:08:45] Sorczinho Sapeca has logged out.
+[25/08/2014 19:08:46] Blackgt has logged in.
+[25/08/2014 19:08:51] Sorczinho Sapeca has logged in.
+[25/08/2014 19:09:28] Blackgt has logged out.
+[25/08/2014 19:09:31] Blackgt has logged in.
+[25/08/2014 19:09:41] Mata Pally has logged out.
+[25/08/2014 19:09:43] Mata Pally has logged in.
+[25/08/2014 19:10:16] Blackgt has logged out.
+[25/08/2014 19:10:18] Blackgt has logged in.
+[25/08/2014 19:10:36] Blackgt has logged out.
+[25/08/2014 19:10:39] Blackgt has logged in.
+[25/08/2014 19:10:53] Blackgt has logged out.
+[25/08/2014 19:10:56] Blackgt has logged in.
+[25/08/2014 19:11:20] Blackgt has logged out.
+[25/08/2014 19:11:21] Blackgt has logged in.
+[25/08/2014 19:11:33] Blackgt has logged out.
+[25/08/2014 19:11:34] Blackgt has logged in.
+[25/08/2014 19:11:52] Blackgt has logged out.
+[25/08/2014 19:11:54] Blackgt has logged in.
+[25/08/2014 19:12:14] > Saving server...
+[25/08/2014 19:12:17] > SAVE: Complete in 2.263 seconds using relational house storage.
+[25/08/2014 19:12:21] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 19:12:37] Blackgt has logged out.
+[25/08/2014 19:12:39] Blackgt has logged in.
+[25/08/2014 19:12:51] > CLEAN: Removed 2686 items from 1461 tiles in 0.287 seconds.
+[25/08/2014 19:12:52] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 19:12:56] > Broadcasted message: "Para ver as noticias fale !notice".
+[25/08/2014 19:13:23] Blackgt has logged out.
+[25/08/2014 19:13:24] Blackgt has logged in.
+[25/08/2014 19:13:37] Blackgt has logged out.
+[25/08/2014 19:13:39] Blackgt has logged in.
+[25/08/2014 19:13:41] Marina has logged in.
+[25/08/2014 19:14:30] Blackgt has logged out.
+[25/08/2014 19:14:31] Blackgt has logged in.
+[25/08/2014 19:16:08] Blackgt has logged out.
+[25/08/2014 19:16:10] Blackgt has logged in.
+[25/08/2014 19:17:15] Blackgt has logged out.
+[25/08/2014 19:17:16] Blackgt has logged in.
+[25/08/2014 19:17:37] Blackgt has logged out.
+[25/08/2014 19:17:38] Blackgt has logged in.
+[25/08/2014 19:17:39] Marina has logged out.
+[25/08/2014 19:17:41] Marina has logged in.
+[25/08/2014 19:18:42] Mata Pally has logged out.
+[25/08/2014 19:18:43] Mata Pally has logged in.
+[25/08/2014 19:19:37] > Broadcasted message: "Para comprar bless digite !bless".
+[25/08/2014 19:23:23] Blackgt has logged out.
+[25/08/2014 19:23:25] Blackgt has logged in.
+[25/08/2014 19:24:00] Marina has logged out.
+[25/08/2014 19:24:01] Marina has logged in.
+[25/08/2014 19:24:41] Marina has logged out.
+[25/08/2014 19:24:42] Marina has logged in.
+[25/08/2014 19:26:18] > Broadcasted message: "Para ver as noticias fale !notice".
+[25/08/2014 19:27:43] Marina has logged out.
+[25/08/2014 19:27:45] Marina has logged in.
+[25/08/2014 19:29:02] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 19:29:26] Mata Pally has logged out.
+[25/08/2014 19:29:27] Blackgt has logged out.
+[25/08/2014 19:29:27] Mata Pally has logged in.
+[25/08/2014 19:29:29] Blackgt has logged in.
+[25/08/2014 19:29:32] > CLEAN: Removed 417 items from 764 tiles in 0.172 seconds.
+[25/08/2014 19:29:32] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 19:30:31] Blackgt has logged out.
+[25/08/2014 19:30:33] Blackgt has logged in.
+[25/08/2014 19:32:56] Hegazy has logged out.
+[25/08/2014 19:32:59] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[25/08/2014 19:33:45] Blackgt has logged out.
+[25/08/2014 19:33:47] Blackgt has logged in.
+[25/08/2014 19:33:57] Mata Pally has logged out.
+[25/08/2014 19:33:59] Mata Pally has logged in.
+[25/08/2014 19:35:04] Magezinho Sapeca has logged out.
+[25/08/2014 19:35:08] Palazinho has logged in.
+[25/08/2014 19:35:18] Palazinho has logged out.
+[25/08/2014 19:35:19] Palazinho has logged in.
+[25/08/2014 19:35:43] Palazinho has logged out.
+[25/08/2014 19:35:48] Magezinho Sapeca has logged in.
+[25/08/2014 19:37:07] Magezinho Sapeca has logged out.
+[25/08/2014 19:37:11] Palazinho has logged in.
+[25/08/2014 19:37:23] Druidzerah Mythus has logged out.
+[25/08/2014 19:37:33] Palazinho has logged out.
+[25/08/2014 19:37:34] Palazinho has logged in.
+[25/08/2014 19:37:51] Blackgt has logged out.
+[25/08/2014 19:37:53] Blackgt has logged in.
+[25/08/2014 19:38:31] Hegazy has logged in.
+[25/08/2014 19:38:47] Blackgt has logged out.
+[25/08/2014 19:38:49] Blackgt has logged in.
+[25/08/2014 19:39:04] Blackgt has logged out.
+[25/08/2014 19:39:05] Blackgt has logged in.
+[25/08/2014 19:39:40] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[25/08/2014 19:40:57] Blackgt has logged out.
+[25/08/2014 19:40:59] Blackgt has logged in.
+[25/08/2014 19:41:08] Blackgt has logged out.
+[25/08/2014 19:41:10] Blackgt has logged in.
+[25/08/2014 19:41:19] Blackgt has logged out.
+[25/08/2014 19:41:20] Blackgt has logged in.
+[25/08/2014 19:42:41] Marina has logged out.
+[25/08/2014 19:42:43] Marina has logged in.
+[25/08/2014 19:43:16] Blackgt has logged out.
+[25/08/2014 19:43:17] Blackgt has logged in.
+[25/08/2014 19:44:57] Marina has logged out.
+[25/08/2014 19:44:58] Marina has logged in.
+[25/08/2014 19:45:35] > Saving server...
+[25/08/2014 19:45:38] > SAVE: Complete in 2.277 seconds using relational house storage.
+[25/08/2014 19:45:43] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 19:46:09] Garoto Nestle has logged in.
+[25/08/2014 19:46:12] Menino Mal has logged out.
+[25/08/2014 19:46:12] 
+[25/08/2014 19:46:12] Lua Script Error: [Spell Interface] 
+[25/08/2014 19:46:12] in a timer event called from: 
+[25/08/2014 19:46:13] data/spells/scripts/anti-materia.lua:onCastSpell
+[25/08/2014 19:46:13] 
+[25/08/2014 19:46:13] luaDoCombat(). Creature not found
+[25/08/2014 19:46:13] 
+[25/08/2014 19:46:13] Lua Script Error: [Spell Interface] 
+[25/08/2014 19:46:13] in a timer event called from: 
+[25/08/2014 19:46:13] data/spells/scripts/anti-materia.lua:onCastSpell
+[25/08/2014 19:46:13] 
+[25/08/2014 19:46:13] luaDoCombat(). Creature not found
+[25/08/2014 19:46:14] 
+[25/08/2014 19:46:14] Lua Script Error: [Spell Interface] 
+[25/08/2014 19:46:14] in a timer event called from: 
+[25/08/2014 19:46:14] data/spells/scripts/anti-materia.lua:onCastSpell
+[25/08/2014 19:46:14] 
+[25/08/2014 19:46:14] luaDoCombat(). Creature not found
+[25/08/2014 19:46:14] 
+[25/08/2014 19:46:14] Lua Script Error: [Spell Interface] 
+[25/08/2014 19:46:14] in a timer event called from: 
+[25/08/2014 19:46:15] data/spells/scripts/anti-materia.lua:onCastSpell
+[25/08/2014 19:46:15] 
+[25/08/2014 19:46:15] luaDoCombat(). Creature not found
+[25/08/2014 19:46:15] 
+[25/08/2014 19:46:15] Lua Script Error: [Spell Interface] 
+[25/08/2014 19:46:15] in a timer event called from: 
+[25/08/2014 19:46:15] data/spells/scripts/anti-materia.lua:onCastSpell
+[25/08/2014 19:46:15] 
+[25/08/2014 19:46:15] luaDoCombat(). Creature not found
+[25/08/2014 19:46:16] 
+[25/08/2014 19:46:16] Lua Script Error: [Spell Interface] 
+[25/08/2014 19:46:16] in a timer event called from: 
+[25/08/2014 19:46:16] data/spells/scripts/anti-materia.lua:onCastSpell
+[25/08/2014 19:46:16] 
+[25/08/2014 19:46:16] luaDoCombat(). Creature not found
+[25/08/2014 19:46:16] > CLEAN: Removed 1338 items from 658 tiles in 0.188 seconds.
+[25/08/2014 19:46:17] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 19:46:18] Menino Mal has logged in.
+[25/08/2014 19:46:19] Menino Mal has logged out.
+[25/08/2014 19:46:21] > Broadcasted message: "Para comprar bless digite !bless".
+[25/08/2014 19:46:23] Menino Mal has logged in.
+[25/08/2014 19:48:08] Palazinho has logged out.
+[25/08/2014 19:48:09] Palazinho has logged in.
+[25/08/2014 19:48:10] Marina has logged out.
+[25/08/2014 19:48:12] Marina has logged in.
+[25/08/2014 19:48:25] Hegazy has logged out.
+[25/08/2014 19:48:26] Palazinho has logged out.
+[25/08/2014 19:48:27] Hegazy has logged in.
+[25/08/2014 19:48:28] Palazinho has logged in.
+[25/08/2014 19:49:07] Palazinho has logged out.
+[25/08/2014 19:49:08] Palazinho has logged in.
+[25/08/2014 19:49:27] Marina has logged out.
+[25/08/2014 19:49:47] Marina has logged in.
+[25/08/2014 19:50:03] Palazinho has logged out.
+[25/08/2014 19:50:05] Palazinho has logged in.
+[25/08/2014 19:50:28] Palazinho has logged out.
+[25/08/2014 19:50:29] Palazinho has logged in.
+[25/08/2014 19:50:52] Marina has logged out.
+[25/08/2014 19:50:53] Marina has logged in.
+[25/08/2014 19:51:25] Hegazy has logged out.
+[25/08/2014 19:51:26] Hegazy has logged in.
+[25/08/2014 19:52:20] Blackgt has logged out.
+[25/08/2014 19:52:21] Blackgt has logged in.
+[25/08/2014 19:52:57] Blackgt has logged out.
+[25/08/2014 19:52:58] Blackgt has logged in.
+[25/08/2014 19:53:02] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[25/08/2014 19:53:04] Hegazy has logged out.
+[25/08/2014 19:53:06] Hegazy has logged in.
+[25/08/2014 19:53:13] Blackgt has logged out.
+[25/08/2014 19:53:15] Blackgt has logged in.
+[25/08/2014 19:53:24] Blackgt has logged out.
+[25/08/2014 19:53:26] Blackgt has logged in.
+[25/08/2014 19:53:32] Marina has logged out.
+[25/08/2014 19:53:34] Marina has logged in.
+[25/08/2014 19:54:03] Mata Pally has logged out.
+[25/08/2014 19:54:05] Mata Pally has logged in.
+[25/08/2014 19:54:43] Blackgt has logged out.
+[25/08/2014 19:54:44] Blackgt has logged in.
+[25/08/2014 19:55:17] Blackgt has logged out.
+[25/08/2014 19:55:18] Blackgt has logged in.
+[25/08/2014 19:55:55] Blackgt has logged out.
+[25/08/2014 19:55:56] Blackgt has logged in.
+[25/08/2014 19:56:27] Blackgt has logged out.
+[25/08/2014 19:56:28] Blackgt has logged in.
+[25/08/2014 19:56:42] Blackgt has logged out.
+[25/08/2014 19:56:43] Blackgt has logged in.
+[25/08/2014 19:57:03] Mata Pally has logged out.
+[25/08/2014 19:57:04] Mata Pally has logged in.
+[25/08/2014 19:59:33] Hegazy has logged out.
+[25/08/2014 19:59:34] Blackgt has logged out.
+[25/08/2014 19:59:35] Blackgt has logged in.
+[25/08/2014 19:59:43] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[25/08/2014 19:59:48] Blackgt has logged out.
+[25/08/2014 19:59:50] Blackgt has logged in.
+[25/08/2014 20:00:06] Blackgt has logged out.
+[25/08/2014 20:00:07] Blackgt has logged in.
+[25/08/2014 20:00:22] Hegazy has logged in.
+[25/08/2014 20:00:28] Blackgt has logged out.
+[25/08/2014 20:00:30] Blackgt has logged in.
+[25/08/2014 20:00:40] Blackgt has logged out.
+[25/08/2014 20:00:41] Blackgt has logged in.
+[25/08/2014 20:01:31] Blackgt has logged out.
+[25/08/2014 20:02:05] Meele Pally has logged in.
+[25/08/2014 20:02:12] Palazinho has logged out.
+[25/08/2014 20:02:13] Palazinho has logged in.
+[25/08/2014 20:02:24] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 20:02:38] Duff Maluko has logged in.
+[25/08/2014 20:02:54] > CLEAN: Removed 32 items from 84 tiles in 0.181 seconds.
+[25/08/2014 20:02:55] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 20:06:12] Hegazy has logged out.
+[25/08/2014 20:06:13] Hegazy has logged in.
+[25/08/2014 20:06:24] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[25/08/2014 20:07:30] Hegazy has logged out.
+[25/08/2014 20:07:40] Honda has logged in.
+[25/08/2014 20:08:00] Honda has logged out.
+[25/08/2014 20:08:30] Mata Pally has logged out.
+[25/08/2014 20:08:47] Mata Pally has logged in.
+[25/08/2014 20:08:53] Honda has logged in.
+[25/08/2014 20:09:40] Honda has logged out.
+[25/08/2014 20:11:28] Honda has logged in.
+[25/08/2014 20:13:05] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[25/08/2014 20:14:18] Marina has logged out.
+[25/08/2014 20:15:16] Garoto Nestle has logged out.
+[25/08/2014 20:15:38] Palazinho has logged out.
+[25/08/2014 20:15:57] Menino Mal has logged out.
+[25/08/2014 20:16:20] Menino Mal has logged in.
+[25/08/2014 20:17:57] Juninhosza has logged in.
+[25/08/2014 20:18:22] Juninhosza has logged out.
+[25/08/2014 20:18:42] Juninhosza has logged in.
+[25/08/2014 20:18:56] > Saving server...
+[25/08/2014 20:18:59] > SAVE: Complete in 2.476 seconds using relational house storage.
+[25/08/2014 20:19:05] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 20:19:06] Juninhosza has logged out.
+[25/08/2014 20:19:12] Duff Maluko has logged out.
+[25/08/2014 20:19:16] Juninhosza has logged in.
+[25/08/2014 20:19:36] > CLEAN: Removed 2644 items from 2292 tiles in 0.201 seconds.
+[25/08/2014 20:19:36] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 20:19:46] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[25/08/2014 20:20:08] Druidzerah Mythus has logged in.
+[25/08/2014 20:21:53] Sorczinho Sapeca has logged out.
+[25/08/2014 20:22:02] Druidzerah Mythus has logged out.
+[25/08/2014 20:22:11] Hegazy has logged in.
+[25/08/2014 20:22:54] Palazinho has logged in.
+[25/08/2014 20:23:17] Palazinho has logged out.
+[25/08/2014 20:23:18] Palazinho has logged in.
+[25/08/2014 20:23:19] Palazinho has logged out.
+[25/08/2014 20:23:23] Knightzinho has logged in.
+[25/08/2014 20:24:18] Menino Mal has logged out.
+[25/08/2014 20:25:42] Honda has logged out.
+[25/08/2014 20:25:44] Honda has logged in.
+[25/08/2014 20:26:04] Mata Pally has logged out.
+[25/08/2014 20:26:08] Mata Pally has logged in.
+[25/08/2014 20:26:27] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[25/08/2014 20:29:26] Knightzinho has logged out.
+[25/08/2014 20:29:28] Knightzinho has logged in.
+[25/08/2014 20:29:31] Menino Mal has logged in.
+[25/08/2014 20:29:41] Hegazy has logged out.
+[25/08/2014 20:30:17] Knightzinho has logged out.
+[25/08/2014 20:30:20] Knightzinho has logged in.
+[25/08/2014 20:30:55] Duff Maluko has logged in.
+[25/08/2014 20:31:00] Hegazy has logged in.
+[25/08/2014 20:32:43] Mata Pally has logged out.
+[25/08/2014 20:32:45] Honda has logged out.
+[25/08/2014 20:32:45] Mata Pally has logged in.
+[25/08/2014 20:32:47] Honda has logged in.
+[25/08/2014 20:33:08] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[25/08/2014 20:33:35] Juninhosza has logged out.
+[25/08/2014 20:33:36] Juninhosza has logged in.
+[25/08/2014 20:33:41] Duff Maluko has logged out.
+[25/08/2014 20:34:05] Mata Pally has logged out.
+[25/08/2014 20:34:08] Mata Pally has logged in.
+[25/08/2014 20:34:40] Honda has logged out.
+[25/08/2014 20:34:42] Honda has logged in.
+[25/08/2014 20:35:03] Knightzinho has logged out.
+[25/08/2014 20:35:04] Knightzinho has logged in.
+[25/08/2014 20:35:07] Juninhosza has logged out.
+[25/08/2014 20:35:09] Juninhosza has logged in.
+[25/08/2014 20:35:46] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 20:35:48] Knightzinho has logged out.
+[25/08/2014 20:35:51] Knightzinho has logged in.
+[25/08/2014 20:35:52] Honda has logged out.
+[25/08/2014 20:35:54] Honda has logged in.
+[25/08/2014 20:36:16] > CLEAN: Removed 5836 items from 1640 tiles in 0.299 seconds.
+[25/08/2014 20:36:17] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 20:39:19] Knightzinho has logged out.
+[25/08/2014 20:39:21] Knightzinho has logged in.
+[25/08/2014 20:39:42] Mata Pally has logged out.
+[25/08/2014 20:39:43] Mata Pally has logged in.
+[25/08/2014 20:39:49] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[25/08/2014 20:40:10] Juninhosza has logged out.
+[25/08/2014 20:40:25] Juninhosza has logged in.
+[25/08/2014 20:41:15] Magezinho Sapeca has logged in.
+[25/08/2014 20:41:17] Mata Pally has logged out.
+[25/08/2014 20:41:19] Mata Pally has logged in.
+[25/08/2014 20:46:30] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[25/08/2014 20:51:20] Hegazy has logged out.
+[25/08/2014 20:52:17] > Saving server...
+[25/08/2014 20:52:20] > SAVE: Complete in 2.417 seconds using relational house storage.
+[25/08/2014 20:52:27] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 20:52:57] > CLEAN: Removed 4946 items from 1667 tiles in 0.346 seconds.
+[25/08/2014 20:52:58] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 20:53:07] Duff Maluko has logged in.
+[25/08/2014 20:53:11] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[25/08/2014 20:56:22] Menina Mal has logged in.
+[25/08/2014 20:57:21] Knightzinho has logged out.
+[25/08/2014 20:59:34] Juninhosza has logged out.
+[25/08/2014 20:59:43] Juninhosza has logged in.
+[25/08/2014 20:59:52] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[25/08/2014 21:02:18] Hegazy has logged in.
+[25/08/2014 21:02:37] Sorczinho Sapeca has logged in.
+[25/08/2014 21:02:56] Sorczinho Sapeca has logged out.
+[25/08/2014 21:03:01] Sorczinho Sapeca has logged in.
+[25/08/2014 21:04:34] Juninhosza has logged out.
+[25/08/2014 21:04:36] Juninhosza has logged in.
+[25/08/2014 21:05:51] Honda has logged out.
+[25/08/2014 21:05:53] Honda has logged in.
+[25/08/2014 21:06:33] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[25/08/2014 21:06:57] Mata Pally has logged out.
+[25/08/2014 21:06:59] Mata Pally has logged in.
+[25/08/2014 21:07:18] Juninhosza has logged out.
+[25/08/2014 21:07:20] Juninhosza has logged in.
+[25/08/2014 21:07:21] Duff Maluko has logged out.
+[25/08/2014 21:07:36] Hegazy has logged out.
+[25/08/2014 21:07:38] Hegazy has logged in.
+[25/08/2014 21:08:18] Honda has logged out.
+[25/08/2014 21:08:20] Honda has logged in.
+[25/08/2014 21:08:25] Yakuza has logged out.
+[25/08/2014 21:08:37] Mata Pally has logged out.
+[25/08/2014 21:08:39] Mata Pally has logged in.
+[25/08/2014 21:09:08] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 21:09:39] > CLEAN: Removed 227 items from 319 tiles in 0.188 seconds.
+[25/08/2014 21:09:39] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 21:11:00] Honda has logged out.
+[25/08/2014 21:12:40] Honda has logged in.
+[25/08/2014 21:13:14] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[25/08/2014 21:14:09] Honda has logged out.
+[25/08/2014 21:14:13] Honda has logged in.
+[25/08/2014 21:15:12] Mata Pally has logged out.
+[25/08/2014 21:15:14] Mata Pally has logged in.
+[25/08/2014 21:15:15] Mata Pally has logged out.
+[25/08/2014 21:15:27] Mata Pally has logged in.
+[25/08/2014 21:15:46] Hegazy has logged out.
+[25/08/2014 21:15:48] Hegazy has logged in.
+[25/08/2014 21:17:37] Mata Pally has logged out.
+[25/08/2014 21:17:39] Mata Pally has logged in.
+[25/08/2014 21:18:18] Mata Pally has logged out.
+[25/08/2014 21:18:20] Mata Pally has logged in.
+[25/08/2014 21:18:34] Menina Mal has logged out.
+[25/08/2014 21:18:39] Menina Mal has logged in.
+[25/08/2014 21:18:43] Honda has logged out.
+[25/08/2014 21:18:45] Honda has logged in.
+[25/08/2014 21:19:42] Yakuza has logged in.
+[25/08/2014 21:19:55] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[25/08/2014 21:20:12] Juninhosza has logged out.
+[25/08/2014 21:20:15] Juninhosza has logged in.
+[25/08/2014 21:20:32] Mata Pally has logged out.
+[25/08/2014 21:20:35] Mata Pally has logged in.
+[25/08/2014 21:21:22] Yakuza has logged out.
+[25/08/2014 21:21:45] Yakuza has logged in.
+[25/08/2014 21:21:58] Juninhosza has logged out.
+[25/08/2014 21:22:00] Juninhosza has logged in.
+[25/08/2014 21:22:43] Yakuza has logged out.
+[25/08/2014 21:22:45] Yakuza has logged in.
+[25/08/2014 21:23:05] Yakuza has logged out.
+[25/08/2014 21:23:07] Mata Pally has logged out.
+[25/08/2014 21:23:10] Mata Pally has logged in.
+[25/08/2014 21:23:23] Yakuza has logged in.
+[25/08/2014 21:23:32] Honda has logged out.
+[25/08/2014 21:23:34] Honda has logged in.
+[25/08/2014 21:23:44] Yakuza has logged out.
+[25/08/2014 21:24:04] Yakuza has logged in.
+[25/08/2014 21:25:38] > Saving server...
+[25/08/2014 21:25:46] > SAVE: Complete in 8.402 seconds using relational house storage.
+[25/08/2014 21:25:49] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 21:26:16] Juninhosza has logged out.
+[25/08/2014 21:26:18] Juninhosza has logged in.
+[25/08/2014 21:26:19] > CLEAN: Removed 220 items from 385 tiles in 0.24 seconds.
+[25/08/2014 21:26:19] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 21:26:36] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[25/08/2014 21:26:44] Mata Pally has logged out.
+[25/08/2014 21:26:46] Mata Pally has logged in.
+[25/08/2014 21:29:20] Hegazy has logged out.
+[25/08/2014 21:29:22] Hegazy has logged in.
+[25/08/2014 21:30:27] Mc Livinho has logged in.
+[25/08/2014 21:31:15] Meele Pally has logged out.
+[25/08/2014 21:32:56] Juninhosza has logged out.
+[25/08/2014 21:32:57] Hegazy has logged out.
+[25/08/2014 21:33:00] Hegazy has logged in.
+[25/08/2014 21:33:00] Juninhosza has logged in.
+[25/08/2014 21:33:17] > Broadcasted message: "Para ver as noticias fale !notice".
+[25/08/2014 21:33:24] Juninhosza has logged out.
+[25/08/2014 21:33:26] Juninhosza has logged in.
+[25/08/2014 21:33:54] Mata Pally has logged out.
+[25/08/2014 21:33:59] Mata Pally has logged in.
+[25/08/2014 21:34:03] Mata Pally has logged out.
+[25/08/2014 21:34:10] Mata Pally has logged in.
+[25/08/2014 21:34:11] Honda has logged out.
+[25/08/2014 21:34:14] Honda has logged in.
+[25/08/2014 21:34:20] Hegazy has logged out.
+[25/08/2014 21:34:28] Hegazy has logged in.
+[25/08/2014 21:34:30] Honda has logged out.
+[25/08/2014 21:34:37] Honda has logged in.
+[25/08/2014 21:34:47] Mc Livinho has logged out.
+[25/08/2014 21:34:49] Mc Livinho has logged in.
+[25/08/2014 21:34:54] Hegazy has logged out.
+[25/08/2014 21:34:56] Honda has logged out.
+[25/08/2014 21:34:57] Hegazy has logged in.
+[25/08/2014 21:34:59] Honda has logged in.
+[25/08/2014 21:35:08] Meele Pally has logged in.
+[25/08/2014 21:35:15] Mata Pally has logged out.
+[25/08/2014 21:35:19] Mata Pally has logged in.
+[25/08/2014 21:35:52] Juninhosza has logged out.
+[25/08/2014 21:35:54] Hegazy has logged out.
+[25/08/2014 21:35:56] Juninhosza has logged in.
+[25/08/2014 21:35:57] Hegazy has logged in.
+[25/08/2014 21:36:10] Mata Pally has logged out.
+[25/08/2014 21:36:15] Mata Pally has logged in.
+[25/08/2014 21:36:35] Juninhosza has logged out.
+[25/08/2014 21:36:38] Juninhosza has logged in.
+[25/08/2014 21:37:25] Honda has logged out.
+[25/08/2014 21:37:28] Honda has logged in.
+[25/08/2014 21:37:43] Menina Mal has logged out.
+[25/08/2014 21:37:46] Menina Mal has logged in.
+[25/08/2014 21:39:31] Juninhosza has logged out.
+[25/08/2014 21:39:33] Juninhosza has logged in.
+[25/08/2014 21:39:58] > Broadcasted message: "Novo CLIENTE = http://www.4shared.com/rar/Xvc96eOece/Death_PVP.html".
+[25/08/2014 21:40:41] Honda has logged out.
+[25/08/2014 21:40:43] Honda has logged in.
+[25/08/2014 21:41:11] Juninhosza has logged out.
+[25/08/2014 21:41:13] Juninhosza has logged in.
+[25/08/2014 21:41:29] Mata Pally has logged out.
+[25/08/2014 21:41:31] Mata Pally has logged in.
+[25/08/2014 21:41:40] Menino Mal has logged out.
+[25/08/2014 21:41:42] Menino Mal has logged in.
+[25/08/2014 21:42:08] Hegazy has logged out.
+[25/08/2014 21:42:09] Juninhosza has logged out.
+[25/08/2014 21:42:10] Hegazy has logged in.
+[25/08/2014 21:42:11] Juninhosza has logged in.
+[25/08/2014 21:42:30] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 21:43:00] > CLEAN: Removed 6752 items from 1851 tiles in 0.442 seconds.
+[25/08/2014 21:43:01] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 21:43:14] Honda has logged out.
+[25/08/2014 21:43:16] Honda has logged in.
+[25/08/2014 21:43:40] Yakuza has logged out.
+[25/08/2014 21:43:46] Yakuza has logged in.
+[25/08/2014 21:45:12] Hegazy has logged out.
+[25/08/2014 21:45:18] Druidzerah Mythus has logged in.
+[25/08/2014 21:46:39] > Broadcasted message: "Para ver as noticias fale !notice".
+[25/08/2014 21:46:51] Druidzerah Mythus has logged out.
+[25/08/2014 21:46:53] Druidzerah Mythus has logged in.
+[25/08/2014 21:48:06] Honda has logged out.
+[25/08/2014 21:48:44] Druidzerah Mythus has logged out.
+[25/08/2014 21:48:54] Honda has logged in.
+[25/08/2014 21:49:09] Druidzerah Mythus has logged in.
+[25/08/2014 21:51:25] Juninhosza has logged out.
+[25/08/2014 21:51:26] Magezinho Sapeca has logged out.
+[25/08/2014 21:51:26] Honda has logged out.
+[25/08/2014 21:51:27] Juninhosza has logged in.
+[25/08/2014 21:51:28] Magezinho Sapeca has logged in.
+[25/08/2014 21:51:29] Honda has logged in.
+[25/08/2014 21:51:49] Mc Livinho has logged out.
+[25/08/2014 21:51:51] Mc Livinho has logged in.
+[25/08/2014 21:52:39] Juninhosza has logged out.
+[25/08/2014 21:52:41] Juninhosza has logged in.
+[25/08/2014 21:53:20] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[25/08/2014 21:54:39] Mc Livinho has logged out.
+[25/08/2014 21:54:40] Mc Livinho has logged in.
+[25/08/2014 21:56:36] Yakuza has logged out.
+[25/08/2014 21:56:42] Yakuza has logged in.
+[25/08/2014 21:56:50] Magezinho Sapeca has logged out.
+[25/08/2014 21:58:12] Magezinho Sapeca has logged in.
+[25/08/2014 21:58:59] > Saving server...
+[25/08/2014 21:59:02] > SAVE: Complete in 3.061 seconds using relational house storage.
+[25/08/2014 21:59:11] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 21:59:42] > CLEAN: Removed 2729 items from 1992 tiles in 0.247 seconds.
+[25/08/2014 21:59:42] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 22:00:01] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[25/08/2014 22:00:29] Mata Pally has logged out.
+[25/08/2014 22:02:05] Account Manager has logged in.
+[25/08/2014 22:02:05] Account Manager has logged out.
+[25/08/2014 22:02:10] Arizinha Andrade has logged in.
+[25/08/2014 22:02:44] Mc Livinho has logged out.
+[25/08/2014 22:02:46] Mc Livinho has logged in.
+[25/08/2014 22:03:21] Mc Livinho has logged out.
+[25/08/2014 22:03:23] Mc Livinho has logged in.
+[25/08/2014 22:06:02] Meele Pally has logged out.
+[25/08/2014 22:06:42] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[25/08/2014 22:07:23] Juninhosza has logged out.
+[25/08/2014 22:07:25] Juninhosza has logged in.
+[25/08/2014 22:09:03] Honda has logged out.
+[25/08/2014 22:09:06] Honda has logged in.
+[25/08/2014 22:10:01] Duff Maluko has logged in.
+[25/08/2014 22:12:21] Mc Livinho has logged out.
+[25/08/2014 22:12:22] Mc Livinho has logged in.
+[25/08/2014 22:12:51] Mc Livinho has logged out.
+[25/08/2014 22:12:53] Mc Livinho has logged in.
+[25/08/2014 22:12:53] Druidzerah Mythus has logged out.
+[25/08/2014 22:13:06] Account Manager has logged in.
+[25/08/2014 22:13:15] Account Manager has logged out.
+[25/08/2014 22:13:23] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[25/08/2014 22:13:59] Juninhosza has logged out.
+[25/08/2014 22:14:06] Vo recupera has logged in.
+[25/08/2014 22:14:25] Druidzerah Mythus has logged in.
+[25/08/2014 22:15:29] Vo recupera has logged out.
+[25/08/2014 22:15:31] Vo recupera has logged in.
+[25/08/2014 22:15:52] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 22:16:23] > CLEAN: Removed 5038 items from 3553 tiles in 0.484 seconds.
+[25/08/2014 22:16:24] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 22:18:00] Sorczinho Sapeca has logged out.
+[25/08/2014 22:18:04] Vo recupera has logged out.
+[25/08/2014 22:19:08] Duff Maluko has logged out.
+[25/08/2014 22:19:29] Duff Maluko has logged in.
+[25/08/2014 22:19:31] Yakuza has logged out.
+[25/08/2014 22:19:55] Yakuza has logged in.
+[25/08/2014 22:20:04] > Broadcasted message: "Para comprar bless digite !bless".
+[25/08/2014 22:20:42] Menina Mal has logged out.
+[25/08/2014 22:22:02] Menina Mal has logged in.
+[25/08/2014 22:23:18] Eternal Ozzot has logged in.
+[25/08/2014 22:23:25] Kinna Zikinha has logged in.
+[25/08/2014 22:24:45] Jean has logged in.
+[25/08/2014 22:24:50] Meele Pally has logged in.
+[25/08/2014 22:25:15] Honda has logged out.
+[25/08/2014 22:26:12] Honda has logged in.
+[25/08/2014 22:26:45] > Broadcasted message: "Para comprar bless digite !bless".
+[25/08/2014 22:27:22] Yakuza has logged out.
+[25/08/2014 22:27:23] Yakuza has logged in.
+[25/08/2014 22:28:14] Druidzerah Mythus has logged out.
+[25/08/2014 22:28:16] Druidzerah Mythus has logged in.
+[25/08/2014 22:28:20] Menino Mal has logged out.
+[25/08/2014 22:28:38] Underdown has logged in.
+[25/08/2014 22:28:43] Mc Livinho has logged out.
+[25/08/2014 22:28:45] Mc Livinho has logged in.
+[25/08/2014 22:28:53] Menino Mal has logged in.
+[25/08/2014 22:29:17] Druidzerah Mythus has logged out.
+[25/08/2014 22:29:21] Arizinha Andrade has logged out.
+[25/08/2014 22:30:30] Druidzerah Mythus has logged in.
+[25/08/2014 22:31:02] Yakuza has logged out.
+[25/08/2014 22:31:02] > Saving server...
+[25/08/2014 22:31:05] > SAVE: Complete in 2.837 seconds using relational house storage.
+[25/08/2014 22:31:06] Jean has logged out.
+[25/08/2014 22:31:06] Yakuza has logged in.
+[25/08/2014 22:32:00] Underdown has logged out.
+[25/08/2014 22:32:02] Underdown has logged in.
+[25/08/2014 22:32:20] > Saving server...
+[25/08/2014 22:32:23] > SAVE: Complete in 2.848 seconds using relational house storage.
+[25/08/2014 22:32:33] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 22:32:40] Kinna Zikinha has logged out.
+[25/08/2014 22:32:46] Kinna Zikinha has logged in.
+[25/08/2014 22:33:03] > CLEAN: Removed 5029 items from 2513 tiles in 0.242 seconds.
+[25/08/2014 22:33:04] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 22:33:20] Eternal Ozzot has logged out.
+[25/08/2014 22:33:26] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[25/08/2014 22:34:39] Kinna Zikinha has logged out.
+[25/08/2014 22:36:57] Yakuza has logged out.
+[25/08/2014 22:36:58] Yakuza has logged in.
+[25/08/2014 22:39:09] Yakuza has logged out.
+[25/08/2014 22:39:10] Menino Mal has logged out.
+[25/08/2014 22:39:11] Underdown has logged out.
+[25/08/2014 22:39:11] Yakuza has logged in.
+[25/08/2014 22:39:12] Menino Mal has logged in.
+[25/08/2014 22:39:14] Underdown has logged in.
+[25/08/2014 22:39:17] Duff Maluko has logged out.
+[25/08/2014 22:40:07] > Broadcasted message: "Para esclarecer algumas duvidas digite !notice, para mais informacoes fale com um [CM]".
+[25/08/2014 22:40:44] Mc Livinho has logged out.
+[25/08/2014 22:40:46] Mc Livinho has logged in.
+[25/08/2014 22:41:41] Yakuza has logged out.
+[25/08/2014 22:41:42] Yakuza has logged in.
+[25/08/2014 22:42:48] Garoto Nestle has logged in.
+[25/08/2014 22:43:33] Meele Pally has logged out.
+[25/08/2014 22:43:36] Black Jose has logged in.
+[25/08/2014 22:43:49] Mc Livinho has logged out.
+[25/08/2014 22:43:51] Mc Livinho has logged in.
+[25/08/2014 22:43:53] Underdown has logged out.
+[25/08/2014 22:43:58] Underdown has logged in.
+[25/08/2014 22:44:15] Honda has logged out.
+[25/08/2014 22:44:30] Hegazy has logged in.
+[25/08/2014 22:44:31] Hegazy has logged out.
+[25/08/2014 22:44:36] Honda has logged in.
+[25/08/2014 22:45:51] Kaiozinho has logged in.
+[25/08/2014 22:46:09] Black Jose has logged out.
+[25/08/2014 22:46:21] Mc Livinho has logged out.
+[25/08/2014 22:46:23] Mc Livinho has logged in.
+[25/08/2014 22:46:48] > Broadcasted message: "Para comprar bless digite !bless".
+[25/08/2014 22:47:04] Mc Livinho has logged out.
+[25/08/2014 22:47:06] Mc Livinho has logged in.
+[25/08/2014 22:49:14] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 22:49:44] > CLEAN: Removed 6349 items from 2828 tiles in 0.244 seconds.
+[25/08/2014 22:49:44] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 22:49:50] Honda has logged out.
+[25/08/2014 22:50:01] Vo recupera has logged in.
+[25/08/2014 22:50:04] Underdown has logged out.
+[25/08/2014 22:50:08] Duff Maluko has logged in.
+[25/08/2014 22:50:09] Underdown has logged in.
+[25/08/2014 22:51:44] Vo recupera has logged out.
+[25/08/2014 22:51:48] Garoto Nestle has logged out.
+[25/08/2014 22:51:49] Mc Livinho has logged out.
+[25/08/2014 22:51:50] Mc Livinho has logged in.
+[25/08/2014 22:51:51] Garoto Nestle has logged in.
+[25/08/2014 22:52:05] Vo recupera has logged in.
+[25/08/2014 22:52:34] Underdown has logged out.
+[25/08/2014 22:52:35] Mc Livinho has logged out.
+[25/08/2014 22:52:36] Mc Livinho has logged in.
+[25/08/2014 22:52:43] Underdown has logged in.
+[25/08/2014 22:53:29] > Broadcasted message: "Para comprar bless digite !bless".
+[25/08/2014 22:53:30] Mc Livinho has logged out.
+[25/08/2014 22:53:32] Mc Livinho has logged in.
+[25/08/2014 22:53:42] Boss-sykes has logged in.
+[25/08/2014 22:54:06] Mc Livinho has logged out.
+[25/08/2014 22:54:07] Kaiozinho has logged out.
+[25/08/2014 22:54:08] Mc Livinho has logged in.
+[25/08/2014 22:54:09] Kaiozinho has logged in.
+[25/08/2014 22:54:43] Mc Livinho has logged out.
+[25/08/2014 22:54:44] Mc Livinho has logged in.
+[25/08/2014 22:55:03] Vo recupera has logged out.
+[25/08/2014 22:55:05] Vo recupera has logged in.
+[25/08/2014 22:55:09] Druidzerah Mythus has logged out.
+[25/08/2014 22:55:21] Mc Livinho has logged out.
+[25/08/2014 22:55:23] Mc Livinho has logged in.
+[25/08/2014 22:55:42] Mc Livinho has logged out.
+[25/08/2014 22:55:43] Kaiozinho has logged out.
+[25/08/2014 22:55:44] Mc Livinho has logged in.
+[25/08/2014 22:55:45] Kaiozinho has logged in.
+[25/08/2014 22:56:59] Duff Maluko has logged out.
+[25/08/2014 22:57:01] Boss-sykes has logged out.
+[25/08/2014 22:58:36] Druidzerah Mythus has logged in.
+[25/08/2014 22:59:55] Vo recupera has logged out.
+[25/08/2014 23:00:10] > Broadcasted message: "Sempre Ao Criar Uma Conta, Pegue A RK Dela No Account Manager Da Conta E Anote, Nunca Passe A Sua Senha Para Outras Pessoas, E Ao Entrar Em Outros OT´s Crie Contas Diferentes Para Não Sofrer HACKED, Não Me Responsabilizo Por Perdas, Obrigado".
+[25/08/2014 23:00:41] Garoto Nestle has logged out.
+[25/08/2014 23:00:44] Garoto Nestle has logged in.
+[25/08/2014 23:00:46] Hegazy has logged in.
+[25/08/2014 23:01:03] Menino Mal has logged out.
+[25/08/2014 23:01:50] Marina has logged in.
+[25/08/2014 23:02:17] Menino Mal has logged in.
+[25/08/2014 23:03:16] Druidzerah Mythus has logged out.
+[25/08/2014 23:03:25] Magezinho Sapeca has logged out.
+[25/08/2014 23:03:32] Magezinho Sapeca has logged in.
+[25/08/2014 23:04:01] Magezinho Sapeca has logged out.
+[25/08/2014 23:04:02] Kaiozinho has logged out.
+[25/08/2014 23:04:04] Kaiozinho has logged in.
+[25/08/2014 23:04:32] Kaiozinho has logged out.
+[25/08/2014 23:04:35] Kaiozinho has logged in.
+[25/08/2014 23:04:37] Magezinho Sapeca has logged in.
+[25/08/2014 23:05:09] Druidzerah Mythus has logged in.
+[25/08/2014 23:05:41] > Saving server...
+[25/08/2014 23:05:44] > SAVE: Complete in 2.752 seconds using relational house storage.
+[25/08/2014 23:05:55] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 23:06:26] > CLEAN: Removed 7978 items from 2551 tiles in 0.219 seconds.
+[25/08/2014 23:06:26] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 23:06:51] > Broadcasted message: "Para ver as noticias fale !notice".
+[25/08/2014 23:08:16] Yakuza has logged out.
+[25/08/2014 23:08:18] Yakuza has logged in.
+[25/08/2014 23:08:52] Druidzerah Mythus has logged out.
+[25/08/2014 23:10:06] Manager has logged in.
+[25/08/2014 23:10:08] Manager has logged out.
+[25/08/2014 23:10:34] Manager has logged in.
+[25/08/2014 23:10:36] Manager has logged out.
+[25/08/2014 23:10:51] Manager has logged in.
+[25/08/2014 23:12:05] Underdown has logged out.
+[25/08/2014 23:12:17] Druidzerah Mythus has logged in.
+[25/08/2014 23:13:32] > Broadcasted message: "Para comprar bless digite !bless".
+[25/08/2014 23:14:08] Account Manager has logged in.
+[25/08/2014 23:14:14] Account Manager has logged out.
+[25/08/2014 23:14:22] Sorczinho Sapeca has logged in.
+[25/08/2014 23:17:31] Manager has logged out.
+[25/08/2014 23:17:35] Manager has logged in.
+[25/08/2014 23:18:10] Kaiozinho has logged out.
+[25/08/2014 23:19:51] Menina Mal has logged out.
+[25/08/2014 23:19:53] Menina Mal has logged in.
+[25/08/2014 23:19:54] Kaiozinho has logged in.
+[25/08/2014 23:20:13] > Broadcasted message: "Para comprar bless digite !bless".
+[25/08/2014 23:21:32] Mc Livinho has logged out.
+[25/08/2014 23:21:35] Mc Livinho has logged in.
+[25/08/2014 23:22:36] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 23:23:07] > CLEAN: Removed 4647 items from 3992 tiles in 0.253 seconds.
+[25/08/2014 23:23:07] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 23:23:22] Menina Mal has logged out.
+[25/08/2014 23:23:25] Menina Mal has logged in.
+[25/08/2014 23:23:36] Sorczinho Sapeca has logged out.
+[25/08/2014 23:23:41] Sorczinho Sapeca has logged in.
+[25/08/2014 23:24:25] Marina has logged out.
+[25/08/2014 23:24:28] Marina has logged in.
+[25/08/2014 23:25:15] Marina has logged out.
+[25/08/2014 23:25:16] Marina has logged in.
+[25/08/2014 23:25:46] Mc Livinho has logged out.
+[25/08/2014 23:25:48] Mc Livinho has logged in.
+[25/08/2014 23:26:54] > Broadcasted message: "Para comprar bless digite !bless".
+[25/08/2014 23:28:37] Marina has logged out.
+[25/08/2014 23:28:38] Marina has logged in.
+[25/08/2014 23:28:46] Menina Mal has logged out.
+[25/08/2014 23:28:49] Menina Mal has logged in.
+[25/08/2014 23:30:20] Marina has logged out.
+[25/08/2014 23:30:23] Marina has logged in.
+[25/08/2014 23:31:11] Mc Livinho has logged out.
+[25/08/2014 23:31:14] Mc Livinho has logged in.
+[25/08/2014 23:31:30] Mc Livinho has logged out.
+[25/08/2014 23:31:32] Mc Livinho has logged in.
+[25/08/2014 23:31:43] Mc Livinho has logged out.
+[25/08/2014 23:31:45] Mc Livinho has logged in.
+[25/08/2014 23:31:49] Kaiozinho has logged out.
+[25/08/2014 23:32:00] Palyy has logged in.
+[25/08/2014 23:32:44] Palyy has logged out.
+[25/08/2014 23:32:48] Palyy has logged in.
+[25/08/2014 23:33:07] Palyy has logged out.
+[25/08/2014 23:33:09] Palyy has logged in.
+[25/08/2014 23:33:29] Palyy has logged out.
+[25/08/2014 23:33:31] Palyy has logged in.
+[25/08/2014 23:33:35] > Broadcasted message: "Para duvidas, eventos, e futuramente compras E-mail/Msn -> deathpvp@live.com.".
+[25/08/2014 23:34:31] Palyy has logged out.
+[25/08/2014 23:34:33] Palyy has logged in.
+[25/08/2014 23:35:45] Hegazy has logged out.
+[25/08/2014 23:35:47] Hegazy has logged in.
+[25/08/2014 23:36:02] Mc Livinho has logged out.
+[25/08/2014 23:36:03] Mc Livinho has logged in.
+[25/08/2014 23:36:20] Manager has logged out.
+[25/08/2014 23:36:32] Palyy has logged out.
+[25/08/2014 23:36:38] Kaiozinho has logged in.
+[25/08/2014 23:39:02] > Saving server...
+[25/08/2014 23:39:05] > SAVE: Complete in 2.796 seconds using relational house storage.
+[25/08/2014 23:39:17] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 23:39:48] > CLEAN: Removed 2131 items from 1596 tiles in 0.217 seconds.
+[25/08/2014 23:39:48] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 23:40:16] > Broadcasted message: "Para ver a lista de proximos tutores digite !tutores.".
+[25/08/2014 23:42:26] Kaiozinho has logged out.
+[25/08/2014 23:42:28] Kaiozinho has logged in.
+[25/08/2014 23:43:44] Mc Livinho has logged out.
+[25/08/2014 23:43:45] Mc Livinho has logged in.
+[25/08/2014 23:44:28] Marina has logged out.
+[25/08/2014 23:44:52] Kaiozinho has logged out.
+[25/08/2014 23:44:53] Kaiozinho has logged in.
+[25/08/2014 23:45:38] Menina Mal has logged out.
+[25/08/2014 23:46:11] Menina Mal has logged in.
+[25/08/2014 23:46:57] > Broadcasted message: "Ot on das 07:00 as 00:00".
+[25/08/2014 23:48:57] Mc Livinho has logged out.
+[25/08/2014 23:49:02] Nois Que Voa Bruxao has logged in.
+[25/08/2014 23:49:12] Hegazy has logged out.
+[25/08/2014 23:49:35] Nois Que Voa Bruxao has logged out.
+[25/08/2014 23:49:44] Mc Livinho has logged in.
+[25/08/2014 23:53:05] Mc Livinho has logged out.
+[25/08/2014 23:53:07] Mc Livinho has logged in.
+[25/08/2014 23:53:38] > Broadcasted message: "Para comprar bless digite !bless".
+[25/08/2014 23:54:42] Menino Mal has logged out.
+[25/08/2014 23:55:43] Menina Mal has logged out.
+[25/08/2014 23:55:46] Menina Mal has logged in.
+[25/08/2014 23:55:58] > Broadcasted message: "Game map cleaning in 1 minute, please pick up all your items.".
+[25/08/2014 23:56:29] > CLEAN: Removed 66 items from 109 tiles in 0.184 seconds.
+[25/08/2014 23:56:29] > Broadcasted message: "Map Cleaned.".
+[25/08/2014 23:57:04] Kinna Zikinha has logged in.
+[25/08/2014 23:58:15] Menina Mal has logged out.
+[25/08/2014 23:58:55] Garoto Nestle has logged out.

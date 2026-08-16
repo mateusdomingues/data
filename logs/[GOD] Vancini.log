@@ -1,0 +1,46 @@
+[25/05/2011 10:50:10] /addskill Mateus,magic,80
+[25/05/2011 10:50:17] /addskill Mateus,magic,80
+[25/05/2011 10:50:24] /addskill Mateus,magic,80
+[25/05/2011 10:50:27] /goto Mateus
+[25/05/2011 10:50:32] /addskill Mateus,magic,80
+[25/05/2011 10:50:36] /addskill Mateus,magic,80
+[30/05/2011 11:32:51] /mc
+[30/05/2011 11:34:37] /t
+[30/05/2011 11:35:42] /i 10064
+[30/05/2011 11:35:55] /i 2296
+[30/05/2011 11:35:58] /i 2999
+[30/05/2011 11:36:01] /i 2299
+[30/05/2011 11:36:04] /r
+[30/05/2011 11:37:24] /c Apple
+[30/05/2011 11:46:08] /reload spells
+[30/05/2011 11:54:48] /reload spells
+[30/05/2011 11:54:54] /reload monste
+[30/05/2011 11:54:55] /reload monster
+[30/05/2011 11:56:07] /reload monster
+[30/05/2011 11:57:04] /reload monster
+[30/05/2011 11:57:48] /reload monster
+[30/05/2011 11:58:31] /reload monster
+[30/05/2011 11:59:37] /reload monster
+[30/05/2011 11:59:59] /reload monster
+[30/05/2011 12:00:43] /reload monster
+[30/05/2011 12:01:26] /goto Mateus Of Oz
+[30/05/2011 12:02:04] /reload monster
+[30/05/2011 12:02:09] /r
+[30/05/2011 12:02:10] /r
+[30/05/2011 12:02:11] /r
+[30/05/2011 12:03:25] /t
+[30/05/2011 12:10:46] /addskill Mateus Of Oz,level,60000
+[30/05/2011 12:11:03] /addskill Mateus Of Oz,level,10000
+[30/05/2011 12:19:17] /reload talkactions
+[30/05/2011 12:20:55] /reload talkactions
+[30/05/2011 12:22:03] /reload talkactions
+[30/05/2011 12:24:09] /reload talkactions
+[30/05/2011 12:25:32] /reload talkactions
+[30/05/2011 12:27:47] /reload talkactions
+[30/05/2011 12:30:01] /reload talkactions
+[30/05/2011 12:32:11] /reload talkactions
+[30/05/2011 12:33:18] /reload talkactions
+[30/05/2011 12:33:27] /m water serpent
+[30/05/2011 12:33:44] /r
+[30/05/2011 12:33:47] /r
+[30/05/2011 12:33:48] /r

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Slayer Seller" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="266" head="0" body="114" legs="94" feet="0" addons="3"/>
+<parameters>
+      <parameter key="module_travel" value="1"/>
+		<parameter key="message_greet" value="Blz |PLAYERNAME|. Eu te levo aonde voce pega a Second Promotion.Diga {Slayer Promotion}."/>
+        <parameter key="travel_destinations" value="slayer promotion,159,28,7,100"/>
+</parameters>
+</npc>

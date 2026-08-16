@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<monster name="Morte" nameDescription="Morte" experience="5000000" speed="99999" race="blood">
+  <health now="999999999" max="999999999"/>
+  <look type="300" corpse="3058"/>
+  <strategy attack="10000" defense="500"/>
+  <targetchange speed="10" chance="100"/>
+  <flags>
+    <flag pushable="0"/>
+    <flag staticattack="100"/>
+    <flag targetdistance="1"/>
+  </flags>
+  <attacks>
+    <attack name="Fire" interval="2500" chance="100" min="-800000" max="-1000000" range="1">
+    </attack>
+    <attack name="Gods Power" interval="3000" chance="50" min="-3000000" max="-3000000"/>
+    <attack name="physical" interval="800" chance="50" min="-1000000" max="-3000000"/>
+    <attack name="holy tiro" interval="2000" chance="100" min="-1500000" max="-2000000" range="1">
+      <attribute key="areaEffect" value="holy"/>
+      <attribute key="shootEffect" value="holy"/>
+    </attack>
+  </attacks>
+  <defenses armor="0" defense="0"> 
+  <defense name="healing" interval="9000" chance="100" min="9999999" max="9999999"/> 
+</defenses>
+  <immunities>
+    <immunity name="outfit"/>
+    <immunity name="invisible"/>
+    <immunity name="poison"/>
+  </immunities>
+  <loot>
+  </loot>
+</monster>
