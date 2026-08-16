@@ -3,7 +3,7 @@
 function onUse(cid, item, frompos, item2, topos)
 
 reqvoc = getPlayerVocation(cid)
-pos = getPlayerPosition(cid)
+pos = getCreaturePosition(cid)
 
 if item.actionid == [b][color="#FF8C00"]2502[/color][/b] then
 if reqvoc == [color="#0000FF"][b]4[/b][/color] or reqvoc == [color="#0000FF"][b]4[/b][/color] then

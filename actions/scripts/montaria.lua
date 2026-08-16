@@ -1,4 +1,4 @@
-local tempo = 98500 -- Tempo em segundos de duração
+local tempo = 98500 -- Tempo em segundos de duraï¿½ï¿½o
 
 local condition = createConditionObject(CONDITION_HASTE)
 setConditionParam(condition, CONDITION_PARAM_TICKS, tempo*1000)
@@ -11,7 +11,7 @@ mountvalue = 45045
 standardoutfit = { lookType = getPlayerStorageValue(cid, 3331), lookHead = getPlayerStorageValue(cid, 3332), lookBody = getPlayerStorageValue(cid, 3333), lookLegs = getPlayerStorageValue(cid, 3334), lookFeet = getPlayerStorageValue(cid, 3335), lookAddons = getPlayerStorageValue(cid, 3336)}
 dogoutfit = { lookType = 4, lookHead = 20, lookBody = 30, lookLegs = 40, lookFeet = 50, lookAddons = 0}
 
-playerpos = getPlayerPosition(cid)
+playerpos = getCreaturePosition(cid)
 pos1 = {x=playerpos.x+1, y=playerpos.y+1, z=playerpos.z}
 pos2 = {x=playerpos.x-1, y=playerpos.y-1, z=playerpos.z}
 pos3 = {x=playerpos.x-1, y=playerpos.y+1, z=playerpos.z}

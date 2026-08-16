@@ -11,7 +11,7 @@ function onUse(cid, item, frompos, item2, topos)
 -- End of editable Variabels
    
     emptyRoom = true
-    charPos = getPlayerPosition(cid)
+    charPos = getCreaturePosition(cid)
    
     if (item.actionid == aidNor) then
         if (charPos.y < frompos.y) then

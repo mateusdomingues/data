@@ -18,18 +18,18 @@ if(words == "!buyvip") then
         if string.find(tostring(getCreatureName(cid)), "%[EPIC%]") then 
             setPlayerStorageValue(cid, 13541, time) 
             doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Parabens, seu tempo VIP foi prolongado!")
-            doSendMagicEffect(getPlayerPosition(cid), 19)
+            doSendMagicEffect(getCreaturePosition(cid), 19)
         else 
             setPlayerStorageValue(cid, 13541, time) 
             local name = getCreatureName(cid) 
             doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Parabens, agora voce e um player VIP!")
             -- Corrigido para db.executeQuery (compatível com TFS 0.4)
             db.Query("UPDATE `players` SET `name` = '[EPIC] " .. db.escapeString(name) .. "' WHERE `id` = "..getPlayerGUID(cid)..";") 
-            doSendMagicEffect(getPlayerPosition(cid), 19)
+            doSendMagicEffect(getCreaturePosition(cid), 19)
         end 
     else 
         doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Voce nao tem a Holy Scarab para comprar VIP.") 
-        doSendMagicEffect(getPlayerPosition(cid), 2)
+        doSendMagicEffect(getCreaturePosition(cid), 2)
     end 
  
 elseif(words == "!vipdays") then 
@@ -93,7 +93,7 @@ elseif(words == "/delvip") then
         local dec = MESSAGE_INFO_DESCR 
         if(param == "") then return TRUE, doPlayerSendTextMessage(cid, 18, "Command param required.") end 
         local t = string.explode(param, ",") 
-        local cpos = getPlayerPosition(cid) 
+        local cpos = getCreaturePosition(cid) 
         local target = getPlayerByName(t[1]) 
         
         if not isPlayer(target) then

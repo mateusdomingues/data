@@ -7,7 +7,7 @@ function onUse(cid, item, frompos, item2, topos)
    portaaction = 4040 -- action id da porta
    if item2.actionid == portaaction and item2.itemid == porta then
 
-      pos = getPlayerPosition(cid)
+      pos = getCreaturePosition(cid)
 
          if pos.x == topos.x then
             if pos.y < topos.y then

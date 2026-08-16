@@ -51,7 +51,7 @@ end
 
 function onCastSpell(cid, var)
 
-doSendAnimatedText(getPlayerPosition(cid), "Dead!", TEXTCOLOR_BLUE)
+doSendAnimatedText(getCreaturePosition(cid), "Dead!", TEXTCOLOR_BLUE)
 local parameters = { cid = cid, var = var, combat1 = combat1, combat2 = combat2, combat3 = combat3, combat4 = combat4, combat5 = combat5 }
 addEvent(onCastSpell1, 100, parameters)
 addEvent(onCastSpell2, 500, parameters)

@@ -6,6 +6,6 @@ local bp = doPlayerAddItem(cid, 1988, 1)
 doCreatureSay(cid, "Voce comprou uma Backpack!", TALKTYPE_ORANGE_1)
 else
 doCreatureSay(cid, "You don't have enough money", TALKTYPE_ORANGE_1)
-doSendMagicEffect(getPlayerPosition(cid), CONST_ME_POFF)
+doSendMagicEffect(getCreaturePosition(cid), CONST_ME_POFF)
 end
 end

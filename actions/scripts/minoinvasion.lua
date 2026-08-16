@@ -1,7 +1,7 @@
 function onUse(cid, item, frompos, item2, topos)
 
 
-playerpos = getPlayerPosition(cid)
+playerpos = getCreaturePosition(cid)
 minoguard1pos = {x=103, y=31, z=7}
 minoguard2pos = {x=179, y=42, z=7}
 minoguard3pos = {x=136, y=42, z=7}

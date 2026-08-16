@@ -105,7 +105,7 @@ local function onCastSpell4(parameters)
     doCombat(parameters.cid, combat4, parameters.var)
 end
 function onCastSpell(cid, var)
-doSendAnimatedText(getPlayerPosition(cid), "Max Power", TEXTCOLOR_ORANGE)
+doSendAnimatedText(getCreaturePosition(cid), "Max Power", TEXTCOLOR_ORANGE)
 local parameters = { cid = cid, var = var}
 addEvent(onCastSpell1, 110, parameters)
 addEvent(onCastSpell2, 110, parameters)

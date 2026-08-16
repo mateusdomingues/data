@@ -5,7 +5,7 @@ water = 4608
 walkablewater = 4820
 ---Dont Edit from here onwards---
 
-player = getPlayerPosition(cid)
+player = getCreaturePosition(cid)
 floor = {x=player.x, y=player.y, z=player.z}
 getplayer = getThingfromPos(player)
 getfloor = getThingfromPos(floor)

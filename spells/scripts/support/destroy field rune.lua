@@ -1,7 +1,7 @@
 local function doRemoveField(cid, pos)
 	pos.stackpos = 254
 	local field = getThingfromPos(pos)
-	local playerPos = getPlayerPosition(cid)
+	local playerPos = getCreaturePosition(cid)
 
 	if(field.uid > 0 and isInArray(FIELDS, field.itemid) == TRUE) then
 		doRemoveItem(field.uid)
@@ -21,6 +21,6 @@ function onCastSpell(cid, var)
 	end
 
 	doPlayerSendDefaultCancel(cid, RETURNVALUE_NOTPOSSIBLE)
-	doSendMagicEffect(getPlayerPosition(cid), CONST_ME_POFF)
+	doSendMagicEffect(getCreaturePosition(cid), CONST_ME_POFF)
 	return LUA_ERROR
 end

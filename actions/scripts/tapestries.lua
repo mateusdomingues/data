@@ -9,7 +9,7 @@ wall2s1 = {x=pos.x, y=pos.y-1, z=pos.z, stackpos=2}
 getwall2 = getThingfromPos(wall2)
 getwall2s1 = getThingfromPos(wall2s1)
 
-player = getPlayerPosition(cid)
+player = getCreaturePosition(cid)
 
 
 if item.itemid == 1857 or item.itemid == 1860 or item.itemid == 1863 or item.itemid == 1866 or item.itemid == 1869 or item.itemid == 1872 or item.itemid == 1880 or item.itemid == 5616 then  --flat tapestry

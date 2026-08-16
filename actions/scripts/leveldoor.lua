@@ -6,7 +6,7 @@ function onUse(cid, item, frompos, item2, topos)
 
 	if reqlevel > 0 then
 		if getPlayerLevel(cid) >= reqlevel then
-			pos = getPlayerPosition(cid)
+			pos = getCreaturePosition(cid)
 
 			if pos.x == topos.x then
 				if pos.y < topos.y then

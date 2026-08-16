@@ -1,7 +1,7 @@
 function onUse(cid, item, frompos, item2, topos)
 
 
-playerpos = getPlayerPosition(cid)
+playerpos = getCreaturePosition(cid)
 orsh1pos = {x=236, y=80, z=7}
 demon2pos = {x=237, y=84, z=7}
 demon3pos = {x=228, y=87, z=7}

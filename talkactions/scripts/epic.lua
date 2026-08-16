@@ -18,17 +18,17 @@ if(words == "!buyepic") then
         if string.find(tostring(getCreatureName(cid)), "%[EPIC%]") then 
             setPlayerStorageValue(cid, 13540, time) 
             doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Parabens, seu tempo EPIC foi prolongado!")
-            doSendMagicEffect(getPlayerPosition(cid), 19)
+            doSendMagicEffect(getCreaturePosition(cid), 19)
         else 
             setPlayerStorageValue(cid, 13540, time) 
             local name = getCreatureName(cid) 
             doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Parabens, agora voce e um player EPIC!")
             db.Query("UPDATE `players` SET `name` = '[EPIC] " .. db.escapeString(name) .. "' WHERE `id` = "..getPlayerGUID(cid)..";") 
-            doSendMagicEffect(getPlayerPosition(cid), 19)
+            doSendMagicEffect(getCreaturePosition(cid), 19)
         end 
     else 
         doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Voce nao tem um Some Golden Fruits para comprar Epic.") 
-        doSendMagicEffect(getPlayerPosition(cid), 2)
+        doSendMagicEffect(getCreaturePosition(cid), 2)
     end 
  
 elseif(words == "!epicdays") then -- Sugiro mudar para !epicdays para nao conflitar com o de vip se usar ambos
@@ -92,7 +92,7 @@ elseif(words == "/delepas") then -- Ajuste opcional ou mantenha /delepas
         local dec = MESSAGE_INFO_DESCR 
         if(param == "") then return TRUE, doPlayerSendTextMessage(cid, 18, "Command param required.") end 
         local t = string.explode(param, ",") 
-        local cpos = getPlayerPosition(cid) 
+        local cpos = getCreaturePosition(cid) 
         local target = getPlayerByName(t[1]) 
         
         if not isPlayer(target) then

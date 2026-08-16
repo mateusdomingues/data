@@ -1,7 +1,7 @@
 function onUse(cid, item, frompos, item2, topos)
 	mag = getPlayerMagLevel(cid)
 	if mag >= 1 then
-		doSendAnimatedText(getPlayerPosition(cid), "Aaaah...", TEXTCOLOR_ORANGE)
+		doSendAnimatedText(getCreaturePosition(cid), "Aaaah...", TEXTCOLOR_ORANGE)
 		doCreatureAddMana(cid, math.random(250, 500))
 		doSendMagicEffect(topos, 1)
 

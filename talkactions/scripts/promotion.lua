@@ -5,12 +5,12 @@ function onSay(cid, words, param)
  
 		doPlayerSetVocation(cid,getPlayerVocation(cid)+4)
 		doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "You have been promoted!")
-		doSendMagicEffect(getPlayerPosition(cid), 30)
+		doSendMagicEffect(getCreaturePosition(cid), 30)
  
 			else
  
 		doPlayerSendCancel(cid, "Sorry, you don't have enought money")
-		doSendMagicEffect(getPlayerPosition(cid), CONST_ME_POFF)
+		doSendMagicEffect(getCreaturePosition(cid), CONST_ME_POFF)
  
 			end
 		else

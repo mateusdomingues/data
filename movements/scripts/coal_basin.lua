@@ -3,7 +3,7 @@ local COAL_BASIN_II = 1484
 
 function onStepIn(cid, item, pos)
 if isPlayer(cid) == 1 then
-playerPos = getPlayerPosition(cid)
+playerPos = getCreaturePosition(cid)
 tilepos1 = {x=playerPos.x+1, y=playerPos.y, z=playerPos.z, stackpos=1}
 tilepos2 = {x=playerPos.x-1, y=playerPos.y, z=playerPos.z, stackpos=1}
 tilepos3 = {x=playerPos.x, y=playerPos.y+1, z=playerPos.z, stackpos=1}

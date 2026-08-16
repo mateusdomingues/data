@@ -4,7 +4,7 @@ function onUse(cid, item, frompos, item2, topos)
 
 sorte = math.random(1,6)
 
-pos = getPlayerPosition(cid)
+pos = getCreaturePosition(cid)
 
 
 

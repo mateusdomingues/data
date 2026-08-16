@@ -18,17 +18,17 @@ if(words == "!buyshinigami") then
         if string.find(tostring(getCreatureName(cid)), "%[Shinigami%]") then 
             setPlayerStorageValue(cid, 13543, time) 
             doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Parabens, seu tempo Shinigami foi prolongado!")
-            doSendMagicEffect(getPlayerPosition(cid), 19)
+            doSendMagicEffect(getCreaturePosition(cid), 19)
         else 
             setPlayerStorageValue(cid, 13543, time) 
             local name = getCreatureName(cid) 
             doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Parabens, agora voce e um player Shinigami!")
             db.Query("UPDATE `players` SET `name` = '[Shinigami] " .. db.escapeString(name) .. "' WHERE `id` = "..getPlayerGUID(cid)..";") 
-            doSendMagicEffect(getPlayerPosition(cid), 19)
+            doSendMagicEffect(getCreaturePosition(cid), 19)
         end 
     else 
         doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Voce nao tem uma Foot of the Shinigami para virar Shinigami.") 
-        doSendMagicEffect(getPlayerPosition(cid), 2)
+        doSendMagicEffect(getCreaturePosition(cid), 2)
     end 
  
 elseif(words == "!shinigamidays") then 
@@ -92,7 +92,7 @@ elseif(words == "/delshinigami") then
         local dec = MESSAGE_INFO_DESCR 
         if(param == "") then return TRUE, doPlayerSendTextMessage(cid, 18, "Command param required.") end 
         local t = string.explode(param, ",") 
-        local cpos = getPlayerPosition(cid) 
+        local cpos = getCreaturePosition(cid) 
         local target = getPlayerByName(t[1]) 
         
         if not isPlayer(target) then

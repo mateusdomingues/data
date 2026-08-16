@@ -12,7 +12,7 @@ local function doTargetCorpse(cid, pos)
 		return true
 	end
 
-	doSendMagicEffect(getPlayerPosition(cid), CONST_ME_POFF)
+	doSendMagicEffect(getCreaturePosition(cid), CONST_ME_POFF)
 	doPlayerSendDefaultCancel(cid, RETURNVALUE_NOTPOSSIBLE)
 	return false
 end
@@ -23,7 +23,7 @@ function onCastSpell(cid, var)
 		return doTargetCorpse(cid, pos)
 	end
 
-	doSendMagicEffect(getPlayerPosition(cid), CONST_ME_POFF)
+	doSendMagicEffect(getCreaturePosition(cid), CONST_ME_POFF)
 	doPlayerSendDefaultCancel(cid, RETURNVALUE_NOTPOSSIBLE)
 	return false
 end

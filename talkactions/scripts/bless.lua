@@ -12,8 +12,8 @@ if(doPlayerRemoveMoney(cid, cost) == TRUE) then
 for i = 1, table.maxn(bless) do
 doPlayerAddBlessing(cid, bless[i])
 end
-doSendAnimatedText(getPlayerPosition(cid), "Blessed!", TEXTCOLOR_ORANGE)
-doSendMagicEffect(getPlayerPosition(cid), 13)
+doSendAnimatedText(getCreaturePosition(cid), "Blessed!", TEXTCOLOR_ORANGE)
+doSendMagicEffect(getCreaturePosition(cid), 13)
 else
 doPlayerSendCancel(cid, "You don\'t have enough money.")
 end

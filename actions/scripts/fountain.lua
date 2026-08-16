@@ -1,6 +1,6 @@
 function onUse(cid, item, frompos, item2, topos)
 
-efeito = getPlayerPosition(cid)
+efeito = getCreaturePosition(cid)
 
 if item.uid == 5739 then
 rand = math.random(1000,1200)

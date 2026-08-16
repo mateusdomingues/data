@@ -17,7 +17,7 @@ end
  
 if string.find(tostring(getCreatureName(cid)),"[[Vip]]") then 
 doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Parabens agora vocï¿½ agora ï¿½ um player vip.")
-doSendMagicEffect(getPlayerPosition(cid), 19)
+doSendMagicEffect(getCreaturePosition(cid), 19)
 setPlayerStorageValue(cid, 13542, time) 
 local quantity = math.floor((getPlayerStorageValue(cid, 13542) - timenow)/(24 * 60 * 60)) 
 doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Seu Epic ï¿½ Infito.") 
@@ -26,11 +26,11 @@ doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Parabens agora vocï¿½ agora ï¿
 local name = getCreatureName(cid) 
 db.Query("UPDATE `players` SET `name` = '" .. db.escapeString(name) .. "' WHERE `id` = "..getPlayerGUID(cid)..";") 
 end
-doSendMagicEffect(getPlayerPosition(cid), 19)
+doSendMagicEffect(getCreaturePosition(cid), 19)
 setPlayerStorageValue(cid, 13542, time)  
 else 
 doPlayerSendTextMessage(cid, MESSAGE_INFO_DESCR, "Voce nao tem a Paw Amulet para comprar RAIDS.") 
-doSendMagicEffect(getPlayerPosition(cid), 2)
+doSendMagicEffect(getCreaturePosition(cid), 2)
 end 
  
 elseif(words == "!vipdays") then 
@@ -94,7 +94,7 @@ if getPlayerAccess(cid) == 5 then
 local dec = MESSAGE_INFO_DESCR 
 if(param == "") then return TRUE,doPlayerSendTextMessage(cid,18,"Command param required.")end 
 local C,t = {},string.explode(param, ",") 
-C.pos = getPlayerPosition(cid) 
+C.pos = getCreaturePosition(cid) 
 C.uid = getCreatureByName(t[1]) 
 C.time = ((tonumber(t[2]) == nil) and 1 or tonumber(t[2]))*3600*24 --Tempo da epic por dia. 
 C.days = (tonumber(t[2]) == nil) and 1 or tonumber(t[2]) --Dias de epic. 

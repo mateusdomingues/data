@@ -1,7 +1,7 @@
 local ArrayRopeSpot = {384, 418, 8278}
 
 function onCastSpell(cid, var)
-	local pos = getPlayerPosition(cid)
+	local pos = getCreaturePosition(cid)
 	pos.stackpos = 0
 	local grounditem = getThingfromPos(pos)
 
